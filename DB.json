@@ -623,10 +623,19 @@
     },
     "7439532203": {
       "id": 7439532203,
+      "username": "arpan1807",
+      "fullName": "Arpan",
+      "points": 0,
+      "joinedAt": 1772177733420,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6191635812": {
+      "id": 6191635812,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772177733420,
+      "joinedAt": 1772177791327,
       "lastDaily": null,
       "isNewUser": true
     }
