@@ -596,12 +596,12 @@
     },
     "5713599829": {
       "id": 5713599829,
-      "username": "",
-      "fullName": "",
+      "username": "AKASHIX8",
+      "fullName": "𝐀𝐊𝐀𝐒𝐇 𝐈𝐗",
       "points": 0,
       "joinedAt": 1772176871795,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -640,6 +640,13 @@
       "price": 50000,
       "orderId": "BP7893476404MM4J6ZUGUJDV",
       "createdAt": 1772174925660
+    },
+    "BP5713599829MM4KCXPQQBQ0": {
+      "userId": 5713599829,
+      "points": 1000,
+      "price": 1000000,
+      "orderId": "BP5713599829MM4KCXPQQBQ0",
+      "createdAt": 1772176882459
     }
   }
 }
