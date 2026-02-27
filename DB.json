@@ -986,6 +986,15 @@
       "joinedAt": 1772197843841,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7517123128": {
+      "id": 7517123128,
+      "username": "endblay",
+      "fullName": "anomali",
+      "points": 0,
+      "joinedAt": 1772198294755,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
