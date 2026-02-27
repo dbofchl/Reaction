@@ -138,9 +138,18 @@
     "8429148426": {
       "id": 8429148426,
       "username": "",
-      "fullName": "",
+      "fullName": "whett",
       "points": 0,
       "joinedAt": 1772169166874,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8464142424": {
+      "id": 8464142424,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772169179630,
       "lastDaily": null,
       "isNewUser": true
     }
