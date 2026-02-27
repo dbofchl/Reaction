@@ -461,10 +461,19 @@
     },
     "8084918359": {
       "id": 8084918359,
+      "username": "ALKIRUADM2",
+      "fullName": "ALKIRU",
+      "points": 0,
+      "joinedAt": 1772172859693,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8392186491": {
+      "id": 8392186491,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772172859693,
+      "joinedAt": 1772172961929,
       "lastDaily": null,
       "isNewUser": true
     }
