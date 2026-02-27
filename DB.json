@@ -8,7 +8,17 @@
     }
   },
   "blockedChannels": [],
-  "users": {},
+  "users": {
+    "1368848281": {
+      "id": 1368848281,
+      "username": "psteamadmvip",
+      "fullName": "PSTeamAdm",
+      "points": 5,
+      "joinedAt": 1772165202475,
+      "lastDaily": null,
+      "isNewUser": false
+    }
+  },
   "admins": [
     1368848281
   ],
