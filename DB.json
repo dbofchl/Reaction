@@ -336,9 +336,18 @@
     "7013096277": {
       "id": 7013096277,
       "username": "",
-      "fullName": "",
+      "fullName": "MOHAN",
       "points": 0,
       "joinedAt": 1772170667155,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6402157505": {
+      "id": 6402157505,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772170675272,
       "lastDaily": null,
       "isNewUser": true
     }
