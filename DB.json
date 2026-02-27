@@ -434,12 +434,21 @@
     },
     "7660931409": {
       "id": 7660931409,
-      "username": "",
-      "fullName": "",
+      "username": "lenymlbb",
+      "fullName": "Leny Chαn",
       "points": 0,
       "joinedAt": 1772172183656,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7178628835": {
+      "id": 7178628835,
+      "username": "Luxsygaming1986",
+      "fullName": "Iqiy Only",
+      "points": 0,
+      "joinedAt": 1772172209282,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
