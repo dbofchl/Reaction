@@ -588,9 +588,18 @@
     "7590280453": {
       "id": 7590280453,
       "username": "",
-      "fullName": "",
+      "fullName": "Siam Khan",
       "points": 0,
       "joinedAt": 1772176355055,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5713599829": {
+      "id": 5713599829,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772176871795,
       "lastDaily": null,
       "isNewUser": true
     }
