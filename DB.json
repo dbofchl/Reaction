@@ -191,12 +191,12 @@
     },
     "7643841053": {
       "id": 7643841053,
-      "username": "",
-      "fullName": "",
+      "username": "sjsjsj877",
+      "fullName": "rafzz xx",
       "points": 0,
       "joinedAt": 1772169266995,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -214,13 +214,6 @@
       "price": 50000,
       "orderId": "BP1368848281MM4FF94MIOKQ",
       "createdAt": 1772168592659
-    },
-    "BP5761263831MM4FOQC8X7KW": {
-      "userId": 5761263831,
-      "points": 30,
-      "price": 50000,
-      "orderId": "BP5761263831MM4FOQC8X7KW",
-      "createdAt": 1772169034786
     }
   }
 }
