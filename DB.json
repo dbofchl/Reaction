@@ -794,12 +794,12 @@
     },
     "7401313723": {
       "id": 7401313723,
-      "username": "",
-      "fullName": "",
+      "username": "Legendprime7",
+      "fullName": "𝙇𝙀𝙂𝙀𝙉𝘿 ⚡",
       "points": 0,
       "joinedAt": 1772185572122,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -852,6 +852,13 @@
       "price": 50000,
       "orderId": "BP6703314721MM4M2Z0N5FR1",
       "createdAt": 1772179776962
+    },
+    "BP7401313723MM4PJL7DAJJX": {
+      "userId": 7401313723,
+      "points": 30,
+      "price": 50000,
+      "orderId": "BP7401313723MM4PJL7DAJJX",
+      "createdAt": 1772185590881
     }
   }
 }
