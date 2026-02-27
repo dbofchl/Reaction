@@ -851,6 +851,15 @@
       "joinedAt": 1772190151973,
       "lastDaily": "2026-02-27",
       "isNewUser": false
+    },
+    "8445032981": {
+      "id": 8445032981,
+      "username": "rhmaanikbal",
+      "fullName": "Ongky",
+      "points": 1,
+      "joinedAt": 1772190192349,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
