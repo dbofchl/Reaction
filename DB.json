@@ -611,6 +611,15 @@
       "joinedAt": 1772177360216,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8127800187": {
+      "id": 8127800187,
+      "username": "",
+      "fullName": "XRY SOUROV",
+      "points": 0,
+      "joinedAt": 1772177392599,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
