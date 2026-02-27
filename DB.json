@@ -776,12 +776,21 @@
     },
     "7605223818": {
       "id": 7605223818,
-      "username": "",
-      "fullName": "",
+      "username": "FEBXZY",
+      "fullName": "FEBXZY/ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧOᡃ⃝ 𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭",
       "points": 0,
       "joinedAt": 1772184794722,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6954597644": {
+      "id": 6954597644,
+      "username": "jonifan",
+      "fullName": "我是谁？",
+      "points": 0,
+      "joinedAt": 1772184891187,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
