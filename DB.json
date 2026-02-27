@@ -5,6 +5,12 @@
       "USERNAME": "psteamadm_official",
       "NAME_CHANNEL": "𝐏𝐒𝐓𝐞𝐚𝐦𝐀𝐝𝐦",
       "addedAt": 1772165192216
+    },
+    "-1003544304305": {
+      "ID_CHANNEL": -1003544304305,
+      "USERNAME": "Test",
+      "NAME_CHANNEL": "Test",
+      "addedAt": 1772187104471
     }
   },
   "blockedChannels": [],
