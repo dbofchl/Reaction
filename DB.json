@@ -815,6 +815,15 @@
       "joinedAt": 1772187018407,
       "lastDaily": null,
       "isNewUser": true
+    },
+    "7522831062": {
+      "id": 7522831062,
+      "username": "Yimbar",
+      "fullName": "Kiyamba",
+      "points": 1,
+      "joinedAt": 1772187469527,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
