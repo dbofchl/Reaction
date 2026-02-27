@@ -1073,12 +1073,21 @@
     },
     "6058878280": {
       "id": 6058878280,
-      "username": "",
-      "fullName": "",
+      "username": "AldyRorrr2",
+      "fullName": "Aldy [AKUN UTAMA LIMIT]",
       "points": 0,
       "joinedAt": 1772206175033,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7988289272": {
+      "id": 7988289272,
+      "username": "syahrulne",
+      "fullName": ".gg/syahrulexploid",
+      "points": 0,
+      "joinedAt": 1772206232240,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
