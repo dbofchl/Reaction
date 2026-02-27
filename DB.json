@@ -1178,6 +1178,15 @@
       "joinedAt": 1772223961773,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "7853045868": {
+      "id": 7853045868,
+      "username": "NanzAllRole",
+      "fullName": "nanao games",
+      "points": 0,
+      "joinedAt": 1772224332655,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
