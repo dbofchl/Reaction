@@ -1127,10 +1127,19 @@
     },
     "7635281029": {
       "id": 7635281029,
+      "username": "HANN9II",
+      "fullName": "Hann youer",
+      "points": 0,
+      "joinedAt": 1772211991781,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7417050802": {
+      "id": 7417050802,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772211991781,
+      "joinedAt": 1772212206974,
       "lastDaily": null,
       "isNewUser": true
     }
