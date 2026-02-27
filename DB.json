@@ -386,6 +386,15 @@
       "joinedAt": 1772171248263,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7211855170": {
+      "id": 7211855170,
+      "username": "zioostore1",
+      "fullName": "Zioo Store LIMIT",
+      "points": 0,
+      "joinedAt": 1772171532855,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
