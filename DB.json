@@ -962,12 +962,21 @@
     },
     "8421529700": {
       "id": 8421529700,
-      "username": "",
-      "fullName": "",
+      "username": "rickyzzzxit",
+      "fullName": "plenger",
       "points": 0,
       "joinedAt": 1772195456640,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7238835399": {
+      "id": 7238835399,
+      "username": "",
+      "fullName": "DARK WEB UNSEEN",
+      "points": 0,
+      "joinedAt": 1772196274729,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
