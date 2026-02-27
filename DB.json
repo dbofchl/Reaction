@@ -38,10 +38,19 @@
     },
     "7145874755": {
       "id": 7145874755,
+      "username": "jawww7",
+      "fullName": "jawww vs nogomet",
+      "points": 0,
+      "joinedAt": 1772168906993,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5935722836": {
+      "id": 5935722836,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772168906993,
+      "joinedAt": 1772168929767,
       "lastDaily": null,
       "isNewUser": true
     }
