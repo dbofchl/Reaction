@@ -873,9 +873,18 @@
     "6448948111": {
       "id": 6448948111,
       "username": "",
-      "fullName": "",
+      "fullName": "zzz",
       "points": 0,
       "joinedAt": 1772191079403,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7756473032": {
+      "id": 7756473032,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772191282474,
       "lastDaily": null,
       "isNewUser": true
     }
