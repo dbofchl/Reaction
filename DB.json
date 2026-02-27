@@ -1142,6 +1142,15 @@
       "joinedAt": 1772212206974,
       "lastDaily": null,
       "isNewUser": true
+    },
+    "6620239873": {
+      "id": 6620239873,
+      "username": "Nyoks44",
+      "fullName": "Manusia",
+      "points": 0,
+      "joinedAt": 1772212743744,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
