@@ -719,6 +719,15 @@
       "joinedAt": 1772182040674,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8032754534": {
+      "id": 8032754534,
+      "username": "FG0067",
+      "fullName": "FG FARDOUS YT",
+      "points": 0,
+      "joinedAt": 1772182389782,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
