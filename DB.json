@@ -251,6 +251,15 @@
       "joinedAt": 1772169611379,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6042280270": {
+      "id": 6042280270,
+      "username": "Gulshan_12k",
+      "fullName": "Zodio",
+      "points": 0,
+      "joinedAt": 1772169657043,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
