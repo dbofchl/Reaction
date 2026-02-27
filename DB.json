@@ -935,12 +935,21 @@
     },
     "6155197054": {
       "id": 6155197054,
-      "username": "",
-      "fullName": "",
+      "username": "AbuOmar44422",
+      "fullName": "Mohammed Ahmad",
       "points": 0,
       "joinedAt": 1772194969201,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7129200924": {
+      "id": 7129200924,
+      "username": "jsaphro",
+      "fullName": "Aphrodite",
+      "points": 0,
+      "joinedAt": 1772195076360,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
