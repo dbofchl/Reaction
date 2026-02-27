@@ -833,6 +833,15 @@
       "joinedAt": 1772187996902,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8494024660": {
+      "id": 8494024660,
+      "username": "",
+      "fullName": "West Bengal",
+      "points": 1,
+      "joinedAt": 1772189811939,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
