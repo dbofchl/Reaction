@@ -9,6 +9,15 @@
   },
   "blockedChannels": [],
   "users": {
+    "923675879": {
+      "id": 923675879,
+      "username": "Namusantensin",
+      "fullName": "Namusanteo",
+      "points": 0,
+      "joinedAt": 1772184632602,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1205479424": {
       "id": 1205479424,
       "username": "",
@@ -759,11 +768,11 @@
     "7070435773": {
       "id": 7070435773,
       "username": "",
-      "fullName": "",
+      "fullName": "Diego Sousa",
       "points": 0,
       "joinedAt": 1772184383042,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
