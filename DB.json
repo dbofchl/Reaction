@@ -93,11 +93,20 @@
     "6966264782": {
       "id": 6966264782,
       "username": "",
-      "fullName": "",
+      "fullName": "𝗥𝗨𝗣 ❄️🌪️ [Offline till 2027]",
       "points": 0,
       "joinedAt": 1772169098821,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7465764845": {
+      "id": 7465764845,
+      "username": "",
+      "fullName": "bahagia",
+      "points": 0,
+      "joinedAt": 1772169099992,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
