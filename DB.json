@@ -881,12 +881,21 @@
     },
     "7756473032": {
       "id": 7756473032,
-      "username": "",
-      "fullName": "",
+      "username": "FRI_7",
+      "fullName": "NINJA 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 x⁷⁸",
       "points": 0,
       "joinedAt": 1772191282474,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8210130410": {
+      "id": 8210130410,
+      "username": "Harshbhai212",
+      "fullName": "Harsh Maurya",
+      "points": 0,
+      "joinedAt": 1772192263884,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
