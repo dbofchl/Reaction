@@ -977,6 +977,15 @@
       "joinedAt": 1772196274729,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8495502237": {
+      "id": 8495502237,
+      "username": "",
+      "fullName": "Amba Ambacing",
+      "points": 0,
+      "joinedAt": 1772197843841,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
