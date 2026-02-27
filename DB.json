@@ -146,10 +146,19 @@
     },
     "8464142424": {
       "id": 8464142424,
+      "username": "AryaBack2026",
+      "fullName": "Arya Seller All Game",
+      "points": 0,
+      "joinedAt": 1772169179630,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6585384542": {
+      "id": 6585384542,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772169179630,
+      "joinedAt": 1772169182741,
       "lastDaily": null,
       "isNewUser": true
     }
