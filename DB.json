@@ -543,9 +543,18 @@
     "7082323366": {
       "id": 7082323366,
       "username": "",
-      "fullName": "",
+      "fullName": "Boom Bam",
       "points": 0,
       "joinedAt": 1772174849204,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7893476404": {
+      "id": 7893476404,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772174909826,
       "lastDaily": null,
       "isNewUser": true
     }
