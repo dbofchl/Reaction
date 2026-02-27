@@ -281,12 +281,12 @@
     },
     "8222924207": {
       "id": 8222924207,
-      "username": "",
-      "fullName": "",
+      "username": "BRONZOMODFF",
+      "fullName": "BRONZO BHI",
       "points": 0,
       "joinedAt": 1772170025762,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -311,6 +311,13 @@
       "price": 250000,
       "orderId": "BP6448933310MM4FZOIXGR9Y",
       "createdAt": 1772169545644
+    },
+    "BP8222924207MM4GB2HW8Y76": {
+      "userId": 8222924207,
+      "points": 30,
+      "price": 50000,
+      "orderId": "BP8222924207MM4GB2HW8Y76",
+      "createdAt": 1772170076944
     }
   }
 }
