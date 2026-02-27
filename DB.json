@@ -641,12 +641,21 @@
     },
     "6357276291": {
       "id": 6357276291,
-      "username": "",
-      "fullName": "",
+      "username": "ALFISTORE_VIP",
+      "fullName": "ALFI MODS",
       "points": 0,
       "joinedAt": 1772178349114,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6321250191": {
+      "id": 6321250191,
+      "username": "Rahul_Ahammed",
+      "fullName": "𝙍𝙖𝙝𝙪𝙡 𝙫𝙖𝙞 💥",
+      "points": 0,
+      "joinedAt": 1772178721236,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
