@@ -953,10 +953,19 @@
     },
     "6831741298": {
       "id": 6831741298,
+      "username": "KING_MEWING",
+      "fullName": "Gustav [LIMIT]",
+      "points": 0,
+      "joinedAt": 1772195430483,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8421529700": {
+      "id": 8421529700,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772195430483,
+      "joinedAt": 1772195456640,
       "lastDaily": null,
       "isNewUser": true
     }
