@@ -227,12 +227,12 @@
     },
     "6448933310": {
       "id": 6448933310,
-      "username": "",
-      "fullName": "",
+      "username": "AYUSHHH4X1",
+      "fullName": "⋆ 𝗽𝗿𝗶𝗺𝗲 𝘅 𝗮𝘆𝘂𝘀𝗵 𝗼𝘄𝗻𝗲𝗿 ⋆",
       "points": 0,
       "joinedAt": 1772169531819,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -250,6 +250,13 @@
       "price": 50000,
       "orderId": "BP1368848281MM4FF94MIOKQ",
       "createdAt": 1772168592659
+    },
+    "BP6448933310MM4FZOIXGR9Y": {
+      "userId": 6448933310,
+      "points": 100,
+      "price": 250000,
+      "orderId": "BP6448933310MM4FZOIXGR9Y",
+      "createdAt": 1772169545644
     }
   }
 }
