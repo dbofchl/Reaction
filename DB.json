@@ -183,9 +183,18 @@
     "7980913494": {
       "id": 7980913494,
       "username": "",
-      "fullName": "",
+      "fullName": "AIS",
       "points": 0,
       "joinedAt": 1772169227710,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7643841053": {
+      "id": 7643841053,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772169266995,
       "lastDaily": null,
       "isNewUser": true
     }
