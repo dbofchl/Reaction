@@ -1037,12 +1037,21 @@
     },
     "8120685181": {
       "id": 8120685181,
-      "username": "",
-      "fullName": "",
+      "username": "MARIGAMER_1",
+      "fullName": "ᴍᴀʀɪGᴀᴍᴇʀ1",
       "points": 0,
       "joinedAt": 1772204130756,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7204793678": {
+      "id": 7204793678,
+      "username": "vankamxzy",
+      "fullName": "kail 🎣 | beryllium | p661n",
+      "points": 0,
+      "joinedAt": 1772204274960,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
