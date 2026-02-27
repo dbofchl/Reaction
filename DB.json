@@ -1151,6 +1151,15 @@
       "joinedAt": 1772212743744,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "5494561422": {
+      "id": 5494561422,
+      "username": "A_D_R4_7",
+      "fullName": "ADRA7",
+      "points": 0,
+      "joinedAt": 1772217552634,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
