@@ -218,10 +218,19 @@
     },
     "5716190671": {
       "id": 5716190671,
+      "username": "ERROR_HACKER_YT_OFC",
+      "fullName": "RAKIBUL HASAN 🇧🇩",
+      "points": 0,
+      "joinedAt": 1772169515660,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6448933310": {
+      "id": 6448933310,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772169515660,
+      "joinedAt": 1772169531819,
       "lastDaily": null,
       "isNewUser": true
     }
