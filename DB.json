@@ -471,11 +471,20 @@
     "8392186491": {
       "id": 8392186491,
       "username": "",
-      "fullName": "",
+      "fullName": "Piss Pis",
       "points": 0,
       "joinedAt": 1772172961929,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7254728728": {
+      "id": 7254728728,
+      "username": "MDBABY300",
+      "fullName": "Md Rakibul",
+      "points": 0,
+      "joinedAt": 1772173111234,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
