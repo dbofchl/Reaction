@@ -677,12 +677,12 @@
     },
     "7205144924": {
       "id": 7205144924,
-      "username": "",
-      "fullName": "",
+      "username": "Cihuyyy28",
+      "fullName": "Cihuyyy",
       "points": 0,
       "joinedAt": 1772179775191,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -728,6 +728,13 @@
       "price": 1000000,
       "orderId": "BP5713599829MM4KCXPQQBQ0",
       "createdAt": 1772176882459
+    },
+    "BP6703314721MM4M2Z0N5FR1": {
+      "userId": 6703314721,
+      "points": 30,
+      "price": 50000,
+      "orderId": "BP6703314721MM4M2Z0N5FR1",
+      "createdAt": 1772179776962
     }
   }
 }
