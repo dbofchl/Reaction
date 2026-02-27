@@ -413,6 +413,15 @@
       "joinedAt": 1772171704658,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7618579800": {
+      "id": 7618579800,
+      "username": "silanxsukaft",
+      "fullName": "Silan",
+      "points": 0,
+      "joinedAt": 1772171928913,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
