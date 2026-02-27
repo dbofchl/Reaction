@@ -422,6 +422,15 @@
       "joinedAt": 1772171928913,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7641292604": {
+      "id": 7641292604,
+      "username": "Sadimul71",
+      "fullName": "SADIMUL 71",
+      "points": 0,
+      "joinedAt": 1772172108315,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
