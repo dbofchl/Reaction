@@ -12,11 +12,11 @@
     "1205479424": {
       "id": 1205479424,
       "username": "",
-      "fullName": "",
-      "points": 5,
+      "fullName": "Nabila",
+      "points": 4,
       "joinedAt": 1772166849372,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1368848281": {
       "id": 1368848281,
@@ -32,6 +32,8 @@
     1368848281
   ],
   "giveaway": null,
-  "reactCooldowns": {},
+  "reactCooldowns": {
+    "1205479424": 1772166857335
+  },
   "pendingOrders": {}
 }
