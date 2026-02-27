@@ -47,12 +47,21 @@
     },
     "5935722836": {
       "id": 5935722836,
-      "username": "",
-      "fullName": "",
+      "username": "caham_always",
+      "fullName": ".",
       "points": 0,
       "joinedAt": 1772168929767,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6493707995": {
+      "id": 6493707995,
+      "username": "ahmedakash007",
+      "fullName": "ɴɪʀᴏʙ ᴀʜᴍᴇᴅ🫆",
+      "points": 0,
+      "joinedAt": 1772168977791,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
