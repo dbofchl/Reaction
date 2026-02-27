@@ -381,13 +381,6 @@
       "price": 50000,
       "orderId": "BP8222924207MM4GB2HW8Y76",
       "createdAt": 1772170076944
-    },
-    "BP7013096277MM4GO56UGFRR": {
-      "userId": 7013096277,
-      "points": 30,
-      "price": 50000,
-      "orderId": "BP7013096277MM4GO56UGFRR",
-      "createdAt": 1772170686882
     }
   }
 }
