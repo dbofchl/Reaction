@@ -704,12 +704,21 @@
     },
     "6351437224": {
       "id": 6351437224,
-      "username": "",
-      "fullName": "",
+      "username": "Rozi25",
+      "fullName": "Rozi (Mods)",
       "points": 0,
       "joinedAt": 1772181975562,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7639941910": {
+      "id": 7639941910,
+      "username": "",
+      "fullName": "NULZ 😈",
+      "points": 0,
+      "joinedAt": 1772182040674,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
