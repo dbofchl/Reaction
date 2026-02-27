@@ -524,10 +524,19 @@
     },
     "8312101413": {
       "id": 8312101413,
+      "username": "Lowcortisol0",
+      "fullName": "Agㅤㅤㅤㅤㅤㅤnes",
+      "points": 0,
+      "joinedAt": 1772174525590,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8403002584": {
+      "id": 8403002584,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772174525590,
+      "joinedAt": 1772174574342,
       "lastDaily": null,
       "isNewUser": true
     }
