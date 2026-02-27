@@ -533,10 +533,19 @@
     },
     "8403002584": {
       "id": 8403002584,
+      "username": "stnvnz69",
+      "fullName": "stvnz",
+      "points": 0,
+      "joinedAt": 1772174574342,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7082323366": {
+      "id": 7082323366,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772174574342,
+      "joinedAt": 1772174849204,
       "lastDaily": null,
       "isNewUser": true
     }
