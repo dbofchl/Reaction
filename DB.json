@@ -1092,13 +1092,6 @@
       "price": 15000,
       "orderId": "BP7859535520MM5015AWXB7I",
       "createdAt": 1772203206323
-    },
-    "BP7637780475MM50C3X94IBX": {
-      "userId": 7637780475,
-      "points": 5,
-      "price": 15000,
-      "orderId": "BP7637780475MM50C3X94IBX",
-      "createdAt": 1772203718468
     }
   }
 }
