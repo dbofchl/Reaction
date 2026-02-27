@@ -308,12 +308,21 @@
     },
     "8238609229": {
       "id": 8238609229,
-      "username": "",
-      "fullName": "",
+      "username": "mymantanchelsea",
+      "fullName": "seaaa",
       "points": 0,
       "joinedAt": 1772170323639,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6957958424": {
+      "id": 6957958424,
+      "username": "Barkat444",
+      "fullName": "Barkat Ali",
+      "points": 0,
+      "joinedAt": 1772170436364,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
