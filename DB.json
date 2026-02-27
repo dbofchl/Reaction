@@ -1025,6 +1025,15 @@
       "joinedAt": 1772203374098,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8133895478": {
+      "id": 8133895478,
+      "username": "mbut8712692",
+      "fullName": "mbut",
+      "points": 0,
+      "joinedAt": 1772204103145,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
