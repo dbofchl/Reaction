@@ -62,6 +62,15 @@
       "joinedAt": 1772168977791,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6351858228": {
+      "id": 6351858228,
+      "username": "pensitelei",
+      "fullName": "Ran jasgen br Only",
+      "points": 0,
+      "joinedAt": 1772169006583,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
