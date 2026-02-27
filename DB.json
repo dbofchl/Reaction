@@ -22,7 +22,7 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 1000005,
+      "points": 1000004,
       "joinedAt": 1772165202475,
       "lastDaily": null,
       "isNewUser": false
@@ -42,7 +42,8 @@
   ],
   "giveaway": null,
   "reactCooldowns": {
-    "1205479424": 1772166857335
+    "1205479424": 1772166857335,
+    "1368848281": 1772168309850
   },
   "pendingOrders": {}
 }
