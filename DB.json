@@ -173,10 +173,19 @@
     },
     "8173473751": {
       "id": 8173473751,
+      "username": "SURAJXJATAV",
+      "fullName": "𓋰 𓆩 𝐒𝐔𝐑𝐀𝐉 𝐉𝐀𝐓𝐀𝐕 𝐉𝐈』亗",
+      "points": 0,
+      "joinedAt": 1772169205616,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7980913494": {
+      "id": 7980913494,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772169205616,
+      "joinedAt": 1772169227710,
       "lastDaily": null,
       "isNewUser": true
     }
