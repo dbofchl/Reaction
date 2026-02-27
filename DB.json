@@ -1,8 +1,17 @@
 {
-  "channels": {},
+  "channels": {
+    "-1002691173980": {
+      "ID_CHANNEL": -1002691173980,
+      "USERNAME": "psteamadm_official",
+      "NAME_CHANNEL": "𝐏𝐒𝐓𝐞𝐚𝐦𝐀𝐝𝐦",
+      "addedAt": 1772165192216
+    }
+  },
   "blockedChannels": [],
   "users": {},
-  "admins": [1368848281],
+  "admins": [
+    1368848281
+  ],
   "giveaway": null,
   "reactCooldowns": {},
   "pendingOrders": {}
