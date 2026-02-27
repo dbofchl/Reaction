@@ -431,6 +431,15 @@
       "joinedAt": 1772172108315,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7660931409": {
+      "id": 7660931409,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772172183656,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
