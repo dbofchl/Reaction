@@ -83,10 +83,19 @@
     },
     "8219275138": {
       "id": 8219275138,
+      "username": "YOUYOU_XIT",
+      "fullName": "Apex Phantom",
+      "points": 0,
+      "joinedAt": 1772169037625,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6966264782": {
+      "id": 6966264782,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772169037625,
+      "joinedAt": 1772169098821,
       "lastDaily": null,
       "isNewUser": true
     }
