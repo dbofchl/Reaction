@@ -741,11 +741,20 @@
     "7261347097": {
       "id": 7261347097,
       "username": "",
-      "fullName": "",
+      "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ 🇮🇩",
       "points": 0,
       "joinedAt": 1772183072726,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8359149620": {
+      "id": 8359149620,
+      "username": "andreinr11",
+      "fullName": "andreinr1",
+      "points": 0,
+      "joinedAt": 1772183981632,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
