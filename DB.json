@@ -1088,6 +1088,15 @@
       "joinedAt": 1772206232240,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6557736521": {
+      "id": 6557736521,
+      "username": "KayzoXx2",
+      "fullName": "الحمن",
+      "points": 0,
+      "joinedAt": 1772206840342,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
