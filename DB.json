@@ -917,12 +917,21 @@
     },
     "7906404430": {
       "id": 7906404430,
-      "username": "",
-      "fullName": "",
+      "username": "black_king_7388",
+      "fullName": "black_king_7388",
       "points": 0,
       "joinedAt": 1772194553251,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8031285841": {
+      "id": 8031285841,
+      "username": "errorsENC",
+      "fullName": "Blue M",
+      "points": 0,
+      "joinedAt": 1772194612643,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
