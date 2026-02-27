@@ -863,10 +863,19 @@
     },
     "5939834412": {
       "id": 5939834412,
+      "username": "NasihuyLabubuy",
+      "fullName": "​-Jordý Lancéstér",
+      "points": 0,
+      "joinedAt": 1772190849425,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6448948111": {
+      "id": 6448948111,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772190849425,
+      "joinedAt": 1772191079403,
       "lastDaily": null,
       "isNewUser": true
     }
