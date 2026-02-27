@@ -9,6 +9,15 @@
   },
   "blockedChannels": [],
   "users": {
+    "1205479424": {
+      "id": 1205479424,
+      "username": "",
+      "fullName": "",
+      "points": 5,
+      "joinedAt": 1772166849372,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1368848281": {
       "id": 1368848281,
       "username": "psteamadmvip",
