@@ -24,5 +24,13 @@
   ],
   "giveaway": null,
   "reactCooldowns": {},
-  "pendingOrders": {}
+  "pendingOrders": {
+    "BP1368848281MM4E1CWBI52E": {
+      "userId": 1368848281,
+      "points": 1,
+      "price": 2000,
+      "orderId": "BP1368848281MM4E1CWBI52E",
+      "createdAt": 1772166264590
+    }
+  }
 }
