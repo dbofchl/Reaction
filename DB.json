@@ -728,6 +728,15 @@
       "joinedAt": 1772182389782,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8393078238": {
+      "id": 8393078238,
+      "username": "nirob720x",
+      "fullName": "NIROB",
+      "points": 0,
+      "joinedAt": 1772182940393,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
