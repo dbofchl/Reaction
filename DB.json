@@ -165,9 +165,18 @@
     "8556213661": {
       "id": 8556213661,
       "username": "",
-      "fullName": "",
+      "fullName": "BOTCYTO H4CK YT",
       "points": 0,
       "joinedAt": 1772169199339,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8173473751": {
+      "id": 8173473751,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772169205616,
       "lastDaily": null,
       "isNewUser": true
     }
