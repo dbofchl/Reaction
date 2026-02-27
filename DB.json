@@ -560,12 +560,21 @@
     },
     "7654980942": {
       "id": 7654980942,
-      "username": "",
-      "fullName": "",
+      "username": "clayye",
+      "fullName": "clayy anak baik",
       "points": 0,
       "joinedAt": 1772175457411,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8163264337": {
+      "id": 8163264337,
+      "username": "",
+      "fullName": "Juned Khatri",
+      "points": 0,
+      "joinedAt": 1772175492641,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
