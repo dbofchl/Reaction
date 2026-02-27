@@ -1110,9 +1110,18 @@
     "8284581844": {
       "id": 8284581844,
       "username": "",
-      "fullName": "",
+      "fullName": "Zyy 💤",
       "points": 0,
       "joinedAt": 1772210084898,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6817364735": {
+      "id": 6817364735,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772210410255,
       "lastDaily": null,
       "isNewUser": true
     }
