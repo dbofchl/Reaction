@@ -485,6 +485,15 @@
       "joinedAt": 1772173111234,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5318515406": {
+      "id": 5318515406,
+      "username": "Josse_17year",
+      "fullName": "Dongo",
+      "points": 0,
+      "joinedAt": 1772173448439,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
