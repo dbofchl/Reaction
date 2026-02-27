@@ -45,6 +45,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2081878666": {
+      "id": 2081878666,
+      "username": "slava6x",
+      "fullName": "不败之王!",
+      "points": 0,
+      "joinedAt": 1772181350110,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "6052601837": {
       "id": 6052601837,
       "username": "",
@@ -686,12 +695,12 @@
     },
     "5161131010": {
       "id": 5161131010,
-      "username": "",
-      "fullName": "",
+      "username": "Mbutgoreng",
+      "fullName": "Nika Nika",
       "points": 0,
       "joinedAt": 1772180673327,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
