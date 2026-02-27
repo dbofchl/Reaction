@@ -116,6 +116,15 @@
       "joinedAt": 1772169129978,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8249061481": {
+      "id": 8249061481,
+      "username": "Ichacantik34",
+      "fullName": "ICHA",
+      "points": 0,
+      "joinedAt": 1772169133674,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
