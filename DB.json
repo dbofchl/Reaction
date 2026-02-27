@@ -632,10 +632,19 @@
     },
     "6191635812": {
       "id": 6191635812,
+      "username": "Dripuser3",
+      "fullName": "Rahul",
+      "points": 0,
+      "joinedAt": 1772177791327,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6357276291": {
+      "id": 6357276291,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772177791327,
+      "joinedAt": 1772178349114,
       "lastDaily": null,
       "isNewUser": true
     }
