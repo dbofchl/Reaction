@@ -1075,9 +1075,9 @@
       "id": 7204793678,
       "username": "vankamxzy",
       "fullName": "kail 🎣 | beryllium | p661n",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772204274960,
-      "lastDaily": null,
+      "lastDaily": "2026-02-28",
       "isNewUser": false
     },
     "8177383907": {
@@ -1357,6 +1357,15 @@
       "points": 1,
       "joinedAt": 1772237550737,
       "lastDaily": "2026-02-28",
+      "isNewUser": false
+    },
+    "8324663633": {
+      "id": 8324663633,
+      "username": "",
+      "fullName": "seiryu",
+      "points": 0,
+      "joinedAt": 1772237576546,
+      "lastDaily": null,
       "isNewUser": false
     }
   },
