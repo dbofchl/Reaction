@@ -1556,6 +1556,15 @@
       "joinedAt": 1772238474121,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7738749237": {
+      "id": 7738749237,
+      "username": "TungCx",
+      "fullName": "Tungx",
+      "points": 0,
+      "joinedAt": 1772238491466,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
