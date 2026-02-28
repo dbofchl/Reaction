@@ -1883,10 +1883,19 @@
     },
     "8409892423": {
       "id": 8409892423,
+      "username": "htm_roke",
+      "fullName": "JEMS Roke",
+      "points": 0,
+      "joinedAt": 1772243803919,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7280855448": {
+      "id": 7280855448,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772243803919,
+      "joinedAt": 1772243818678,
       "lastDaily": null,
       "isNewUser": true
     }
