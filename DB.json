@@ -1946,10 +1946,19 @@
     },
     "7826856443": {
       "id": 7826856443,
+      "username": "KRISH6058",
+      "fullName": "KRISH !!",
+      "points": 0,
+      "joinedAt": 1772246162828,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8474131021": {
+      "id": 8474131021,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772246162828,
+      "joinedAt": 1772246189613,
       "lastDaily": null,
       "isNewUser": true
     }
