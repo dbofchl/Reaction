@@ -22,7 +22,7 @@
       "id": 819302344,
       "username": "ventraSH",
       "fullName": "ventra...?",
-      "points": 1,
+      "points": 0,
       "joinedAt": 1772242992338,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -1887,6 +1887,7 @@
   ],
   "giveaway": null,
   "reactCooldowns": {
+    "819302344": 1772243157216,
     "1160976551": 1772229134154,
     "1205479424": 1772166857335,
     "1368848281": 1772202118176,
