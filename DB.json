@@ -1403,6 +1403,15 @@
       "joinedAt": 1772237789433,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7981212751": {
+      "id": 7981212751,
+      "username": "breonnmodz",
+      "fullName": "BREONN is not dev",
+      "points": 0,
+      "joinedAt": 1772237796657,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
