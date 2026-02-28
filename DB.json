@@ -2307,11 +2307,11 @@
     "6192851094": {
       "id": 6192851094,
       "username": "",
-      "fullName": "",
-      "points": 0,
+      "fullName": "Barun Kumar",
+      "points": 1,
       "joinedAt": 1772278942927,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
