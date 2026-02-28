@@ -1595,10 +1595,19 @@
     },
     "7713713037": {
       "id": 7713713037,
+      "username": "Cheatvip99",
+      "fullName": "Cheat vip",
+      "points": 0,
+      "joinedAt": 1772238771682,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6344194103": {
+      "id": 6344194103,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772238771682,
+      "joinedAt": 1772238871298,
       "lastDaily": null,
       "isNewUser": true
     }
