@@ -1344,11 +1344,20 @@
     "8427063999": {
       "id": 8427063999,
       "username": "",
-      "fullName": "",
+      "fullName": "Zidan",
       "points": 0,
       "joinedAt": 1772237547572,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8589670405": {
+      "id": 8589670405,
+      "username": "Omidomidamiriii",
+      "fullName": "▲➺ٰٰٖٖ͢⃟⊰❰꯭ᴏᴍɪᴅ ᴀᴍɪʀɪ❱↲",
+      "points": 0,
+      "joinedAt": 1772237550737,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
