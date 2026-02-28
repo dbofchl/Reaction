@@ -1299,11 +1299,11 @@
     "8418319724": {
       "id": 8418319724,
       "username": "",
-      "fullName": "",
+      "fullName": "A",
       "points": 0,
       "joinedAt": 1772237269181,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
