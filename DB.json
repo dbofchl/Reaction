@@ -1259,6 +1259,15 @@
       "joinedAt": 1772236982341,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8506475588": {
+      "id": 8506475588,
+      "username": "anupyadav908070anupgmailcom",
+      "fullName": "Anup Kumar",
+      "points": 0,
+      "joinedAt": 1772237064996,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
