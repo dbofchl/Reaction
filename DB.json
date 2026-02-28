@@ -2036,12 +2036,12 @@
     },
     "6970381785": {
       "id": 6970381785,
-      "username": "",
-      "fullName": "",
-      "points": 0,
+      "username": "RendangID",
+      "fullName": "ENAK RENDANG",
+      "points": 1,
       "joinedAt": 1772247718776,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
