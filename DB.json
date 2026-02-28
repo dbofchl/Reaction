@@ -1304,6 +1304,15 @@
       "joinedAt": 1772237269181,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8111226761": {
+      "id": 8111226761,
+      "username": "",
+      "fullName": "Reza",
+      "points": 0,
+      "joinedAt": 1772237361493,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
