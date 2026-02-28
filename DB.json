@@ -1466,6 +1466,15 @@
       "joinedAt": 1772238196087,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8485173653": {
+      "id": 8485173653,
+      "username": "",
+      "fullName": "ai hỏi",
+      "points": 0,
+      "joinedAt": 1772238214051,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
