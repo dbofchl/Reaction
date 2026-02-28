@@ -1520,6 +1520,15 @@
       "joinedAt": 1772238389360,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8034679127": {
+      "id": 8034679127,
+      "username": "putramodznidek",
+      "fullName": "Putra Modz",
+      "points": 0,
+      "joinedAt": 1772238409811,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
