@@ -1802,12 +1802,21 @@
     },
     "6155699230": {
       "id": 6155699230,
-      "username": "",
-      "fullName": "",
+      "username": "HOUNTERMRP",
+      "fullName": "HOOUNTER MRV",
       "points": 0,
       "joinedAt": 1772241636815,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7279199380": {
+      "id": 7279199380,
+      "username": "amirxree",
+      "fullName": "amir xree",
+      "points": 0,
+      "joinedAt": 1772241920311,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
