@@ -1654,13 +1654,6 @@
       "price": 15000,
       "orderId": "BP7738749237MM5L1OJUQEVW",
       "createdAt": 1772238503138
-    },
-    "BP2128022758MM5L2A1F716A": {
-      "userId": 2128022758,
-      "points": 5,
-      "price": 15000,
-      "orderId": "BP2128022758MM5L2A1F716A",
-      "createdAt": 1772238530995
     }
   }
 }
