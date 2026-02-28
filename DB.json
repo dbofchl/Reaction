@@ -1892,12 +1892,12 @@
     },
     "7280855448": {
       "id": 7280855448,
-      "username": "",
-      "fullName": "",
-      "points": 0,
+      "username": "alenash4",
+      "fullName": "asha",
+      "points": 1,
       "joinedAt": 1772243818678,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
