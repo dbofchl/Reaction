@@ -1223,6 +1223,24 @@
       "joinedAt": 1772236861293,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8378638536": {
+      "id": 8378638536,
+      "username": "opbroken777x",
+      "fullName": "𝗕𝗥𝗢𝗞𝗘𝗡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ( 𝗢𝗪𝗡𝗘𝗥 )",
+      "points": 0,
+      "joinedAt": 1772236897497,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8416635643": {
+      "id": 8416635643,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772236903031,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
