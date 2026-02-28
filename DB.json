@@ -2078,6 +2078,15 @@
       "joinedAt": 1772250076529,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8506556028": {
+      "id": 8506556028,
+      "username": "qerilksp",
+      "fullName": "QERIL",
+      "points": 0,
+      "joinedAt": 1772251718664,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
