@@ -2222,6 +2222,15 @@
       "joinedAt": 1772265006267,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "7512790630": {
+      "id": 7512790630,
+      "username": "",
+      "fullName": "SHISHIR Boos",
+      "points": 0,
+      "joinedAt": 1772265184622,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
