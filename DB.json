@@ -2091,11 +2091,20 @@
     "8017778929": {
       "id": 8017778929,
       "username": "",
-      "fullName": "",
+      "fullName": "Rulzz",
       "points": 0,
       "joinedAt": 1772252798872,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6491853892": {
+      "id": 6491853892,
+      "username": "Aendece",
+      "fullName": "Mesh coil",
+      "points": 0,
+      "joinedAt": 1772252816047,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
