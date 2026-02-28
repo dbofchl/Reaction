@@ -1673,6 +1673,15 @@
       "joinedAt": 1772239361890,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7071526224": {
+      "id": 7071526224,
+      "username": "",
+      "fullName": "Felipe Pereira",
+      "points": 0,
+      "joinedAt": 1772239467864,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
