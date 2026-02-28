@@ -1183,9 +1183,9 @@
       "id": 6817364735,
       "username": "",
       "fullName": "",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772210410255,
-      "lastDaily": null,
+      "lastDaily": "2026-02-28",
       "isNewUser": true
     },
     "7635281029": {
@@ -1955,12 +1955,12 @@
     },
     "8474131021": {
       "id": 8474131021,
-      "username": "",
-      "fullName": "",
+      "username": "ktzckmy",
+      "fullName": "Dhanz [ LIMIT ]",
       "points": 0,
       "joinedAt": 1772246189613,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
