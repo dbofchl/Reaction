@@ -1790,6 +1790,15 @@
       "joinedAt": 1772241203205,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5338815029": {
+      "id": 5338815029,
+      "username": "gilaksans",
+      "fullName": "kalz",
+      "points": 0,
+      "joinedAt": 1772241245059,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
