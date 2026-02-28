@@ -2160,5 +2160,5 @@
       "createdAt": 1772238503138
     }
   },
-  "reactCooldownMs": 300000
+  "reactCooldownMs": 600000
 }
