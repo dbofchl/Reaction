@@ -1781,6 +1781,15 @@
       "joinedAt": 1772241070418,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8067791875": {
+      "id": 8067791875,
+      "username": "xLRogel",
+      "fullName": "xL Rogel",
+      "points": 0,
+      "joinedAt": 1772241203205,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
