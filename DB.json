@@ -1658,12 +1658,21 @@
     },
     "7312776880": {
       "id": 7312776880,
-      "username": "",
-      "fullName": "",
+      "username": "KacukPriaTamvan",
+      "fullName": "-Kaaaa",
       "points": 0,
       "joinedAt": 1772239094155,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8001989905": {
+      "id": 8001989905,
+      "username": "fiqaaaMyluv",
+      "fullName": "FiqAaaaa",
+      "points": 0,
+      "joinedAt": 1772239361890,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
