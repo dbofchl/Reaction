@@ -1631,12 +1631,21 @@
     },
     "8515437990": {
       "id": 8515437990,
-      "username": "",
-      "fullName": "",
+      "username": "ZreyxkenonZ2",
+      "fullName": "Zreyx Back Unband?",
       "points": 0,
       "joinedAt": 1772239016851,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7746784624": {
+      "id": 7746784624,
+      "username": "rapzback1223",
+      "fullName": "RAPZ (SLOW RES)",
+      "points": 0,
+      "joinedAt": 1772239033388,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
