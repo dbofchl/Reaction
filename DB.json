@@ -2015,6 +2015,15 @@
       "joinedAt": 1772247511529,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "6167597669": {
+      "id": 6167597669,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772247594772,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
