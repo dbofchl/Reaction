@@ -1376,6 +1376,15 @@
       "joinedAt": 1772237733645,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8236939715": {
+      "id": 8236939715,
+      "username": "AlfaizAli131",
+      "fullName": "Royal Alfa",
+      "points": 0,
+      "joinedAt": 1772237735362,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
