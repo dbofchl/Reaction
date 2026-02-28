@@ -2171,12 +2171,12 @@
     },
     "6894714223": {
       "id": 6894714223,
-      "username": "",
-      "fullName": "",
-      "points": 0,
+      "username": "banan_softer",
+      "fullName": "banan_softer",
+      "points": 1,
       "joinedAt": 1772260221481,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
