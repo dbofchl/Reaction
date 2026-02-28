@@ -1718,6 +1718,15 @@
       "joinedAt": 1772239987130,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "7671306944": {
+      "id": 7671306944,
+      "username": "",
+      "fullName": "WKWKKWKA",
+      "points": 0,
+      "joinedAt": 1772240044476,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
