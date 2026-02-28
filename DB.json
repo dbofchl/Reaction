@@ -1271,12 +1271,21 @@
     },
     "7071160725": {
       "id": 7071160725,
-      "username": "",
-      "fullName": "",
+      "username": "Bedo_XiT",
+      "fullName": "Bedo's Here",
       "points": 0,
       "joinedAt": 1772237088861,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8587095073": {
+      "id": 8587095073,
+      "username": "Bolat_panel",
+      "fullName": "Bolat Panel",
+      "points": 0,
+      "joinedAt": 1772237093226,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
