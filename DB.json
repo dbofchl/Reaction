@@ -463,9 +463,9 @@
       "id": 8761595913,
       "username": "",
       "fullName": "Jasa Pembuatan Qris All Payment",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772171704658,
-      "lastDaily": null,
+      "lastDaily": "2026-02-28",
       "isNewUser": false
     },
     "7618579800": {
@@ -1236,11 +1236,11 @@
     "8416635643": {
       "id": 8416635643,
       "username": "",
-      "fullName": "",
+      "fullName": "Emir Gonzalez",
       "points": 0,
       "joinedAt": 1772236903031,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
