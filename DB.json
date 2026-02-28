@@ -1736,6 +1736,15 @@
       "joinedAt": 1772240219782,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8259749766": {
+      "id": 8259749766,
+      "username": "mautauyeah",
+      "fullName": "Mallsxyz",
+      "points": 0,
+      "joinedAt": 1772240465395,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
