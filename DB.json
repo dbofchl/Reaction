@@ -2181,11 +2181,11 @@
     "7222755569": {
       "id": 7222755569,
       "username": "",
-      "fullName": "",
-      "points": 0,
+      "fullName": "Peshal Mods",
+      "points": 1,
       "joinedAt": 1772260987357,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
