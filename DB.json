@@ -1970,6 +1970,15 @@
       "joinedAt": 1772246559998,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8010760114": {
+      "id": 8010760114,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772246624946,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
