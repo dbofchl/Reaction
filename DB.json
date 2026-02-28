@@ -1748,10 +1748,19 @@
     },
     "8427773369": {
       "id": 8427773369,
+      "username": "danssrmdn22",
+      "fullName": "𝐃𝐚𝐧𝐬𝐬𝐑𝐦𝐝𝐧𝐧",
+      "points": 0,
+      "joinedAt": 1772240622366,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7273884734": {
+      "id": 7273884734,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772240622366,
+      "joinedAt": 1772240704051,
       "lastDaily": null,
       "isNewUser": true
     }
