@@ -1394,6 +1394,15 @@
       "joinedAt": 1772237750049,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6566553590": {
+      "id": 6566553590,
+      "username": "Zamnofile",
+      "fullName": "ZAMM XITARR (RESELLER)",
+      "points": 0,
+      "joinedAt": 1772237789433,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
