@@ -1763,6 +1763,15 @@
       "joinedAt": 1772240704051,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "6818109336": {
+      "id": 6818109336,
+      "username": "Qadirkana",
+      "fullName": "Abdul Qadir 🍅",
+      "points": 0,
+      "joinedAt": 1772241069524,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
