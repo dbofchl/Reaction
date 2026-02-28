@@ -1511,6 +1511,15 @@
       "joinedAt": 1772238342189,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "6869668572": {
+      "id": 6869668572,
+      "username": "kiijasteb",
+      "fullName": "Kii JASTEB",
+      "points": 0,
+      "joinedAt": 1772238389360,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
