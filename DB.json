@@ -1973,10 +1973,19 @@
     },
     "8010760114": {
       "id": 8010760114,
+      "username": "Kamunanya111",
+      "fullName": "GK NANYA",
+      "points": 0,
+      "joinedAt": 1772246624946,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7502336580": {
+      "id": 7502336580,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772246624946,
+      "joinedAt": 1772246639834,
       "lastDaily": null,
       "isNewUser": true
     }
