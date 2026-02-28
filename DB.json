@@ -1898,6 +1898,15 @@
       "joinedAt": 1772243818678,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8571269467": {
+      "id": 8571269467,
+      "username": "",
+      "fullName": "Md Arshad",
+      "points": 0,
+      "joinedAt": 1772243983713,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
