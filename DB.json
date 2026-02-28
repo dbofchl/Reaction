@@ -1372,17 +1372,26 @@
       "id": 6458561780,
       "username": "idksenoa",
       "fullName": "Seo",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772237733645,
-      "lastDaily": null,
+      "lastDaily": "2026-02-28",
       "isNewUser": false
     },
     "8236939715": {
       "id": 8236939715,
       "username": "AlfaizAli131",
       "fullName": "Royal Alfa",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772237735362,
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
+    },
+    "8086172353": {
+      "id": 8086172353,
+      "username": "",
+      "fullName": "ＣᴀʟʟㅤϻᴇㅤᏒѳⒽᴀⓃ. (TG LEAVED)",
+      "points": 0,
+      "joinedAt": 1772237750049,
       "lastDaily": null,
       "isNewUser": false
     }
