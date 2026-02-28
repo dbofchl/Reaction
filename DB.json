@@ -1853,6 +1853,15 @@
       "joinedAt": 1772242723696,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "6892708352": {
+      "id": 6892708352,
+      "username": "",
+      "fullName": "JUAN COKI",
+      "points": 0,
+      "joinedAt": 1772242774317,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
