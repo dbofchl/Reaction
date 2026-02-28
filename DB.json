@@ -193,9 +193,9 @@
       "id": 8593916002,
       "username": "",
       "fullName": "Joki cs renk dan br renk",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772169147327,
-      "lastDaily": null,
+      "lastDaily": "2026-02-28",
       "isNewUser": false
     },
     "8429148426": {
@@ -1334,12 +1334,12 @@
     },
     "6284151867": {
       "id": 6284151867,
-      "username": "",
-      "fullName": "",
+      "username": "dokosiki1",
+      "fullName": "DoKo con cặc",
       "points": 0,
       "joinedAt": 1772237520342,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
