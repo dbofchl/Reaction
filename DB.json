@@ -9,6 +9,15 @@
   },
   "blockedChannels": [],
   "users": {
+    "34855457": {
+      "id": 34855457,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772242013066,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "923675879": {
       "id": 923675879,
       "username": "Namusantensin",
