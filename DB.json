@@ -2312,6 +2312,15 @@
       "joinedAt": 1772278942927,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "8276306471": {
+      "id": 8276306471,
+      "username": "",
+      "fullName": "Dipson Stha",
+      "points": 0,
+      "joinedAt": 1772281131038,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
