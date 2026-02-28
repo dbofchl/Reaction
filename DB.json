@@ -2159,5 +2159,6 @@
       "orderId": "BP7738749237MM5L1OJUQEVW",
       "createdAt": 1772238503138
     }
-  }
+  },
+  "reactCooldownMs": 300000
 }
