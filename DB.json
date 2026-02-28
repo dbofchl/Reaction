@@ -1587,11 +1587,11 @@
     "8252366864": {
       "id": 8252366864,
       "username": "",
-      "fullName": "",
-      "points": 0,
+      "fullName": "Kevin Olv",
+      "points": 1,
       "joinedAt": 1772238656353,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
