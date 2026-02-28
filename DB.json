@@ -2051,6 +2051,15 @@
       "joinedAt": 1772247778814,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "7952194571": {
+      "id": 7952194571,
+      "username": "hiinaufall",
+      "fullName": "Naufal Ceo",
+      "points": 0,
+      "joinedAt": 1772248479790,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
