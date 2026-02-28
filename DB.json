@@ -2288,10 +2288,19 @@
     },
     "8066194788": {
       "id": 8066194788,
+      "username": "Ikystore99",
+      "fullName": "Rizky Saputra",
+      "points": 0,
+      "joinedAt": 1772274322082,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8550274246": {
+      "id": 8550274246,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772274322082,
+      "joinedAt": 1772274697500,
       "lastDaily": null,
       "isNewUser": true
     }
