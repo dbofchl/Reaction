@@ -1604,12 +1604,21 @@
     },
     "6344194103": {
       "id": 6344194103,
-      "username": "",
-      "fullName": "",
+      "username": "hexata",
+      "fullName": "bам интересно узнать обо мне?",
       "points": 0,
       "joinedAt": 1772238871298,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8029134210": {
+      "id": 8029134210,
+      "username": "Anjingdimz",
+      "fullName": "Amba dor Dimz",
+      "points": 0,
+      "joinedAt": 1772238879772,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
