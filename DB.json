@@ -2136,11 +2136,11 @@
     "8189991899": {
       "id": 8189991899,
       "username": "",
-      "fullName": "",
-      "points": 0,
+      "fullName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+      "points": 1,
       "joinedAt": 1772254923278,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
