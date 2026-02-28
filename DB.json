@@ -2108,12 +2108,12 @@
     },
     "8225645256": {
       "id": 8225645256,
-      "username": "",
-      "fullName": "",
-      "points": 0,
+      "username": "IZINPENSIDULU",
+      "fullName": "IZIN PENSI",
+      "points": 1,
       "joinedAt": 1772254247926,
-      "lastDaily": null,
-      "isNewUser": true
+      "lastDaily": "2026-02-28",
+      "isNewUser": false
     }
   },
   "admins": [
