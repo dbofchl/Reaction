@@ -1907,6 +1907,15 @@
       "joinedAt": 1772243983713,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8255014817": {
+      "id": 8255014817,
+      "username": "",
+      "fullName": "Ahmed Alezi",
+      "points": 0,
+      "joinedAt": 1772244072105,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
