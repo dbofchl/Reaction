@@ -2042,6 +2042,15 @@
       "joinedAt": 1772247718776,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "7565648762": {
+      "id": 7565648762,
+      "username": "homemricos",
+      "fullName": "Home Recos himmer",
+      "points": 0,
+      "joinedAt": 1772247778814,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
