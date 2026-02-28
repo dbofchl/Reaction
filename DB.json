@@ -2013,13 +2013,6 @@
       "price": 15000,
       "orderId": "BP7738749237MM5L1OJUQEVW",
       "createdAt": 1772238503138
-    },
-    "BP7558087754MM5PEZQXA4AW": {
-      "userId": 7558087754,
-      "points": 30,
-      "price": 20000,
-      "orderId": "BP7558087754MM5PEZQXA4AW",
-      "createdAt": 1772245842656
     }
   }
 }
