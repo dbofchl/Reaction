@@ -18,6 +18,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "581487909": {
+      "id": 581487909,
+      "username": "Arisdeejay",
+      "fullName": "Aris Dj",
+      "points": 0,
+      "joinedAt": 1772602800122,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "819302344": {
       "id": 819302344,
       "username": "ventraSH",
@@ -2702,12 +2711,12 @@
     },
     "7217899563": {
       "id": 7217899563,
-      "username": "",
-      "fullName": "",
+      "username": "SHABONIDIN_08",
+      "fullName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤshahob ✌️",
       "points": 0,
       "joinedAt": 1772602439752,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
