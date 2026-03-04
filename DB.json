@@ -2411,6 +2411,15 @@
       "joinedAt": 1772593634232,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8479082447": {
+      "id": 8479082447,
+      "username": "gustod",
+      "fullName": "gusiii",
+      "points": 0,
+      "joinedAt": 1772594147048,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
