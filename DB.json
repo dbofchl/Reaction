@@ -2825,6 +2825,15 @@
       "joinedAt": 1772631627744,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7319649826": {
+      "id": 7319649826,
+      "username": "",
+      "fullName": "Mamat Mamat1",
+      "points": 0,
+      "joinedAt": 1772637015060,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
