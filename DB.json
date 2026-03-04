@@ -2639,12 +2639,21 @@
     },
     "8589915292": {
       "id": 8589915292,
-      "username": "",
-      "fullName": "",
+      "username": "Ultronlvl",
+      "fullName": "xultron",
       "points": 0,
       "joinedAt": 1772600648635,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6814657524": {
+      "id": 6814657524,
+      "username": "Xflash007",
+      "fullName": "X FLASH☠️",
+      "points": 0,
+      "joinedAt": 1772600695701,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
