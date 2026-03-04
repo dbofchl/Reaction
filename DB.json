@@ -2630,10 +2630,19 @@
     },
     "8263525850": {
       "id": 8263525850,
+      "username": "KINGSELLERTOP",
+      "fullName": "𝗞𝗜𝗡𝗚 𝗦𝗘𝗟𝗟𝗘𝗥 ⁰⁷ 🇮🇳",
+      "points": 0,
+      "joinedAt": 1772600541494,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8589915292": {
+      "id": 8589915292,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772600541494,
+      "joinedAt": 1772600648635,
       "lastDaily": null,
       "isNewUser": true
     }
