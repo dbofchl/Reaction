@@ -2460,9 +2460,18 @@
     "8666163584": {
       "id": 8666163584,
       "username": "",
-      "fullName": "",
+      "fullName": "lingg",
       "points": 0,
       "joinedAt": 1772594530847,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6577941677": {
+      "id": 6577941677,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772594927023,
       "lastDaily": null,
       "isNewUser": true
     }
