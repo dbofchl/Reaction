@@ -63,6 +63,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1324982322": {
+      "id": 1324982322,
+      "username": "Andra_Julio",
+      "fullName": "Andra gatot julio",
+      "points": 0,
+      "joinedAt": 1772596823076,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1368848281": {
       "id": 1368848281,
       "username": "psteamadmvip",
@@ -2505,11 +2514,11 @@
     "6658458423": {
       "id": 6658458423,
       "username": "",
-      "fullName": "",
+      "fullName": "Буду",
       "points": 0,
       "joinedAt": 1772596529963,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
