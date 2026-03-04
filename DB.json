@@ -2351,12 +2351,21 @@
     },
     "5694475638": {
       "id": 5694475638,
-      "username": "",
-      "fullName": "",
+      "username": "dosik_soft1",
+      "fullName": "DOSIK HACK",
       "points": 0,
       "joinedAt": 1772592644321,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8396468456": {
+      "id": 8396468456,
+      "username": "divyanshaujla",
+      "fullName": "D ɪ ᴠ ʏ ᴀ ɴ s ʜ ㅤA ᴜ ᴊ ʟ ᴀ",
+      "points": 0,
+      "joinedAt": 1772592697716,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
