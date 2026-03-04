@@ -2735,6 +2735,15 @@
       "joinedAt": 1772605135340,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7603771528": {
+      "id": 7603771528,
+      "username": "KeepSilentYap",
+      "fullName": "Kanjut Kuda",
+      "points": 0,
+      "joinedAt": 1772607390766,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
