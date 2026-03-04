@@ -2720,10 +2720,19 @@
     },
     "6625773152": {
       "id": 6625773152,
+      "username": "zizznigank",
+      "fullName": "𝗵𝗮𝗷𝗶 𝘇𝗶𝘇𝘇 𝘀𝘁𝗼𝗿𝗲",
+      "points": 0,
+      "joinedAt": 1772604246914,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6086391352": {
+      "id": 6086391352,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772604246914,
+      "joinedAt": 1772605135340,
       "lastDaily": null,
       "isNewUser": true
     }
