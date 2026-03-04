@@ -2451,9 +2451,18 @@
     "5864292307": {
       "id": 5864292307,
       "username": "",
-      "fullName": "",
+      "fullName": "NINJAA",
       "points": 0,
       "joinedAt": 1772594511228,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8666163584": {
+      "id": 8666163584,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772594530847,
       "lastDaily": null,
       "isNewUser": true
     }
