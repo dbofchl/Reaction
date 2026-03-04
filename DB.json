@@ -2486,12 +2486,12 @@
     },
     "7359140054": {
       "id": 7359140054,
-      "username": "",
-      "fullName": "",
+      "username": "ngbaotram2011",
+      "fullName": "MOQACINO",
       "points": 0,
       "joinedAt": 1772595268889,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -2586,6 +2586,13 @@
       "price": 50000,
       "orderId": "BP8397777664MM5Z6UFOK2YB",
       "createdAt": 1772262258667
+    },
+    "BP7359140054MMBHGRNWN5PM": {
+      "userId": 7359140054,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7359140054MMBHGRNWN5PM",
+      "createdAt": 1772595285619
     }
   },
   "reactCooldownMs": 300000
