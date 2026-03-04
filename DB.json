@@ -83,12 +83,12 @@
     },
     "1381700776": {
       "id": 1381700776,
-      "username": "",
-      "fullName": "",
+      "username": "fuck1legal",
+      "fullName": "Hanx",
       "points": 0,
       "joinedAt": 1772597850248,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1386675992": {
       "id": 1386675992,
@@ -2573,6 +2573,15 @@
       "joinedAt": 1772597832669,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6066751204": {
+      "id": 6066751204,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772599086082,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
