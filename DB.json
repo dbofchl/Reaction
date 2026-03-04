@@ -110,12 +110,12 @@
     },
     "1444314684": {
       "id": 1444314684,
-      "username": "",
-      "fullName": "",
+      "username": "estehhhh",
+      "fullName": "anggiiiiiii ✨",
       "points": 0,
       "joinedAt": 1772618882854,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1499498711": {
       "id": 1499498711,
@@ -2789,6 +2789,15 @@
       "joinedAt": 1772615256057,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7309452014": {
+      "id": 7309452014,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772623214269,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
