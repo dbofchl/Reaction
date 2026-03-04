@@ -2438,6 +2438,15 @@
       "joinedAt": 1772594262741,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8078429841": {
+      "id": 8078429841,
+      "username": "nayem889026",
+      "fullName": "nayem",
+      "points": 0,
+      "joinedAt": 1772594290342,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
