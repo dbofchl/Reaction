@@ -2603,12 +2603,21 @@
     },
     "8541140443": {
       "id": 8541140443,
-      "username": "",
-      "fullName": "",
+      "username": "Cacaadinooo",
+      "fullName": "Caca Ror",
       "points": 0,
       "joinedAt": 1772599632747,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8590833660": {
+      "id": 8590833660,
+      "username": "TRUSTED1209",
+      "fullName": "VIP X MOHSINNNNNNNNNNN",
+      "points": 0,
+      "joinedAt": 1772599716903,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
