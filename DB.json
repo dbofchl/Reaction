@@ -2531,12 +2531,21 @@
     },
     "7082484465": {
       "id": 7082484465,
-      "username": "",
-      "fullName": "",
+      "username": "ciwongxx",
+      "fullName": "ciwong ㅤㅤ",
       "points": 0,
       "joinedAt": 1772597404874,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7854900444": {
+      "id": 7854900444,
+      "username": "Ikypanelteam",
+      "fullName": "IKY TEAM VVIP",
+      "points": 0,
+      "joinedAt": 1772597669330,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
