@@ -2792,12 +2792,21 @@
     },
     "7309452014": {
       "id": 7309452014,
-      "username": "",
-      "fullName": "",
+      "username": "NoxXiter",
+      "fullName": "Mr Z",
       "points": 0,
       "joinedAt": 1772623214269,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6184740251": {
+      "id": 6184740251,
+      "username": "njancukkkkk",
+      "fullName": "A .",
+      "points": 0,
+      "joinedAt": 1772623562729,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
