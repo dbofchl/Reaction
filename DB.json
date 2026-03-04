@@ -2324,10 +2324,19 @@
     },
     "7094340408": {
       "id": 7094340408,
+      "username": "xgroxi_ff",
+      "fullName": "xgroxi FF",
+      "points": 0,
+      "joinedAt": 1772592582322,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6744285829": {
+      "id": 6744285829,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772592582322,
+      "joinedAt": 1772592606071,
       "lastDaily": null,
       "isNewUser": true
     }
