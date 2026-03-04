@@ -2396,12 +2396,21 @@
     },
     "8480270934": {
       "id": 8480270934,
-      "username": "",
-      "fullName": "",
+      "username": "lexysukaru",
+      "fullName": "lexy nebunu",
       "points": 0,
       "joinedAt": 1772593304799,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8297730962": {
+      "id": 8297730962,
+      "username": "ZMTEAMDRIP",
+      "fullName": "ZMTEAMDRIP",
+      "points": 0,
+      "joinedAt": 1772593634232,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
