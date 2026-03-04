@@ -2423,12 +2423,21 @@
     },
     "8346154949": {
       "id": 8346154949,
-      "username": "",
-      "fullName": "",
+      "username": "jupryinichol",
+      "fullName": "jupri salendro ilvantro nichol",
       "points": 0,
       "joinedAt": 1772594213341,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7395910829": {
+      "id": 7395910829,
+      "username": "varzzzj",
+      "fullName": "Xmpsl",
+      "points": 0,
+      "joinedAt": 1772594262741,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
