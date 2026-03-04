@@ -2468,10 +2468,19 @@
     },
     "6577941677": {
       "id": 6577941677,
+      "username": "nibiwexe",
+      "fullName": "KING NIBIW",
+      "points": 0,
+      "joinedAt": 1772594927023,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7982883873": {
+      "id": 7982883873,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772594927023,
+      "joinedAt": 1772595263147,
       "lastDaily": null,
       "isNewUser": true
     }
