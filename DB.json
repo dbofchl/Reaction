@@ -2690,6 +2690,15 @@
       "joinedAt": 1772602159327,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7728235882": {
+      "id": 7728235882,
+      "username": "",
+      "fullName": "احسان الله دانشیار",
+      "points": 0,
+      "joinedAt": 1772602372497,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
