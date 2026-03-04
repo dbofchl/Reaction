@@ -2594,12 +2594,12 @@
     },
     "8230509023": {
       "id": 8230509023,
-      "username": "",
-      "fullName": "",
+      "username": "tkclubnirob500",
+      "fullName": "𓊈𝐁𝐊™⚘ লিডার~নিরব বস⚘𓊉",
       "points": 0,
       "joinedAt": 1772599428064,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -2701,6 +2701,13 @@
       "price": 50000,
       "orderId": "BP7359140054MMBHGRNWN5PM",
       "createdAt": 1772595285619
+    },
+    "BP8230509023MMBJYKKQI53Y": {
+      "userId": 8230509023,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP8230509023MMBJYKKQI53Y",
+      "createdAt": 1772599475580
     }
   },
   "reactCooldownMs": 300000
