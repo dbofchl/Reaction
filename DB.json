@@ -2478,9 +2478,18 @@
     "7982883873": {
       "id": 7982883873,
       "username": "",
-      "fullName": "",
+      "fullName": "Meerzz",
       "points": 0,
       "joinedAt": 1772595263147,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7359140054": {
+      "id": 7359140054,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772595268889,
       "lastDaily": null,
       "isNewUser": true
     }
