@@ -1408,7 +1408,7 @@
       "id": 7998475811,
       "username": "DontolXiterr",
       "fullName": "Nika Nika",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772237422892,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -2901,11 +2901,11 @@
     "8431120578": {
       "id": 8431120578,
       "username": "",
-      "fullName": "",
+      "fullName": "ARAV SHAYER",
       "points": 0,
       "joinedAt": 1772698430655,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
