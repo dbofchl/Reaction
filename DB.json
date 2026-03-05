@@ -1408,7 +1408,7 @@
       "id": 7998475811,
       "username": "DontolXiterr",
       "fullName": "Nika Nika",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1772237422892,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -2877,6 +2877,15 @@
       "fullName": "Fityzyknomore",
       "points": 0,
       "joinedAt": 1772690547868,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8367581141": {
+      "id": 8367581141,
+      "username": "Renoxxx12",
+      "fullName": "Renox",
+      "points": 0,
+      "joinedAt": 1772691679559,
       "lastDaily": null,
       "isNewUser": false
     }
