@@ -2972,10 +2972,19 @@
     },
     "7785492755": {
       "id": 7785492755,
+      "username": "Puluplusu",
+      "fullName": "Dillaaa",
+      "points": 0,
+      "joinedAt": 1772735873728,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8212995741": {
+      "id": 8212995741,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772735873728,
+      "joinedAt": 1772738631422,
       "lastDaily": null,
       "isNewUser": true
     }
