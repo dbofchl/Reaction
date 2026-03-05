@@ -2936,12 +2936,12 @@
     },
     "6641077796": {
       "id": 6641077796,
-      "username": "",
-      "fullName": "",
+      "username": "Santuyajah2",
+      "fullName": "Rizz Empek",
       "points": 0,
       "joinedAt": 1772719913072,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -3078,6 +3078,13 @@
       "price": 50000,
       "orderId": "BP6894714223MMC79P80T92Z",
       "createdAt": 1772638626431
+    },
+    "BP7981561720MMDJP3G2T1O0": {
+      "userId": 7981561720,
+      "points": 10,
+      "price": 10000,
+      "orderId": "BP7981561720MMDJP3G2T1O0",
+      "createdAt": 1772719965756
     }
   },
   "reactCooldownMs": 300000
