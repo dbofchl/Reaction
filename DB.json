@@ -1408,7 +1408,7 @@
       "id": 7998475811,
       "username": "DontolXiterr",
       "fullName": "Nika Nika",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1772237422892,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -2963,10 +2963,19 @@
     },
     "8461470952": {
       "id": 8461470952,
+      "username": "Elitetotrade",
+      "fullName": "Elite Trade",
+      "points": 0,
+      "joinedAt": 1772734675953,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7785492755": {
+      "id": 7785492755,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772734675953,
+      "joinedAt": 1772735873728,
       "lastDaily": null,
       "isNewUser": true
     }
