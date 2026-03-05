@@ -2915,6 +2915,15 @@
       "joinedAt": 1772716120330,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6525454792": {
+      "id": 6525454792,
+      "username": "vanzzmod",
+      "fullName": "vanxz",
+      "points": 0,
+      "joinedAt": 1772719508314,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
