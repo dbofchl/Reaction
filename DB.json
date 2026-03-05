@@ -1408,7 +1408,7 @@
       "id": 7998475811,
       "username": "DontolXiterr",
       "fullName": "Nika Nika",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772237422892,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -2865,11 +2865,11 @@
     "7550261454": {
       "id": 7550261454,
       "username": "",
-      "fullName": "",
+      "fullName": "Best Seller",
       "points": 0,
       "joinedAt": 1772681801536,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
