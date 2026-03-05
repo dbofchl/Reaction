@@ -2855,10 +2855,19 @@
     },
     "6729740336": {
       "id": 6729740336,
+      "username": "gkggRrrrr",
+      "fullName": "Shodow",
+      "points": 0,
+      "joinedAt": 1772670496762,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7550261454": {
+      "id": 7550261454,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772670496762,
+      "joinedAt": 1772681801536,
       "lastDaily": null,
       "isNewUser": true
     }
