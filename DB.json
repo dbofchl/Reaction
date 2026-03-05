@@ -2954,10 +2954,19 @@
     },
     "6831890154": {
       "id": 6831890154,
+      "username": "PAPAJYAxHANTER",
+      "fullName": "PSTeamAdm",
+      "points": 0,
+      "joinedAt": 1772729536092,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8461470952": {
+      "id": 8461470952,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772729536092,
+      "joinedAt": 1772734675953,
       "lastDaily": null,
       "isNewUser": true
     }
