@@ -2927,10 +2927,19 @@
     },
     "7981561720": {
       "id": 7981561720,
+      "username": "wafiilevi",
+      "fullName": "𝐃𝐂𝐌𝐓-𝙬𝙖𝙛𝙞𝙞-𝙡𝙚𝙫𝙞 | #Global99",
+      "points": 0,
+      "joinedAt": 1772719796724,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6641077796": {
+      "id": 6641077796,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772719796724,
+      "joinedAt": 1772719913072,
       "lastDaily": null,
       "isNewUser": true
     }
