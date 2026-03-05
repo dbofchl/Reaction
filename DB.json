@@ -2929,7 +2929,7 @@
       "id": 7981561720,
       "username": "wafiilevi",
       "fullName": "𝐃𝐂𝐌𝐓-𝙬𝙖𝙛𝙞𝙞-𝙡𝙚𝙫𝙞 | #Global99",
-      "points": 0,
+      "points": 10,
       "joinedAt": 1772719796724,
       "lastDaily": null,
       "isNewUser": false
@@ -3078,13 +3078,6 @@
       "price": 50000,
       "orderId": "BP6894714223MMC79P80T92Z",
       "createdAt": 1772638626431
-    },
-    "BP7981561720MMDJP3G2T1O0": {
-      "userId": 7981561720,
-      "points": 10,
-      "price": 10000,
-      "orderId": "BP7981561720MMDJP3G2T1O0",
-      "createdAt": 1772719965756
     }
   },
   "reactCooldownMs": 300000
