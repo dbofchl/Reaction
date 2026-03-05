@@ -2846,10 +2846,19 @@
     },
     "7769629910": {
       "id": 7769629910,
+      "username": "nadyagemoy",
+      "fullName": "nadyagemoy12",
+      "points": 0,
+      "joinedAt": 1772670461856,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6729740336": {
+      "id": 6729740336,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772670461856,
+      "joinedAt": 1772670496762,
       "lastDaily": null,
       "isNewUser": true
     }
