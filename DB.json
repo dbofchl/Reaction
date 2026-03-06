@@ -3081,9 +3081,18 @@
     "8078386514": {
       "id": 8078386514,
       "username": "",
-      "fullName": "",
+      "fullName": "Sunny Ramgarhia",
       "points": 0,
       "joinedAt": 1772823666822,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7339008277": {
+      "id": 7339008277,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772824044000,
       "lastDaily": null,
       "isNewUser": true
     }
