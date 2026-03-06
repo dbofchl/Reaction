@@ -2999,10 +2999,19 @@
     },
     "7980799007": {
       "id": 7980799007,
+      "username": "saabroww",
+      "fullName": "ㅤ",
+      "points": 0,
+      "joinedAt": 1772763500433,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8377503287": {
+      "id": 8377503287,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772763500433,
+      "joinedAt": 1772771771927,
       "lastDaily": null,
       "isNewUser": true
     }
