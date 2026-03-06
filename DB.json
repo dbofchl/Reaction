@@ -3054,9 +3054,18 @@
     "7400899597": {
       "id": 7400899597,
       "username": "",
-      "fullName": "",
+      "fullName": "DHANNNN",
       "points": 0,
       "joinedAt": 1772810800636,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7930777925": {
+      "id": 7930777925,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772811055027,
       "lastDaily": null,
       "isNewUser": true
     }
