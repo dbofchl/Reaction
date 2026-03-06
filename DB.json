@@ -3089,12 +3089,21 @@
     },
     "7339008277": {
       "id": 7339008277,
-      "username": "",
-      "fullName": "",
+      "username": "dilxVXII",
+      "fullName": "𝐃𝐢𝐥𝐱𝐕𝐗𝐈𝐈",
       "points": 0,
       "joinedAt": 1772824044000,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6768740816": {
+      "id": 6768740816,
+      "username": "mio_mirzaa",
+      "fullName": "Mio Mirza",
+      "points": 0,
+      "joinedAt": 1772832652609,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
