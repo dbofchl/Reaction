@@ -3035,10 +3035,19 @@
     },
     "7646292634": {
       "id": 7646292634,
+      "username": "Vmod00",
+      "fullName": "Kontol Kontol",
+      "points": 0,
+      "joinedAt": 1772797567211,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8469880362": {
+      "id": 8469880362,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1772797567211,
+      "joinedAt": 1772806390169,
       "lastDaily": null,
       "isNewUser": true
     }
