@@ -3009,9 +3009,18 @@
     "8377503287": {
       "id": 8377503287,
       "username": "",
-      "fullName": "",
+      "fullName": "Baim Store",
       "points": 0,
       "joinedAt": 1772771771927,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8472039219": {
+      "id": 8472039219,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1772772687410,
       "lastDaily": null,
       "isNewUser": true
     }
