@@ -3023,6 +3023,15 @@
       "joinedAt": 1772772687410,
       "lastDaily": null,
       "isNewUser": true
+    },
+    "5451687188": {
+      "id": 5451687188,
+      "username": "rnkexotic",
+      "fullName": "Dhruv S",
+      "points": 0,
+      "joinedAt": 1772778981936,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
