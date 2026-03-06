@@ -3204,13 +3204,6 @@
       "price": 50000,
       "orderId": "BP6894714223MMC79P80T92Z",
       "createdAt": 1772638626431
-    },
-    "BP7930777925MMF1YK8KTOHM": {
-      "userId": 7930777925,
-      "points": 10,
-      "price": 10000,
-      "orderId": "BP7930777925MMF1YK8KTOHM",
-      "createdAt": 1772811106645
     }
   },
   "reactCooldownMs": 300000
