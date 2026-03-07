@@ -3249,13 +3249,6 @@
       "price": 50000,
       "orderId": "BP6894714223MMC79P80T92Z",
       "createdAt": 1772638626431
-    },
-    "BP8060977023MMFZA7S10OP2": {
-      "userId": 8060977023,
-      "points": 10,
-      "price": 10000,
-      "orderId": "BP8060977023MMFZA7S10OP2",
-      "createdAt": 1772867077689
     }
   },
   "reactCooldownMs": 300000
