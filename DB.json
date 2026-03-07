@@ -3131,6 +3131,15 @@
       "joinedAt": 1772877582837,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5734768051": {
+      "id": 5734768051,
+      "username": "",
+      "fullName": "Thomas And Slebew",
+      "points": 0,
+      "joinedAt": 1772892659231,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
