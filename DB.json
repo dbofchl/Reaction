@@ -1408,7 +1408,7 @@
       "id": 7998475811,
       "username": "DontolXiterr",
       "fullName": "Nika Nika",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772237422892,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -3116,12 +3116,21 @@
     },
     "6100785890": {
       "id": 6100785890,
-      "username": "",
-      "fullName": "",
+      "username": "ONLYGOATz",
+      "fullName": "𝑂𝑁𝐿𝑌 𝐺𝑂𝐴𝑇 〆",
       "points": 0,
       "joinedAt": 1772867165883,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8463622692": {
+      "id": 8463622692,
+      "username": "Fiqqxz",
+      "fullName": "FIQQ",
+      "points": 0,
+      "joinedAt": 1772877582837,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
