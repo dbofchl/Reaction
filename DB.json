@@ -3167,6 +3167,15 @@
       "joinedAt": 1772938048216,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6643364628": {
+      "id": 6643364628,
+      "username": "",
+      "fullName": "كريم حسام",
+      "points": 0,
+      "joinedAt": 1773012686099,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
