@@ -3152,12 +3152,21 @@
     },
     "7225516008": {
       "id": 7225516008,
-      "username": "",
-      "fullName": "",
+      "username": "exnmtt",
+      "fullName": "𝙈𝙞𝙣𝙝",
       "points": 0,
       "joinedAt": 1772894595570,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6647745604": {
+      "id": 6647745604,
+      "username": "remcoeve",
+      "fullName": "mark",
+      "points": 0,
+      "joinedAt": 1772938048216,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
