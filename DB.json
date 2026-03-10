@@ -3197,12 +3197,12 @@
     },
     "7950740371": {
       "id": 7950740371,
-      "username": "",
-      "fullName": "",
+      "username": "razzsetting",
+      "fullName": "MAN",
       "points": 0,
       "joinedAt": 1773131983472,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -3339,6 +3339,13 @@
       "price": 50000,
       "orderId": "BP6894714223MMC79P80T92Z",
       "createdAt": 1772638626431
+    },
+    "BP7950740371MMKD0CQTV6D5": {
+      "userId": 7950740371,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7950740371MMKD0CQTV6D5",
+      "createdAt": 1773131996881
     }
   },
   "reactCooldownMs": 300000
