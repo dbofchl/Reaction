@@ -3243,11 +3243,11 @@
     "8790576862": {
       "id": 8790576862,
       "username": "",
-      "fullName": "",
+      "fullName": "Adeew Sadewa",
       "points": 0,
       "joinedAt": 1773220249162,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -3391,6 +3391,13 @@
       "price": 50000,
       "orderId": "BP7950740371MMKD0CQTV6D5",
       "createdAt": 1773131996881
+    },
+    "BP8790576862MMLTK6LD813D": {
+      "userId": 8790576862,
+      "points": 10,
+      "price": 10000,
+      "orderId": "BP8790576862MMLTK6LD813D",
+      "createdAt": 1773220262435
     }
   },
   "reactCooldownMs": 300000
