@@ -3230,6 +3230,15 @@
       "joinedAt": 1773192802290,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8289564942": {
+      "id": 8289564942,
+      "username": "",
+      "fullName": "Over Goku",
+      "points": 0,
+      "joinedAt": 1773205834763,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
