@@ -3620,12 +3620,21 @@
     },
     "7994862337": {
       "id": 7994862337,
-      "username": "",
-      "fullName": "",
+      "username": "PARZZ_TORU",
+      "fullName": "Jarz .",
       "points": 0,
       "joinedAt": 1773393333135,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6911424379": {
+      "id": 6911424379,
+      "username": "",
+      "fullName": "Ihs Ywj",
+      "points": 0,
+      "joinedAt": 1773393608434,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
