@@ -3566,12 +3566,21 @@
     },
     "6047145383": {
       "id": 6047145383,
-      "username": "",
-      "fullName": "",
+      "username": "Yash34112",
+      "fullName": "Aryan",
       "points": 0,
       "joinedAt": 1773392255665,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6219733131": {
+      "id": 6219733131,
+      "username": "yahyaahmdi00",
+      "fullName": "Yahya",
+      "points": 0,
+      "joinedAt": 1773392597901,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
