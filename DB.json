@@ -3819,11 +3819,11 @@
     "8096527738": {
       "id": 8096527738,
       "username": "",
-      "fullName": "",
+      "fullName": "Morshed Alam",
       "points": 0,
       "joinedAt": 1773426544039,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
