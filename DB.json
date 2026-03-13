@@ -3755,10 +3755,19 @@
     },
     "8450122205": {
       "id": 8450122205,
+      "username": "Baby_rosex",
+      "fullName": "ʙᴀʙʏ ʀᴏꜱᴇ",
+      "points": 0,
+      "joinedAt": 1773412299607,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8313093238": {
+      "id": 8313093238,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1773412299607,
+      "joinedAt": 1773417907377,
       "lastDaily": null,
       "isNewUser": true
     }
