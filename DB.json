@@ -3955,13 +3955,6 @@
       "price": 10000,
       "orderId": "BP8190778121MMOPQAXLAPYG",
       "createdAt": 1773395230468
-    },
-    "BP8528238898MMP4MUJ84LCA": {
-      "userId": 8528238898,
-      "points": 30,
-      "price": 20000,
-      "orderId": "BP8528238898MMP4MUJ84LCA",
-      "createdAt": 1773420261162
     }
   },
   "reactCooldownMs": 300000
