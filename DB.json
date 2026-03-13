@@ -3311,6 +3311,15 @@
       "joinedAt": 1773388589018,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8471195890": {
+      "id": 8471195890,
+      "username": "binnasu43",
+      "fullName": "binn_12",
+      "points": 0,
+      "joinedAt": 1773388598414,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
