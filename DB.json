@@ -3395,12 +3395,12 @@
     },
     "8165685874": {
       "id": 8165685874,
-      "username": "",
-      "fullName": "",
+      "username": "devlopn",
+      "fullName": "DEV",
       "points": 0,
       "joinedAt": 1773389072256,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
