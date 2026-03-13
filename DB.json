@@ -3648,9 +3648,18 @@
     "8334137111": {
       "id": 8334137111,
       "username": "",
-      "fullName": "",
+      "fullName": "KM Akash",
       "points": 0,
       "joinedAt": 1773394796855,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8190778121": {
+      "id": 8190778121,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773395179077,
       "lastDaily": null,
       "isNewUser": true
     }
