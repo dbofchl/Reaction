@@ -3278,12 +3278,21 @@
     },
     "8009734289": {
       "id": 8009734289,
-      "username": "",
-      "fullName": "",
+      "username": "Sanaya_miner",
+      "fullName": "Sanaya",
       "points": 0,
       "joinedAt": 1773388535720,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5960364566": {
+      "id": 5960364566,
+      "username": "SHAHUL_CONFIG",
+      "fullName": "SHAHUL",
+      "points": 0,
+      "joinedAt": 1773388538553,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
