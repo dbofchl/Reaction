@@ -191,12 +191,12 @@
     },
     "1972984799": {
       "id": 1972984799,
-      "username": "",
-      "fullName": "",
+      "username": "Adm_Loren",
+      "fullName": "Pratik",
       "points": 0,
       "joinedAt": 1773396846633,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "2081878666": {
       "id": 2081878666,
@@ -3707,6 +3707,15 @@
       "joinedAt": 1773396313801,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7544794309": {
+      "id": 7544794309,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773397006717,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
