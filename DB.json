@@ -189,6 +189,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1972984799": {
+      "id": 1972984799,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773396846633,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "2081878666": {
       "id": 2081878666,
       "username": "slava6x",
@@ -3692,12 +3701,12 @@
     },
     "7758136807": {
       "id": 7758136807,
-      "username": "",
-      "fullName": "",
+      "username": "Fanzz998",
+      "fullName": "F88",
       "points": 0,
       "joinedAt": 1773396313801,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
