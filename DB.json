@@ -3522,11 +3522,20 @@
     "7797491207": {
       "id": 7797491207,
       "username": "",
-      "fullName": "",
+      "fullName": "𝐒𝐱 ⻰ /𝐊𝐳𝐱𝐬𝐲𝐧𝐬𝐞",
       "points": 0,
       "joinedAt": 1773390516245,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8415344860": {
+      "id": 8415344860,
+      "username": "Ranwkwkwk",
+      "fullName": "ran",
+      "points": 0,
+      "joinedAt": 1773390670845,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
