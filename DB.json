@@ -3500,6 +3500,15 @@
       "joinedAt": 1773389924255,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5637461113": {
+      "id": 5637461113,
+      "username": "VeatzDe",
+      "fullName": "VeatzDe .",
+      "points": 0,
+      "joinedAt": 1773390034471,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
