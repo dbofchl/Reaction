@@ -3809,10 +3809,19 @@
     },
     "5577340669": {
       "id": 5577340669,
+      "username": "nvtgamer007",
+      "fullName": "MH-32",
+      "points": 0,
+      "joinedAt": 1773422589452,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8096527738": {
+      "id": 8096527738,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1773422589452,
+      "joinedAt": 1773426544039,
       "lastDaily": null,
       "isNewUser": true
     }
