@@ -1968,7 +1968,7 @@
       "fullName": "its_",
       "points": 1,
       "joinedAt": 1772242856348,
-      "lastDaily": "2026-02-28",
+      "lastDaily": "2026-03-13",
       "isNewUser": false
     },
     "8409892423": {
@@ -3710,12 +3710,12 @@
     },
     "7544794309": {
       "id": 7544794309,
-      "username": "",
-      "fullName": "",
+      "username": "Ngnbinh",
+      "fullName": "Nguyễn Bình",
       "points": 0,
       "joinedAt": 1773397006717,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
