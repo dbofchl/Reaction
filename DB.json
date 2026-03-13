@@ -3428,6 +3428,15 @@
       "joinedAt": 1773389426487,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6418652345": {
+      "id": 6418652345,
+      "username": "Vgch45",
+      "fullName": "Vishal Prajapat",
+      "points": 0,
+      "joinedAt": 1773389454432,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
