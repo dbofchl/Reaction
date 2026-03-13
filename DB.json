@@ -3603,9 +3603,18 @@
     "8017894960": {
       "id": 8017894960,
       "username": "",
-      "fullName": "",
+      "fullName": "⏤‌‌‌‌Xv7 || ZIDZZ",
       "points": 0,
       "joinedAt": 1773393164923,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7309268662": {
+      "id": 7309268662,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773393206099,
       "lastDaily": null,
       "isNewUser": true
     }
