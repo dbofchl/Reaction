@@ -3261,11 +3261,20 @@
     "7974827531": {
       "id": 7974827531,
       "username": "",
-      "fullName": "",
+      "fullName": "𓆩 𝐃𝐚𝐤𝐮 Avijit 𓆪",
       "points": 0,
       "joinedAt": 1773388528464,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6923630549": {
+      "id": 6923630549,
+      "username": "mr_amju_rk",
+      "fullName": "Aᴍᴊᴀᴅ 모",
+      "points": 0,
+      "joinedAt": 1773388531459,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
