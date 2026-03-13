@@ -3773,10 +3773,19 @@
     },
     "7865296786": {
       "id": 7865296786,
+      "username": "xrcortex",
+      "fullName": "xr cortex",
+      "points": 0,
+      "joinedAt": 1773419247676,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8240248779": {
+      "id": 8240248779,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1773419247676,
+      "joinedAt": 1773419868609,
       "lastDaily": null,
       "isNewUser": true
     }
