@@ -3449,12 +3449,21 @@
     },
     "8295607625": {
       "id": 8295607625,
-      "username": "",
-      "fullName": "",
+      "username": "six_epan",
+      "fullName": "SIX_SEVEN_epan[ LAGI KENA LIMIT ] 👾💤👻",
       "points": 0,
       "joinedAt": 1773389597155,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7058381885": {
+      "id": 7058381885,
+      "username": "kaiznedfedbeckgag",
+      "fullName": "kaizz sobaabu",
+      "points": 0,
+      "joinedAt": 1773389610608,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
