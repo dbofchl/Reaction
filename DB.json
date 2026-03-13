@@ -3320,6 +3320,15 @@
       "joinedAt": 1773388598414,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8297554465": {
+      "id": 8297554465,
+      "username": "",
+      "fullName": "Suresh S",
+      "points": 0,
+      "joinedAt": 1773388638572,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
