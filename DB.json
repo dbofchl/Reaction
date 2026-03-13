@@ -632,7 +632,7 @@
     },
     "8084918359": {
       "id": 8084918359,
-      "username": "ALKIRUADM2",
+      "username": "ALKIRUADM",
       "fullName": "ALKIRU",
       "points": 0,
       "joinedAt": 1772172859693,
@@ -3495,11 +3495,11 @@
     "7262146145": {
       "id": 7262146145,
       "username": "",
-      "fullName": "",
+      "fullName": "Katyaaa",
       "points": 0,
       "joinedAt": 1773389924255,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
