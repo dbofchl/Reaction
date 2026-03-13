@@ -3720,9 +3720,18 @@
     "6626276592": {
       "id": 6626276592,
       "username": "",
-      "fullName": "",
+      "fullName": "Abd AL mooen Bougazia",
       "points": 0,
       "joinedAt": 1773402925314,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5810676711": {
+      "id": 5810676711,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773406953174,
       "lastDaily": null,
       "isNewUser": true
     }
