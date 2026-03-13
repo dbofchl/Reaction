@@ -81,6 +81,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1333213345": {
+      "id": 1333213345,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773394199232,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1368848281": {
       "id": 1368848281,
       "username": "psteamadmvip",
