@@ -83,12 +83,12 @@
     },
     "1333213345": {
       "id": 1333213345,
-      "username": "",
-      "fullName": "",
+      "username": "gallihputra",
+      "fullName": "Gallih Putra",
       "points": 0,
       "joinedAt": 1773394199232,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1368848281": {
       "id": 1368848281,
@@ -3644,6 +3644,15 @@
       "joinedAt": 1773393608434,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8334137111": {
+      "id": 8334137111,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773394796855,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
