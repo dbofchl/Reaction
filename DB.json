@@ -3737,12 +3737,21 @@
     },
     "7010005211": {
       "id": 7010005211,
-      "username": "",
-      "fullName": "",
+      "username": "xxwnaaan",
+      "fullName": "ya",
       "points": 0,
       "joinedAt": 1773410891630,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8497939580": {
+      "id": 8497939580,
+      "username": "wloyer",
+      "fullName": "KURAMA HACK",
+      "points": 0,
+      "joinedAt": 1773412211740,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
