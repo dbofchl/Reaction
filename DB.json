@@ -3413,12 +3413,21 @@
     },
     "8215081790": {
       "id": 8215081790,
-      "username": "",
-      "fullName": "",
+      "username": "SAHID12Y",
+      "fullName": "SAHID",
       "points": 0,
       "joinedAt": 1773389315566,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8656000702": {
+      "id": 8656000702,
+      "username": "",
+      "fullName": "muhib",
+      "points": 0,
+      "joinedAt": 1773389426487,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
