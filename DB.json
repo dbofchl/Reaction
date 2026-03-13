@@ -3765,9 +3765,18 @@
     "8313093238": {
       "id": 8313093238,
       "username": "",
-      "fullName": "",
+      "fullName": "Ajay Rai",
       "points": 0,
       "joinedAt": 1773417907377,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7865296786": {
+      "id": 7865296786,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773419247676,
       "lastDaily": null,
       "isNewUser": true
     }
