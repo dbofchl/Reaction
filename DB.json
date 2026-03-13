@@ -3982,13 +3982,6 @@
       "price": 10000,
       "orderId": "BP8190778121MMOPQAXLAPYG",
       "createdAt": 1773395230468
-    },
-    "BP8084918359MMPCLFV2VETL": {
-      "userId": 8084918359,
-      "points": 100,
-      "price": 50000,
-      "orderId": "BP8084918359MMPCLFV2VETL",
-      "createdAt": 1773433632576
     }
   },
   "reactCooldownMs": 300000
