@@ -3665,12 +3665,12 @@
     },
     "6102530261": {
       "id": 6102530261,
-      "username": "",
-      "fullName": "",
+      "username": "lilysssssq",
+      "fullName": "kim",
       "points": 0,
       "joinedAt": 1773395190026,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -3822,6 +3822,13 @@
       "price": 10000,
       "orderId": "BP8790576862MMLTK6LD813D",
       "createdAt": 1773220262435
+    },
+    "BP8190778121MMOPQAXLAPYG": {
+      "userId": 8190778121,
+      "points": 10,
+      "price": 10000,
+      "orderId": "BP8190778121MMOPQAXLAPYG",
+      "createdAt": 1773395230468
     }
   },
   "reactCooldownMs": 300000
