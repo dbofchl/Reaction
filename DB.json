@@ -3329,6 +3329,15 @@
       "joinedAt": 1773388638572,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8005635583": {
+      "id": 8005635583,
+      "username": "rafikulislam000",
+      "fullName": "Rafikul Islam",
+      "points": 0,
+      "joinedAt": 1773388662309,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
