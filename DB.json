@@ -3837,9 +3837,18 @@
     "8274994460": {
       "id": 8274994460,
       "username": "",
-      "fullName": "",
+      "fullName": "Hj Jjj",
       "points": 0,
       "joinedAt": 1773455577182,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6942776949": {
+      "id": 6942776949,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773460476600,
       "lastDaily": null,
       "isNewUser": true
     }
