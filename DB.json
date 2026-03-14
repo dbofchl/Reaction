@@ -45,6 +45,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "988038638": {
+      "id": 988038638,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773479830504,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1160976551": {
       "id": 1160976551,
       "username": "limitbosq",
@@ -3855,11 +3864,11 @@
     "5807812007": {
       "id": 5807812007,
       "username": "",
-      "fullName": "",
+      "fullName": "Badhon Ahmed",
       "points": 0,
       "joinedAt": 1773468639966,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
