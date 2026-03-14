@@ -3846,9 +3846,18 @@
     "6942776949": {
       "id": 6942776949,
       "username": "",
-      "fullName": "",
+      "fullName": "md eassa",
       "points": 0,
       "joinedAt": 1773460476600,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5807812007": {
+      "id": 5807812007,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773468639966,
       "lastDaily": null,
       "isNewUser": true
     }
