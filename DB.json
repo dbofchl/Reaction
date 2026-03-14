@@ -47,12 +47,12 @@
     },
     "988038638": {
       "id": 988038638,
-      "username": "",
-      "fullName": "",
+      "username": "yoelcoo",
+      "fullName": "marko",
       "points": 0,
       "joinedAt": 1773479830504,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1160976551": {
       "id": 1160976551,
@@ -3867,6 +3867,15 @@
       "fullName": "Badhon Ahmed",
       "points": 0,
       "joinedAt": 1773468639966,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8467366612": {
+      "id": 8467366612,
+      "username": "",
+      "fullName": "A h",
+      "points": 0,
+      "joinedAt": 1773482127342,
       "lastDaily": null,
       "isNewUser": false
     }
