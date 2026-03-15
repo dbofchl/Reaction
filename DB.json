@@ -3909,9 +3909,18 @@
     "8539945325": {
       "id": 8539945325,
       "username": "",
-      "fullName": "",
+      "fullName": "Fey Savior",
       "points": 0,
       "joinedAt": 1773578144509,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7991609465": {
+      "id": 7991609465,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773580515680,
       "lastDaily": null,
       "isNewUser": true
     }
