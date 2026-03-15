@@ -3899,10 +3899,19 @@
     },
     "7052776056": {
       "id": 7052776056,
+      "username": "seifad",
+      "fullName": "Seif Adel",
+      "points": 0,
+      "joinedAt": 1773542841261,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8539945325": {
+      "id": 8539945325,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1773542841261,
+      "joinedAt": 1773578144509,
       "lastDaily": null,
       "isNewUser": true
     }
