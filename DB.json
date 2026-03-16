@@ -3941,6 +3941,15 @@
       "joinedAt": 1773592732468,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6480827931": {
+      "id": 6480827931,
+      "username": "DRIP_CLIENT_OFFICIAL",
+      "fullName": "DRIP CLIENT OFFICIAL",
+      "points": 0,
+      "joinedAt": 1773638027142,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
