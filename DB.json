@@ -3963,9 +3963,18 @@
     "7827017935": {
       "id": 7827017935,
       "username": "",
-      "fullName": "",
+      "fullName": "Муслим",
       "points": 0,
       "joinedAt": 1773710033695,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5410825012": {
+      "id": 5410825012,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1773924330042,
       "lastDaily": null,
       "isNewUser": true
     }
