@@ -3971,12 +3971,21 @@
     },
     "5410825012": {
       "id": 5410825012,
-      "username": "",
-      "fullName": "",
+      "username": "pinznewera",
+      "fullName": "Pinz New Era",
       "points": 0,
       "joinedAt": 1773924330042,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7681055086": {
+      "id": 7681055086,
+      "username": "Anshsinghl",
+      "fullName": "Ansh Singh",
+      "points": 0,
+      "joinedAt": 1773925217266,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
