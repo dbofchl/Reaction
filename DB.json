@@ -3998,10 +3998,19 @@
     },
     "6853028104": {
       "id": 6853028104,
+      "username": "ajao_bhai_jaldi",
+      "fullName": "👽",
+      "points": 0,
+      "joinedAt": 1774005836433,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7468938246": {
+      "id": 7468938246,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1774005836433,
+      "joinedAt": 1774423618429,
       "lastDaily": null,
       "isNewUser": true
     }
