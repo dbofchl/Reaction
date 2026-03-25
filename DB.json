@@ -144,6 +144,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1608828279": {
+      "id": 1608828279,
+      "username": "BLUEx444",
+      "fullName": "●─BLUE x 444─●𓅂🫆",
+      "points": 0,
+      "joinedAt": 1774423672736,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1641973828": {
       "id": 1641973828,
       "username": "Off_FLVVSH",
@@ -4009,19 +4018,19 @@
       "id": 7468938246,
       "username": "CheatAction",
       "fullName": "Lumani",
-      "points": 0,
+      "points": 2,
       "joinedAt": 1774423618429,
       "lastDaily": null,
       "isNewUser": false
     },
     "8398305371": {
       "id": 8398305371,
-      "username": "",
-      "fullName": "",
+      "username": "Lavisxd",
+      "fullName": "Lavis",
       "points": 0,
       "joinedAt": 1774423651195,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
