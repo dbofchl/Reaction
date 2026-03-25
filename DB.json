@@ -4007,10 +4007,19 @@
     },
     "7468938246": {
       "id": 7468938246,
+      "username": "CheatAction",
+      "fullName": "Lumani",
+      "points": 0,
+      "joinedAt": 1774423618429,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8398305371": {
+      "id": 8398305371,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1774423618429,
+      "joinedAt": 1774423651195,
       "lastDaily": null,
       "isNewUser": true
     }
