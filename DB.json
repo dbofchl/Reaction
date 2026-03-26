@@ -4031,6 +4031,15 @@
       "joinedAt": 1774423651195,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5547765852": {
+      "id": 5547765852,
+      "username": "anonymindo",
+      "fullName": "anonymous",
+      "points": 0,
+      "joinedAt": 1774543275220,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
