@@ -4053,9 +4053,18 @@
     "8414628691": {
       "id": 8414628691,
       "username": "",
-      "fullName": "",
+      "fullName": "Latin",
       "points": 0,
       "joinedAt": 1774708000116,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7743479232": {
+      "id": 7743479232,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1774788275354,
       "lastDaily": null,
       "isNewUser": true
     }
