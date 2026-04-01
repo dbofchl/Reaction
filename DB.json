@@ -4260,13 +4260,6 @@
       "price": 10000,
       "orderId": "BP1368848281MNFKIFDI42R6",
       "createdAt": 1775019048909
-    },
-    "BP8461982480MNFKL904SV2Q": {
-      "userId": 8461982480,
-      "points": 10,
-      "price": 10000,
-      "orderId": "BP8461982480MNFKL904SV2Q",
-      "createdAt": 1775019185630
     }
   },
   "reactCooldownMs": 300000
