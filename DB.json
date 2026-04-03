@@ -4107,11 +4107,11 @@
     "5123977434": {
       "id": 5123977434,
       "username": "",
-      "fullName": "",
+      "fullName": "OP MBS",
       "points": 0,
       "joinedAt": 1775219278037,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -4285,6 +4285,13 @@
       "price": 10000,
       "orderId": "BP1368848281MNFRID0RHHYO",
       "createdAt": 1775030803112
+    },
+    "BP8359149620MNIZ5THTF8YG": {
+      "userId": 8359149620,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP8359149620MNIZ5THTF8YG",
+      "createdAt": 1775225053409
     }
   },
   "reactCooldownMs": 300000
