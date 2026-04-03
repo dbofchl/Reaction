@@ -4097,10 +4097,19 @@
     },
     "8163135146": {
       "id": 8163135146,
+      "username": "Assailants_Orthognathy",
+      "fullName": "Sohen Khan",
+      "points": 0,
+      "joinedAt": 1775156447741,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5123977434": {
+      "id": 5123977434,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1775156447741,
+      "joinedAt": 1775219278037,
       "lastDaily": null,
       "isNewUser": true
     }
