@@ -4139,6 +4139,15 @@
       "joinedAt": 1775745641953,
       "lastDaily": null,
       "isNewUser": true
+    },
+    "7780278240": {
+      "id": 7780278240,
+      "username": "anshu1079",
+      "fullName": "⚡",
+      "points": 0,
+      "joinedAt": 1776405808275,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
