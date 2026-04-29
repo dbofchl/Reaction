@@ -4148,6 +4148,15 @@
       "joinedAt": 1776405808275,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7735610541": {
+      "id": 7735610541,
+      "username": "ftalphaaa",
+      "fullName": "Alpha",
+      "points": 0,
+      "joinedAt": 1777460666758,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
