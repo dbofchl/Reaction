@@ -4157,6 +4157,15 @@
       "joinedAt": 1777460666758,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5400979488": {
+      "id": 5400979488,
+      "username": "sixxvanz",
+      "fullName": "CRASH+sev",
+      "points": 0,
+      "joinedAt": 1777625804221,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
