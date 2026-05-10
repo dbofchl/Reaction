@@ -4355,13 +4355,6 @@
       "price": 50000,
       "orderId": "BP7735610541MOJY743KG90X",
       "createdAt": 1777460682706
-    },
-    "BP8031285841MOZE01RTP9L8": {
-      "userId": 8031285841,
-      "points": 10,
-      "price": 10000,
-      "orderId": "BP8031285841MOZE01RTP9L8",
-      "createdAt": 1778394219558
     }
   },
   "reactCooldownMs": 300000
