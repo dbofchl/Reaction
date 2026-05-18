@@ -4259,12 +4259,21 @@
     },
     "5656729888": {
       "id": 5656729888,
-      "username": "",
-      "fullName": "",
+      "username": "vijaykumar614",
+      "fullName": "Vinay Kumar",
       "points": 0,
       "joinedAt": 1779094365144,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7413654576": {
+      "id": 7413654576,
+      "username": "Izfix",
+      "fullName": "IZ",
+      "points": 0,
+      "joinedAt": 1779094405109,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
