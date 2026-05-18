@@ -4638,11 +4638,11 @@
     "8330154165": {
       "id": 8330154165,
       "username": "",
-      "fullName": "",
+      "fullName": "𝑹𝑨𝒀𝑯𝑨𝑵 6T9",
       "points": 0,
       "joinedAt": 1779102259989,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -4859,6 +4859,13 @@
       "price": 15000,
       "orderId": "BP7817284807MPAZLANR7MS9",
       "createdAt": 1779095610831
+    },
+    "BP8330154165MPB3KD678VJA": {
+      "userId": 8330154165,
+      "points": 10,
+      "price": 15000,
+      "orderId": "BP8330154165MPB3KD678VJA",
+      "createdAt": 1779102285834
     }
   },
   "reactCooldownMs": 300000
