@@ -4688,6 +4688,15 @@
       "joinedAt": 1779103720059,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7791143881": {
+      "id": 7791143881,
+      "username": "",
+      "fullName": "Van Tinh",
+      "points": 0,
+      "joinedAt": 1779104028170,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
