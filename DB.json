@@ -4547,10 +4547,19 @@
     },
     "8302868388": {
       "id": 8302868388,
+      "username": "CBG_minto",
+      "fullName": "TPG IDEAT Maxee",
+      "points": 0,
+      "joinedAt": 1779099548678,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6943302308": {
+      "id": 6943302308,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779099548678,
+      "joinedAt": 1779099625058,
       "lastDaily": null,
       "isNewUser": true
     }
