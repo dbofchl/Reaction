@@ -4574,12 +4574,21 @@
     },
     "6547307606": {
       "id": 6547307606,
-      "username": "",
-      "fullName": "",
+      "username": "Ayubov_2010",
+      "fullName": "Ayubov [200+] #jni #pawno",
       "points": 0,
       "joinedAt": 1779100980334,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7983939626": {
+      "id": 7983939626,
+      "username": "",
+      "fullName": "Lexzy",
+      "points": 0,
+      "joinedAt": 1779101138925,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
