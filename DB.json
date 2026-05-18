@@ -4340,12 +4340,21 @@
     },
     "8023120895": {
       "id": 8023120895,
-      "username": "",
-      "fullName": "",
+      "username": "KzinOfc",
+      "fullName": "kzin ofc",
       "points": 0,
       "joinedAt": 1779095246972,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6292351584": {
+      "id": 6292351584,
+      "username": "ODKALKI64",
+      "fullName": "Om prakash Pradhan",
+      "points": 0,
+      "joinedAt": 1779095314163,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
