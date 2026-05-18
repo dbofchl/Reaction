@@ -4557,11 +4557,20 @@
     "6943302308": {
       "id": 6943302308,
       "username": "",
-      "fullName": "",
+      "fullName": "Sishjs",
       "points": 0,
       "joinedAt": 1779099625058,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8140718766": {
+      "id": 8140718766,
+      "username": "eyasin8544",
+      "fullName": "Eyasin",
+      "points": 0,
+      "joinedAt": 1779099784722,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
