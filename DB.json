@@ -4395,11 +4395,20 @@
     "7617804949": {
       "id": 7617804949,
       "username": "",
-      "fullName": "",
+      "fullName": "1x_ Live",
       "points": 0,
       "joinedAt": 1779095775156,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8057433096": {
+      "id": 8057433096,
+      "username": "",
+      "fullName": "Umar",
+      "points": 0,
+      "joinedAt": 1779095793951,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
