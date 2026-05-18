@@ -4763,12 +4763,21 @@
     },
     "8528851435": {
       "id": 8528851435,
-      "username": "",
-      "fullName": "",
+      "username": "alzzyuu",
+      "fullName": "AL OFFICAL [00.00]",
       "points": 0,
       "joinedAt": 1779105932478,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8760394649": {
+      "id": 8760394649,
+      "username": "Jahed6543",
+      "fullName": "Jahed Mondal",
+      "points": 0,
+      "joinedAt": 1779105969768,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
