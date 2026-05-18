@@ -4754,12 +4754,12 @@
     },
     "8438419991": {
       "id": 8438419991,
-      "username": "",
-      "fullName": "",
+      "username": "Anggaown",
+      "fullName": "Angga",
       "points": 0,
       "joinedAt": 1779105518276,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -4976,6 +4976,13 @@
       "price": 15000,
       "orderId": "BP7817284807MPAZLANR7MS9",
       "createdAt": 1779095610831
+    },
+    "BP8187203865MPB5Q0FBA24A": {
+      "userId": 8187203865,
+      "points": 10,
+      "price": 15000,
+      "orderId": "BP8187203865MPB5Q0FBA24A",
+      "createdAt": 1779105908629
     }
   },
   "reactCooldownMs": 300000
