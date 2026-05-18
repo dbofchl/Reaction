@@ -4373,6 +4373,15 @@
       "joinedAt": 1779095585775,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7676645359": {
+      "id": 7676645359,
+      "username": "",
+      "fullName": "Fuck u",
+      "points": 0,
+      "joinedAt": 1779095644640,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
