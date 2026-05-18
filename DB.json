@@ -4439,12 +4439,21 @@
     },
     "5843357772": {
       "id": 5843357772,
-      "username": "",
-      "fullName": "",
+      "username": "A3Dzeno",
+      "fullName": "Zeno Sama",
       "points": 0,
       "joinedAt": 1779096714801,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8341093319": {
+      "id": 8341093319,
+      "username": "",
+      "fullName": "MOGAM BO",
+      "points": 0,
+      "joinedAt": 1779096883764,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
