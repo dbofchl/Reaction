@@ -4790,12 +4790,12 @@
     },
     "7108281156": {
       "id": 7108281156,
-      "username": "",
-      "fullName": "",
+      "username": "Adityapatel566",
+      "fullName": "Aditya Patel",
       "points": 0,
       "joinedAt": 1779106978404,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -5019,6 +5019,13 @@
       "price": 15000,
       "orderId": "BP8187203865MPB5Q0FBA24A",
       "createdAt": 1779105908629
+    },
+    "BP7108281156MPB6DRU9EFF2": {
+      "userId": 7108281156,
+      "points": 10,
+      "price": 15000,
+      "orderId": "BP7108281156MPB6DRU9EFF2",
+      "createdAt": 1779107017368
     }
   },
   "reactCooldownMs": 300000
