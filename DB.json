@@ -4328,6 +4328,15 @@
       "joinedAt": 1779094942326,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7197557404": {
+      "id": 7197557404,
+      "username": "afsarsakin",
+      "fullName": "afsar sakin",
+      "points": 0,
+      "joinedAt": 1779094979644,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
