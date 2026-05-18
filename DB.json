@@ -4422,11 +4422,20 @@
     "7082932061": {
       "id": 7082932061,
       "username": "",
-      "fullName": "",
+      "fullName": "SILENCE...",
       "points": 0,
       "joinedAt": 1779096116187,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8188146206": {
+      "id": 8188146206,
+      "username": "SML78600",
+      "fullName": "ꔪ",
+      "points": 0,
+      "joinedAt": 1779096236047,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
