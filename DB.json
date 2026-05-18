@@ -4214,10 +4214,19 @@
     },
     "8603788004": {
       "id": 8603788004,
+      "username": "ONEANONLY_01",
+      "fullName": "ONLY_01 🏴‍☠️",
+      "points": 0,
+      "joinedAt": 1779094237769,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8446174560": {
+      "id": 8446174560,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779094237769,
+      "joinedAt": 1779094243432,
       "lastDaily": null,
       "isNewUser": true
     }
