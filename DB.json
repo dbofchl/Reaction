@@ -4242,11 +4242,20 @@
     "8206014592": {
       "id": 8206014592,
       "username": "",
-      "fullName": "",
+      "fullName": "@Ravi Kumar",
       "points": 0,
       "joinedAt": 1779094294112,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7272284734": {
+      "id": 7272284734,
+      "username": "Siyamhasan0987",
+      "fullName": "Siyam Hossain",
+      "points": 0,
+      "joinedAt": 1779094350159,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
