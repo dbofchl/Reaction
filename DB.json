@@ -4778,6 +4778,15 @@
       "joinedAt": 1779105969768,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8613402419": {
+      "id": 8613402419,
+      "username": "",
+      "fullName": "pan?",
+      "points": 0,
+      "joinedAt": 1779106676538,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
