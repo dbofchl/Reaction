@@ -4619,12 +4619,21 @@
     },
     "5756051399": {
       "id": 5756051399,
-      "username": "",
-      "fullName": "",
+      "username": "GodSunil2k",
+      "fullName": "God Sunil 2k 📌",
       "points": 0,
       "joinedAt": 1779102070236,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8270556937": {
+      "id": 8270556937,
+      "username": "",
+      "fullName": "Ak",
+      "points": 0,
+      "joinedAt": 1779102209839,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
