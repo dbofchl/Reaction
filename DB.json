@@ -4358,12 +4358,21 @@
     },
     "8728911549": {
       "id": 8728911549,
-      "username": "",
-      "fullName": "",
+      "username": "riffat94728",
+      "fullName": "riffat trianda",
       "points": 0,
       "joinedAt": 1779095451208,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7817284807": {
+      "id": 7817284807,
+      "username": "angad_a_z09",
+      "fullName": "angad_a2z",
+      "points": 0,
+      "joinedAt": 1779095585775,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
