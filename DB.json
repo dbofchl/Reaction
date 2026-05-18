@@ -4286,10 +4286,19 @@
     },
     "8567119029": {
       "id": 8567119029,
+      "username": "MoCvghsha",
+      "fullName": "KA¡ X¡T",
+      "points": 0,
+      "joinedAt": 1779094837548,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7774005022": {
+      "id": 7774005022,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779094837548,
+      "joinedAt": 1779094848535,
       "lastDaily": null,
       "isNewUser": true
     }
