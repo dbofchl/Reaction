@@ -4818,11 +4818,20 @@
     "6310351258": {
       "id": 6310351258,
       "username": "",
-      "fullName": "",
+      "fullName": "Sadia Afroz",
       "points": 0,
       "joinedAt": 1779107761191,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8058118068": {
+      "id": 8058118068,
+      "username": "Iam_promincraft",
+      "fullName": "Iam_promincraft",
+      "points": 0,
+      "joinedAt": 1779107795929,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
