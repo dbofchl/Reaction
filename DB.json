@@ -4673,12 +4673,21 @@
     },
     "6815024489": {
       "id": 6815024489,
-      "username": "",
-      "fullName": "",
+      "username": "Jisan5667",
+      "fullName": "Bhai Jan",
       "points": 0,
       "joinedAt": 1779103674469,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7030780501": {
+      "id": 7030780501,
+      "username": "whoami404xx",
+      "fullName": "Iɴɴᴏᴄᴇɴᴛ",
+      "points": 0,
+      "joinedAt": 1779103720059,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
