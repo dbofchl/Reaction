@@ -4304,10 +4304,19 @@
     },
     "8634919666": {
       "id": 8634919666,
+      "username": "Kedatkedutut",
+      "fullName": "Manusiasetengahalok",
+      "points": 0,
+      "joinedAt": 1779094898383,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8420125531": {
+      "id": 8420125531,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779094898383,
+      "joinedAt": 1779094930046,
       "lastDaily": null,
       "isNewUser": true
     }
