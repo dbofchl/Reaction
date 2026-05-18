@@ -4854,9 +4854,18 @@
     "7929316005": {
       "id": 7929316005,
       "username": "",
-      "fullName": "",
+      "fullName": "Karan",
       "points": 0,
       "joinedAt": 1779108079288,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8313147561": {
+      "id": 8313147561,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779108492032,
       "lastDaily": null,
       "isNewUser": true
     }
