@@ -4700,12 +4700,21 @@
     },
     "6366116950": {
       "id": 6366116950,
-      "username": "",
-      "fullName": "",
+      "username": "xd1rz",
+      "fullName": "Le Zén",
       "points": 0,
       "joinedAt": 1779104039768,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7996235460": {
+      "id": 7996235460,
+      "username": "",
+      "fullName": "Shiva",
+      "points": 0,
+      "joinedAt": 1779104131081,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
