@@ -173,12 +173,12 @@
     },
     "1691670338": {
       "id": 1691670338,
-      "username": "",
-      "fullName": "",
+      "username": "Itx_RajaYT",
+      "fullName": "👑 RAJA YT 👑 🐾",
       "points": 0,
       "joinedAt": 1779107841009,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1814979400": {
       "id": 1814979400,
@@ -4839,6 +4839,15 @@
       "fullName": "Iam_promincraft",
       "points": 0,
       "joinedAt": 1779107795929,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8219765652": {
+      "id": 8219765652,
+      "username": "",
+      "fullName": "cihuyy kntll",
+      "points": 0,
+      "joinedAt": 1779107857673,
       "lastDaily": null,
       "isNewUser": false
     }
