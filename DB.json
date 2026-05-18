@@ -4529,10 +4529,19 @@
     },
     "7646058140": {
       "id": 7646058140,
+      "username": "DVu08",
+      "fullName": "DVu12",
+      "points": 0,
+      "joinedAt": 1779099065432,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7306033148": {
+      "id": 7306033148,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779099065432,
+      "joinedAt": 1779099392175,
       "lastDaily": null,
       "isNewUser": true
     }
