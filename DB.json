@@ -81,6 +81,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1286437271": {
+      "id": 1286437271,
+      "username": "Oid_Miki01",
+      "fullName": ".",
+      "points": 0,
+      "joinedAt": 1779104767134,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1324982322": {
       "id": 1324982322,
       "username": "Andra_Julio",
@@ -4727,12 +4736,12 @@
     },
     "7502580496": {
       "id": 7502580496,
-      "username": "",
-      "fullName": "",
+      "username": "RAjOWNER999",
+      "fullName": "RAJ ⚡",
       "points": 0,
       "joinedAt": 1779104639957,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
