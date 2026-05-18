@@ -4297,7 +4297,7 @@
       "id": 7774005022,
       "username": "anikbhai0",
       "fullName": "PN ANIK",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1779094848535,
       "lastDaily": null,
       "isNewUser": false
@@ -4314,9 +4314,18 @@
     "8420125531": {
       "id": 8420125531,
       "username": "",
-      "fullName": "",
+      "fullName": "Niloy",
       "points": 0,
       "joinedAt": 1779094930046,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6951744158": {
+      "id": 6951744158,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779094942326,
       "lastDaily": null,
       "isNewUser": true
     }
