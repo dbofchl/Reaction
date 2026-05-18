@@ -4931,6 +4931,15 @@
       "joinedAt": 1779114286936,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6979491542": {
+      "id": 6979491542,
+      "username": "baonguyen0333",
+      "fullName": "Baonguyen Nguyen",
+      "points": 0,
+      "joinedAt": 1779131684332,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
