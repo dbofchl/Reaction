@@ -135,6 +135,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1439616500": {
+      "id": 1439616500,
+      "username": "hrdkzy",
+      "fullName": "Hirooooo [HE/HIM!]",
+      "points": 0,
+      "joinedAt": 1779108595195,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1444314684": {
       "id": 1444314684,
       "username": "estehhhh",
@@ -4863,11 +4872,11 @@
     "8313147561": {
       "id": 8313147561,
       "username": "",
-      "fullName": "",
+      "fullName": "Hibzur King 👑",
       "points": 0,
       "joinedAt": 1779108492032,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
