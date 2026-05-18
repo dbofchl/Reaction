@@ -4520,10 +4520,19 @@
     },
     "8207583557": {
       "id": 8207583557,
+      "username": "SHEHABBHAI",
+      "fullName": "S H E H A B",
+      "points": 0,
+      "joinedAt": 1779098875061,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7646058140": {
+      "id": 7646058140,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779098875061,
+      "joinedAt": 1779099065432,
       "lastDaily": null,
       "isNewUser": true
     }
