@@ -4940,6 +4940,15 @@
       "joinedAt": 1779131684332,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5985616133": {
+      "id": 5985616133,
+      "username": "Notbac",
+      "fullName": "Adam",
+      "points": 0,
+      "joinedAt": 1779132314701,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
