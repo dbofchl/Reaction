@@ -4538,12 +4538,12 @@
     },
     "7306033148": {
       "id": 7306033148,
-      "username": "",
-      "fullName": "",
+      "username": "nahidmell",
+      "fullName": "NAHID NAHID",
       "points": 0,
       "joinedAt": 1779099392175,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -4760,6 +4760,13 @@
       "price": 15000,
       "orderId": "BP7817284807MPAZLANR7MS9",
       "createdAt": 1779095610831
+    },
+    "BP7306033148MPB1V0H635UG": {
+      "userId": 7306033148,
+      "points": 10,
+      "price": 15000,
+      "orderId": "BP7306033148MPB1V0H635UG",
+      "createdAt": 1779099423550
     }
   },
   "reactCooldownMs": 300000
