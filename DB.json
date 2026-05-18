@@ -704,8 +704,8 @@
     },
     "8084918359": {
       "id": 8084918359,
-      "username": "ALKIRUADM",
-      "fullName": "ALKIRU",
+      "username": "al_limitakunke2",
+      "fullName": "ell [ KENA LIMIT ]",
       "points": 0,
       "joinedAt": 1772172859693,
       "lastDaily": null,
@@ -4926,11 +4926,11 @@
     "8957693480": {
       "id": 8957693480,
       "username": "",
-      "fullName": "",
+      "fullName": "Anuj Kumar",
       "points": 0,
       "joinedAt": 1779114286936,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
