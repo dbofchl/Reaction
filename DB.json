@@ -4223,12 +4223,21 @@
     },
     "8446174560": {
       "id": 8446174560,
-      "username": "",
-      "fullName": "",
+      "username": "BISHALBHAI295",
+      "fullName": "𝗠ᴀ𝘀ᴛᴇʀ 𝗝ᴀᴄᴋ'𝘀",
       "points": 0,
       "joinedAt": 1779094243432,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6255478386": {
+      "id": 6255478386,
+      "username": "Tn_kill",
+      "fullName": "TN KILL",
+      "points": 0,
+      "joinedAt": 1779094266928,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
