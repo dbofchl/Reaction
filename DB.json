@@ -4467,11 +4467,20 @@
     "8316986657": {
       "id": 8316986657,
       "username": "",
-      "fullName": "",
+      "fullName": "> * 🕸️₊˚.⋆☾ ‧₊˚ ☁️",
       "points": 0,
       "joinedAt": 1779097219720,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7560863122": {
+      "id": 7560863122,
+      "username": "Sabiransarikhan",
+      "fullName": "Sabir",
+      "points": 0,
+      "joinedAt": 1779097235648,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
