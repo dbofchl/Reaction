@@ -5034,9 +5034,18 @@
     "7857695812": {
       "id": 7857695812,
       "username": "",
-      "fullName": "",
+      "fullName": "Bas",
       "points": 0,
       "joinedAt": 1779191550896,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7777454189": {
+      "id": 7777454189,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779196773744,
       "lastDaily": null,
       "isNewUser": true
     }
