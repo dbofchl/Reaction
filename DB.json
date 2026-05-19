@@ -4998,9 +4998,18 @@
     "8226812354": {
       "id": 8226812354,
       "username": "",
-      "fullName": "",
+      "fullName": "Arsh Chouhan",
       "points": 0,
       "joinedAt": 1779168705184,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7161598021": {
+      "id": 7161598021,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779170194062,
       "lastDaily": null,
       "isNewUser": true
     }
