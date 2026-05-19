@@ -5069,10 +5069,19 @@
     },
     "8245649240": {
       "id": 8245649240,
+      "username": "warzenon",
+      "fullName": "Alican Coşkun",
+      "points": 0,
+      "joinedAt": 1779225528516,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8582072531": {
+      "id": 8582072531,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779225528516,
+      "joinedAt": 1779225666085,
       "lastDaily": null,
       "isNewUser": true
     }
