@@ -5043,11 +5043,20 @@
     "7777454189": {
       "id": 7777454189,
       "username": "",
-      "fullName": "",
+      "fullName": "⏤‌‌‌‌𝐕𝐓𝐗 || RISKI",
       "points": 0,
       "joinedAt": 1779196773744,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6589249006": {
+      "id": 6589249006,
+      "username": "Abhiff9994949",
+      "fullName": "Abhi Gamer",
+      "points": 0,
+      "joinedAt": 1779198208351,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
