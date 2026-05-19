@@ -4962,11 +4962,20 @@
     "8454438429": {
       "id": 8454438429,
       "username": "",
-      "fullName": "",
+      "fullName": "Ramzan Ramzan",
       "points": 0,
       "joinedAt": 1779153389800,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8325571029": {
+      "id": 8325571029,
+      "username": "",
+      "fullName": "Sanjeet Nishad",
+      "points": 0,
+      "joinedAt": 1779154504004,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
