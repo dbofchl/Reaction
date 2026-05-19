@@ -5061,9 +5061,18 @@
     "8606190995": {
       "id": 8606190995,
       "username": "",
-      "fullName": "",
+      "fullName": "Changg_ib Mods",
       "points": 0,
       "joinedAt": 1779220900935,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8245649240": {
+      "id": 8245649240,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779225528516,
       "lastDaily": null,
       "isNewUser": true
     }
