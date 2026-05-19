@@ -4980,11 +4980,11 @@
     "7988162317": {
       "id": 7988162317,
       "username": "",
-      "fullName": "",
+      "fullName": "FT🖕PHULO🥷🥷ROOT😇HACKER",
       "points": 0,
       "joinedAt": 1779154669814,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -5215,6 +5215,13 @@
       "price": 15000,
       "orderId": "BP7469722734MPB7RNU3RWVV",
       "createdAt": 1779109344852
+    },
+    "BP7988162317MPBYS4SIDUVJ": {
+      "userId": 7988162317,
+      "points": 30,
+      "price": 30000,
+      "orderId": "BP7988162317MPBYS4SIDUVJ",
+      "createdAt": 1779154716320
     }
   },
   "reactCooldownMs": 300000
