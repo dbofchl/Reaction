@@ -4952,10 +4952,19 @@
     },
     "8092836650": {
       "id": 8092836650,
+      "username": "Hasib999990",
+      "fullName": "HASIB",
+      "points": 0,
+      "joinedAt": 1779133246404,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8454438429": {
+      "id": 8454438429,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779133246404,
+      "joinedAt": 1779153389800,
       "lastDaily": null,
       "isNewUser": true
     }
