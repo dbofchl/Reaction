@@ -5025,9 +5025,18 @@
     "6462240207": {
       "id": 6462240207,
       "username": "",
-      "fullName": "",
+      "fullName": "Nasrullah 1131",
       "points": 0,
       "joinedAt": 1779186746101,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7857695812": {
+      "id": 7857695812,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779191550896,
       "lastDaily": null,
       "isNewUser": true
     }
