@@ -5129,6 +5129,15 @@
       "joinedAt": 1779266439405,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6818096402": {
+      "id": 6818096402,
+      "username": "",
+      "fullName": "Chandan Sardar",
+      "points": 0,
+      "joinedAt": 1779295505208,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
