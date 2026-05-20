@@ -5079,9 +5079,18 @@
     "8582072531": {
       "id": 8582072531,
       "username": "",
-      "fullName": "",
+      "fullName": "Bro",
       "points": 0,
       "joinedAt": 1779225666085,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5784950949": {
+      "id": 5784950949,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779246129503,
       "lastDaily": null,
       "isNewUser": true
     }
