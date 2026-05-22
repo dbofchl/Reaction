@@ -5168,12 +5168,12 @@
     },
     "5900978006": {
       "id": 5900978006,
-      "username": "",
-      "fullName": "",
+      "username": "P1nx1m00",
+      "fullName": "Id seller 😆",
       "points": 0,
       "joinedAt": 1779449151432,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -5412,6 +5412,13 @@
       "price": 30000,
       "orderId": "BP7988162317MPBYS4SIDUVJ",
       "createdAt": 1779154716320
+    },
+    "BP5900978006MPGU4OBTHP1W": {
+      "userId": 5900978006,
+      "points": 10,
+      "price": 15000,
+      "orderId": "BP5900978006MPGU4OBTHP1W",
+      "createdAt": 1779449234418
     }
   },
   "reactCooldownMs": 300000
