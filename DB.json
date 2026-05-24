@@ -5192,6 +5192,15 @@
       "joinedAt": 1779602734484,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7648083474": {
+      "id": 7648083474,
+      "username": "mostofa12z",
+      "fullName": "Md Mostofa",
+      "points": 0,
+      "joinedAt": 1779626046544,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
