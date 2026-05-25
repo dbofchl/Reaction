@@ -5435,6 +5435,15 @@
       "joinedAt": 1779682780181,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5961491174": {
+      "id": 5961491174,
+      "username": "Hexboos",
+      "fullName": "HEX .... Boos",
+      "points": 0,
+      "joinedAt": 1779683216261,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
