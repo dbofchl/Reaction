@@ -288,6 +288,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "2139622181": {
+      "id": 2139622181,
+      "username": "yanrastore",
+      "fullName": "yanXraa",
+      "points": 0,
+      "joinedAt": 1779676636043,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "6052601837": {
       "id": 6052601837,
       "username": "Xbugcrah",
@@ -5250,11 +5259,11 @@
     "8596255974": {
       "id": 8596255974,
       "username": "",
-      "fullName": "",
+      "fullName": "Samiul Gazi",
       "points": 0,
       "joinedAt": 1779676622436,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
