@@ -5492,10 +5492,19 @@
     },
     "6222796842": {
       "id": 6222796842,
+      "username": "Smsabbir1929",
+      "fullName": "Sabbir",
+      "points": 0,
+      "joinedAt": 1779688959987,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8342260617": {
+      "id": 8342260617,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779688959987,
+      "joinedAt": 1779688970928,
       "lastDaily": null,
       "isNewUser": true
     }
