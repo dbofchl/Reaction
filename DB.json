@@ -5339,10 +5339,19 @@
     },
     "8454781716": {
       "id": 8454781716,
+      "username": "Hayazi_Saheb",
+      "fullName": "Hayazi Saheb",
+      "points": 0,
+      "joinedAt": 1779678107800,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7720928536": {
+      "id": 7720928536,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779678107800,
+      "joinedAt": 1779678478654,
       "lastDaily": null,
       "isNewUser": true
     }
