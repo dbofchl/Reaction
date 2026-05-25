@@ -5363,6 +5363,15 @@
       "joinedAt": 1779679015157,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8233929236": {
+      "id": 8233929236,
+      "username": "",
+      "fullName": "Kher Hitesh",
+      "points": 0,
+      "joinedAt": 1779679302438,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
