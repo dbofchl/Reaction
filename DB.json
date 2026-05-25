@@ -5222,12 +5222,21 @@
     },
     "6381647683": {
       "id": 6381647683,
-      "username": "",
-      "fullName": "",
+      "username": "SalimPanelseller",
+      "fullName": "Panel seller ❣️",
       "points": 0,
       "joinedAt": 1779676361128,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8649748184": {
+      "id": 8649748184,
+      "username": "",
+      "fullName": "ㅤㅤㅤㅤㅤ",
+      "points": 0,
+      "joinedAt": 1779676413579,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
