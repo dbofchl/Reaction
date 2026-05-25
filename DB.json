@@ -5408,6 +5408,15 @@
       "joinedAt": 1779681385928,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8524115175": {
+      "id": 8524115175,
+      "username": "",
+      "fullName": "Saruk Sk",
+      "points": 0,
+      "joinedAt": 1779681564671,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
