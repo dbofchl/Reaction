@@ -5789,13 +5789,6 @@
       "price": 150000,
       "orderId": "BP8555266480MPKUJABGTWBJ",
       "createdAt": 1779691780694
-    },
-    "BP8555266480MPKUJALXB8D4": {
-      "userId": 8555266480,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP8555266480MPKUJALXB8D4",
-      "createdAt": 1779691781042
     }
   },
   "reactCooldownMs": 300000
