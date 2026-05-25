@@ -5579,6 +5579,15 @@
       "joinedAt": 1779705039408,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7238323140": {
+      "id": 7238323140,
+      "username": "",
+      "fullName": "NONU",
+      "points": 0,
+      "joinedAt": 1779709550532,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
