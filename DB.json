@@ -5318,6 +5318,15 @@
       "joinedAt": 1779677696759,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5092430349": {
+      "id": 5092430349,
+      "username": "Ankush_ffff",
+      "fullName": "Ankush",
+      "points": 0,
+      "joinedAt": 1779677714866,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
