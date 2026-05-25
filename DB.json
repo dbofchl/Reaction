@@ -5426,6 +5426,15 @@
       "joinedAt": 1779682486548,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7050513687": {
+      "id": 7050513687,
+      "username": "RizkyDrip",
+      "fullName": "Rizky",
+      "points": 0,
+      "joinedAt": 1779682780181,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
