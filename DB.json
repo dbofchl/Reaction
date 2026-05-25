@@ -5303,12 +5303,21 @@
     },
     "5925579828": {
       "id": 5925579828,
-      "username": "",
-      "fullName": "",
+      "username": "gongoknibos",
+      "fullName": "Ireng Bosok",
       "points": 0,
       "joinedAt": 1779677209794,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6961110459": {
+      "id": 6961110459,
+      "username": "",
+      "fullName": "Zenitsu Userz",
+      "points": 0,
+      "joinedAt": 1779677696759,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
