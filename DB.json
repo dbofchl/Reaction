@@ -5528,10 +5528,19 @@
     },
     "5727720639": {
       "id": 5727720639,
+      "username": "SoloBanNoTrash",
+      "fullName": "Troxyz∞",
+      "points": 0,
+      "joinedAt": 1779696024891,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7962611922": {
+      "id": 7962611922,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779696024891,
+      "joinedAt": 1779697273937,
       "lastDaily": null,
       "isNewUser": true
     }
