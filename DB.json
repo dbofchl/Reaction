@@ -5516,6 +5516,15 @@
       "joinedAt": 1779689645884,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7338354379": {
+      "id": 7338354379,
+      "username": "",
+      "fullName": "Lalit Chaudhary",
+      "points": 0,
+      "joinedAt": 1779695623488,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
