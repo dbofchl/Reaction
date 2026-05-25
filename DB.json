@@ -5502,11 +5502,20 @@
     "8342260617": {
       "id": 8342260617,
       "username": "",
-      "fullName": "",
+      "fullName": "MADARA",
       "points": 0,
       "joinedAt": 1779688970928,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8710349308": {
+      "id": 8710349308,
+      "username": "",
+      "fullName": "ㅤ",
+      "points": 0,
+      "joinedAt": 1779689645884,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
