@@ -5420,12 +5420,12 @@
     },
     "7563726264": {
       "id": 7563726264,
-      "username": "",
-      "fullName": "",
+      "username": "Rtsprimeadmin",
+      "fullName": "ADMIN RTS PANEL",
       "points": 0,
       "joinedAt": 1779682486548,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
