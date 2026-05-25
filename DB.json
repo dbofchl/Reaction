@@ -5213,12 +5213,12 @@
     },
     "7744516835": {
       "id": 7744516835,
-      "username": "",
-      "fullName": "",
+      "username": "Manish3115",
+      "fullName": "Manish Kashyap",
       "points": 0,
       "joinedAt": 1779676281661,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -5457,6 +5457,13 @@
       "price": 30000,
       "orderId": "BP7988162317MPBYS4SIDUVJ",
       "createdAt": 1779154716320
+    },
+    "BP7614474818MPKLB4VYG7AO": {
+      "userId": 7614474818,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7614474818MPKLB4VYG7AO",
+      "createdAt": 1779676283907
     }
   },
   "reactCooldownMs": 300000
