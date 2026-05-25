@@ -5276,10 +5276,19 @@
     },
     "8372267006": {
       "id": 8372267006,
+      "username": "Kyyzxzx",
+      "fullName": "𝙆𝙮𝙯𝙯 𝐒𝐞𝐯𝐞𝐧",
+      "points": 0,
+      "joinedAt": 1779676780516,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6501579360": {
+      "id": 6501579360,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779676780516,
+      "joinedAt": 1779676992018,
       "lastDaily": null,
       "isNewUser": true
     }
