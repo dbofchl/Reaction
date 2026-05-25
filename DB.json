@@ -5628,11 +5628,20 @@
     "7878866070": {
       "id": 7878866070,
       "username": "",
-      "fullName": "",
+      "fullName": "Abdullah ++",
       "points": 0,
       "joinedAt": 1779727334083,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6793305008": {
+      "id": 6793305008,
+      "username": "rinzzxiter",
+      "fullName": "Upiz",
+      "points": 0,
+      "joinedAt": 1779736456636,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
