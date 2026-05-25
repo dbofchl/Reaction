@@ -5375,10 +5375,19 @@
     },
     "5535946556": {
       "id": 5535946556,
+      "username": "Fallky",
+      "fullName": "Pega pega",
+      "points": 0,
+      "joinedAt": 1779679315532,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7815506453": {
+      "id": 7815506453,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779679315532,
+      "joinedAt": 1779679410590,
       "lastDaily": null,
       "isNewUser": true
     }
