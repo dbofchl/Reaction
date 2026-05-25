@@ -5393,12 +5393,21 @@
     },
     "5875936034": {
       "id": 5875936034,
-      "username": "",
-      "fullName": "",
+      "username": "Zishaha21",
+      "fullName": "ziszz",
       "points": 0,
       "joinedAt": 1779680030514,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8406678791": {
+      "id": 8406678791,
+      "username": "aliphaxofc1",
+      "fullName": "ALIP HAX OFC",
+      "points": 0,
+      "joinedAt": 1779681385928,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
