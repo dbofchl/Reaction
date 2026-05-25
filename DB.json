@@ -5264,6 +5264,15 @@
       "joinedAt": 1779676622436,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8687657548": {
+      "id": 8687657548,
+      "username": "kanzxit",
+      "fullName": "z",
+      "points": 0,
+      "joinedAt": 1779676646130,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
