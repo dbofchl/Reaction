@@ -182,12 +182,12 @@
     },
     "1691199243": {
       "id": 1691199243,
-      "username": "",
-      "fullName": "",
+      "username": "yuriontime",
+      "fullName": "ʏᴜʀɪ | ʀᴀɴɢᴇʀ ᴋᴜɴɪɴɢ",
       "points": 0,
       "joinedAt": 1779716976030,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1691670338": {
       "id": 1691670338,
@@ -5604,6 +5604,15 @@
       "fullName": "BOLTT77",
       "points": 0,
       "joinedAt": 1779714978622,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8352343074": {
+      "id": 8352343074,
+      "username": "RahmadSTR",
+      "fullName": "𝗥𝗔𝗛𝗠𝗔𝗗 𝗦𝗧𝗢𝗥𝗘 [𝗥𝗘𝗦𝗦𝗘𝗟𝗘𝗥]",
+      "points": 0,
+      "joinedAt": 1779717717199,
       "lastDaily": null,
       "isNewUser": false
     }
