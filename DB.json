@@ -5294,10 +5294,19 @@
     },
     "5865298589": {
       "id": 5865298589,
+      "username": "Rakib46567",
+      "fullName": "~𝐑𝐱 𝐑𝐚𝐤𝐢𝐛~",
+      "points": 0,
+      "joinedAt": 1779677038110,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5925579828": {
+      "id": 5925579828,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779677038110,
+      "joinedAt": 1779677209794,
       "lastDaily": null,
       "isNewUser": true
     }
