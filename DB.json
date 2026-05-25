@@ -5357,12 +5357,12 @@
     },
     "7506784329": {
       "id": 7506784329,
-      "username": "",
-      "fullName": "",
+      "username": "BestSellerCheat",
+      "fullName": "Best Seller",
       "points": 0,
       "joinedAt": 1779679015157,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -5622,6 +5622,13 @@
       "price": 15000,
       "orderId": "BP5092430349MPKM6A8ZY1VK",
       "createdAt": 1779677737150
+    },
+    "BP7506784329MPKMZB2DRHZ5": {
+      "userId": 7506784329,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7506784329MPKMZB2DRHZ5",
+      "createdAt": 1779679091629
     }
   },
   "reactCooldownMs": 300000
