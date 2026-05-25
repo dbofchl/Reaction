@@ -5618,10 +5618,19 @@
     },
     "6821358779": {
       "id": 6821358779,
+      "username": "Youbxdem",
+      "fullName": "SGHIWAR",
+      "points": 0,
+      "joinedAt": 1779718488499,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7878866070": {
+      "id": 7878866070,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779718488499,
+      "joinedAt": 1779727334083,
       "lastDaily": null,
       "isNewUser": true
     }
