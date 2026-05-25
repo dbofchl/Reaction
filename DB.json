@@ -5537,10 +5537,19 @@
     },
     "7962611922": {
       "id": 7962611922,
+      "username": "Shivamroy1111",
+      "fullName": "Shivam",
+      "points": 0,
+      "joinedAt": 1779697273937,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6202931256": {
+      "id": 6202931256,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779697273937,
+      "joinedAt": 1779697714606,
       "lastDaily": null,
       "isNewUser": true
     }
