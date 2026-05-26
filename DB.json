@@ -5799,11 +5799,11 @@
     "8777093626": {
       "id": 8777093626,
       "username": "",
-      "fullName": "",
+      "fullName": "moha Moha",
       "points": 0,
       "joinedAt": 1779824300083,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -6091,6 +6091,13 @@
       "price": 15000,
       "orderId": "BP8114016689MPMQHTMOAGAT",
       "createdAt": 1779805926323
+    },
+    "BP8777093626MPN1GGGXPNND": {
+      "userId": 8777093626,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8777093626MPN1GGGXPNND",
+      "createdAt": 1779824338446
     }
   },
   "reactCooldownMs": 300000
