@@ -5772,11 +5772,20 @@
     "7608502200": {
       "id": 7608502200,
       "username": "",
-      "fullName": "",
+      "fullName": "N G C 🇧🇩",
       "points": 0,
       "joinedAt": 1779805447380,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8114016689": {
+      "id": 8114016689,
+      "username": "Gunjan51771",
+      "fullName": "Gunjan Kumar",
+      "points": 0,
+      "joinedAt": 1779805898856,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
