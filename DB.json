@@ -5651,6 +5651,15 @@
       "joinedAt": 1779739175444,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8089668481": {
+      "id": 8089668481,
+      "username": "",
+      "fullName": "Rpann Gimmick",
+      "points": 0,
+      "joinedAt": 1779753703358,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
