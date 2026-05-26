@@ -5750,6 +5750,15 @@
       "joinedAt": 1779800990014,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8453026623": {
+      "id": 8453026623,
+      "username": "",
+      "fullName": "HATEM MOLLIK",
+      "points": 0,
+      "joinedAt": 1779801652546,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
