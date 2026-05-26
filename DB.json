@@ -5726,12 +5726,21 @@
     },
     "7662674494": {
       "id": 7662674494,
-      "username": "",
-      "fullName": "",
+      "username": "losetarde",
+      "fullName": "KIBOY",
       "points": 0,
       "joinedAt": 1779787159366,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6562207058": {
+      "id": 6562207058,
+      "username": "zenrealy",
+      "fullName": "ahgus",
+      "points": 0,
+      "joinedAt": 1779800578768,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
