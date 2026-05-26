@@ -5745,11 +5745,11 @@
     "6474508225": {
       "id": 6474508225,
       "username": "",
-      "fullName": "",
+      "fullName": "Heavely Izayoi",
       "points": 0,
       "joinedAt": 1779800990014,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -6023,6 +6023,13 @@
       "price": 15000,
       "orderId": "BP5958228534MPL2GH7OUORQ",
       "createdAt": 1779705086612
+    },
+    "BP6474508225MPMNKDPJRK35": {
+      "userId": 6474508225,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6474508225MPMNKDPJRK35",
+      "createdAt": 1779801006828
     }
   },
   "reactCooldownMs": 300000
