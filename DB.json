@@ -5678,6 +5678,15 @@
       "joinedAt": 1779760126791,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6564378443": {
+      "id": 6564378443,
+      "username": "nativelibs",
+      "fullName": "hello world",
+      "points": 0,
+      "joinedAt": 1779761292616,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
