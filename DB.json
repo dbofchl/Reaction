@@ -5669,6 +5669,15 @@
       "joinedAt": 1779753703358,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8440466878": {
+      "id": 8440466878,
+      "username": "Ekansh_pro",
+      "fullName": "Ekansh",
+      "points": 0,
+      "joinedAt": 1779760126791,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
