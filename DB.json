@@ -5699,12 +5699,21 @@
     },
     "8797708006": {
       "id": 8797708006,
-      "username": "",
-      "fullName": "",
+      "username": "nathalieaaaaaa",
+      "fullName": "Nathaaaaliaa",
       "points": 0,
       "joinedAt": 1779770313375,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8773908310": {
+      "id": 8773908310,
+      "username": "",
+      "fullName": "Giordanny'",
+      "points": 0,
+      "joinedAt": 1779771429947,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
