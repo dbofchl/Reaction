@@ -6677,13 +6677,6 @@
       "price": 15000,
       "orderId": "BP7853887140MPNP3HKY49WF",
       "createdAt": 1779864044087
-    },
-    "BP8909786187MPOP58OM6R7Z": {
-      "userId": 8909786187,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8909786187MPOP58OM6R7Z",
-      "createdAt": 1779924592019
     }
   },
   "reactCooldownMs": 300000
