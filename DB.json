@@ -5943,11 +5943,20 @@
     "7894767424": {
       "id": 7894767424,
       "username": "",
-      "fullName": "",
+      "fullName": "Babu Babu",
       "points": 0,
       "joinedAt": 1779858032673,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5242618867": {
+      "id": 5242618867,
+      "username": "veldorann",
+      "fullName": "Zen",
+      "points": 0,
+      "joinedAt": 1779858064788,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
