@@ -6050,12 +6050,21 @@
     },
     "7947876073": {
       "id": 7947876073,
-      "username": "",
-      "fullName": "",
+      "username": "akbar11novem",
+      "fullName": "brekin bro #𝙰møʀsᴛᴀʀ",
       "points": 0,
       "joinedAt": 1779862244366,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8301532042": {
+      "id": 8301532042,
+      "username": "",
+      "fullName": "NAME ꔪ",
+      "points": 0,
+      "joinedAt": 1779862333676,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
