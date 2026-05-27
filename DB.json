@@ -6146,6 +6146,15 @@
       "joinedAt": 1779866233481,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8015022136": {
+      "id": 8015022136,
+      "username": "CoderX90",
+      "fullName": "CODER X",
+      "points": 0,
+      "joinedAt": 1779866775199,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
