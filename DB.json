@@ -6254,6 +6254,15 @@
       "joinedAt": 1779881645695,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8221197765": {
+      "id": 8221197765,
+      "username": "",
+      "fullName": "haha hihi",
+      "points": 0,
+      "joinedAt": 1779886831854,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
