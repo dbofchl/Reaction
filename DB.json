@@ -6029,6 +6029,15 @@
       "joinedAt": 1779861181822,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7140505656": {
+      "id": 7140505656,
+      "username": "SAGEBOLT0",
+      "fullName": "SAGE BOLT",
+      "points": 0,
+      "joinedAt": 1779861390497,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
