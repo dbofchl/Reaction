@@ -63,6 +63,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1204897385": {
+      "id": 1204897385,
+      "username": "Mr_loverman86",
+      "fullName": "Rizky Kurniawan",
+      "points": 0,
+      "joinedAt": 1779857969329,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1205479424": {
       "id": 1205479424,
       "username": "",
@@ -281,12 +290,12 @@
     },
     "2043920916": {
       "id": 2043920916,
-      "username": "",
-      "fullName": "",
+      "username": "Malluff",
+      "fullName": "爱加密企业版",
       "points": 0,
       "joinedAt": 1779857737790,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "2075224655": {
       "id": 2075224655,
