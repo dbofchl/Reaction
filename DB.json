@@ -6068,10 +6068,19 @@
     },
     "7832246861": {
       "id": 7832246861,
+      "username": "Dedenvvip",
+      "fullName": "Deden",
+      "points": 0,
+      "joinedAt": 1779862536886,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7467020714": {
+      "id": 7467020714,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779862536886,
+      "joinedAt": 1779862666858,
       "lastDaily": null,
       "isNewUser": true
     }
