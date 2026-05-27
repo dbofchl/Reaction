@@ -5861,10 +5861,19 @@
     },
     "7485246471": {
       "id": 7485246471,
+      "username": "Neba_admin1",
+      "fullName": "𝐍𝐄𝐁𝐀",
+      "points": 0,
+      "joinedAt": 1779856329784,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8459735157": {
+      "id": 8459735157,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779856329784,
+      "joinedAt": 1779856404315,
       "lastDaily": null,
       "isNewUser": true
     }
