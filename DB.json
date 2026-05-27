@@ -279,6 +279,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2043920916": {
+      "id": 2043920916,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779857737790,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "2075224655": {
       "id": 2075224655,
       "username": "Kdkjs0z",
@@ -5915,12 +5924,12 @@
     },
     "6988137307": {
       "id": 6988137307,
-      "username": "",
-      "fullName": "",
+      "username": "pemancingperkara",
+      "fullName": "pemancing",
       "points": 0,
       "joinedAt": 1779856827420,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
