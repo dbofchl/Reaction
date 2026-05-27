@@ -6290,6 +6290,15 @@
       "joinedAt": 1779893612653,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6381673407": {
+      "id": 6381673407,
+      "username": "",
+      "fullName": "Snke",
+      "points": 0,
+      "joinedAt": 1779898300216,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
