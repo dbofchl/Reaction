@@ -6240,11 +6240,20 @@
     "6706851839": {
       "id": 6706851839,
       "username": "",
-      "fullName": "",
+      "fullName": "Dafa H",
       "points": 0,
       "joinedAt": 1779879419382,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5541175392": {
+      "id": 5541175392,
+      "username": "Ton_tonight",
+      "fullName": "Robin Raj",
+      "points": 0,
+      "joinedAt": 1779881645695,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
