@@ -6122,10 +6122,19 @@
     },
     "6196028884": {
       "id": 6196028884,
+      "username": "mrdwn06",
+      "fullName": "⚡",
+      "points": 0,
+      "joinedAt": 1779864325319,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7764172095": {
+      "id": 7764172095,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1779864325319,
+      "joinedAt": 1779865956634,
       "lastDaily": null,
       "isNewUser": true
     }
