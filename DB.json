@@ -5975,6 +5975,15 @@
       "joinedAt": 1779858132816,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6431765419": {
+      "id": 6431765419,
+      "username": "realxA",
+      "fullName": "Gamer A",
+      "points": 0,
+      "joinedAt": 1779858220663,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
