@@ -6005,12 +6005,21 @@
     },
     "7851966849": {
       "id": 7851966849,
-      "username": "",
-      "fullName": "",
+      "username": "Siam7ii",
+      "fullName": "Siam",
       "points": 0,
       "joinedAt": 1779860594158,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7492259407": {
+      "id": 7492259407,
+      "username": "avejasgen",
+      "fullName": "AVE JASGEN RANK",
+      "points": 0,
+      "joinedAt": 1779860705517,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
