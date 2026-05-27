@@ -6096,11 +6096,20 @@
     "7619416528": {
       "id": 7619416528,
       "username": "",
-      "fullName": "",
+      "fullName": "𝓜𝓓 𝓐𝓻𝓪𝓯𝓪𝓽.",
       "points": 0,
       "joinedAt": 1779863341141,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6091360561": {
+      "id": 6091360561,
+      "username": "Czerss",
+      "fullName": "Sumit",
+      "points": 0,
+      "joinedAt": 1779863530189,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
