@@ -6200,6 +6200,15 @@
       "joinedAt": 1779870006592,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8157256031": {
+      "id": 8157256031,
+      "username": "",
+      "fullName": "Ucup",
+      "points": 0,
+      "joinedAt": 1779870744196,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
