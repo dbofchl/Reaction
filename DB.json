@@ -5822,6 +5822,15 @@
       "joinedAt": 1779856052668,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7456375237": {
+      "id": 7456375237,
+      "username": "rajaubi",
+      "fullName": "Notay",
+      "points": 0,
+      "joinedAt": 1779856074915,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
