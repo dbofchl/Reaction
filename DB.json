@@ -288,6 +288,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1994071101": {
+      "id": 1994071101,
+      "username": "BOTNZNFF",
+      "fullName": "BOT NZN OFFICIAL",
+      "points": 0,
+      "joinedAt": 1779902178122,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "2043920916": {
       "id": 2043920916,
       "username": "Malluff",
@@ -6317,6 +6326,15 @@
       "joinedAt": 1779902177955,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6926332232": {
+      "id": 6926332232,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1779902843742,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
