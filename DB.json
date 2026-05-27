@@ -6308,6 +6308,15 @@
       "joinedAt": 1779899490222,
       "lastDaily": null,
       "isNewUser": true
+    },
+    "7108946082": {
+      "id": 7108946082,
+      "username": "",
+      "fullName": "Hafez Abu bokkoor. Siddik.",
+      "points": 0,
+      "joinedAt": 1779902177955,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
