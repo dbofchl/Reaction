@@ -5885,6 +5885,15 @@
       "joinedAt": 1779856419276,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6527197274": {
+      "id": 6527197274,
+      "username": "",
+      "fullName": "Yosdin_ws",
+      "points": 0,
+      "joinedAt": 1779856444752,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
