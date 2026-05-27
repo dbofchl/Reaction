@@ -6150,13 +6150,6 @@
       "price": 50000,
       "orderId": "BP6132125493MPN7LK5NSCNV",
       "createdAt": 1779834656997
-    },
-    "BP7313520961MPNKD63YQE95": {
-      "userId": 7313520961,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7313520961MPNKD63YQE95",
-      "createdAt": 1779856097689
     }
   },
   "reactCooldownMs": 300000
