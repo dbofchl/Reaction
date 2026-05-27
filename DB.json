@@ -6038,6 +6038,15 @@
       "joinedAt": 1779861390497,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5165126311": {
+      "id": 5165126311,
+      "username": "KAMRAN_Xyz",
+      "fullName": "KAMRAN",
+      "points": 0,
+      "joinedAt": 1779861404341,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
