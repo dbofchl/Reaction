@@ -6131,12 +6131,21 @@
     },
     "7764172095": {
       "id": 7764172095,
-      "username": "",
-      "fullName": "",
+      "username": "Khan_99898",
+      "fullName": "Fatima",
       "points": 0,
       "joinedAt": 1779865956634,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8909786187": {
+      "id": 8909786187,
+      "username": "",
+      "fullName": "Nanda Putra",
+      "points": 0,
+      "joinedAt": 1779866233481,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
