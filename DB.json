@@ -6218,6 +6218,15 @@
       "joinedAt": 1779872681031,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8350506887": {
+      "id": 8350506887,
+      "username": "",
+      "fullName": "Fyerro Moreira",
+      "points": 0,
+      "joinedAt": 1779875359043,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
