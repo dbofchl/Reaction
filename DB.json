@@ -6659,13 +6659,6 @@
       "price": 15000,
       "orderId": "BP7853887140MPNP3HKY49WF",
       "createdAt": 1779864044087
-    },
-    "BP7585683671MPOFSBFKMPC7": {
-      "userId": 7585683671,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP7585683671MPOFSBFKMPC7",
-      "createdAt": 1779908872504
     }
   },
   "reactCooldownMs": 300000
