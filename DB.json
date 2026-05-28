@@ -6392,12 +6392,12 @@
     },
     "7601709075": {
       "id": 7601709075,
-      "username": "",
-      "fullName": "",
+      "username": "panel_sellar_901",
+      "fullName": "panel sellar",
       "points": 0,
       "joinedAt": 1779959707280,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
