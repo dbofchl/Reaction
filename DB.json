@@ -6362,6 +6362,15 @@
       "joinedAt": 1779920656159,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8389589277": {
+      "id": 8389589277,
+      "username": "dafninha",
+      "fullName": "dafny",
+      "points": 0,
+      "joinedAt": 1779935790509,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
