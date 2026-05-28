@@ -6380,6 +6380,15 @@
       "joinedAt": 1779940625201,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8353437003": {
+      "id": 8353437003,
+      "username": "",
+      "fullName": "I AM BACK",
+      "points": 0,
+      "joinedAt": 1779942460920,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
