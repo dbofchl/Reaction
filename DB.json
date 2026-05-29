@@ -6428,12 +6428,21 @@
     },
     "5380711908": {
       "id": 5380711908,
-      "username": "",
-      "fullName": "",
+      "username": "vip7gamez",
+      "fullName": "VIP GAMEZ",
       "points": 0,
       "joinedAt": 1780054770997,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7572533669": {
+      "id": 7572533669,
+      "username": "Krentzyjir",
+      "fullName": "KRENTZY😹",
+      "points": 0,
+      "joinedAt": 1780055601392,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
