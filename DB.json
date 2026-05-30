@@ -6443,6 +6443,15 @@
       "joinedAt": 1780055601392,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7878739367": {
+      "id": 7878739367,
+      "username": "AMATIFOP",
+      "fullName": "AMATIF",
+      "points": 0,
+      "joinedAt": 1780110783044,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
