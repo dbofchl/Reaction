@@ -6470,6 +6470,15 @@
       "joinedAt": 1780212134386,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6570629365": {
+      "id": 6570629365,
+      "username": "Nizzdev",
+      "fullName": "Nxzdev999",
+      "points": 0,
+      "joinedAt": 1780385124556,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
