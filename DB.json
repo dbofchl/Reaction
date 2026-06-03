@@ -6488,6 +6488,15 @@
       "joinedAt": 1780448021691,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8315161782": {
+      "id": 8315161782,
+      "username": "",
+      "fullName": "CRIMINAL",
+      "points": 0,
+      "joinedAt": 1780472276671,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
