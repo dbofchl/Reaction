@@ -6497,6 +6497,15 @@
       "joinedAt": 1780472276671,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8770918161": {
+      "id": 8770918161,
+      "username": "",
+      "fullName": "zixu",
+      "points": 0,
+      "joinedAt": 1780590767324,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
