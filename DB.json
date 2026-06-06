@@ -6519,11 +6519,11 @@
     "7214204635": {
       "id": 7214204635,
       "username": "",
-      "fullName": "",
+      "fullName": "Gulshan Kumar",
       "points": 0,
       "joinedAt": 1780722477424,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -6839,6 +6839,13 @@
       "price": 15000,
       "orderId": "BP8262926562MPXCT7OM1G7O",
       "createdAt": 1780448071114
+    },
+    "BP7214204635MQ1W782PL9W7": {
+      "userId": 7214204635,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7214204635MQ1W782PL9W7",
+      "createdAt": 1780722502762
     }
   },
   "reactCooldownMs": 300000
