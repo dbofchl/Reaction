@@ -6527,12 +6527,12 @@
     },
     "6576556747": {
       "id": 6576556747,
-      "username": "",
-      "fullName": "",
+      "username": "abhimanyuyadav22",
+      "fullName": "Itachi Uchiha",
       "points": 0,
       "joinedAt": 1780930522343,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -6855,6 +6855,13 @@
       "price": 150000,
       "orderId": "BP7214204635MQ1W782PL9W7",
       "createdAt": 1780722502762
+    },
+    "BP6576556747MQ5C27PN3KZ9": {
+      "userId": 6576556747,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP6576556747MQ5C27PN3KZ9",
+      "createdAt": 1780930541182
     }
   },
   "reactCooldownMs": 300000
