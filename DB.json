@@ -6556,7 +6556,7 @@
       "id": 7164508142,
       "username": "OrderKeyDisiniAja",
       "fullName": "+62 Admin All Game",
-      "points": 0,
+      "points": 100,
       "joinedAt": 1781360510662,
       "lastDaily": null,
       "isNewUser": false
@@ -6889,13 +6889,6 @@
       "price": 150000,
       "orderId": "BP6576556747MQ5C27PN3KZ9",
       "createdAt": 1780930541182
-    },
-    "BP7164508142MQCIEMUZ5AMD": {
-      "userId": 7164508142,
-      "points": 100,
-      "price": 50000,
-      "orderId": "BP7164508142MQCIEMUZ5AMD",
-      "createdAt": 1781364464304
     }
   },
   "reactCooldownMs": 300000
