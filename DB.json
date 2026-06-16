@@ -6587,6 +6587,15 @@
       "joinedAt": 1781435450223,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8307189445": {
+      "id": 8307189445,
+      "username": "",
+      "fullName": "Phat Por",
+      "points": 0,
+      "joinedAt": 1781620116784,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
