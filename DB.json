@@ -6743,12 +6743,21 @@
     },
     "5289774117": {
       "id": 5289774117,
-      "username": "",
-      "fullName": "",
+      "username": "Feonziz_7",
+      "fullName": "FEONZIZ PRIME",
       "points": 0,
       "joinedAt": 1782086322024,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8675713050": {
+      "id": 8675713050,
+      "username": "Rezaindo",
+      "fullName": "Reza Vip",
+      "points": 0,
+      "joinedAt": 1782086330130,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
