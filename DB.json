@@ -6608,12 +6608,21 @@
     },
     "6792849694": {
       "id": 6792849694,
-      "username": "",
-      "fullName": "",
+      "username": "dangrangtoabc",
+      "fullName": "Mr .NgạiVàNhát",
       "points": 0,
       "joinedAt": 1782085653561,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8080978698": {
+      "id": 8080978698,
+      "username": "WilzXiterzVN",
+      "fullName": "WilzXiterz VN",
+      "points": 0,
+      "joinedAt": 1782085658501,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
