@@ -6704,6 +6704,15 @@
       "joinedAt": 1782086161174,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8483124373": {
+      "id": 8483124373,
+      "username": "MASRR01",
+      "fullName": "Mas R",
+      "points": 0,
+      "joinedAt": 1782086206807,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
