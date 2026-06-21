@@ -6680,12 +6680,21 @@
     },
     "7010501285": {
       "id": 7010501285,
-      "username": "",
-      "fullName": "",
+      "username": "Namelenv",
+      "fullName": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ",
       "points": 0,
       "joinedAt": 1782085927370,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6457193218": {
+      "id": 6457193218,
+      "username": "Minzstore10",
+      "fullName": "𝐌𝐢𝐧𝐡 ᶻ 𝗓 𐰁",
+      "points": 0,
+      "joinedAt": 1782085940419,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
