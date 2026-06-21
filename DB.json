@@ -6654,9 +6654,18 @@
     "7185298073": {
       "id": 7185298073,
       "username": "",
-      "fullName": "",
+      "fullName": "Hafid Man",
       "points": 0,
       "joinedAt": 1782085760939,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7539096177": {
+      "id": 7539096177,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782085789642,
       "lastDaily": null,
       "isNewUser": true
     }
