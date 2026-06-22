@@ -7553,12 +7553,21 @@
     },
     "8737546606": {
       "id": 8737546606,
-      "username": "",
-      "fullName": "",
+      "username": "xviid11",
+      "fullName": "𝐗͢𝐊͠𝐘𝐙͡𝐎𝐎̷͢ 𝐏͢𝐇͠𝐎͢𝐂͡𝐀𝐋͠𝐈͢𝐏",
       "points": 0,
       "joinedAt": 1782095994481,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7892238312": {
+      "id": 7892238312,
+      "username": "ItsMeFizz15",
+      "fullName": "ㅤㅤFizz?ㅤ",
+      "points": 0,
+      "joinedAt": 1782096052951,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
