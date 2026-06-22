@@ -7932,11 +7932,20 @@
     "5083554951": {
       "id": 5083554951,
       "username": "",
-      "fullName": "",
+      "fullName": "JONY Baba",
       "points": 0,
       "joinedAt": 1782103763132,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8347507300": {
+      "id": 8347507300,
+      "username": "Esx3recc",
+      "fullName": "Feroo",
+      "points": 0,
+      "joinedAt": 1782103773183,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
