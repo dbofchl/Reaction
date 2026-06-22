@@ -1120,7 +1120,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 11,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7656,6 +7656,15 @@
       "fullName": "・SamXY友 𝑭𝑿",
       "points": 0,
       "joinedAt": 1782096856684,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7176044476": {
+      "id": 7176044476,
+      "username": "zhuuvip",
+      "fullName": "Zhuu HERE !",
+      "points": 0,
+      "joinedAt": 1782097650370,
       "lastDaily": null,
       "isNewUser": false
     }
