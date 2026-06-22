@@ -6860,10 +6860,19 @@
     },
     "8280315626": {
       "id": 8280315626,
+      "username": "carlos22brayan",
+      "fullName": "carlos",
+      "points": 0,
+      "joinedAt": 1782087691222,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8533956428": {
+      "id": 8533956428,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782087691222,
+      "joinedAt": 1782087743381,
       "lastDaily": null,
       "isNewUser": true
     }
