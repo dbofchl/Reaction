@@ -1138,7 +1138,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 13,
+      "points": 14,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8079,6 +8079,15 @@
       "fullName": "Dinuka Nimsara",
       "points": 0,
       "joinedAt": 1782107490197,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8171857601": {
+      "id": 8171857601,
+      "username": "xemmluvluv",
+      "fullName": "Xemmluvluve xemm",
+      "points": 0,
+      "joinedAt": 1782108087931,
       "lastDaily": null,
       "isNewUser": false
     }
