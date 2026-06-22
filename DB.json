@@ -7427,12 +7427,12 @@
     },
     "5430710701": {
       "id": 5430710701,
-      "username": "",
-      "fullName": "",
+      "username": "Krishpanel_0909",
+      "fullName": "Vike gaming",
       "points": 0,
       "joinedAt": 1782094315559,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -7791,6 +7791,13 @@
       "price": 15000,
       "orderId": "BP8106028903MQOHCD9S54QD",
       "createdAt": 1782088270015
+    },
+    "BP5430710701MQOKYGWWZ8PU": {
+      "userId": 5430710701,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP5430710701MQOKYGWWZ8PU",
+      "createdAt": 1782094339943
     }
   },
   "reactCooldownMs": 300000
