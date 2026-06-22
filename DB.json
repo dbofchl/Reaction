@@ -1093,7 +1093,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7265,12 +7265,21 @@
     },
     "7498315623": {
       "id": 7498315623,
-      "username": "",
-      "fullName": "",
+      "username": "Nitchere",
+      "fullName": "Nicht .",
       "points": 0,
       "joinedAt": 1782093180976,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5622621186": {
+      "id": 5622621186,
+      "username": "Masoombhai786",
+      "fullName": "Tahzeem Bhai",
+      "points": 0,
+      "joinedAt": 1782093432720,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
