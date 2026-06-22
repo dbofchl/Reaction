@@ -8846,6 +8846,15 @@
       "joinedAt": 1782144340604,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7542246260": {
+      "id": 7542246260,
+      "username": "team_crypto_admin",
+      "fullName": "Crypto",
+      "points": 0,
+      "joinedAt": 1782145068718,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
