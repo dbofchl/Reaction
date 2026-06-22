@@ -63,6 +63,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1144253138": {
+      "id": 1144253138,
+      "username": "Alya7001",
+      "fullName": "ALYA Ofc",
+      "points": 0,
+      "joinedAt": 1782094813065,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1160976551": {
       "id": 1160976551,
       "username": "limitbosq",
@@ -7482,11 +7491,11 @@
     "7597462927": {
       "id": 7597462927,
       "username": "",
-      "fullName": "",
+      "fullName": "Md Shuat",
       "points": 0,
       "joinedAt": 1782094806697,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
