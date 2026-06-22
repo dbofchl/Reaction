@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 23,
+      "points": 24,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8840,12 +8840,12 @@
     },
     "5641655373": {
       "id": 5641655373,
-      "username": "",
-      "fullName": "",
+      "username": "rhunivers",
+      "fullName": "RH",
       "points": 0,
       "joinedAt": 1782144340604,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
