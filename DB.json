@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 21,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8759,10 +8759,19 @@
     },
     "7070980358": {
       "id": 7070980358,
+      "username": "piwwaflod",
+      "fullName": "..",
+      "points": 0,
+      "joinedAt": 1782139816461,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7600583991": {
+      "id": 7600583991,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782139816461,
+      "joinedAt": 1782140098663,
       "lastDaily": null,
       "isNewUser": true
     }
