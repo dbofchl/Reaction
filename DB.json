@@ -7163,6 +7163,15 @@
       "joinedAt": 1782091349043,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8061204519": {
+      "id": 8061204519,
+      "username": "",
+      "fullName": "Me Marco",
+      "points": 0,
+      "joinedAt": 1782091377022,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
