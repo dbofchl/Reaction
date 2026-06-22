@@ -6797,12 +6797,21 @@
     },
     "6945200073": {
       "id": 6945200073,
-      "username": "",
-      "fullName": "",
+      "username": "pooortis",
+      "fullName": "cimol Store",
       "points": 0,
       "joinedAt": 1782087269385,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6855721203": {
+      "id": 6855721203,
+      "username": "",
+      "fullName": "Rnnnl Nn",
+      "points": 0,
+      "joinedAt": 1782087334449,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
