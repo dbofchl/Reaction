@@ -8957,10 +8957,19 @@
     },
     "7157220125": {
       "id": 7157220125,
+      "username": "NIGHTGOST00",
+      "fullName": "NIGHT GOST",
+      "points": 0,
+      "joinedAt": 1782153862566,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7330721613": {
+      "id": 7330721613,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782153862566,
+      "joinedAt": 1782155551509,
       "lastDaily": null,
       "isNewUser": true
     }
