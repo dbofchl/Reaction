@@ -8525,12 +8525,21 @@
     },
     "6426208111": {
       "id": 6426208111,
-      "username": "",
-      "fullName": "",
+      "username": "parvez38139",
+      "fullName": "Musharraf ️",
       "points": 0,
       "joinedAt": 1782117571089,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8738117874": {
+      "id": 8738117874,
+      "username": "PsAbasxiters02",
+      "fullName": "ABAS X!TERS HIGH'T",
+      "points": 0,
+      "joinedAt": 1782118606966,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
