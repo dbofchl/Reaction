@@ -1120,7 +1120,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 8,
+      "points": 9,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7544,10 +7544,19 @@
     },
     "8604575218": {
       "id": 8604575218,
+      "username": "Kelvinsipayung12",
+      "fullName": "Kelvinsipayung",
+      "points": 0,
+      "joinedAt": 1782095385339,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8737546606": {
+      "id": 8737546606,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782095385339,
+      "joinedAt": 1782095994481,
       "lastDaily": null,
       "isNewUser": true
     }
