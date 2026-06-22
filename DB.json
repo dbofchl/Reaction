@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 25,
+      "points": 27,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8894,12 +8894,21 @@
     },
     "6548114422": {
       "id": 6548114422,
-      "username": "",
-      "fullName": "",
+      "username": "yaxnrowrr",
+      "fullName": "🆈🅰🆇🆉",
       "points": 0,
       "joinedAt": 1782146779779,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8591678822": {
+      "id": 8591678822,
+      "username": "",
+      "fullName": "Mbannzzz 🫢",
+      "points": 0,
+      "joinedAt": 1782148325352,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
