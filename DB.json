@@ -8615,12 +8615,21 @@
     },
     "8368658086": {
       "id": 8368658086,
-      "username": "",
-      "fullName": "",
+      "username": "PANELKINGL",
+      "fullName": "PANEL KING",
       "points": 0,
       "joinedAt": 1782124671190,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7715749589": {
+      "id": 7715749589,
+      "username": "Krishnakumar09mm",
+      "fullName": "Kanha Kumar",
+      "points": 0,
+      "joinedAt": 1782124823192,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
