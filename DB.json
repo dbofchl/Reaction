@@ -8819,6 +8819,15 @@
       "joinedAt": 1782141508129,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7062101060": {
+      "id": 7062101060,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782142694487,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
