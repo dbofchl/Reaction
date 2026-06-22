@@ -1120,7 +1120,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 9,
+      "points": 10,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7607,12 +7607,21 @@
     },
     "6415447823": {
       "id": 6415447823,
-      "username": "",
-      "fullName": "",
+      "username": "Dz_Habijur_boss",
+      "fullName": "𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋD̶z̶_H̶a̶b̶i̶j̶u̶r̶_o̶f̶f̶ic̶e̶l̶",
       "points": 0,
       "joinedAt": 1782096627763,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8357416973": {
+      "id": 8357416973,
+      "username": "jossmodz",
+      "fullName": "𝐉𝐨𝐬𝐬 𝐌𝐨𝐝𝐳𝐳",
+      "points": 0,
+      "joinedAt": 1782096636779,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
