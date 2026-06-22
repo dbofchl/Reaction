@@ -8156,12 +8156,21 @@
     },
     "6864718460": {
       "id": 6864718460,
-      "username": "",
-      "fullName": "",
+      "username": "ATOZOFC",
+      "fullName": "𝙈𝙧. ፝֟፝֟A𝙏𝙊乙",
       "points": 0,
       "joinedAt": 1782109814462,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6129627454": {
+      "id": 6129627454,
+      "username": "",
+      "fullName": "❤️‍🔥SBM❤️‍🔥",
+      "points": 0,
+      "joinedAt": 1782109840742,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
