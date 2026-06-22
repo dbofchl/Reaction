@@ -7455,11 +7455,20 @@
     "7786111771": {
       "id": 7786111771,
       "username": "",
-      "fullName": "",
+      "fullName": "𓆩 𝐃𝐚𝐤𝐮 Team 𓆪",
       "points": 0,
       "joinedAt": 1782094438387,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6889841016": {
+      "id": 6889841016,
+      "username": "Whynewera23",
+      "fullName": "Why",
+      "points": 0,
+      "joinedAt": 1782094522594,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
