@@ -6830,6 +6830,15 @@
       "joinedAt": 1782087436630,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8923024631": {
+      "id": 8923024631,
+      "username": "",
+      "fullName": "satt ofc",
+      "points": 0,
+      "joinedAt": 1782087481114,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
