@@ -8337,11 +8337,20 @@
     "7538478331": {
       "id": 7538478331,
       "username": "",
-      "fullName": "",
+      "fullName": "Putra Mumbol",
       "points": 0,
       "joinedAt": 1782113608908,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8401252017": {
+      "id": 8401252017,
+      "username": "UR_MD_ALAM_VAI",
+      "fullName": "MD ALAM VAI",
+      "points": 0,
+      "joinedAt": 1782113784439,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
