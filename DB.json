@@ -1147,7 +1147,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 9,
+      "points": 10,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8139,11 +8139,11 @@
     "6785928425": {
       "id": 6785928425,
       "username": "",
-      "fullName": "",
+      "fullName": "Hello world",
       "points": 0,
       "joinedAt": 1782109405500,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -8516,6 +8516,13 @@
       "price": 15000,
       "orderId": "BP8347507300MQOQL7K13J4G",
       "createdAt": 1782103799577
+    },
+    "BP6785928425MQOTY97W14WI": {
+      "userId": 6785928425,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6785928425MQOTY97W14WI",
+      "createdAt": 1782109446604
     }
   },
   "reactCooldownMs": 300000
