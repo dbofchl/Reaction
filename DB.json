@@ -8201,12 +8201,21 @@
     },
     "8794795368": {
       "id": 8794795368,
-      "username": "",
-      "fullName": "",
+      "username": "Necml",
+      "fullName": "NECML",
       "points": 0,
       "joinedAt": 1782109947953,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8793242091": {
+      "id": 8793242091,
+      "username": "",
+      "fullName": "Rell",
+      "points": 0,
+      "joinedAt": 1782110187543,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
