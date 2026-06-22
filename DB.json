@@ -8099,6 +8099,15 @@
       "joinedAt": 1782108145103,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8436494440": {
+      "id": 8436494440,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782108266397,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
