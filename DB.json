@@ -8297,6 +8297,24 @@
       "joinedAt": 1782112080413,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7449870771": {
+      "id": 7449870771,
+      "username": "rushan29",
+      "fullName": "𝐅𝐎𝐗𝐗 𝐑𝐔𝐒𝐇𝐀𝐍",
+      "points": 0,
+      "joinedAt": 1782112082135,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8323824616": {
+      "id": 8323824616,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782112616195,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
