@@ -6977,10 +6977,19 @@
     },
     "5370575041": {
       "id": 5370575041,
+      "username": "ARKING009",
+      "fullName": "AR MODS",
+      "points": 0,
+      "joinedAt": 1782088765900,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8437210167": {
+      "id": 8437210167,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782088765900,
+      "joinedAt": 1782088843733,
       "lastDaily": null,
       "isNewUser": true
     }
