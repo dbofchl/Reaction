@@ -8283,11 +8283,20 @@
     "6714995507": {
       "id": 6714995507,
       "username": "",
-      "fullName": "",
+      "fullName": "Baran",
       "points": 0,
       "joinedAt": 1782111412038,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8665008403": {
+      "id": 8665008403,
+      "username": "",
+      "fullName": "Hanif Sk",
+      "points": 0,
+      "joinedAt": 1782112080413,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
