@@ -7149,11 +7149,20 @@
     "8028762862": {
       "id": 8028762862,
       "username": "",
-      "fullName": "",
+      "fullName": "Amir Tix",
       "points": 0,
       "joinedAt": 1782091344450,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6004477443": {
+      "id": 6004477443,
+      "username": "CHIYY_TRA11",
+      "fullName": "𝐂𝐇𝐈𝐘 𝐓𝐑𝐀 - ( មេម៉ូត ) 🧃",
+      "points": 0,
+      "joinedAt": 1782091349043,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
