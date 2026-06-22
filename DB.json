@@ -7409,12 +7409,21 @@
     },
     "5809654618": {
       "id": 5809654618,
-      "username": "",
-      "fullName": "",
+      "username": "BLACKCHEAT19",
+      "fullName": "𓆰 🐼⃫⃟⃤𝘽𝙇𝘼𝘾𝙆 𝘾𝙃𝙀𝘼𝙏",
       "points": 0,
       "joinedAt": 1782094232790,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8542486746": {
+      "id": 8542486746,
+      "username": "Xbeierh",
+      "fullName": "NGKERRRRR",
+      "points": 0,
+      "joinedAt": 1782094313300,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
