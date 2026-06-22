@@ -1075,7 +1075,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -6923,12 +6923,12 @@
     },
     "8101754909": {
       "id": 8101754909,
-      "username": "",
-      "fullName": "",
+      "username": "RomeoGamers",
+      "fullName": "Romeo",
       "points": 0,
       "joinedAt": 1782088112343,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -7273,6 +7273,13 @@
       "price": 15000,
       "orderId": "BP8533956428MQOH1MRS2B23",
       "createdAt": 1782087769044
+    },
+    "BP7544584720MQOH9R8UKMRL": {
+      "userId": 7544584720,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7544584720MQOH9R8UKMRL",
+      "createdAt": 1782088148068
     }
   },
   "reactCooldownMs": 300000
