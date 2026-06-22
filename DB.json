@@ -8585,6 +8585,15 @@
       "joinedAt": 1782121095382,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8487609150": {
+      "id": 8487609150,
+      "username": "",
+      "fullName": "Dika Dill",
+      "points": 0,
+      "joinedAt": 1782121353607,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
