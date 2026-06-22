@@ -8174,10 +8174,19 @@
     },
     "7354479639": {
       "id": 7354479639,
+      "username": "ujjalbhai11",
+      "fullName": "UJJAL BHAI",
+      "points": 0,
+      "joinedAt": 1782109855234,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6524534204": {
+      "id": 6524534204,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782109855234,
+      "joinedAt": 1782109887444,
       "lastDaily": null,
       "isNewUser": true
     }
