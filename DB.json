@@ -7859,10 +7859,19 @@
     },
     "8442242610": {
       "id": 8442242610,
+      "username": "PSZORINHERE",
+      "fullName": "PS ZOR",
+      "points": 0,
+      "joinedAt": 1782101117340,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5844616109": {
+      "id": 5844616109,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782101117340,
+      "joinedAt": 1782101152112,
       "lastDaily": null,
       "isNewUser": true
     }
