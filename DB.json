@@ -8732,12 +8732,12 @@
     },
     "8168086894": {
       "id": 8168086894,
-      "username": "",
-      "fullName": "",
+      "username": "TEMSA777_77",
+      "fullName": "TEMSA7",
       "points": 0,
       "joinedAt": 1782138908107,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -9124,6 +9124,13 @@
       "price": 15000,
       "orderId": "BP8443763841MQOU8WTQ6DPX",
       "createdAt": 1782109943771
+    },
+    "BP8168086894MQPBIJWEJI0P": {
+      "userId": 8168086894,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8168086894MQPBIJWEJI0P",
+      "createdAt": 1782138947569
     }
   },
   "reactCooldownMs": 300000
