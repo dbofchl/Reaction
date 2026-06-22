@@ -8678,12 +8678,21 @@
     },
     "7103531545": {
       "id": 7103531545,
-      "username": "",
-      "fullName": "",
+      "username": "gwehdurov",
+      "fullName": "zero wut-wut⚡️",
       "points": 0,
       "joinedAt": 1782130390335,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6380990322": {
+      "id": 6380990322,
+      "username": "Manda_stt",
+      "fullName": "𝕸𝖆𝖓𝖉𝖆",
+      "points": 0,
+      "joinedAt": 1782134527441,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
