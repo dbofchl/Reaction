@@ -8540,6 +8540,15 @@
       "joinedAt": 1782118606966,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8175212992": {
+      "id": 8175212992,
+      "username": "shadowsig_on",
+      "fullName": "SHADOWSIG",
+      "points": 0,
+      "joinedAt": 1782118681387,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
