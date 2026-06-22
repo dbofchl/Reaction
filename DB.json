@@ -8318,12 +8318,21 @@
     },
     "8484244372": {
       "id": 8484244372,
-      "username": "",
-      "fullName": "",
+      "username": "Alikhan373737",
+      "fullName": "Master Shifu 💀",
       "points": 0,
       "joinedAt": 1782113065467,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6333856922": {
+      "id": 6333856922,
+      "username": "",
+      "fullName": "Murad Khan",
+      "points": 0,
+      "joinedAt": 1782113089461,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
