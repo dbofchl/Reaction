@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 30,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8966,10 +8966,19 @@
     },
     "7330721613": {
       "id": 7330721613,
+      "username": "HmBvz",
+      "fullName": "HmBvz",
+      "points": 0,
+      "joinedAt": 1782155551509,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8715711315": {
+      "id": 8715711315,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782155551509,
+      "joinedAt": 1782156878669,
       "lastDaily": null,
       "isNewUser": true
     }
