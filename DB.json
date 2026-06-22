@@ -6905,12 +6905,21 @@
     },
     "7462418416": {
       "id": 7462418416,
-      "username": "",
-      "fullName": "",
+      "username": "VikramXbro",
+      "fullName": "𝘝𝘐𝘒𝘙𝘈𝘔 𝘔𝘖𝘋𝘚 ( ᴏᴡɴᴇʀ )",
       "points": 0,
       "joinedAt": 1782088057906,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7544584720": {
+      "id": 7544584720,
+      "username": "kitsunefreedomoffc",
+      "fullName": "Kitsune",
+      "points": 0,
+      "joinedAt": 1782088080725,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
