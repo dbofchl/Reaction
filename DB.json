@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8705,12 +8705,21 @@
     },
     "5142769445": {
       "id": 5142769445,
-      "username": "",
-      "fullName": "",
+      "username": "faisalsuksuka",
+      "fullName": "isall",
       "points": 0,
       "joinedAt": 1782135880148,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6658331236": {
+      "id": 6658331236,
+      "username": "",
+      "fullName": "amba tukam",
+      "points": 0,
+      "joinedAt": 1782136922462,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
