@@ -8877,9 +8877,18 @@
     "8414962199": {
       "id": 8414962199,
       "username": "",
-      "fullName": "",
+      "fullName": "Ahya Aweni",
       "points": 0,
       "joinedAt": 1782146028383,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7997414893": {
+      "id": 7997414893,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782146626539,
       "lastDaily": null,
       "isNewUser": true
     }
