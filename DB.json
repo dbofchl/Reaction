@@ -1093,7 +1093,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 6,
+      "points": 7,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7355,12 +7355,21 @@
     },
     "8422724901": {
       "id": 8422724901,
-      "username": "",
-      "fullName": "",
+      "username": "devinx999",
+      "fullName": "Devin X",
       "points": 0,
       "joinedAt": 1782093795984,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8432558858": {
+      "id": 8432558858,
+      "username": "Ozannn7",
+      "fullName": "O Zantzy",
+      "points": 0,
+      "joinedAt": 1782093816179,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
