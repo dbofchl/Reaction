@@ -7832,12 +7832,21 @@
     },
     "8249429412": {
       "id": 8249429412,
-      "username": "",
-      "fullName": "",
+      "username": "FLUXX356",
+      "fullName": "𝐅𝐋𝐔𝐗𝐗𝐖𝐀𝐕𝐄 𝔒𝔴𝔫𝔢𝔯™",
       "points": 0,
       "joinedAt": 1782100802515,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8705310044": {
+      "id": 8705310044,
+      "username": "",
+      "fullName": "ceng",
+      "points": 0,
+      "joinedAt": 1782100803968,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
