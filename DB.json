@@ -452,12 +452,12 @@
     },
     "2102908949": {
       "id": 2102908949,
-      "username": "",
-      "fullName": "",
+      "username": "jsobfuscator",
+      "fullName": "HangzReall",
       "points": 0,
       "joinedAt": 1782113952018,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "2128022758": {
       "id": 2128022758,
@@ -8360,6 +8360,15 @@
       "joinedAt": 1782113784439,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5581580711": {
+      "id": 5581580711,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782114038994,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
