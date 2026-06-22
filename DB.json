@@ -7877,10 +7877,19 @@
     },
     "7950851411": {
       "id": 7950851411,
+      "username": "Xiaowhei2",
+      "fullName": "Xiao whei",
+      "points": 0,
+      "joinedAt": 1782101229207,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6865037761": {
+      "id": 6865037761,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782101229207,
+      "joinedAt": 1782101664225,
       "lastDaily": null,
       "isNewUser": true
     }
