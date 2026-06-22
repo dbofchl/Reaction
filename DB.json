@@ -8066,10 +8066,19 @@
     },
     "6615434389": {
       "id": 6615434389,
+      "username": "ahmd_panel",
+      "fullName": "AHMAD Seller",
+      "points": 0,
+      "joinedAt": 1782107458835,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7964061775": {
+      "id": 7964061775,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782107458835,
+      "joinedAt": 1782107490197,
       "lastDaily": null,
       "isNewUser": true
     }
