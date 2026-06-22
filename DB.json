@@ -7329,11 +7329,20 @@
     "8228358865": {
       "id": 8228358865,
       "username": "",
-      "fullName": "",
+      "fullName": "Mahim Tm",
       "points": 0,
       "joinedAt": 1782093736631,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7600673072": {
+      "id": 7600673072,
+      "username": "Salmanali4452",
+      "fullName": "Muhammad Salman",
+      "points": 0,
+      "joinedAt": 1782093747581,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
