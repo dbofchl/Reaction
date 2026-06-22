@@ -7715,12 +7715,21 @@
     },
     "8269499584": {
       "id": 8269499584,
-      "username": "",
-      "fullName": "",
+      "username": "YahdixVVP",
+      "fullName": "YahdixVVIP",
       "points": 0,
       "joinedAt": 1782098780745,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7822811096": {
+      "id": 7822811096,
+      "username": "tanvirzod99",
+      "fullName": "TANVIR Bai 💎",
+      "points": 0,
+      "joinedAt": 1782098842891,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
