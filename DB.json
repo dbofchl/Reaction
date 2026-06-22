@@ -7679,12 +7679,21 @@
     },
     "5063335280": {
       "id": 5063335280,
-      "username": "",
-      "fullName": "",
+      "username": "AadiwasiBoy212",
+      "fullName": "ANKIT",
       "points": 0,
       "joinedAt": 1782097935658,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8401820578": {
+      "id": 8401820578,
+      "username": "Dadyx12x",
+      "fullName": "MIUI OWNER",
+      "points": 0,
+      "joinedAt": 1782097976672,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
