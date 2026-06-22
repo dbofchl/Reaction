@@ -7571,10 +7571,19 @@
     },
     "6403986015": {
       "id": 6403986015,
+      "username": "ITACHI_790001",
+      "fullName": "ITACHI UCHIHA",
+      "points": 0,
+      "joinedAt": 1782096258758,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7342208952": {
+      "id": 7342208952,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782096258758,
+      "joinedAt": 1782096262524,
       "lastDaily": null,
       "isNewUser": true
     }
