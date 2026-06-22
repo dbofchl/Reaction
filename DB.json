@@ -8657,6 +8657,15 @@
       "joinedAt": 1782126808180,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6663895463": {
+      "id": 6663895463,
+      "username": "",
+      "fullName": "skibidi",
+      "points": 0,
+      "joinedAt": 1782128963529,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
