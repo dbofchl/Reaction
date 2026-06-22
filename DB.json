@@ -1174,7 +1174,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 16,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8561,12 +8561,21 @@
     },
     "6954785344": {
       "id": 6954785344,
-      "username": "",
-      "fullName": "",
+      "username": "ifaysal",
+      "fullName": "Faysal Its",
       "points": 0,
       "joinedAt": 1782119500446,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7862371746": {
+      "id": 7862371746,
+      "username": "aryanfounded8076",
+      "fullName": "aryan Founded",
+      "points": 0,
+      "joinedAt": 1782119893454,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
