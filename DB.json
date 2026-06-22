@@ -7949,12 +7949,21 @@
     },
     "6906299220": {
       "id": 6906299220,
-      "username": "",
-      "fullName": "",
+      "username": "angeline2121",
+      "fullName": "ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ Angelynㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ",
       "points": 0,
       "joinedAt": 1782103949935,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6535626147": {
+      "id": 6535626147,
+      "username": "",
+      "fullName": "PSVietNam1",
+      "points": 0,
+      "joinedAt": 1782104183595,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
