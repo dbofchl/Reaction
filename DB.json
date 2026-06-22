@@ -1093,7 +1093,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 3,
+      "points": 4,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7130,12 +7130,21 @@
     },
     "7539414877": {
       "id": 7539414877,
-      "username": "",
-      "fullName": "",
+      "username": "junayednafida001",
+      "fullName": "JUNAYED exe",
       "points": 0,
       "joinedAt": 1782090789186,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6369948805": {
+      "id": 6369948805,
+      "username": "hahy15",
+      "fullName": "wici",
+      "points": 0,
+      "joinedAt": 1782091041912,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
