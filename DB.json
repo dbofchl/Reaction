@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 18,
+      "points": 19,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8723,10 +8723,19 @@
     },
     "7734196510": {
       "id": 7734196510,
+      "username": "ERROR_44001",
+      "fullName": "𝙼𝙳 𝙽𝙰𝙷𝙸𝙳",
+      "points": 0,
+      "joinedAt": 1782138693395,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8168086894": {
+      "id": 8168086894,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782138693395,
+      "joinedAt": 1782138908107,
       "lastDaily": null,
       "isNewUser": true
     }
