@@ -236,12 +236,12 @@
     },
     "1746537207": {
       "id": 1746537207,
-      "username": "",
-      "fullName": "",
+      "username": "Exsodust",
+      "fullName": "A DINO🥀",
       "points": 0,
       "joinedAt": 1782090260375,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1814979400": {
       "id": 1814979400,
@@ -7449,6 +7449,13 @@
       "price": 15000,
       "orderId": "BP8106028903MQOHCD9S54QD",
       "createdAt": 1782088270015
+    },
+    "BP7393305068MQOIJSDNHBAT": {
+      "userId": 7393305068,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7393305068MQOIJSDNHBAT",
+      "createdAt": 1782090295740
     }
   },
   "reactCooldownMs": 300000
