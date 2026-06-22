@@ -8426,10 +8426,19 @@
     },
     "8047677188": {
       "id": 8047677188,
+      "username": "winkhom3",
+      "fullName": "Win",
+      "points": 0,
+      "joinedAt": 1782115117699,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7277131769": {
+      "id": 7277131769,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782115117699,
+      "joinedAt": 1782115202029,
       "lastDaily": null,
       "isNewUser": true
     }
