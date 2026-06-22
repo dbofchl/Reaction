@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 19,
+      "points": 20,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8751,9 +8751,18 @@
     "8399940125": {
       "id": 8399940125,
       "username": "",
-      "fullName": "",
+      "fullName": "LUXXY",
       "points": 0,
       "joinedAt": 1782139689759,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7070980358": {
+      "id": 7070980358,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782139816461,
       "lastDaily": null,
       "isNewUser": true
     }
