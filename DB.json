@@ -7247,12 +7247,21 @@
     },
     "5288331495": {
       "id": 5288331495,
-      "username": "",
-      "fullName": "",
+      "username": "SyaqirIsHere",
+      "fullName": "Cengkir🕺🏼⚡️",
       "points": 0,
       "joinedAt": 1782092948596,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8434381913": {
+      "id": 8434381913,
+      "username": "Suleonlette",
+      "fullName": "Amonjo sad",
+      "points": 0,
+      "joinedAt": 1782092989514,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
