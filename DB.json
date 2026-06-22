@@ -8516,10 +8516,19 @@
     },
     "8790402897": {
       "id": 8790402897,
+      "username": "king_bro129",
+      "fullName": "THE KING",
+      "points": 0,
+      "joinedAt": 1782117389758,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6426208111": {
+      "id": 6426208111,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782117389758,
+      "joinedAt": 1782117571089,
       "lastDaily": null,
       "isNewUser": true
     }
