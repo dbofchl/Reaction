@@ -7869,9 +7869,18 @@
     "5844616109": {
       "id": 5844616109,
       "username": "",
-      "fullName": "",
+      "fullName": "Valorie Gkie",
       "points": 0,
       "joinedAt": 1782101152112,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7950851411": {
+      "id": 7950851411,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782101229207,
       "lastDaily": null,
       "isNewUser": true
     }
