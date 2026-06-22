@@ -7913,12 +7913,21 @@
     },
     "8201841028": {
       "id": 8201841028,
-      "username": "",
-      "fullName": "",
+      "username": "ipEngocohk",
+      "fullName": "aeronn",
       "points": 0,
       "joinedAt": 1782102711284,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6801932654": {
+      "id": 6801932654,
+      "username": "Im_nobita0007",
+      "fullName": "NOBITA FF",
+      "points": 0,
+      "joinedAt": 1782102751174,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
