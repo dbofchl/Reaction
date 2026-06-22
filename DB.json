@@ -7535,10 +7535,19 @@
     },
     "7764092257": {
       "id": 7764092257,
+      "username": "REN_DOX_1",
+      "fullName": "RENDOX",
+      "points": 0,
+      "joinedAt": 1782095338789,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8604575218": {
+      "id": 8604575218,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782095338789,
+      "joinedAt": 1782095385339,
       "lastDaily": null,
       "isNewUser": true
     }
