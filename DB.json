@@ -234,6 +234,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1746537207": {
+      "id": 1746537207,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782090260375,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1814979400": {
       "id": 1814979400,
       "username": "Devindudishmika",
@@ -7076,12 +7085,12 @@
     },
     "7393305068": {
       "id": 7393305068,
-      "username": "",
-      "fullName": "",
+      "username": "Sobaro07",
+      "fullName": "Mohamedfrxtg554",
       "points": 0,
       "joinedAt": 1782089661285,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
