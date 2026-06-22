@@ -7586,6 +7586,15 @@
       "joinedAt": 1782096262524,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6765345652": {
+      "id": 6765345652,
+      "username": "SUBARU_691",
+      "fullName": "NATSUKI SUBARU",
+      "points": 0,
+      "joinedAt": 1782096327730,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
