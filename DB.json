@@ -7928,6 +7928,15 @@
       "joinedAt": 1782102751174,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5083554951": {
+      "id": 5083554951,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782103763132,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
