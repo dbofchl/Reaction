@@ -7014,9 +7014,18 @@
     "6414640937": {
       "id": 6414640937,
       "username": "",
-      "fullName": "",
+      "fullName": "Atharv Tomar",
       "points": 0,
       "joinedAt": 1782089104333,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5099736765": {
+      "id": 5099736765,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782089166072,
       "lastDaily": null,
       "isNewUser": true
     }
