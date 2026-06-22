@@ -7202,12 +7202,21 @@
     },
     "8301406263": {
       "id": 8301406263,
-      "username": "",
-      "fullName": "",
+      "username": "Saddle_84",
+      "fullName": "Ｄａｒｋ Ｄａｎｔｅ ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨ",
       "points": 0,
       "joinedAt": 1782092253302,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5727075590": {
+      "id": 5727075590,
+      "username": "YourBabuTa",
+      "fullName": "Ur BabuTah",
+      "points": 0,
+      "joinedAt": 1782092513386,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
