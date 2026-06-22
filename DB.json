@@ -7895,12 +7895,12 @@
     },
     "7887841209": {
       "id": 7887841209,
-      "username": "",
-      "fullName": "",
+      "username": "RAM_ZZZ",
+      "fullName": "RAMZ",
       "points": 0,
       "joinedAt": 1782101970008,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -8266,6 +8266,13 @@
       "price": 50000,
       "orderId": "BP6292351584MQOMQBW3DH6H",
       "createdAt": 1782097319432
+    },
+    "BP7892105983MQOPNM2LCL5A": {
+      "userId": 7892105983,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7892105983MQOPNM2LCL5A",
+      "createdAt": 1782102231549
     }
   },
   "reactCooldownMs": 300000
