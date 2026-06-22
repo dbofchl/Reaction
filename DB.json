@@ -1093,7 +1093,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 5,
+      "points": 6,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -7296,6 +7296,15 @@
       "fullName": "ᡕᠵ᠊ᡃ່࡚ࠢ࠘⸝່ࠡ᠊߯ᡁࠣ࠘气亠 ☻️",
       "points": 0,
       "joinedAt": 1782093537589,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6734323798": {
+      "id": 6734323798,
+      "username": "Jonzz_sellfruit",
+      "fullName": "jony",
+      "points": 0,
+      "joinedAt": 1782093600374,
       "lastDaily": null,
       "isNewUser": false
     }
