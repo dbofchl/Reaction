@@ -1147,7 +1147,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 8,
+      "points": 9,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8124,6 +8124,15 @@
       "fullName": "PAID MANLR",
       "points": 0,
       "joinedAt": 1782108885129,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8698351417": {
+      "id": 8698351417,
+      "username": "Shion97IsBack",
+      "fullName": "Shion IS BACK",
+      "points": 0,
+      "joinedAt": 1782109295981,
       "lastDaily": null,
       "isNewUser": false
     }
