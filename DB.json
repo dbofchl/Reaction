@@ -8441,6 +8441,15 @@
       "joinedAt": 1782115202029,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8527377191": {
+      "id": 8527377191,
+      "username": "",
+      "fullName": "طاهر مرخي",
+      "points": 0,
+      "joinedAt": 1782115528097,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
