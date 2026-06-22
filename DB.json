@@ -8027,6 +8027,15 @@
       "joinedAt": 1782106141820,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7005253511": {
+      "id": 7005253511,
+      "username": "Anything122222",
+      "fullName": "Devil",
+      "points": 0,
+      "joinedAt": 1782106580566,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
