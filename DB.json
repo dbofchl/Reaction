@@ -7634,10 +7634,19 @@
     },
     "7751748698": {
       "id": 7751748698,
+      "username": "lienzZ15",
+      "fullName": "lienzZ15?",
+      "points": 0,
+      "joinedAt": 1782096774706,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8206749849": {
+      "id": 8206749849,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782096774706,
+      "joinedAt": 1782096778036,
       "lastDaily": null,
       "isNewUser": true
     }
