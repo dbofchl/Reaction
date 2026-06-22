@@ -8498,10 +8498,19 @@
     },
     "7082787506": {
       "id": 7082787506,
+      "username": "SMTEAMMODS",
+      "fullName": "SM TEAM MODS",
+      "points": 0,
+      "joinedAt": 1782117189474,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8319746801": {
+      "id": 8319746801,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782117189474,
+      "joinedAt": 1782117222373,
       "lastDaily": null,
       "isNewUser": true
     }
