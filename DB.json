@@ -7095,9 +7095,18 @@
     "7357251562": {
       "id": 7357251562,
       "username": "",
-      "fullName": "",
+      "fullName": "azil 23",
       "points": 0,
       "joinedAt": 1782090307284,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5616734210": {
+      "id": 5616734210,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782090493692,
       "lastDaily": null,
       "isNewUser": true
     }
@@ -7458,13 +7467,6 @@
       "price": 15000,
       "orderId": "BP8106028903MQOHCD9S54QD",
       "createdAt": 1782088270015
-    },
-    "BP7393305068MQOIJSDNHBAT": {
-      "userId": 7393305068,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7393305068MQOIJSDNHBAT",
-      "createdAt": 1782090295740
     }
   },
   "reactCooldownMs": 300000
