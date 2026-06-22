@@ -7643,10 +7643,19 @@
     },
     "8206749849": {
       "id": 8206749849,
+      "username": "Josmodzz",
+      "fullName": "Joss Modzz",
+      "points": 0,
+      "joinedAt": 1782096778036,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6401539018": {
+      "id": 6401539018,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782096778036,
+      "joinedAt": 1782096856684,
       "lastDaily": null,
       "isNewUser": true
     }
