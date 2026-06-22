@@ -7320,9 +7320,18 @@
     "8234978676": {
       "id": 8234978676,
       "username": "",
-      "fullName": "",
+      "fullName": "ALSukaNenennn",
       "points": 0,
       "joinedAt": 1782093704147,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8228358865": {
+      "id": 8228358865,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782093736631,
       "lastDaily": null,
       "isNewUser": true
     }
