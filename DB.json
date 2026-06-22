@@ -6870,11 +6870,11 @@
     "8533956428": {
       "id": 8533956428,
       "username": "",
-      "fullName": "",
+      "fullName": "Luiz Gustavo Coelho Ferreira",
       "points": 0,
       "joinedAt": 1782087743381,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -7212,6 +7212,13 @@
       "price": 150000,
       "orderId": "BP7511774567MQOG5PO89CJE",
       "createdAt": 1782086279862
+    },
+    "BP8533956428MQOH1MRS2B23": {
+      "userId": 8533956428,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8533956428MQOH1MRS2B23",
+      "createdAt": 1782087769044
     }
   },
   "reactCooldownMs": 300000
