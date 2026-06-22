@@ -8648,6 +8648,15 @@
       "joinedAt": 1782126287183,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6454433356": {
+      "id": 6454433356,
+      "username": "XDhalal",
+      "fullName": "MD Alamin",
+      "points": 0,
+      "joinedAt": 1782126808180,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
