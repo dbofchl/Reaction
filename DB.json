@@ -7805,12 +7805,21 @@
     },
     "7846663667": {
       "id": 7846663667,
-      "username": "",
-      "fullName": "",
+      "username": "DAVILBD1999",
+      "fullName": "MD IBRAHIM MUNSI",
       "points": 0,
       "joinedAt": 1782100240328,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8455096839": {
+      "id": 8455096839,
+      "username": "",
+      "fullName": "MXRIFAT",
+      "points": 0,
+      "joinedAt": 1782100644436,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
