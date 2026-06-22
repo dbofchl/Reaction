@@ -1075,7 +1075,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -6942,11 +6942,20 @@
     "6852623814": {
       "id": 6852623814,
       "username": "",
-      "fullName": "",
+      "fullName": "Rexzz",
       "points": 0,
       "joinedAt": 1782088247680,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7973247429": {
+      "id": 7973247429,
+      "username": "Dark00019",
+      "fullName": "Account owner is dead",
+      "points": 0,
+      "joinedAt": 1782088258516,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
