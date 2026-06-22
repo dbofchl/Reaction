@@ -6987,9 +6987,18 @@
     "8437210167": {
       "id": 8437210167,
       "username": "",
-      "fullName": "",
+      "fullName": "SPEED",
       "points": 0,
       "joinedAt": 1782088843733,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7838707118": {
+      "id": 7838707118,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782088867694,
       "lastDaily": null,
       "isNewUser": true
     }
