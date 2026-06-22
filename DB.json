@@ -8885,12 +8885,12 @@
     },
     "7997414893": {
       "id": 7997414893,
-      "username": "",
-      "fullName": "",
+      "username": "ratelimite",
+      "fullName": "colecole | rest",
       "points": 0,
       "joinedAt": 1782146626539,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
