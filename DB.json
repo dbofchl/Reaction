@@ -7976,12 +7976,21 @@
     },
     "6305480371": {
       "id": 6305480371,
-      "username": "",
-      "fullName": "",
+      "username": "NOMANmods",
+      "fullName": "NOMAN VAI",
       "points": 0,
       "joinedAt": 1782105601516,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6081650335": {
+      "id": 6081650335,
+      "username": "Satyaprawirakusuma",
+      "fullName": "Satau 『ＰＡＳ』Wira •🅼🅿🅸",
+      "points": 0,
+      "joinedAt": 1782105692131,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
