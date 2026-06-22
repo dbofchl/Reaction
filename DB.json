@@ -8669,10 +8669,19 @@
     },
     "7376168951": {
       "id": 7376168951,
+      "username": "ajiqncem",
+      "fullName": "user@J",
+      "points": 0,
+      "joinedAt": 1782129293420,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7103531545": {
+      "id": 7103531545,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782129293420,
+      "joinedAt": 1782130390335,
       "lastDaily": null,
       "isNewUser": true
     }
