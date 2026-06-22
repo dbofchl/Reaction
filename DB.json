@@ -6929,6 +6929,15 @@
       "joinedAt": 1782088112343,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8106028903": {
+      "id": 8106028903,
+      "username": "",
+      "fullName": "Rahul",
+      "points": 0,
+      "joinedAt": 1782088222780,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
