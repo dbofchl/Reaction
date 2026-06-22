@@ -273,11 +273,11 @@
     "1903605517": {
       "id": 1903605517,
       "username": "",
-      "fullName": "",
+      "fullName": "ℑ℺ℇℒ",
       "points": 0,
       "joinedAt": 1782086690711,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1913783522": {
       "id": 1913783522,
@@ -6783,6 +6783,15 @@
       "fullName": "夔┋ 𝐃ᴜʀɢᴇꜱʜ 𝐁ʜꫝɪ ➪",
       "points": 0,
       "joinedAt": 1782086443292,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7600414255": {
+      "id": 7600414255,
+      "username": "",
+      "fullName": "·Pinz F",
+      "points": 0,
+      "joinedAt": 1782087103102,
       "lastDaily": null,
       "isNewUser": false
     }
