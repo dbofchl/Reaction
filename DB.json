@@ -7886,12 +7886,12 @@
     },
     "6865037761": {
       "id": 6865037761,
-      "username": "",
-      "fullName": "",
+      "username": "jaybasak",
+      "fullName": "Jay Basak",
       "points": 0,
       "joinedAt": 1782101664225,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
