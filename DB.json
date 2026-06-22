@@ -7103,12 +7103,21 @@
     },
     "5616734210": {
       "id": 5616734210,
-      "username": "",
-      "fullName": "",
+      "username": "Yassigi88",
+      "fullName": "Haytam Aff",
       "points": 0,
       "joinedAt": 1782090493692,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7340203874": {
+      "id": 7340203874,
+      "username": "xomirazh",
+      "fullName": "XO Miraz H",
+      "points": 0,
+      "joinedAt": 1782090538879,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
