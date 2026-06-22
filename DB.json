@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 24,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8853,6 +8853,15 @@
       "fullName": "Crypto",
       "points": 0,
       "joinedAt": 1782145068718,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7466514034": {
+      "id": 7466514034,
+      "username": "PeeterUniverse",
+      "fullName": "Peeter Universe.",
+      "points": 0,
+      "joinedAt": 1782145256046,
       "lastDaily": null,
       "isNewUser": false
     }
