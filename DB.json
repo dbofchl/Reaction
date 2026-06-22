@@ -1183,7 +1183,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 21,
+      "points": 22,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8786,12 +8786,21 @@
     },
     "8030930371": {
       "id": 8030930371,
-      "username": "",
-      "fullName": "",
+      "username": "fliker009",
+      "fullName": "Fliker X Cheats",
       "points": 0,
       "joinedAt": 1782141036296,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8652476320": {
+      "id": 8652476320,
+      "username": "X_1XOZ",
+      "fullName": "NASSEM XIT",
+      "points": 0,
+      "joinedAt": 1782141105431,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
