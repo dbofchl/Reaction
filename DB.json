@@ -7901,6 +7901,24 @@
       "joinedAt": 1782101970008,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8275162045": {
+      "id": 8275162045,
+      "username": "",
+      "fullName": "dnu",
+      "points": 0,
+      "joinedAt": 1782102616827,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8201841028": {
+      "id": 8201841028,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782102711284,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
