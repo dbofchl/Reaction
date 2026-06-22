@@ -7626,9 +7626,18 @@
     "8451068377": {
       "id": 8451068377,
       "username": "",
-      "fullName": "",
+      "fullName": "Balso Fauslo",
       "points": 0,
       "joinedAt": 1782096705929,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7751748698": {
+      "id": 7751748698,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782096774706,
       "lastDaily": null,
       "isNewUser": true
     }
