@@ -7748,6 +7748,15 @@
       "joinedAt": 1782098973020,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8720560708": {
+      "id": 8720560708,
+      "username": "",
+      "fullName": "Raenaldi Arifiyanto Akbar",
+      "points": 0,
+      "joinedAt": 1782099261555,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
