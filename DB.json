@@ -7598,10 +7598,19 @@
     },
     "6465271122": {
       "id": 6465271122,
+      "username": "AwHasky",
+      "fullName": "aldi",
+      "points": 0,
+      "joinedAt": 1782096593797,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6415447823": {
+      "id": 6415447823,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782096593797,
+      "joinedAt": 1782096627763,
       "lastDaily": null,
       "isNewUser": true
     }
