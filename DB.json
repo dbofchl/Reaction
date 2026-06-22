@@ -8018,6 +8018,15 @@
       "joinedAt": 1782106119682,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8548712717": {
+      "id": 8548712717,
+      "username": "",
+      "fullName": "qhai",
+      "points": 0,
+      "joinedAt": 1782106141820,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
