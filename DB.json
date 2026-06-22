@@ -8273,10 +8273,19 @@
     },
     "8299434484": {
       "id": 8299434484,
+      "username": "sulroyal",
+      "fullName": "𝙎ull 𝙎",
+      "points": 0,
+      "joinedAt": 1782111342732,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6714995507": {
+      "id": 6714995507,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782111342732,
+      "joinedAt": 1782111412038,
       "lastDaily": null,
       "isNewUser": true
     }
