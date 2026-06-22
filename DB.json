@@ -396,6 +396,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2045667884": {
+      "id": 2045667884,
+      "username": "Gogogim",
+      "fullName": "P",
+      "points": 0,
+      "joinedAt": 1782107304757,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "2075224655": {
       "id": 2075224655,
       "username": "Kdkjs0z",
@@ -8039,12 +8048,12 @@
     },
     "7224773511": {
       "id": 7224773511,
-      "username": "",
-      "fullName": "",
+      "username": "expartteam200",
+      "fullName": "Md Tamim",
       "points": 0,
       "joinedAt": 1782106673905,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
