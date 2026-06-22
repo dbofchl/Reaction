@@ -7022,12 +7022,21 @@
     },
     "5099736765": {
       "id": 5099736765,
-      "username": "",
-      "fullName": "",
+      "username": "SURYAPCPLAYER",
+      "fullName": "SURYA OFFICIAL",
       "points": 0,
       "joinedAt": 1782089166072,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8255039864": {
+      "id": 8255039864,
+      "username": "Irkhasmodzxd",
+      "fullName": "𝙄𝙧𝙠𝙝𝙖𝙨 𝙈𝙤𝙙𝙓𝘿",
+      "points": 0,
+      "joinedAt": 1782089200673,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
