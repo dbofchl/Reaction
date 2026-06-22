@@ -7049,12 +7049,21 @@
     },
     "7353202638": {
       "id": 7353202638,
-      "username": "",
-      "fullName": "",
+      "username": "meAyhem",
+      "fullName": "Ayham , 4ever",
       "points": 0,
       "joinedAt": 1782089338368,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5446467416": {
+      "id": 5446467416,
+      "username": "Sadboy2k15",
+      "fullName": "Day N Nite",
+      "points": 0,
+      "joinedAt": 1782089441868,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
