@@ -8363,12 +8363,21 @@
     },
     "5581580711": {
       "id": 5581580711,
-      "username": "",
-      "fullName": "",
+      "username": "syahhangga",
+      "fullName": "Ha",
       "points": 0,
       "joinedAt": 1782114038994,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6275668055": {
+      "id": 6275668055,
+      "username": "polsekjaktim",
+      "fullName": "Genderuwo (Sementara Off)",
+      "points": 0,
+      "joinedAt": 1782114068287,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
