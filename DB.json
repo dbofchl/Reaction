@@ -7445,10 +7445,19 @@
     },
     "8305347691": {
       "id": 8305347691,
+      "username": "Root_Expert_Ornob",
+      "fullName": "AURA ORNOB",
+      "points": 0,
+      "joinedAt": 1782094403770,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7786111771": {
+      "id": 7786111771,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782094403770,
+      "joinedAt": 1782094438387,
       "lastDaily": null,
       "isNewUser": true
     }
