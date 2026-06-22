@@ -7527,9 +7527,18 @@
     "7738207874": {
       "id": 7738207874,
       "username": "",
-      "fullName": "",
+      "fullName": "Asfak Ff",
       "points": 0,
       "joinedAt": 1782095111066,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7764092257": {
+      "id": 7764092257,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782095338789,
       "lastDaily": null,
       "isNewUser": true
     }
