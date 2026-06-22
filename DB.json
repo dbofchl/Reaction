@@ -8828,6 +8828,15 @@
       "joinedAt": 1782142694487,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8525844031": {
+      "id": 8525844031,
+      "username": "",
+      "fullName": "Zahid Nəzərov",
+      "points": 0,
+      "joinedAt": 1782143393573,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
