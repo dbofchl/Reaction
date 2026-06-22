@@ -6879,11 +6879,20 @@
     "7710954582": {
       "id": 7710954582,
       "username": "",
-      "fullName": "",
+      "fullName": "Santigz_07",
       "points": 0,
       "joinedAt": 1782087900716,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7221229346": {
+      "id": 7221229346,
+      "username": "dugdugwa",
+      "fullName": "apsijir",
+      "points": 0,
+      "joinedAt": 1782087908715,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
