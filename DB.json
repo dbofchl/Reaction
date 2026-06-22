@@ -6995,12 +6995,21 @@
     },
     "7838707118": {
       "id": 7838707118,
-      "username": "",
-      "fullName": "",
+      "username": "asdfhsjs",
+      "fullName": "idgaf",
       "points": 0,
       "joinedAt": 1782088867694,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8508393765": {
+      "id": 8508393765,
+      "username": "",
+      "fullName": "ramsei",
+      "points": 0,
+      "joinedAt": 1782089058615,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
