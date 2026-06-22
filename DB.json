@@ -4810,7 +4810,7 @@
       "id": 8330154165,
       "username": "RAYHAN_VAI_6T9",
       "fullName": "RAYHAN 々 6T9",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1779102259989,
       "lastDaily": null,
       "isNewUser": false
@@ -7184,12 +7184,12 @@
     },
     "7808150274": {
       "id": 7808150274,
-      "username": "",
-      "fullName": "",
+      "username": "uronto67",
+      "fullName": "FARDIN 6T9",
       "points": 0,
       "joinedAt": 1782091577788,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
