@@ -1174,7 +1174,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 13,
+      "points": 14,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -8507,10 +8507,19 @@
     },
     "8319746801": {
       "id": 8319746801,
+      "username": "CUNG11",
+      "fullName": "RizzXiter",
+      "points": 0,
+      "joinedAt": 1782117222373,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8790402897": {
+      "id": 8790402897,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782117222373,
+      "joinedAt": 1782117389758,
       "lastDaily": null,
       "isNewUser": true
     }
