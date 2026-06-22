@@ -6851,10 +6851,19 @@
     },
     "7002231908": {
       "id": 7002231908,
+      "username": "anomalinitas",
+      "fullName": "ABYGEL •『SELLER GURU 』 ㅤㅤㅤ ㅤㅤㅤ",
+      "points": 0,
+      "joinedAt": 1782087634814,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8280315626": {
+      "id": 8280315626,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782087634814,
+      "joinedAt": 1782087691222,
       "lastDaily": null,
       "isNewUser": true
     }
