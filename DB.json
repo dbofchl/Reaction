@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 11,
+      "points": 12,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9195,6 +9195,15 @@
       "fullName": "Yan Pàrker",
       "points": 0,
       "joinedAt": 1782187346881,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8607018064": {
+      "id": 8607018064,
+      "username": "",
+      "fullName": "Arzzcrasher",
+      "points": 0,
+      "joinedAt": 1782187414291,
       "lastDaily": null,
       "isNewUser": false
     }
