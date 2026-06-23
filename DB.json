@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 15,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9303,6 +9303,15 @@
       "fullName": "ᗷᑌ丅ᑕᕼᗴᖇ ᗝᗯᑎᗴᖇ ҂ ҂",
       "points": 0,
       "joinedAt": 1782192650864,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6478787545": {
+      "id": 6478787545,
+      "username": "desimodo",
+      "fullName": "Faaaaaah",
+      "points": 0,
+      "joinedAt": 1782193020931,
       "lastDaily": null,
       "isNewUser": false
     }
