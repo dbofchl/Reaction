@@ -9485,6 +9485,15 @@
       "joinedAt": 1782214447970,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8014523708": {
+      "id": 8014523708,
+      "username": "",
+      "fullName": "Dilan Zuñiga",
+      "points": 0,
+      "joinedAt": 1782215341374,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
