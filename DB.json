@@ -1291,7 +1291,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 45,
+      "points": 46,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10554,6 +10554,15 @@
       "fullName": "Hùng Trương",
       "points": 0,
       "joinedAt": 1782256972908,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8322643136": {
+      "id": 8322643136,
+      "username": "",
+      "fullName": "Giwo Gi",
+      "points": 0,
+      "joinedAt": 1782257758321,
       "lastDaily": null,
       "isNewUser": false
     }
