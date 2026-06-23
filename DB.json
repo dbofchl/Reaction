@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 6,
+      "points": 7,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9078,6 +9078,15 @@
       "fullName": "Aji tulalit☠️",
       "points": 0,
       "joinedAt": 1782180438745,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6730249948": {
+      "id": 6730249948,
+      "username": "jpmadhav",
+      "fullName": "J.P...😊....🤞",
+      "points": 0,
+      "joinedAt": 1782183075157,
       "lastDaily": null,
       "isNewUser": false
     }
