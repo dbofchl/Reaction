@@ -9380,10 +9380,19 @@
     },
     "5972939944": {
       "id": 5972939944,
+      "username": "Rootify2",
+      "fullName": "Rootify",
+      "points": 0,
+      "joinedAt": 1782204405951,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7978951912": {
+      "id": 7978951912,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782204405951,
+      "joinedAt": 1782206436556,
       "lastDaily": null,
       "isNewUser": true
     }
