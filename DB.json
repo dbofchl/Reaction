@@ -1192,7 +1192,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9038,12 +9038,12 @@
     },
     "7709641633": {
       "id": 7709641633,
-      "username": "",
-      "fullName": "",
+      "username": "daffa776",
+      "fullName": "uhuk",
       "points": 0,
       "joinedAt": 1782179920240,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
