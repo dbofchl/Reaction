@@ -1291,7 +1291,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 44,
+      "points": 45,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10509,6 +10509,15 @@
       "fullName": "Đời Không Còn Gì",
       "points": 0,
       "joinedAt": 1782252023668,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7867716627": {
+      "id": 7867716627,
+      "username": "",
+      "fullName": "Mohammed Echaari",
+      "points": 0,
+      "joinedAt": 1782252176203,
       "lastDaily": null,
       "isNewUser": false
     }
