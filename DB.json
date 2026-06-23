@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 21,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9393,6 +9393,15 @@
       "fullName": "SERHAT UZUNAY",
       "points": 0,
       "joinedAt": 1782206436556,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8527670359": {
+      "id": 8527670359,
+      "username": "",
+      "fullName": "Reekesh Chettri",
+      "points": 0,
+      "joinedAt": 1782207322354,
       "lastDaily": null,
       "isNewUser": false
     }
