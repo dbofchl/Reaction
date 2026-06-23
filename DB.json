@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 32,
+      "points": 33,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10136,12 +10136,12 @@
     },
     "8360004197": {
       "id": 8360004197,
-      "username": "",
-      "fullName": "",
+      "username": "natso55aura",
+      "fullName": "NATSO 55",
       "points": 0,
       "joinedAt": 1782236377880,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
