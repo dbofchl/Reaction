@@ -9182,12 +9182,21 @@
     },
     "8156577135": {
       "id": 8156577135,
-      "username": "",
-      "fullName": "",
+      "username": "anaknaiks",
+      "fullName": "RASHA INDIAN",
       "points": 0,
       "joinedAt": 1782186637123,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8132226992": {
+      "id": 8132226992,
+      "username": "",
+      "fullName": "Yan Pàrker",
+      "points": 0,
+      "joinedAt": 1782187346881,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
