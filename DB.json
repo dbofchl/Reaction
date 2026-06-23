@@ -10196,6 +10196,15 @@
       "joinedAt": 1782237292185,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8600086206": {
+      "id": 8600086206,
+      "username": "",
+      "fullName": "Phuc Phuc",
+      "points": 0,
+      "joinedAt": 1782237417118,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
