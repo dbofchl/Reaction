@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 33,
+      "points": 34,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10158,6 +10158,15 @@
       "fullName": "#𝘿𝘼𝙉𝙂𝙀𝙍 𝙄𝙉𝙁𝘼𝙕 #𝙀𝙭𝙥𝙡𝙤𝙞𝙩💀🔫",
       "points": 0,
       "joinedAt": 1782237041366,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6383951930": {
+      "id": 6383951930,
+      "username": "eeyclrr",
+      "fullName": "lanncihuy",
+      "points": 0,
+      "joinedAt": 1782237126275,
       "lastDaily": null,
       "isNewUser": false
     }
