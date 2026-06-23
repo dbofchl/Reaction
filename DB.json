@@ -9548,6 +9548,15 @@
       "joinedAt": 1782219791955,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5070763139": {
+      "id": 5070763139,
+      "username": "fanzr",
+      "fullName": "fnz",
+      "points": 0,
+      "joinedAt": 1782221121051,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
