@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 8,
+      "points": 9,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9128,12 +9128,21 @@
     },
     "6968649293": {
       "id": 6968649293,
-      "username": "",
-      "fullName": "",
+      "username": "Zgaming67",
+      "fullName": "Zgaming",
       "points": 0,
       "joinedAt": 1782184831214,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8445558590": {
+      "id": 8445558590,
+      "username": "",
+      "fullName": "Alexander Lloerda",
+      "points": 0,
+      "joinedAt": 1782185002605,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
