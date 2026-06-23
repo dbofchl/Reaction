@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 36,
+      "points": 37,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10335,11 +10335,11 @@
     "6785636038": {
       "id": 6785636038,
       "username": "",
-      "fullName": "",
+      "fullName": "IsraaMaxamed",
       "points": 0,
       "joinedAt": 1782242753851,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
