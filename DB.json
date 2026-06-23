@@ -10084,7 +10084,7 @@
       "id": 7814704231,
       "username": "",
       "fullName": "VINZZ RGN",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1782235539502,
       "lastDaily": null,
       "isNewUser": false
@@ -10520,13 +10520,6 @@
       "price": 15000,
       "orderId": "BP6149455330MQQWLSQBOHWC",
       "createdAt": 1782234836615
-    },
-    "BP7814704231MQQX978VTPEY": {
-      "userId": 7814704231,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7814704231MQQX978VTPEY",
-      "createdAt": 1782235928664
     }
   },
   "reactCooldownMs": 300000
