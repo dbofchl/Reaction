@@ -1219,7 +1219,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 31,
+      "points": 32,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9632,12 +9632,12 @@
     },
     "7367867940": {
       "id": 7367867940,
-      "username": "",
-      "fullName": "",
+      "username": "Hackfffjyfgu",
+      "fullName": "Ooo Kham",
       "points": 0,
       "joinedAt": 1782231054458,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
