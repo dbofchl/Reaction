@@ -9044,6 +9044,15 @@
       "joinedAt": 1782179920240,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7774832761": {
+      "id": 7774832761,
+      "username": "rara_cik",
+      "fullName": "RARA CIK",
+      "points": 0,
+      "joinedAt": 1782180193710,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
