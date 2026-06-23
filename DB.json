@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 13,
+      "points": 14,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9282,11 +9282,20 @@
     "8288824738": {
       "id": 8288824738,
       "username": "",
-      "fullName": "",
+      "fullName": "S̷ÙᏒ₳ℑ𓆪",
       "points": 0,
       "joinedAt": 1782192297238,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6725861755": {
+      "id": 6725861755,
+      "username": "FamiLy990",
+      "fullName": "Anaknya Ibu Siti",
+      "points": 0,
+      "joinedAt": 1782192300559,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
