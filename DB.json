@@ -6799,7 +6799,7 @@
       "id": 8080978698,
       "username": "WilzXiterzVN",
       "fullName": "WilzXiterz VN",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1782085658501,
       "lastDaily": null,
       "isNewUser": false
@@ -9728,6 +9728,15 @@
       "joinedAt": 1782232519164,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7627574725": {
+      "id": 7627574725,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782232994074,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
