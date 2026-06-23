@@ -9476,6 +9476,15 @@
       "joinedAt": 1782211816458,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7295165564": {
+      "id": 7295165564,
+      "username": "tmpanelbd",
+      "fullName": "@TEAM RAPI",
+      "points": 0,
+      "joinedAt": 1782214447970,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
