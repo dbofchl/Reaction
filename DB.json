@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 18,
+      "points": 19,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9897,6 +9897,15 @@
       "fullName": "AKB HACKER OFC♥️🖤",
       "points": 0,
       "joinedAt": 1782234066953,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6668708168": {
+      "id": 6668708168,
+      "username": "yezer12",
+      "fullName": "Nimzara",
+      "points": 0,
+      "joinedAt": 1782234128614,
       "lastDaily": null,
       "isNewUser": false
     }
