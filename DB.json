@@ -369,6 +369,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1855527115": {
+      "id": 1855527115,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782247576055,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1857550610": {
       "id": 1857550610,
       "username": "sivirajan",
@@ -10424,12 +10433,12 @@
     },
     "8654947452": {
       "id": 8654947452,
-      "username": "",
-      "fullName": "",
+      "username": "Vurulmamm",
+      "fullName": "𝐃𝐀𝐍𝐆𝐄𝐑ﾠ𝐂𝐫𝐞𝐰𝐱𝐬ﾠ!",
       "points": 0,
       "joinedAt": 1782247525167,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
