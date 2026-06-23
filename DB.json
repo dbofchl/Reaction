@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 39,
+      "points": 40,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10371,9 +10371,18 @@
     "8435391786": {
       "id": 8435391786,
       "username": "",
-      "fullName": "",
+      "fullName": "วัง ตี๋เล็ก",
       "points": 0,
       "joinedAt": 1782244469682,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7693780271": {
+      "id": 7693780271,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782244488551,
       "lastDaily": null,
       "isNewUser": true
     }
