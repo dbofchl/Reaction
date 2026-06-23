@@ -9443,12 +9443,21 @@
     },
     "7978220298": {
       "id": 7978220298,
-      "username": "",
-      "fullName": "",
+      "username": "Patikomeiei",
+      "fullName": "น๊อนปั๊มเอมดีเเซด",
       "points": 0,
       "joinedAt": 1782211031889,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6547154209": {
+      "id": 6547154209,
+      "username": "druvx_07",
+      "fullName": "𝐅𝐅 𝐂𝐡𝐞𝐚𝐭𝐞 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
+      "points": 0,
+      "joinedAt": 1782211073270,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
