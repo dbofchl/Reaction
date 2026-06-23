@@ -10541,12 +10541,21 @@
     },
     "6324393758": {
       "id": 6324393758,
-      "username": "",
-      "fullName": "",
+      "username": "Minhlucute",
+      "fullName": "Protein 🫥🫥🫥",
       "points": 0,
       "joinedAt": 1782256881419,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7812100914": {
+      "id": 7812100914,
+      "username": "",
+      "fullName": "Hùng Trương",
+      "points": 0,
+      "joinedAt": 1782256972908,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
