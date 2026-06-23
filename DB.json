@@ -270,6 +270,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1503910127": {
+      "id": 1503910127,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782235840285,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "1517903958": {
       "id": 1517903958,
       "username": "Usersbanz",
@@ -6826,7 +6835,7 @@
       "id": 8080978698,
       "username": "WilzXiterzVN",
       "fullName": "WilzXiterz VN",
-      "points": 1,
+      "points": 31,
       "joinedAt": 1782085658501,
       "lastDaily": null,
       "isNewUser": false
