@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 38,
+      "points": 39,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10347,6 +10347,15 @@
       "fullName": "อยากเลียๆ",
       "points": 0,
       "joinedAt": 1782243335765,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8104149629": {
+      "id": 8104149629,
+      "username": "DAVIDxMO",
+      "fullName": "DAVIDxMOSZ",
+      "points": 0,
+      "joinedAt": 1782243833916,
       "lastDaily": null,
       "isNewUser": false
     }
