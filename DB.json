@@ -10097,6 +10097,15 @@
       "joinedAt": 1782235659293,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8558490622": {
+      "id": 8558490622,
+      "username": "veluys",
+      "fullName": "inside.",
+      "points": 0,
+      "joinedAt": 1782235863254,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
