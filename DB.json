@@ -9053,6 +9053,15 @@
       "joinedAt": 1782180193710,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8204641851": {
+      "id": 8204641851,
+      "username": "",
+      "fullName": "Vatos Locos",
+      "points": 0,
+      "joinedAt": 1782180279934,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
