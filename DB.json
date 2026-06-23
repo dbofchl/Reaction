@@ -9494,6 +9494,15 @@
       "joinedAt": 1782215341374,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7413077159": {
+      "id": 7413077159,
+      "username": "",
+      "fullName": "alok hamil",
+      "points": 0,
+      "joinedAt": 1782216306409,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
