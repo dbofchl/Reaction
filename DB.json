@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 40,
+      "points": 41,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10401,6 +10401,15 @@
       "fullName": "RAFI JEBEH RAFI JEBEH",
       "points": 0,
       "joinedAt": 1782246240974,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7878215594": {
+      "id": 7878215594,
+      "username": "",
+      "fullName": "ikyy15",
+      "points": 0,
+      "joinedAt": 1782246681256,
       "lastDaily": null,
       "isNewUser": false
     }
