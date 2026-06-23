@@ -1237,7 +1237,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 12,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9749,12 +9749,21 @@
     },
     "7638881386": {
       "id": 7638881386,
-      "username": "",
-      "fullName": "",
+      "username": "Reinanrei",
+      "fullName": "Reinan XIT",
       "points": 0,
       "joinedAt": 1782233120878,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7638026032": {
+      "id": 7638026032,
+      "username": "",
+      "fullName": "Benabe",
+      "points": 0,
+      "joinedAt": 1782233144751,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
