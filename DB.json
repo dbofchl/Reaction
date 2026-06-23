@@ -10226,10 +10226,19 @@
     },
     "8762298651": {
       "id": 8762298651,
+      "username": "ZODBABA1",
+      "fullName": "ZOD BABA",
+      "points": 0,
+      "joinedAt": 1782238543318,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8608048496": {
+      "id": 8608048496,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782238543318,
+      "joinedAt": 1782238715952,
       "lastDaily": null,
       "isNewUser": true
     }
