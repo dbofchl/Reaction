@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 16,
+      "points": 17,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9321,6 +9321,15 @@
       "fullName": "Ke Po",
       "points": 0,
       "joinedAt": 1782193295939,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5921109718": {
+      "id": 5921109718,
+      "username": "poke19857",
+      "fullName": "Xyo",
+      "points": 0,
+      "joinedAt": 1782194521258,
       "lastDaily": null,
       "isNewUser": false
     }
