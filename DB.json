@@ -1192,7 +1192,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 33,
+      "points": 34,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9029,12 +9029,12 @@
     },
     "5850089393": {
       "id": 5850089393,
-      "username": "",
-      "fullName": "",
+      "username": "nimdaOrtaerc",
+      "fullName": "Vnot",
       "points": 0,
       "joinedAt": 1782178795527,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
