@@ -9926,6 +9926,15 @@
       "joinedAt": 1782234376143,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8952369169": {
+      "id": 8952369169,
+      "username": "",
+      "fullName": "T4 Bomber",
+      "points": 0,
+      "joinedAt": 1782234459868,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
