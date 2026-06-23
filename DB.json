@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 35,
+      "points": 36,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10316,12 +10316,12 @@
     },
     "8036656762": {
       "id": 8036656762,
-      "username": "",
-      "fullName": "",
+      "username": "edison073",
+      "fullName": "Edison",
       "points": 0,
       "joinedAt": 1782242023569,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
