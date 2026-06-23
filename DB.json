@@ -9593,6 +9593,15 @@
       "joinedAt": 1782229078120,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6074721835": {
+      "id": 6074721835,
+      "username": "",
+      "fullName": "Nanz RGN",
+      "points": 0,
+      "joinedAt": 1782229845784,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
