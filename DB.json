@@ -63,6 +63,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "944825502": {
+      "id": 944825502,
+      "username": "hexpatcher",
+      "fullName": "乌麦",
+      "points": 0,
+      "joinedAt": 1782233225551,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "988038638": {
       "id": 988038638,
       "username": "yoelcoo",
@@ -1237,7 +1246,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 16,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9785,12 +9794,12 @@
     },
     "7532309633": {
       "id": 7532309633,
-      "username": "",
-      "fullName": "",
+      "username": "K1RSH_2",
+      "fullName": "KRZ OFFICIAL ᡕᠵ气 ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘᠊᠊亠═一💥",
       "points": 0,
       "joinedAt": 1782233215682,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
