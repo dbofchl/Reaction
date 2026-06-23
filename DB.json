@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 23,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10002,11 +10002,20 @@
     "6392664838": {
       "id": 6392664838,
       "username": "",
-      "fullName": "",
+      "fullName": "Md Jihad",
       "points": 0,
       "joinedAt": 1782235015729,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7788883778": {
+      "id": 7788883778,
+      "username": "PVPMAX11",
+      "fullName": "Maxtrack",
+      "points": 0,
+      "joinedAt": 1782235117490,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
