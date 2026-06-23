@@ -1210,7 +1210,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 26,
+      "points": 27,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9519,6 +9519,15 @@
       "fullName": "1393 298",
       "points": 0,
       "joinedAt": 1782218089172,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7925829380": {
+      "id": 7925829380,
+      "username": "",
+      "fullName": "ควย ตุง",
+      "points": 0,
+      "joinedAt": 1782218559694,
       "lastDaily": null,
       "isNewUser": false
     }
