@@ -1228,7 +1228,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9699,6 +9699,15 @@
       "fullName": "dyass",
       "points": 0,
       "joinedAt": 1782232136014,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7112635114": {
+      "id": 7112635114,
+      "username": "Mahesh6446",
+      "fullName": "Mahesh Yyyy",
+      "points": 0,
+      "joinedAt": 1782232484405,
       "lastDaily": null,
       "isNewUser": false
     }
