@@ -1219,7 +1219,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 3,
+      "points": 4,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9659,12 +9659,12 @@
     },
     "6720842118": {
       "id": 6720842118,
-      "username": "",
-      "fullName": "",
+      "username": "br7v1",
+      "fullName": "BR7",
       "points": 0,
       "joinedAt": 1782231747300,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
