@@ -1210,7 +1210,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 27,
+      "points": 28,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9570,11 +9570,11 @@
     "7983962160": {
       "id": 7983962160,
       "username": "",
-      "fullName": "",
+      "fullName": "GRINGO XP",
       "points": 0,
       "joinedAt": 1782221341494,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
