@@ -9242,6 +9242,15 @@
       "joinedAt": 1782188529854,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8559135812": {
+      "id": 8559135812,
+      "username": "",
+      "fullName": "Tan Luc Tran",
+      "points": 0,
+      "joinedAt": 1782189274743,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
