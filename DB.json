@@ -10172,12 +10172,21 @@
     },
     "7745419997": {
       "id": 7745419997,
-      "username": "",
-      "fullName": "",
+      "username": "erdemskgun_997",
+      "fullName": "ERDEMİŞKO👑👑",
       "points": 0,
       "joinedAt": 1782237201010,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8599149549": {
+      "id": 8599149549,
+      "username": "Yakalanmamm",
+      "fullName": "Swenzy#danger",
+      "points": 0,
+      "joinedAt": 1782237210296,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
