@@ -9164,12 +9164,21 @@
     },
     "7267467167": {
       "id": 7267467167,
-      "username": "",
-      "fullName": "",
+      "username": "TJSumitmods99",
+      "fullName": "Sumit Singh",
       "points": 0,
       "joinedAt": 1782186555172,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7542568210": {
+      "id": 7542568210,
+      "username": "faisooo9",
+      "fullName": "DO DO-HEE [ MAM ]",
+      "points": 0,
+      "joinedAt": 1782186632199,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
