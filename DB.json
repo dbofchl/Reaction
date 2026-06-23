@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 26,
+      "points": 27,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10047,11 +10047,20 @@
     "6835751916": {
       "id": 6835751916,
       "username": "",
-      "fullName": "",
+      "fullName": "VANE",
       "points": 0,
       "joinedAt": 1782235532372,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7814704231": {
+      "id": 7814704231,
+      "username": "",
+      "fullName": "VINZZ RGN",
+      "points": 0,
+      "joinedAt": 1782235539502,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
