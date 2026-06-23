@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 36,
+      "points": 37,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10239,6 +10239,15 @@
       "fullName": "khanh huyen",
       "points": 0,
       "joinedAt": 1782238715952,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7624974631": {
+      "id": 7624974631,
+      "username": "mukulbhai2",
+      "fullName": "MK ADMIN",
+      "points": 0,
+      "joinedAt": 1782238768234,
       "lastDaily": null,
       "isNewUser": false
     }
