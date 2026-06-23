@@ -1237,7 +1237,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 12,
+      "points": 13,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9762,6 +9762,15 @@
       "fullName": "Benabe",
       "points": 0,
       "joinedAt": 1782233144751,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6941702483": {
+      "id": 6941702483,
+      "username": "AsepPjcjg",
+      "fullName": "AsepSuep",
+      "points": 0,
+      "joinedAt": 1782233168370,
       "lastDaily": null,
       "isNewUser": false
     }
