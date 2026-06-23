@@ -1282,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 31,
+      "points": 2,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10128,11 +10128,11 @@
     "8411839497": {
       "id": 8411839497,
       "username": "",
-      "fullName": "",
+      "fullName": "Wanzz Cruel",
       "points": 0,
       "joinedAt": 1782236364729,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
