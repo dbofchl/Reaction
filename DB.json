@@ -272,12 +272,12 @@
     },
     "1503910127": {
       "id": 1503910127,
-      "username": "",
-      "fullName": "",
+      "username": "polatov_azizbek8",
+      "fullName": "Азизбек Ббб",
       "points": 0,
       "joinedAt": 1782235840285,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1517903958": {
       "id": 1517903958,
@@ -366,6 +366,15 @@
       "fullName": "~S ࿖ 𝐄𝐒𝐂𝐔𝐑𝐈𝐃𝐀̃❂ ⍭",
       "points": 0,
       "joinedAt": 1782094648741,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "1857550610": {
+      "id": 1857550610,
+      "username": "sivirajan",
+      "fullName": "ＳＩＶＩ ＲＡＪＡＮ",
+      "points": 0,
+      "joinedAt": 1782235853383,
       "lastDaily": null,
       "isNewUser": false
     },
@@ -1273,7 +1282,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 29,
+      "points": 30,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
