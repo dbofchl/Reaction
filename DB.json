@@ -1291,7 +1291,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 46,
+      "points": 47,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10563,6 +10563,15 @@
       "fullName": "Giwo Gi",
       "points": 0,
       "joinedAt": 1782257758321,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7403448983": {
+      "id": 7403448983,
+      "username": "",
+      "fullName": "กุ ไม่รุ้",
+      "points": 0,
+      "joinedAt": 1782257786568,
       "lastDaily": null,
       "isNewUser": false
     }
