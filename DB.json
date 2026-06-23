@@ -9867,7 +9867,7 @@
     "8774110627": {
       "id": 8774110627,
       "username": "",
-      "fullName": "Israq Khan",
+      "fullName": "Shahil Khan",
       "points": 0,
       "joinedAt": 1782233437256,
       "lastDaily": null,
@@ -10307,12 +10307,12 @@
     },
     "6668394731": {
       "id": 6668394731,
-      "username": "",
-      "fullName": "",
+      "username": "Hardik1jain",
+      "fullName": "ＰＨＯＥＮＩＸ",
       "points": 0,
       "joinedAt": 1782240239132,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
