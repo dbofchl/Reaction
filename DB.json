@@ -9602,6 +9602,15 @@
       "joinedAt": 1782229845784,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8423085445": {
+      "id": 8423085445,
+      "username": "jokajaa",
+      "fullName": "JOK AJA2",
+      "points": 0,
+      "joinedAt": 1782229906786,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
