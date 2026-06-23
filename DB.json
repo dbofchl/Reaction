@@ -1219,7 +1219,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 32,
+      "points": 33,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9645,6 +9645,15 @@
       "fullName": "Kauasilva",
       "points": 0,
       "joinedAt": 1782231271331,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7168308230": {
+      "id": 7168308230,
+      "username": "RS_XAMI",
+      "fullName": "𝐑s_𝐗ᴀᴍɪ",
+      "points": 0,
+      "joinedAt": 1782231477087,
       "lastDaily": null,
       "isNewUser": false
     }
