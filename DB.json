@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9888,6 +9888,15 @@
       "fullName": ".",
       "points": 0,
       "joinedAt": 1782234049138,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7276955675": {
+      "id": 7276955675,
+      "username": "Akbhacker90",
+      "fullName": "AKB HACKER OFC♥️🖤",
+      "points": 0,
+      "joinedAt": 1782234066953,
       "lastDaily": null,
       "isNewUser": false
     }
