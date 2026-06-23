@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 21,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9965,10 +9965,19 @@
     },
     "6149455330": {
       "id": 6149455330,
+      "username": "not_psaark",
+      "fullName": "🇹 🇭 🇪 🇹 🇮 🇬 🇪 🇷 🇨 🇭 🇪 🇦 🇹 🇸 ᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠᅠ",
+      "points": 0,
+      "joinedAt": 1782234752750,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7179512407": {
+      "id": 7179512407,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782234752750,
+      "joinedAt": 1782234759156,
       "lastDaily": null,
       "isNewUser": true
     }
