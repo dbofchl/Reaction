@@ -1264,7 +1264,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 28,
+      "points": 29,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10073,12 +10073,12 @@
     },
     "7719665315": {
       "id": 7719665315,
-      "username": "",
-      "fullName": "",
+      "username": "ditzzxver",
+      "fullName": "Ditzz mbg",
       "points": 0,
       "joinedAt": 1782235659293,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
