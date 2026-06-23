@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 18,
+      "points": 19,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9357,6 +9357,15 @@
       "fullName": "Refal",
       "points": 0,
       "joinedAt": 1782199559311,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7460928768": {
+      "id": 7460928768,
+      "username": "roxxyydrip",
+      "fullName": "ROXXYYDRIPCLIENT",
+      "points": 0,
+      "joinedAt": 1782203109421,
       "lastDaily": null,
       "isNewUser": false
     }
