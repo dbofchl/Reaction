@@ -1210,7 +1210,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 23,
+      "points": 24,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -1325,8 +1325,8 @@
     },
     "6448948111": {
       "id": 6448948111,
-      "username": "",
-      "fullName": "zzz",
+      "username": "XiaSlbw",
+      "fullName": "Xia",
       "points": 0,
       "joinedAt": 1772191079403,
       "lastDaily": null,
@@ -9470,12 +9470,12 @@
     },
     "8456687778": {
       "id": 8456687778,
-      "username": "",
-      "fullName": "",
+      "username": "SIYAM120s",
+      "fullName": "SIYAM HASSAN",
       "points": 0,
       "joinedAt": 1782211816458,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
