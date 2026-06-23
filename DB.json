@@ -1219,7 +1219,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 30,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9618,6 +9618,15 @@
       "fullName": "JOK AJA2",
       "points": 0,
       "joinedAt": 1782229906786,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5854544075": {
+      "id": 5854544075,
+      "username": "Lydiaajaaaaka",
+      "fullName": "LydiaaXITERS",
+      "points": 0,
+      "joinedAt": 1782230995962,
       "lastDaily": null,
       "isNewUser": false
     }
