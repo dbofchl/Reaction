@@ -10451,10 +10451,19 @@
     },
     "7268824578": {
       "id": 7268824578,
+      "username": "nurr265",
+      "fullName": "Ералы Журсын",
+      "points": 0,
+      "joinedAt": 1782248741118,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8797778789": {
+      "id": 8797778789,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782248741118,
+      "joinedAt": 1782248806068,
       "lastDaily": null,
       "isNewUser": true
     }
