@@ -1255,7 +1255,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 22,
+      "points": 23,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9987,6 +9987,15 @@
       "fullName": "Phanumas Sriwad",
       "points": 0,
       "joinedAt": 1782234791634,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7481259675": {
+      "id": 7481259675,
+      "username": "",
+      "fullName": "Camilo Madrid",
+      "points": 0,
+      "joinedAt": 1782234957653,
       "lastDaily": null,
       "isNewUser": false
     }
