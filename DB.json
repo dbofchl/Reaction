@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 11,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9150,6 +9150,15 @@
       "fullName": "Kh hack mà",
       "points": 0,
       "joinedAt": 1782185165626,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8104503185": {
+      "id": 8104503185,
+      "username": "",
+      "fullName": "Fre Fre",
+      "points": 0,
+      "joinedAt": 1782185765921,
       "lastDaily": null,
       "isNewUser": false
     }
