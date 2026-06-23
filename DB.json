@@ -9254,12 +9254,21 @@
     },
     "7329050387": {
       "id": 7329050387,
-      "username": "",
-      "fullName": "",
+      "username": "Shariful565656",
+      "fullName": "Hm.Shariful",
       "points": 0,
       "joinedAt": 1782190089361,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7421757659": {
+      "id": 7421757659,
+      "username": "",
+      "fullName": "NX RAYHAN official",
+      "points": 0,
+      "joinedAt": 1782191747152,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
