@@ -9944,6 +9944,15 @@
       "joinedAt": 1782234509479,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8334998990": {
+      "id": 8334998990,
+      "username": "",
+      "fullName": "Leo Ka",
+      "points": 0,
+      "joinedAt": 1782234657770,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
