@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 12,
+      "points": 13,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9209,12 +9209,12 @@
     },
     "7469428177": {
       "id": 7469428177,
-      "username": "",
-      "fullName": "",
+      "username": "pikri98212",
+      "fullName": "Nabila",
       "points": 0,
       "joinedAt": 1782187467816,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
