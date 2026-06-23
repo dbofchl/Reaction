@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9105,6 +9105,15 @@
       "fullName": "TUHIN Xt",
       "points": 0,
       "joinedAt": 1782184483625,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7724288879": {
+      "id": 7724288879,
+      "username": "Farhad167",
+      "fullName": "Farhad Hacker",
+      "points": 0,
+      "joinedAt": 1782184517948,
       "lastDaily": null,
       "isNewUser": false
     }
