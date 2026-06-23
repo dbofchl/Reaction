@@ -1201,7 +1201,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 9,
+      "points": 10,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9141,6 +9141,15 @@
       "fullName": "Alexander Lloerda",
       "points": 0,
       "joinedAt": 1782185002605,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8557483126": {
+      "id": 8557483126,
+      "username": "",
+      "fullName": "Kh hack mà",
+      "points": 0,
+      "joinedAt": 1782185165626,
       "lastDaily": null,
       "isNewUser": false
     }
