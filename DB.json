@@ -1210,7 +1210,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 24,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -9507,9 +9507,18 @@
     "8205302359": {
       "id": 8205302359,
       "username": "",
-      "fullName": "",
+      "fullName": "Soy Domi",
       "points": 0,
       "joinedAt": 1782216673954,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8744065558": {
+      "id": 8744065558,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782218089172,
       "lastDaily": null,
       "isNewUser": true
     }
