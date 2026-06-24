@@ -1318,7 +1318,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 3,
+      "points": 4,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11432,10 +11432,19 @@
     },
     "8129939823": {
       "id": 8129939823,
+      "username": "whahah4",
+      "fullName": "crazyrich",
+      "points": 0,
+      "joinedAt": 1782278889816,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8691172435": {
+      "id": 8691172435,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782278889816,
+      "joinedAt": 1782279020194,
       "lastDaily": null,
       "isNewUser": true
     }
