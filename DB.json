@@ -12149,6 +12149,15 @@
       "joinedAt": 1782282050714,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6090716063": {
+      "id": 6090716063,
+      "username": "Jeksok",
+      "fullName": "Nuyt",
+      "points": 0,
+      "joinedAt": 1782282059698,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
