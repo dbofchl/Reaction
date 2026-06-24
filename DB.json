@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 28,
+      "points": 29,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10806,6 +10806,15 @@
       "fullName": "Andregg Ndre",
       "points": 0,
       "joinedAt": 1782264267419,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7250832916": {
+      "id": 7250832916,
+      "username": "quangnekem",
+      "fullName": "Quang Hà văn",
+      "points": 0,
+      "joinedAt": 1782264428609,
       "lastDaily": null,
       "isNewUser": false
     }
