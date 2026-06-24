@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12261,11 +12261,20 @@
     "6531626273": {
       "id": 6531626273,
       "username": "",
-      "fullName": "",
+      "fullName": "Yourta Yourta",
       "points": 0,
       "joinedAt": 1782282881199,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8405175361": {
+      "id": 8405175361,
+      "username": "",
+      "fullName": "1Loco760_3 South Side 1 E",
+      "points": 0,
+      "joinedAt": 1782282924002,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
