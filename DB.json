@@ -1309,7 +1309,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 25,
+      "points": 26,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11252,12 +11252,12 @@
     },
     "7842603687": {
       "id": 7842603687,
-      "username": "",
-      "fullName": "",
+      "username": "velqerix",
+      "fullName": "Velqerix",
       "points": 0,
       "joinedAt": 1782275755693,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
