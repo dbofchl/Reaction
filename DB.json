@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 25,
+      "points": 26,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -4872,7 +4872,7 @@
     "7893968559": {
       "id": 7893968559,
       "username": "mquanndayyy",
-      "fullName": "MQuann X’ Mods",
+      "fullName": "𝙈𝙌𝙪𝙖𝙣𝙣 𝙓’ 𝙈𝙤𝙙𝙨",
       "points": 0,
       "joinedAt": 1779097605297,
       "lastDaily": null,
@@ -10749,11 +10749,11 @@
     "7840047679": {
       "id": 7840047679,
       "username": "",
-      "fullName": "",
+      "fullName": "Aril Aril",
       "points": 0,
       "joinedAt": 1782262961508,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
