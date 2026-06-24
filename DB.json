@@ -12080,10 +12080,19 @@
     },
     "8738813099": {
       "id": 8738813099,
+      "username": "Chut_baba",
+      "fullName": "Baba TILLU 🇳🇵🇳🇵",
+      "points": 0,
+      "joinedAt": 1782281816045,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8672506098": {
+      "id": 8672506098,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782281816045,
+      "joinedAt": 1782281824791,
       "lastDaily": null,
       "isNewUser": true
     }
