@@ -10799,6 +10799,15 @@
       "joinedAt": 1782264124576,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8702745624": {
+      "id": 8702745624,
+      "username": "",
+      "fullName": "Andregg Ndre",
+      "points": 0,
+      "joinedAt": 1782264267419,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
