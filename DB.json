@@ -11708,6 +11708,15 @@
       "joinedAt": 1782281148682,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6013741358": {
+      "id": 6013741358,
+      "username": "",
+      "fullName": "Ganz",
+      "points": 0,
+      "joinedAt": 1782281168765,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
