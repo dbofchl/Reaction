@@ -12324,11 +12324,11 @@
     "7823259219": {
       "id": 7823259219,
       "username": "",
-      "fullName": "",
+      "fullName": "Antonio",
       "points": 0,
       "joinedAt": 1782283315187,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
