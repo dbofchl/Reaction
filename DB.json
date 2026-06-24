@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12714,6 +12714,15 @@
       "fullName": "NOKOS 7",
       "points": 0,
       "joinedAt": 1782286656195,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8639193406": {
+      "id": 8639193406,
+      "username": "",
+      "fullName": "Sarabjeet Kumar",
+      "points": 0,
+      "joinedAt": 1782286786236,
       "lastDaily": null,
       "isNewUser": false
     }
