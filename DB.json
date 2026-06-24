@@ -1372,7 +1372,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -13182,11 +13182,11 @@
     "8429298403": {
       "id": 8429298403,
       "username": "",
-      "fullName": "",
+      "fullName": "SADx Xit",
       "points": 0,
       "joinedAt": 1782291301990,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
