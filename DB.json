@@ -14225,12 +14225,21 @@
     },
     "7609541117": {
       "id": 7609541117,
-      "username": "",
-      "fullName": "",
+      "username": "ankitbhai9569",
+      "fullName": "AS-- PATEL SINGH",
       "points": 0,
       "joinedAt": 1782311968191,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8673187084": {
+      "id": 8673187084,
+      "username": "",
+      "fullName": "Zik Vvip",
+      "points": 0,
+      "joinedAt": 1782312062632,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
