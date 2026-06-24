@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 13,
+      "points": 14,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12945,12 +12945,12 @@
     },
     "6955716859": {
       "id": 6955716859,
-      "username": "",
-      "fullName": "",
+      "username": "RDSlime",
+      "fullName": "Gui Li",
       "points": 0,
       "joinedAt": 1782288963590,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
