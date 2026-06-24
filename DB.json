@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 29,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11855,12 +11855,21 @@
     },
     "7977184989": {
       "id": 7977184989,
-      "username": "",
-      "fullName": "",
+      "username": "Bro_Din168",
+      "fullName": "Bro Din",
       "points": 0,
       "joinedAt": 1782281296377,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8543589454": {
+      "id": 8543589454,
+      "username": "Babeh_xml",
+      "fullName": "Junior Xzml",
+      "points": 0,
+      "joinedAt": 1782281299191,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
