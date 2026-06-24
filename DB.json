@@ -12179,12 +12179,21 @@
     },
     "7264235869": {
       "id": 7264235869,
-      "username": "",
-      "fullName": "",
+      "username": "Mad441F",
+      "fullName": "MDZ",
       "points": 0,
       "joinedAt": 1782282195223,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7035374015": {
+      "id": 7035374015,
+      "username": "Sanzzcitez",
+      "fullName": "Sanzzciter ㅤㅤㅤㅤ",
+      "points": 0,
+      "joinedAt": 1782282216280,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
