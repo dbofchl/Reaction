@@ -10943,6 +10943,15 @@
       "joinedAt": 1782268128988,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7072032345": {
+      "id": 7072032345,
+      "username": "",
+      "fullName": "Gia Phát",
+      "points": 0,
+      "joinedAt": 1782268503844,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
