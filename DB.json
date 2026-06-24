@@ -11072,10 +11072,19 @@
     },
     "6656066057": {
       "id": 6656066057,
+      "username": "LisaMoba",
+      "fullName": "🥄 𐂯 𝅄‌‌ ֹ‌‌‌ 𝚕𝚒𝚜𝚊 ᑯㅅƖƖ'꯱",
+      "points": 0,
+      "joinedAt": 1782270407262,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8723158291": {
+      "id": 8723158291,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782270407262,
+      "joinedAt": 1782270548236,
       "lastDaily": null,
       "isNewUser": true
     }
