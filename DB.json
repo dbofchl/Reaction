@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 12,
+      "points": 13,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12116,12 +12116,12 @@
     },
     "7012156469": {
       "id": 7012156469,
-      "username": "",
-      "fullName": "",
+      "username": "urwenzzy22",
+      "fullName": "Kalhara 🪼🤍",
       "points": 0,
       "joinedAt": 1782281886757,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
