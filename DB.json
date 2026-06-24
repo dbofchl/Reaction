@@ -13289,10 +13289,19 @@
     },
     "6598721746": {
       "id": 6598721746,
+      "username": "Hackerboy2001",
+      "fullName": "Rahul Vai",
+      "points": 0,
+      "joinedAt": 1782293143392,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7787297375": {
+      "id": 7787297375,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782293143392,
+      "joinedAt": 1782293245861,
       "lastDaily": null,
       "isNewUser": true
     }
