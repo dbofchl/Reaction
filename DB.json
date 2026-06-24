@@ -1309,7 +1309,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 22,
+      "points": 24,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11216,12 +11216,21 @@
     },
     "5392001325": {
       "id": 5392001325,
-      "username": "",
-      "fullName": "",
+      "username": "Roy_group_2",
+      "fullName": "Prince",
       "points": 0,
       "joinedAt": 1782274967009,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5337425996": {
+      "id": 5337425996,
+      "username": "mrariyan21",
+      "fullName": "Mr Black",
+      "points": 0,
+      "joinedAt": 1782275398575,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
