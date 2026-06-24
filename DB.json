@@ -1345,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 29,
+      "points": 30,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12534,6 +12534,15 @@
       "fullName": "Martinez",
       "points": 0,
       "joinedAt": 1782284568908,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5450112032": {
+      "id": 5450112032,
+      "username": "",
+      "fullName": "Moro777",
+      "points": 0,
+      "joinedAt": 1782284887794,
       "lastDaily": null,
       "isNewUser": false
     }
