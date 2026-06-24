@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 21,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12336,6 +12336,15 @@
       "fullName": "ᴮᴰ᭄〆Aminul〆ᴮᴼˢˢ",
       "points": 0,
       "joinedAt": 1782283328904,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8326783058": {
+      "id": 8326783058,
+      "username": "fflktm",
+      "fullName": "FFLK HETROX",
+      "points": 0,
+      "joinedAt": 1782283381226,
       "lastDaily": null,
       "isNewUser": false
     }
