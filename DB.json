@@ -14289,11 +14289,20 @@
     "8114617501": {
       "id": 8114617501,
       "username": "",
-      "fullName": "",
+      "fullName": "BR ZIN",
       "points": 0,
       "joinedAt": 1782314643987,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8326464856": {
+      "id": 8326464856,
+      "username": "AntiMurniGwMah",
+      "fullName": "Dino Goblok",
+      "points": 0,
+      "joinedAt": 1782314693157,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
