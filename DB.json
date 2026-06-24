@@ -13997,6 +13997,15 @@
       "joinedAt": 1782302269283,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6348085482": {
+      "id": 6348085482,
+      "username": "Ramsenwar",
+      "fullName": "Ram Senwar",
+      "points": 0,
+      "joinedAt": 1782302341857,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
