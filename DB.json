@@ -14126,10 +14126,19 @@
     },
     "7231485140": {
       "id": 7231485140,
+      "username": "LOOOLLLLLLLLLLLLLLLLLLL",
+      "fullName": "￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴ ￴",
+      "points": 0,
+      "joinedAt": 1782304516002,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8408450130": {
+      "id": 8408450130,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782304516002,
+      "joinedAt": 1782304590121,
       "lastDaily": null,
       "isNewUser": true
     }
