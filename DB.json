@@ -13871,6 +13871,15 @@
       "joinedAt": 1782301503386,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6845289506": {
+      "id": 6845289506,
+      "username": "",
+      "fullName": "rico",
+      "points": 0,
+      "joinedAt": 1782301614134,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
