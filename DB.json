@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 11,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12012,6 +12012,15 @@
       "fullName": "Semano🌿",
       "points": 0,
       "joinedAt": 1782281661435,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7660246686": {
+      "id": 7660246686,
+      "username": "Bloxzs",
+      "fullName": "Lann",
+      "points": 0,
+      "joinedAt": 1782281672946,
       "lastDaily": null,
       "isNewUser": false
     }
