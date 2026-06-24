@@ -13241,6 +13241,15 @@
       "joinedAt": 1782292055167,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7312900141": {
+      "id": 7312900141,
+      "username": "ChildNPC",
+      "fullName": "Child",
+      "points": 0,
+      "joinedAt": 1782292088322,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
