@@ -14378,12 +14378,12 @@
     },
     "7201511817": {
       "id": 7201511817,
-      "username": "",
-      "fullName": "",
+      "username": "vinex_1",
+      "fullName": "vinex",
       "points": 0,
       "joinedAt": 1782315649033,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
