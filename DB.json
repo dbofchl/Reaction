@@ -10835,6 +10835,15 @@
       "joinedAt": 1782265834991,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7936653453": {
+      "id": 7936653453,
+      "username": "",
+      "fullName": "Thinh",
+      "points": 0,
+      "joinedAt": 1782266277952,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
