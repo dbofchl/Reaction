@@ -13937,12 +13937,21 @@
     },
     "8561358431": {
       "id": 8561358431,
-      "username": "",
-      "fullName": "",
+      "username": "Sahilgoswami334",
+      "fullName": "Sahil Goswami",
       "points": 0,
       "joinedAt": 1782302106020,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8023125507": {
+      "id": 8023125507,
+      "username": "siammoods",
+      "fullName": "SIAM",
+      "points": 0,
+      "joinedAt": 1782302112779,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
