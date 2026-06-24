@@ -119,12 +119,12 @@
     },
     "1227353344": {
       "id": 1227353344,
-      "username": "",
-      "fullName": "",
+      "username": "Nabor0009",
+      "fullName": "Roban",
       "points": 0,
       "joinedAt": 1782261381371,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1271825775": {
       "id": 1271825775,
@@ -10700,6 +10700,15 @@
       "joinedAt": 1782261256180,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7556060124": {
+      "id": 7556060124,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782261659501,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
