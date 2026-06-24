@@ -12279,11 +12279,20 @@
     "8298397771": {
       "id": 8298397771,
       "username": "",
-      "fullName": "",
+      "fullName": "Yadav Yadav",
       "points": 0,
       "joinedAt": 1782283015339,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8434183364": {
+      "id": 8434183364,
+      "username": "keke_001z",
+      "fullName": "𝑲𝒆𝑲𝒆🧧",
+      "points": 0,
+      "joinedAt": 1782283017934,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
