@@ -13721,12 +13721,21 @@
     },
     "8547914740": {
       "id": 8547914740,
-      "username": "",
-      "fullName": "",
+      "username": "Rajurajop",
+      "fullName": "RAJY RAJ",
       "points": 0,
       "joinedAt": 1782299836997,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8101069728": {
+      "id": 8101069728,
+      "username": "HrydzXxX",
+      "fullName": "Hridoy Ahmed",
+      "points": 0,
+      "joinedAt": 1782299873941,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
