@@ -13685,10 +13685,19 @@
     },
     "5010029105": {
       "id": 5010029105,
+      "username": "summermadnes",
+      "fullName": "yourname",
+      "points": 0,
+      "joinedAt": 1782299509258,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6548777691": {
+      "id": 6548777691,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782299509258,
+      "joinedAt": 1782299614192,
       "lastDaily": null,
       "isNewUser": true
     }
