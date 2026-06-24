@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 8,
+      "points": 9,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11004,6 +11004,15 @@
       "fullName": "Lucas",
       "points": 0,
       "joinedAt": 1782268940684,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7832675891": {
+      "id": 7832675891,
+      "username": "",
+      "fullName": "Trung Nghia Trung Nghia",
+      "points": 0,
+      "joinedAt": 1782269053630,
       "lastDaily": null,
       "isNewUser": false
     }
