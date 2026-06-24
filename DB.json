@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 16,
+      "points": 17,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11126,10 +11126,19 @@
     },
     "8764427889": {
       "id": 8764427889,
+      "username": "Shishirjod",
+      "fullName": "Shishir Jod",
+      "points": 0,
+      "joinedAt": 1782271956290,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8412208674": {
+      "id": 8412208674,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782271956290,
+      "joinedAt": 1782272093592,
       "lastDaily": null,
       "isNewUser": true
     }
