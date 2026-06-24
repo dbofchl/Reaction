@@ -10785,11 +10785,11 @@
     "8942232147": {
       "id": 8942232147,
       "username": "",
-      "fullName": "",
+      "fullName": "Tmove",
       "points": 0,
       "joinedAt": 1782263807859,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
