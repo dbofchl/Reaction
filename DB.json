@@ -12590,6 +12590,15 @@
       "joinedAt": 1782285029884,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8600505464": {
+      "id": 8600505464,
+      "username": "",
+      "fullName": "guuise",
+      "points": 0,
+      "joinedAt": 1782285454391,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
