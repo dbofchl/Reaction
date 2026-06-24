@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 11,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11031,6 +11031,15 @@
       "fullName": "The God",
       "points": 0,
       "joinedAt": 1782269518575,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8587468559": {
+      "id": 8587468559,
+      "username": "",
+      "fullName": "Vinhhack Vip",
+      "points": 0,
+      "joinedAt": 1782269913139,
       "lastDaily": null,
       "isNewUser": false
     }
