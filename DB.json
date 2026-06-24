@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 8,
+      "points": 9,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11522,10 +11522,19 @@
     },
     "6253718595": {
       "id": 6253718595,
+      "username": "K1dzy",
+      "fullName": "𝙆𝙄𝘿𝙕𝙔",
+      "points": 0,
+      "joinedAt": 1782280030733,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5234112473": {
+      "id": 5234112473,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782280030733,
+      "joinedAt": 1782280036452,
       "lastDaily": null,
       "isNewUser": true
     }
