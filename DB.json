@@ -14396,12 +14396,21 @@
     },
     "7381862401": {
       "id": 7381862401,
-      "username": "",
-      "fullName": "",
+      "username": "Muha6549",
+      "fullName": "Телепортчик",
       "points": 0,
       "joinedAt": 1782317438720,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6751731710": {
+      "id": 6751731710,
+      "username": "Uragan_org",
+      "fullName": "URAGAN ORG",
+      "points": 0,
+      "joinedAt": 1782317463827,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
