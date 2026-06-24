@@ -13703,12 +13703,12 @@
     },
     "5907578792": {
       "id": 5907578792,
-      "username": "",
-      "fullName": "",
+      "username": "Anupam0980",
+      "fullName": "Anupam🪽👑",
       "points": 0,
       "joinedAt": 1782299756973,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -14173,6 +14173,13 @@
       "price": 15000,
       "orderId": "BP6735014890MQRYXHROUQ7L",
       "createdAt": 1782299207644
+    },
+    "BP5907578792MQRZA3TU2C5T": {
+      "userId": 5907578792,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP5907578792MQRZA3TU2C5T",
+      "createdAt": 1782299796017
     }
   },
   "reactCooldownMs": 300000,
