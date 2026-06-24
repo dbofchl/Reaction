@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 32,
+      "points": 33,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11886,6 +11886,15 @@
       "fullName": "𝐍𝐎𝐕𝐀 𝐎𝐖𝐍𝐄𝐑 ♻️",
       "points": 0,
       "joinedAt": 1782281335160,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6016976088": {
+      "id": 6016976088,
+      "username": "seniorparson",
+      "fullName": "Mehedi Hasan",
+      "points": 0,
+      "joinedAt": 1782281388393,
       "lastDaily": null,
       "isNewUser": false
     }
