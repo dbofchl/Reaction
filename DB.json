@@ -14594,12 +14594,12 @@
     },
     "8211770007": {
       "id": 8211770007,
-      "username": "",
-      "fullName": "",
+      "username": "GoodShitBadShit",
+      "fullName": "Jake",
       "points": 0,
       "joinedAt": 1782339390073,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
