@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 11,
+      "points": 12,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12919,12 +12919,11 @@
     "8828586368": {
       "id": 8828586368,
       "username": "",
-      "fullName": "",
+      "fullName": "NOYON SABLY",
       "points": 0,
       "joinedAt": 1782288820969,
       "lastDaily": null,
-      "isNewUser": true,
-      "pendingReferral": "7261347097"
+      "isNewUser": false
     },
     "7542315347": {
       "id": 7542315347,
