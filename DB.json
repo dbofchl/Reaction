@@ -12423,9 +12423,18 @@
     "6741053634": {
       "id": 6741053634,
       "username": "",
-      "fullName": "",
+      "fullName": "Raja Baadshah 😘️",
       "points": 0,
       "joinedAt": 1782283775720,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6729601755": {
+      "id": 6729601755,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782283815568,
       "lastDaily": null,
       "isNewUser": true
     }
