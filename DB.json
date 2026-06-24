@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 22,
+      "points": 23,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12354,6 +12354,15 @@
       "fullName": "Maruf Sorker",
       "points": 0,
       "joinedAt": 1782283409680,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6447745869": {
+      "id": 6447745869,
+      "username": "officialviphacker",
+      "fullName": "VIP HACKER 1",
+      "points": 0,
+      "joinedAt": 1782283432083,
       "lastDaily": null,
       "isNewUser": false
     }
