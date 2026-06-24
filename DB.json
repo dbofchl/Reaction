@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 28,
+      "points": 29,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11841,6 +11841,15 @@
       "fullName": "𝐑𝐈 𝐃𝐎𝐘",
       "points": 0,
       "joinedAt": 1782281245361,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8486143818": {
+      "id": 8486143818,
+      "username": "revibontot",
+      "fullName": "revi tri",
+      "points": 0,
+      "joinedAt": 1782281260250,
       "lastDaily": null,
       "isNewUser": false
     }
