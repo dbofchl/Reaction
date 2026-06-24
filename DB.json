@@ -11636,6 +11636,15 @@
       "joinedAt": 1782280992106,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8261902595": {
+      "id": 8261902595,
+      "username": "",
+      "fullName": "Ansh Pandey Aman",
+      "points": 0,
+      "joinedAt": 1782281012780,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
