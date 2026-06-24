@@ -12045,9 +12045,18 @@
     "8561986181": {
       "id": 8561986181,
       "username": "",
-      "fullName": "",
+      "fullName": "Dk THAKOR",
       "points": 0,
       "joinedAt": 1782281784414,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8410469129": {
+      "id": 8410469129,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782281787654,
       "lastDaily": null,
       "isNewUser": true
     }
