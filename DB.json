@@ -12089,12 +12089,21 @@
     },
     "8672506098": {
       "id": 8672506098,
-      "username": "",
-      "fullName": "",
+      "username": "Khanghk",
+      "fullName": "Khang",
       "points": 0,
       "joinedAt": 1782281824791,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8432658618": {
+      "id": 8432658618,
+      "username": "ngochuuvip",
+      "fullName": "Huuu ios👻 Ngoc",
+      "points": 0,
+      "joinedAt": 1782281838561,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
