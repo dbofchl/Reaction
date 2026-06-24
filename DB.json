@@ -10673,6 +10673,15 @@
       "joinedAt": 1782260685520,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7091395441": {
+      "id": 7091395441,
+      "username": "gw282820",
+      "fullName": "GW",
+      "points": 0,
+      "joinedAt": 1782260908320,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
