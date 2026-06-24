@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 21,
+      "points": 23,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10704,11 +10704,20 @@
     "7556060124": {
       "id": 7556060124,
       "username": "",
-      "fullName": "",
+      "fullName": "99417 Philippe",
       "points": 0,
       "joinedAt": 1782261659501,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6097140178": {
+      "id": 6097140178,
+      "username": "",
+      "fullName": "Danai2552 Danai2552",
+      "points": 0,
+      "joinedAt": 1782261738224,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
