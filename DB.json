@@ -13358,6 +13358,15 @@
       "joinedAt": 1782294691462,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7878391200": {
+      "id": 7878391200,
+      "username": "",
+      "fullName": "EVAN",
+      "points": 0,
+      "joinedAt": 1782294897867,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
