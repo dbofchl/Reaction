@@ -14577,11 +14577,20 @@
     "7840523230": {
       "id": 7840523230,
       "username": "",
-      "fullName": "",
+      "fullName": "Papi hacker",
       "points": 0,
       "joinedAt": 1782336969201,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8027923048": {
+      "id": 8027923048,
+      "username": "DOMIDIO",
+      "fullName": "DOMIDIOS",
+      "points": 0,
+      "joinedAt": 1782339150940,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
