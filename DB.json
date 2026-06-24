@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 6,
+      "points": 7,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12732,6 +12732,15 @@
       "fullName": "ตี้วิน อาโอวี",
       "points": 0,
       "joinedAt": 1782286846492,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8111945525": {
+      "id": 8111945525,
+      "username": "astra_xxx7",
+      "fullName": "Desconocido",
+      "points": 0,
+      "joinedAt": 1782286895025,
       "lastDaily": null,
       "isNewUser": false
     }
