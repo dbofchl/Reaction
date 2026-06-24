@@ -14099,10 +14099,19 @@
     },
     "5660813852": {
       "id": 5660813852,
+      "username": "xNewDev",
+      "fullName": "XioN",
+      "points": 0,
+      "joinedAt": 1782303977968,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8406088258": {
+      "id": 8406088258,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782303977968,
+      "joinedAt": 1782304003059,
       "lastDaily": null,
       "isNewUser": true
     }
