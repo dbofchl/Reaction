@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 3,
+      "points": 4,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12638,10 +12638,28 @@
     },
     "8095119856": {
       "id": 8095119856,
+      "username": "Offlinealltime",
+      "fullName": "Offline",
+      "points": 0,
+      "joinedAt": 1782286256155,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6385088065": {
+      "id": 6385088065,
+      "username": "Ngyt1k",
+      "fullName": "NG PRIME !!",
+      "points": 0,
+      "joinedAt": 1782286257321,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7284964899": {
+      "id": 7284964899,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782286256155,
+      "joinedAt": 1782286263173,
       "lastDaily": null,
       "isNewUser": true
     }
