@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 30,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10860,6 +10860,15 @@
       "fullName": "Phuong My",
       "points": 0,
       "joinedAt": 1782266513050,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8032424599": {
+      "id": 8032424599,
+      "username": "kephandien01",
+      "fullName": "Kẻ Phản Diện JQK",
+      "points": 0,
+      "joinedAt": 1782266595428,
       "lastDaily": null,
       "isNewUser": false
     }
