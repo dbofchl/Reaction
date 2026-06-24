@@ -11244,9 +11244,18 @@
     "7960414731": {
       "id": 7960414731,
       "username": "",
-      "fullName": "",
+      "fullName": "Tuyet Mai",
       "points": 0,
       "joinedAt": 1782275745634,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7842603687": {
+      "id": 7842603687,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782275755693,
       "lastDaily": null,
       "isNewUser": true
     }
