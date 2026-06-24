@@ -1318,7 +1318,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 28,
+      "points": 29,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11324,12 +11324,21 @@
     },
     "6968078711": {
       "id": 6968078711,
-      "username": "",
-      "fullName": "",
+      "username": "twvissl1am",
+      "fullName": "TWV X Cheat",
       "points": 0,
       "joinedAt": 1782277930394,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8335595212": {
+      "id": 8335595212,
+      "username": "",
+      "fullName": "An Trần",
+      "points": 0,
+      "joinedAt": 1782277943322,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
