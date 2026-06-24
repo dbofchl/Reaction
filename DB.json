@@ -12527,6 +12527,15 @@
       "joinedAt": 1782284484754,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7794599167": {
+      "id": 7794599167,
+      "username": "",
+      "fullName": "Martinez",
+      "points": 0,
+      "joinedAt": 1782284568908,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
