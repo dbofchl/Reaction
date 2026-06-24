@@ -14051,6 +14051,15 @@
       "joinedAt": 1782302958129,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7622538790": {
+      "id": 7622538790,
+      "username": "",
+      "fullName": "Isaias Duartes",
+      "points": 0,
+      "joinedAt": 1782303179098,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
