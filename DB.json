@@ -10649,10 +10649,19 @@
     },
     "7210140104": {
       "id": 7210140104,
+      "username": "xXBGR",
+      "fullName": "BGANG",
+      "points": 0,
+      "joinedAt": 1782260403683,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6904535618": {
+      "id": 6904535618,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782260403683,
+      "joinedAt": 1782260409572,
       "lastDaily": null,
       "isNewUser": true
     }
