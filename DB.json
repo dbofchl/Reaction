@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 18,
+      "points": 19,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11685,9 +11685,27 @@
     "7412836945": {
       "id": 7412836945,
       "username": "",
-      "fullName": "",
+      "fullName": "Hee",
       "points": 0,
       "joinedAt": 1782281136174,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7905862390": {
+      "id": 7905862390,
+      "username": "",
+      "fullName": "MD.ASHIK",
+      "points": 0,
+      "joinedAt": 1782281138034,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6513683080": {
+      "id": 6513683080,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782281148682,
       "lastDaily": null,
       "isNewUser": true
     }
