@@ -13757,12 +13757,21 @@
     },
     "7706874049": {
       "id": 7706874049,
-      "username": "",
-      "fullName": "",
+      "username": "fendyvip1",
+      "fullName": "FENDY",
       "points": 0,
       "joinedAt": 1782300319872,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8271106636": {
+      "id": 8271106636,
+      "username": "Anjayyyouhh",
+      "fullName": "Tuan Kanjut",
+      "points": 0,
+      "joinedAt": 1782300338632,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
