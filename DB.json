@@ -12611,12 +12611,12 @@
     },
     "7380710089": {
       "id": 7380710089,
-      "username": "",
-      "fullName": "",
+      "username": "ArkanzVip",
+      "fullName": "Qwert",
       "points": 0,
       "joinedAt": 1782285905403,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
