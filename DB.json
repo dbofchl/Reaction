@@ -14549,10 +14549,19 @@
     },
     "7112343875": {
       "id": 7112343875,
+      "username": "dhesun0612",
+      "fullName": "Tommyy",
+      "points": 0,
+      "joinedAt": 1782331392934,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7047432575": {
+      "id": 7047432575,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782331392934,
+      "joinedAt": 1782331410567,
       "lastDaily": null,
       "isNewUser": true
     }
