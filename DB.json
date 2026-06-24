@@ -11784,11 +11784,20 @@
     "8766285501": {
       "id": 8766285501,
       "username": "",
-      "fullName": "",
+      "fullName": "Fab Sant",
       "points": 0,
       "joinedAt": 1782281224352,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6525936147": {
+      "id": 6525936147,
+      "username": "rana_khan15",
+      "fullName": "Rana Khan",
+      "points": 0,
+      "joinedAt": 1782281227313,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
