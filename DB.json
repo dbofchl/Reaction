@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 22,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11717,6 +11717,33 @@
       "joinedAt": 1782281168765,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7389113903": {
+      "id": 7389113903,
+      "username": "ducbinh20202",
+      "fullName": "Đức bình",
+      "points": 0,
+      "joinedAt": 1782281184943,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7980183615": {
+      "id": 7980183615,
+      "username": "is_hlong",
+      "fullName": "hảii longg",
+      "points": 0,
+      "joinedAt": 1782281184963,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6701060637": {
+      "id": 6701060637,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782281184983,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
