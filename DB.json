@@ -13403,6 +13403,15 @@
       "joinedAt": 1782295433723,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7403549637": {
+      "id": 7403549637,
+      "username": "ToTo_nomoss",
+      "fullName": "TOTO",
+      "points": 0,
+      "joinedAt": 1782295470857,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
