@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 9,
+      "points": 10,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11013,6 +11013,15 @@
       "fullName": "Trung Nghia Trung Nghia",
       "points": 0,
       "joinedAt": 1782269053630,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7090632972": {
+      "id": 7090632972,
+      "username": "NOBITTA_1204",
+      "fullName": "T S",
+      "points": 0,
+      "joinedAt": 1782269285263,
       "lastDaily": null,
       "isNewUser": false
     }
