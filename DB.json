@@ -13322,6 +13322,15 @@
       "joinedAt": 1782293451845,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7592331135": {
+      "id": 7592331135,
+      "username": "AlexBM_SNG",
+      "fullName": "Алексей",
+      "points": 0,
+      "joinedAt": 1782293635982,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
