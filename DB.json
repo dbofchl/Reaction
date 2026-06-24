@@ -12815,6 +12815,15 @@
       "joinedAt": 1782287246494,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8048561884": {
+      "id": 8048561884,
+      "username": "",
+      "fullName": "Nguyễn Văn Kiến",
+      "points": 0,
+      "joinedAt": 1782287369073,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
