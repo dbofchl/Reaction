@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 23,
+      "points": 24,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -6358,7 +6358,7 @@
       "id": 7968803430,
       "username": "SYAHHSOLO1",
       "fullName": "Syahh",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1779862837204,
       "lastDaily": null,
       "isNewUser": false
@@ -10721,12 +10721,21 @@
     },
     "8231635377": {
       "id": 8231635377,
-      "username": "",
-      "fullName": "",
+      "username": "Lorequan04",
+      "fullName": "Quan 🌊",
       "points": 0,
       "joinedAt": 1782261778846,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8661162283": {
+      "id": 8661162283,
+      "username": "memeyconel",
+      "fullName": "Memey",
+      "points": 0,
+      "joinedAt": 1782261842018,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
