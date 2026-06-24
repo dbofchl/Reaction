@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 15,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11604,9 +11604,18 @@
     "8389200846": {
       "id": 8389200846,
       "username": "",
-      "fullName": "",
+      "fullName": "DEEPAK Kumar",
       "points": 0,
       "joinedAt": 1782280879663,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7900839561": {
+      "id": 7900839561,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782280885886,
       "lastDaily": null,
       "isNewUser": true
     }
