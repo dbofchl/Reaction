@@ -13550,10 +13550,19 @@
     },
     "8089954199": {
       "id": 8089954199,
+      "username": "Pall43",
+      "fullName": "Pall",
+      "points": 0,
+      "joinedAt": 1782298527713,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8810810051": {
+      "id": 8810810051,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782298527713,
+      "joinedAt": 1782298557595,
       "lastDaily": null,
       "isNewUser": true
     }
