@@ -14528,6 +14528,15 @@
       "joinedAt": 1782329358005,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8409141010": {
+      "id": 8409141010,
+      "username": "",
+      "fullName": "Pushpa",
+      "points": 0,
+      "joinedAt": 1782330362300,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
