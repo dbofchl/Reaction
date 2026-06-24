@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 21,
+      "points": 22,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12345,6 +12345,15 @@
       "fullName": "FFLK HETROX",
       "points": 0,
       "joinedAt": 1782283381226,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8915070587": {
+      "id": 8915070587,
+      "username": "",
+      "fullName": "Maruf Sorker",
+      "points": 0,
+      "joinedAt": 1782283409680,
       "lastDaily": null,
       "isNewUser": false
     }
