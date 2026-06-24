@@ -369,6 +369,15 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1742754050": {
+      "id": 1742754050,
+      "username": "JorshhStore",
+      "fullName": "Jorshhh",
+      "points": 0,
+      "joinedAt": 1782283717376,
+      "lastDaily": null,
+      "isNewUser": false
+    },
     "1746537207": {
       "id": 1746537207,
       "username": "Exsodust",
@@ -1336,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 23,
+      "points": 24,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
