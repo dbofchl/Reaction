@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 19,
+      "points": 20,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11702,12 +11702,12 @@
     },
     "6513683080": {
       "id": 6513683080,
-      "username": "",
-      "fullName": "",
+      "username": "Itz_shivam_skb",
+      "fullName": "Shivam Yadav",
       "points": 0,
       "joinedAt": 1782281148682,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
