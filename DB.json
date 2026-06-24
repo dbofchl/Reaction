@@ -13560,11 +13560,20 @@
     "8810810051": {
       "id": 8810810051,
       "username": "",
-      "fullName": "",
+      "fullName": "Riyan Sultan",
       "points": 0,
       "joinedAt": 1782298557595,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6512884116": {
+      "id": 6512884116,
+      "username": "AnosKesepian",
+      "fullName": "AnosKESEPIAN...",
+      "points": 0,
+      "joinedAt": 1782298559726,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
