@@ -12683,12 +12683,21 @@
     },
     "7829751187": {
       "id": 7829751187,
-      "username": "",
-      "fullName": "",
+      "username": "Arsalkingii",
+      "fullName": "TIGER MODS",
       "points": 0,
       "joinedAt": 1782286356315,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7842509998": {
+      "id": 7842509998,
+      "username": "",
+      "fullName": "Rrrr Mm",
+      "points": 0,
+      "joinedAt": 1782286426706,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
