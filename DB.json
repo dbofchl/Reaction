@@ -13097,6 +13097,15 @@
       "joinedAt": 1782290413766,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7708169383": {
+      "id": 7708169383,
+      "username": "EntitasMikasa",
+      "fullName": "Mikasa | Admin",
+      "points": 0,
+      "joinedAt": 1782290433831,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
