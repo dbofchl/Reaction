@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 12,
+      "points": 13,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12936,12 +12936,12 @@
     },
     "6071825216": {
       "id": 6071825216,
-      "username": "",
-      "fullName": "",
+      "username": "user087788",
+      "fullName": "k",
       "points": 0,
       "joinedAt": 1782288903159,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
