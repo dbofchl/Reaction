@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 26,
+      "points": 27,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11814,6 +11814,15 @@
       "fullName": "..",
       "points": 0,
       "joinedAt": 1782281230076,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7832613376": {
+      "id": 7832613376,
+      "username": "FFpkmode",
+      "fullName": "༒☠FFᴮᴴᴬᴵ ༒☠ X STOR",
+      "points": 0,
+      "joinedAt": 1782281233562,
       "lastDaily": null,
       "isNewUser": false
     }
