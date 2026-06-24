@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11510,6 +11510,24 @@
       "joinedAt": 1782279937895,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6821670078": {
+      "id": 6821670078,
+      "username": "OWNER_ZESAN_CHEATS_OFC",
+      "fullName": "👑 𝗭𝗘𝗦𝗔𝗡 𝗩𝗜 𝗞𝗜𝗡𝗚 👑",
+      "points": 0,
+      "joinedAt": 1782280029797,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6253718595": {
+      "id": 6253718595,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782280030733,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
