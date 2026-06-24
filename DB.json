@@ -10934,6 +10934,15 @@
       "joinedAt": 1782267931693,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6668404844": {
+      "id": 6668404844,
+      "username": "",
+      "fullName": "Liaa",
+      "points": 0,
+      "joinedAt": 1782268128988,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
