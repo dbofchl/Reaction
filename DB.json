@@ -1309,7 +1309,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 26,
+      "points": 28,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11271,11 +11271,20 @@
     "8783844400": {
       "id": 8783844400,
       "username": "",
-      "fullName": "",
+      "fullName": "Gabriel.Net",
       "points": 0,
       "joinedAt": 1782276609555,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7894275110": {
+      "id": 7894275110,
+      "username": "HAmPI9",
+      "fullName": "🐣",
+      "points": 0,
+      "joinedAt": 1782276638287,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
