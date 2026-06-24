@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12629,12 +12629,12 @@
     },
     "6755363607": {
       "id": 6755363607,
-      "username": "",
-      "fullName": "",
+      "username": "Sgd_ubed",
+      "fullName": "There is no era",
       "points": 0,
       "joinedAt": 1782286186599,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
