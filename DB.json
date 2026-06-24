@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11661,6 +11661,15 @@
       "fullName": "Thanhdeptrai Thanhdeptrai",
       "points": 0,
       "joinedAt": 1782281036015,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8403154923": {
+      "id": 8403154923,
+      "username": "",
+      "fullName": "𓆰♕𓆪",
+      "points": 0,
+      "joinedAt": 1782281062655,
       "lastDaily": null,
       "isNewUser": false
     }
