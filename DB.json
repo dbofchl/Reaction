@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 11,
+      "points": 12,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11049,6 +11049,15 @@
       "fullName": "Cao Xuân Tâm",
       "points": 0,
       "joinedAt": 1782270088896,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8677797823": {
+      "id": 8677797823,
+      "username": "surtado777",
+      "fullName": "Pericles augusto",
+      "points": 0,
+      "joinedAt": 1782270097067,
       "lastDaily": null,
       "isNewUser": false
     }
