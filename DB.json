@@ -13200,11 +13200,20 @@
     "8292562937": {
       "id": 8292562937,
       "username": "",
-      "fullName": "",
+      "fullName": "King Bos",
       "points": 0,
       "joinedAt": 1782291446072,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5984413077": {
+      "id": 5984413077,
+      "username": "",
+      "fullName": "ESX ZENCİ",
+      "points": 0,
+      "joinedAt": 1782291467327,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
