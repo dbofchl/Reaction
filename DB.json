@@ -13034,6 +13034,15 @@
       "joinedAt": 1782289666260,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8651525968": {
+      "id": 8651525968,
+      "username": "afdar04",
+      "fullName": "Afdar",
+      "points": 0,
+      "joinedAt": 1782289800743,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
