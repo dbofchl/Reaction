@@ -13394,6 +13394,15 @@
       "joinedAt": 1782295308902,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6112615174": {
+      "id": 6112615174,
+      "username": "meliodas_ios",
+      "fullName": "MELIODAS IOS",
+      "points": 0,
+      "joinedAt": 1782295433723,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
