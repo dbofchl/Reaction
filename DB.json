@@ -13515,11 +13515,11 @@
     "6495657266": {
       "id": 6495657266,
       "username": "",
-      "fullName": "",
+      "fullName": "Riski Gaming",
       "points": 0,
       "joinedAt": 1782298086607,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -13970,6 +13970,13 @@
       "price": 15000,
       "orderId": "BP5984413077MQRUD3390RDU",
       "createdAt": 1782291536956
+    },
+    "BP7315718308MQRY9WIGXTK4": {
+      "userId": 7315718308,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7315718308MQRY9WIGXTK4",
+      "createdAt": 1782298106909
     }
   },
   "reactCooldownMs": 300000,
