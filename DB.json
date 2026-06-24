@@ -1345,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 25,
+      "points": 26,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12440,12 +12440,12 @@
     },
     "6945739500": {
       "id": 6945739500,
-      "username": "",
-      "fullName": "",
+      "username": "ZorvexXiter",
+      "fullName": "Sensi 7xis",
       "points": 0,
       "joinedAt": 1782283835902,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
