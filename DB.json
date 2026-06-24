@@ -1345,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 26,
+      "points": 27,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12489,6 +12489,15 @@
       "fullName": "vua se'c",
       "points": 0,
       "joinedAt": 1782284151531,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8422309778": {
+      "id": 8422309778,
+      "username": "",
+      "fullName": "สส มม",
+      "points": 0,
+      "joinedAt": 1782284216281,
       "lastDaily": null,
       "isNewUser": false
     }
