@@ -1291,7 +1291,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 19,
+      "points": 20,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10617,6 +10617,15 @@
       "fullName": "YAS PURO",
       "points": 0,
       "joinedAt": 1782260002834,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8478103305": {
+      "id": 8478103305,
+      "username": "KHANBHAIOP",
+      "fullName": "KHAN BHAI",
+      "points": 0,
+      "joinedAt": 1782260035764,
       "lastDaily": null,
       "isNewUser": false
     }
