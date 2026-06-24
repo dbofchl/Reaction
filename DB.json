@@ -14339,6 +14339,15 @@
       "joinedAt": 1782314853009,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8344559714": {
+      "id": 8344559714,
+      "username": "",
+      "fullName": "SHAKIL",
+      "points": 0,
+      "joinedAt": 1782315008424,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
