@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 15,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12954,12 +12954,12 @@
     },
     "6388672259": {
       "id": 6388672259,
-      "username": "",
-      "fullName": "",
+      "username": "MR_RICK_007",
+      "fullName": "ＤＡＲＫッＫＩＬＬＥＲ",
       "points": 0,
       "joinedAt": 1782289010527,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
