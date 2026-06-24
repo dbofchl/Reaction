@@ -13862,6 +13862,15 @@
       "joinedAt": 1782301389847,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8221382326": {
+      "id": 8221382326,
+      "username": "lehongphu210",
+      "fullName": "hong phu",
+      "points": 0,
+      "joinedAt": 1782301503386,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
