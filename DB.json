@@ -13775,10 +13775,19 @@
     },
     "8095664913": {
       "id": 8095664913,
+      "username": "AMOXMOZ",
+      "fullName": "เลสเตอร์",
+      "points": 0,
+      "joinedAt": 1782300459824,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8204473898": {
+      "id": 8204473898,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782300459824,
+      "joinedAt": 1782300471359,
       "lastDaily": null,
       "isNewUser": true
     }
