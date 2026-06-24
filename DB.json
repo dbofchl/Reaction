@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 15,
+      "points": 16,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11117,12 +11117,12 @@
     },
     "8068287871": {
       "id": 8068287871,
-      "username": "",
-      "fullName": "",
+      "username": "AMAN_KAA_BAAP",
+      "fullName": "AMAN KAA BAAP",
       "points": 0,
       "joinedAt": 1782271594404,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
