@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11918,12 +11918,12 @@
     },
     "6831367806": {
       "id": 6831367806,
-      "username": "",
-      "fullName": "",
+      "username": "aymane",
+      "fullName": "aymane",
       "points": 0,
       "joinedAt": 1782281434769,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
