@@ -1309,7 +1309,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 24,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11234,10 +11234,19 @@
     },
     "7738978918": {
       "id": 7738978918,
+      "username": "Ahmedkhanjh",
+      "fullName": "Ahmed Khan",
+      "points": 0,
+      "joinedAt": 1782275515305,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7960414731": {
+      "id": 7960414731,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782275515305,
+      "joinedAt": 1782275745634,
       "lastDaily": null,
       "isNewUser": true
     }
