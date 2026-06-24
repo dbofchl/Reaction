@@ -12581,6 +12581,15 @@
       "joinedAt": 1782285026534,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5548336688": {
+      "id": 5548336688,
+      "username": "baonguyencheat",
+      "fullName": "Bảo Nguyễn",
+      "points": 0,
+      "joinedAt": 1782285029884,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
