@@ -14261,10 +14261,19 @@
     },
     "7969928901": {
       "id": 7969928901,
+      "username": "Gumadena",
+      "fullName": "FUZED FF",
+      "points": 0,
+      "joinedAt": 1782312946411,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8235616855": {
+      "id": 8235616855,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782312946411,
+      "joinedAt": 1782312960285,
       "lastDaily": null,
       "isNewUser": true
     }
