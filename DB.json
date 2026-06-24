@@ -13484,6 +13484,15 @@
       "joinedAt": 1782297949968,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7889142604": {
+      "id": 7889142604,
+      "username": "MrSaiprol",
+      "fullName": "Guardian Opini",
+      "points": 0,
+      "joinedAt": 1782297988558,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
