@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 32,
+      "points": 33,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10893,11 +10893,20 @@
     "6410868856": {
       "id": 6410868856,
       "username": "",
-      "fullName": "",
+      "fullName": "Mamameelmonstruo",
       "points": 0,
       "joinedAt": 1782267361537,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7722024697": {
+      "id": 7722024697,
+      "username": "",
+      "fullName": "@Khánhfake.lag",
+      "points": 0,
+      "joinedAt": 1782267436984,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
