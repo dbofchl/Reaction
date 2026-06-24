@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 31,
+      "points": 32,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11877,6 +11877,15 @@
       "fullName": ".",
       "points": 0,
       "joinedAt": 1782281306299,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7229517038": {
+      "id": 7229517038,
+      "username": "URF_NOVA",
+      "fullName": "𝐍𝐎𝐕𝐀 𝐎𝐖𝐍𝐄𝐑 ♻️",
+      "points": 0,
+      "joinedAt": 1782281335160,
       "lastDaily": null,
       "isNewUser": false
     }
