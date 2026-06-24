@@ -13424,12 +13424,12 @@
     },
     "5342842349": {
       "id": 5342842349,
-      "username": "",
-      "fullName": "",
+      "username": "espzzz",
+      "fullName": "Excelll",
       "points": 0,
       "joinedAt": 1782295595983,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -13880,13 +13880,6 @@
       "price": 15000,
       "orderId": "BP5984413077MQRUD3390RDU",
       "createdAt": 1782291536956
-    },
-    "BP5071863199MQRWRLTHYZDQ": {
-      "userId": 5071863199,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP5071863199MQRWRLTHYZDQ",
-      "createdAt": 1782295573660
     }
   },
   "reactCooldownMs": 300000,
