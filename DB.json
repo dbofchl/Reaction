@@ -1345,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 27,
+      "points": 28,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12503,12 +12503,12 @@
     },
     "8868408093": {
       "id": 8868408093,
-      "username": "",
-      "fullName": "",
+      "username": "RAHULO900X",
+      "fullName": "RAHUL KUMAR",
       "points": 0,
       "joinedAt": 1782284282710,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
