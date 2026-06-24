@@ -13259,6 +13259,15 @@
       "joinedAt": 1782292723012,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8111398728": {
+      "id": 8111398728,
+      "username": "",
+      "fullName": "Juanito",
+      "points": 0,
+      "joinedAt": 1782292878871,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
