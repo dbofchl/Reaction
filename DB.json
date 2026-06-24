@@ -12764,12 +12764,21 @@
     },
     "8628615109": {
       "id": 8628615109,
-      "username": "",
-      "fullName": "",
+      "username": "White44q",
+      "fullName": "Winter",
       "points": 0,
       "joinedAt": 1782286980280,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6628134977": {
+      "id": 6628134977,
+      "username": "",
+      "fullName": "Anonymous Invisible",
+      "points": 0,
+      "joinedAt": 1782287025701,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
