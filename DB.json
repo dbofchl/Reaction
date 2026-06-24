@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 18,
+      "points": 19,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11139,6 +11139,15 @@
       "fullName": "Sely",
       "points": 0,
       "joinedAt": 1782272093592,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8267497019": {
+      "id": 8267497019,
+      "username": "Hieuk10",
+      "fullName": "Hiếu 1039388181",
+      "points": 0,
+      "joinedAt": 1782272236962,
       "lastDaily": null,
       "isNewUser": false
     }
