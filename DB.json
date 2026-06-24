@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 31,
+      "points": 32,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10884,9 +10884,18 @@
     "6462114228": {
       "id": 6462114228,
       "username": "",
-      "fullName": "",
+      "fullName": "Nguyễn An",
       "points": 0,
       "joinedAt": 1782267065824,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6410868856": {
+      "id": 6410868856,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782267361537,
       "lastDaily": null,
       "isNewUser": true
     }
