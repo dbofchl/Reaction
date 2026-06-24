@@ -14271,11 +14271,20 @@
     "8235616855": {
       "id": 8235616855,
       "username": "",
-      "fullName": "",
+      "fullName": "ทักมาหน่อยผมเงี่ยน",
       "points": 0,
       "joinedAt": 1782312960285,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "5908535822": {
+      "id": 5908535822,
+      "username": "",
+      "fullName": "Ema Frias",
+      "points": 0,
+      "joinedAt": 1782313226985,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
