@@ -93,11 +93,11 @@
     "1088403595": {
       "id": 1088403595,
       "username": "",
-      "fullName": "",
+      "fullName": "Seng BunnHeng",
       "points": 0,
       "joinedAt": 1782290117494,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1144253138": {
       "id": 1144253138,
@@ -402,6 +402,15 @@
       "fullName": "Ikhtiar Mahmud CABD 15",
       "points": 0,
       "joinedAt": 1782281490624,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "1775062854": {
+      "id": 1775062854,
+      "username": "mabjackmodeff",
+      "fullName": "𝐌𝐀𝐁​ 𝐉𝐀𝐂𝐊 𝐗​ 𝐌𝐎𝐃៚",
+      "points": 0,
+      "joinedAt": 1782290157821,
       "lastDaily": null,
       "isNewUser": false
     },
