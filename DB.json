@@ -12913,6 +12913,16 @@
       "points": 0,
       "joinedAt": 1782288807492,
       "lastDaily": null,
+      "isNewUser": true,
+      "pendingReferral": "7261347097"
+    },
+    "8828586368": {
+      "id": 8828586368,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782288820969,
+      "lastDaily": null,
       "isNewUser": true
     }
   },
