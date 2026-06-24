@@ -13668,11 +13668,20 @@
     "8579009002": {
       "id": 8579009002,
       "username": "",
-      "fullName": "",
+      "fullName": "BR.MOD",
       "points": 0,
       "joinedAt": 1782299456686,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7677514701": {
+      "id": 7677514701,
+      "username": "userMinhMod",
+      "fullName": "Thái Tử Minh Mod k13",
+      "points": 0,
+      "joinedAt": 1782299464696,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
