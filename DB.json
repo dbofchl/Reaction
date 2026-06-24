@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 20,
+      "points": 21,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11184,6 +11184,15 @@
       "fullName": "𝗥𝗮𝗵𝗮𝘁 ㊂ 𝗠𝗲𝘁𝗮 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 ϡ",
       "points": 0,
       "joinedAt": 1782273233074,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6045504196": {
+      "id": 6045504196,
+      "username": "nkmok",
+      "fullName": "exe#Akatsuki",
+      "points": 0,
+      "joinedAt": 1782273489689,
       "lastDaily": null,
       "isNewUser": false
     }
