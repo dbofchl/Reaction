@@ -14469,9 +14469,18 @@
     "6120264768": {
       "id": 6120264768,
       "username": "",
-      "fullName": "",
+      "fullName": "Leon Bhai",
       "points": 0,
       "joinedAt": 1782325413741,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5152241879": {
+      "id": 5152241879,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782325476350,
       "lastDaily": null,
       "isNewUser": true
     }
