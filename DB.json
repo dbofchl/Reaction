@@ -14501,6 +14501,15 @@
       "joinedAt": 1782327723020,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7111586306": {
+      "id": 7111586306,
+      "username": "tranduc4",
+      "fullName": "Trần Đức",
+      "points": 0,
+      "joinedAt": 1782327990302,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
