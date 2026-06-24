@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 13,
+      "points": 14,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12162,9 +12162,18 @@
     "8932070753": {
       "id": 8932070753,
       "username": "",
-      "fullName": "",
+      "fullName": "phat Huynh",
       "points": 0,
       "joinedAt": 1782282088887,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7425193033": {
+      "id": 7425193033,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782282151043,
       "lastDaily": null,
       "isNewUser": true
     }
