@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 19,
+      "points": 20,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11153,12 +11153,12 @@
     },
     "7214407251": {
       "id": 7214407251,
-      "username": "",
-      "fullName": "",
+      "username": "Joneiby",
+      "fullName": "Yoneibi Delo Santos",
       "points": 0,
       "joinedAt": 1782272706797,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
