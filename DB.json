@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11954,12 +11954,12 @@
     },
     "7666340211": {
       "id": 7666340211,
-      "username": "",
-      "fullName": "",
+      "username": "Moonlsgg",
+      "fullName": "ตัวลาบ คาบใคร",
       "points": 0,
       "joinedAt": 1782281541186,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
