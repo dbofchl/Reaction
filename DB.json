@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 24,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10739,12 +10739,12 @@
     },
     "5951504206": {
       "id": 5951504206,
-      "username": "",
-      "fullName": "",
+      "username": "Durndrh",
+      "fullName": "🏳️‍🌈🎇🎇🎇🎇🧡 🏳️‍🌈🎇🎇🎇🎇🧡",
       "points": 0,
       "joinedAt": 1782262241486,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
