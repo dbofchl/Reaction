@@ -14414,12 +14414,21 @@
     },
     "5075107964": {
       "id": 5075107964,
-      "username": "",
-      "fullName": "",
+      "username": "Divyes011",
+      "fullName": "M sharma",
       "points": 0,
       "joinedAt": 1782317739960,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7165779542": {
+      "id": 7165779542,
+      "username": "abdjalile13",
+      "fullName": "███████████████",
+      "points": 0,
+      "joinedAt": 1782317853011,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
