@@ -1318,7 +1318,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 5,
+      "points": 6,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11490,6 +11490,15 @@
       "fullName": "gálihh.",
       "points": 0,
       "joinedAt": 1782279491498,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "5302739914": {
+      "id": 5302739914,
+      "username": "xrsxiros",
+      "fullName": "XIROS",
+      "points": 0,
+      "joinedAt": 1782279937895,
       "lastDaily": null,
       "isNewUser": false
     }
