@@ -11423,10 +11423,19 @@
     },
     "5689459621": {
       "id": 5689459621,
+      "username": "BHAI_4987",
+      "fullName": "Bhai DON",
+      "points": 0,
+      "joinedAt": 1782278847950,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8129939823": {
+      "id": 8129939823,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782278847950,
+      "joinedAt": 1782278889816,
       "lastDaily": null,
       "isNewUser": true
     }
