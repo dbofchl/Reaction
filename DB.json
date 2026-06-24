@@ -14082,11 +14082,20 @@
     "8754830438": {
       "id": 8754830438,
       "username": "",
-      "fullName": "",
+      "fullName": "Alphin Serdadu",
       "points": 0,
       "joinedAt": 1782303780175,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8634955682": {
+      "id": 8634955682,
+      "username": "nkhanhnhw",
+      "fullName": ". nhu nao?",
+      "points": 0,
+      "joinedAt": 1782303894755,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
