@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11135,12 +11135,12 @@
     },
     "8412208674": {
       "id": 8412208674,
-      "username": "",
-      "fullName": "",
+      "username": "Sely12346",
+      "fullName": "Sely",
       "points": 0,
       "joinedAt": 1782272093592,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
