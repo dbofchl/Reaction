@@ -13005,7 +13005,8 @@
       "points": 0,
       "joinedAt": 1782289183563,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": true,
+      "pendingReferral": "7261347097"
     }
   },
   "admins": [
