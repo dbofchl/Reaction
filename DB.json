@@ -11456,6 +11456,15 @@
       "joinedAt": 1782279093927,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "5913082952": {
+      "id": 5913082952,
+      "username": "",
+      "fullName": "Adu Seng",
+      "points": 0,
+      "joinedAt": 1782279110644,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
