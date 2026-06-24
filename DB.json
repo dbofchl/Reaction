@@ -461,12 +461,12 @@
     },
     "1887588777": {
       "id": 1887588777,
-      "username": "",
-      "fullName": "",
+      "username": "youriichi_exe",
+      "fullName": "Dude",
       "points": 0,
       "joinedAt": 1782284936911,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "1893939802": {
       "id": 1893939802,
@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 30,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12554,6 +12554,15 @@
       "joinedAt": 1782284887794,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8329868583": {
+      "id": 8329868583,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782284950277,
+      "lastDaily": null,
+      "isNewUser": true
     }
   },
   "admins": [
