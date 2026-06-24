@@ -10848,11 +10848,20 @@
     "8488005461": {
       "id": 8488005461,
       "username": "",
-      "fullName": "",
+      "fullName": "Bang Bang",
       "points": 0,
       "joinedAt": 1782266471190,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8320580165": {
+      "id": 8320580165,
+      "username": "Bongcutee1",
+      "fullName": "Phuong My",
+      "points": 0,
+      "joinedAt": 1782266513050,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
