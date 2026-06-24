@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 5,
+      "points": 6,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12723,6 +12723,15 @@
       "fullName": "Sarabjeet Kumar",
       "points": 0,
       "joinedAt": 1782286786236,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6263526614": {
+      "id": 6263526614,
+      "username": "",
+      "fullName": "ตี้วิน อาโอวี",
+      "points": 0,
+      "joinedAt": 1782286846492,
       "lastDaily": null,
       "isNewUser": false
     }
