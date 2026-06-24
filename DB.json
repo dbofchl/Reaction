@@ -12572,6 +12572,15 @@
       "joinedAt": 1782285016391,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8361978804": {
+      "id": 8361978804,
+      "username": "",
+      "fullName": "เสร่อ",
+      "points": 0,
+      "joinedAt": 1782285026534,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
