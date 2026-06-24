@@ -13299,11 +13299,20 @@
     "7787297375": {
       "id": 7787297375,
       "username": "",
-      "fullName": "",
+      "fullName": "JIHAD VAI",
       "points": 0,
       "joinedAt": 1782293245861,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8388233884": {
+      "id": 8388233884,
+      "username": "RAFIMARKET0011",
+      "fullName": "RAFII MARKET RAFI",
+      "points": 0,
+      "joinedAt": 1782293327257,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
