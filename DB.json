@@ -13142,6 +13142,15 @@
       "joinedAt": 1782290650623,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6028621255": {
+      "id": 6028621255,
+      "username": "dexteris24",
+      "fullName": "Dexter",
+      "points": 0,
+      "joinedAt": 1782290681079,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
