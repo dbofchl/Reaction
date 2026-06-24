@@ -12122,6 +12122,15 @@
       "joinedAt": 1782281886757,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8253632345": {
+      "id": 8253632345,
+      "username": "cuong191201",
+      "fullName": "ipa ra mau",
+      "points": 0,
+      "joinedAt": 1782281903879,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
