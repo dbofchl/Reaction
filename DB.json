@@ -14024,6 +14024,15 @@
       "joinedAt": 1782302358967,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8011424485": {
+      "id": 8011424485,
+      "username": "Cyrus465",
+      "fullName": "Cyrus",
+      "points": 0,
+      "joinedAt": 1782302486940,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
