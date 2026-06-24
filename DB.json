@@ -13493,6 +13493,15 @@
       "joinedAt": 1782297988558,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7687370026": {
+      "id": 7687370026,
+      "username": "",
+      "fullName": "pp",
+      "points": 0,
+      "joinedAt": 1782298001472,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
