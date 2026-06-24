@@ -12657,11 +12657,20 @@
     "7284964899": {
       "id": 7284964899,
       "username": "",
-      "fullName": "",
+      "fullName": "LUCKY EDITS",
       "points": 0,
       "joinedAt": 1782286263173,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8948611816": {
+      "id": 8948611816,
+      "username": "",
+      "fullName": "Sham ff Sham ff",
+      "points": 0,
+      "joinedAt": 1782286279948,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
