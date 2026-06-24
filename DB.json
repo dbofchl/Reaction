@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 10,
+      "points": 11,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11540,12 +11540,21 @@
     },
     "5693928561": {
       "id": 5693928561,
-      "username": "",
-      "fullName": "",
+      "username": "tranvananhieu",
+      "fullName": "hieuvietnam hieuvietnam",
       "points": 0,
       "joinedAt": 1782280068306,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8267089548": {
+      "id": 8267089548,
+      "username": "",
+      "fullName": "Ga Fiw",
+      "points": 0,
+      "joinedAt": 1782280188122,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
