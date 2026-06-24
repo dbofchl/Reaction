@@ -11990,12 +11990,21 @@
     },
     "8732593121": {
       "id": 8732593121,
-      "username": "",
-      "fullName": "",
+      "username": "ZILINIZKI",
+      "fullName": "RABADAAN SRKA",
       "points": 0,
       "joinedAt": 1782281610077,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "6053144165": {
+      "id": 6053144165,
+      "username": "",
+      "fullName": "AYUSH",
+      "points": 0,
+      "joinedAt": 1782281650982,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
