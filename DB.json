@@ -13676,5 +13676,5 @@
     }
   },
   "reactCooldownMs": 300000,
-  "referralStatus": "active"
+  "referralStatus": "inactive"
 }
