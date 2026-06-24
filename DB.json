@@ -1318,7 +1318,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 30,
+      "points": 31,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11346,6 +11346,15 @@
       "fullName": "LONG 9 NGÓN",
       "points": 0,
       "joinedAt": 1782277954621,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8115743859": {
+      "id": 8115743859,
+      "username": "Nhannobb",
+      "fullName": "Nhàn",
+      "points": 0,
+      "joinedAt": 1782278059558,
       "lastDaily": null,
       "isNewUser": false
     }
