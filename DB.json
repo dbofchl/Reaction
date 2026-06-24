@@ -12053,10 +12053,19 @@
     },
     "8410469129": {
       "id": 8410469129,
+      "username": "enzosaad",
+      "fullName": "Enzo Engine",
+      "points": 0,
+      "joinedAt": 1782281787654,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8586869775": {
+      "id": 8586869775,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782281787654,
+      "joinedAt": 1782281791644,
       "lastDaily": null,
       "isNewUser": true
     }
