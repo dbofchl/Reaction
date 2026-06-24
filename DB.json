@@ -13469,12 +13469,21 @@
     },
     "7315718308": {
       "id": 7315718308,
-      "username": "",
-      "fullName": "",
+      "username": "ZEOOSHYAM",
+      "fullName": "ZEOO SHYAM",
       "points": 0,
       "joinedAt": 1782297918856,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7180039481": {
+      "id": 7180039481,
+      "username": "manzjebeh",
+      "fullName": "Manz",
+      "points": 0,
+      "joinedAt": 1782297949968,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
