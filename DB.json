@@ -12063,11 +12063,20 @@
     "8586869775": {
       "id": 8586869775,
       "username": "",
-      "fullName": "",
+      "fullName": "Bú lồn hồng thôi",
       "points": 0,
       "joinedAt": 1782281791644,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7806239041": {
+      "id": 7806239041,
+      "username": "AsadMalik8835",
+      "fullName": "Asad Malik",
+      "points": 0,
+      "joinedAt": 1782281796586,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
