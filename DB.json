@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 12,
+      "points": 13,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11567,12 +11567,12 @@
     },
     "8525585070": {
       "id": 8525585070,
-      "username": "",
-      "fullName": "",
+      "username": "miminepep",
+      "fullName": "Kenzz4",
       "points": 0,
       "joinedAt": 1782280409561,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
