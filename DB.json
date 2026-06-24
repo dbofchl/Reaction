@@ -1372,7 +1372,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -13172,12 +13172,12 @@
     },
     "8138734641": {
       "id": 8138734641,
-      "username": "",
-      "fullName": "",
+      "username": "maeup0179",
+      "fullName": "Marufs'Voiz Voiz",
       "points": 0,
       "joinedAt": 1782291143843,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
@@ -13621,6 +13621,13 @@
       "price": 15000,
       "orderId": "BP6140693797MQRTE1I00QKW",
       "createdAt": 1782289901976
+    },
+    "BP8138734641MQRU5BQEN6R9": {
+      "userId": 8138734641,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8138734641MQRU5BQEN6R9",
+      "createdAt": 1782291174980
     }
   },
   "reactCooldownMs": 300000,
