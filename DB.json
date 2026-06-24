@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 33,
+      "points": 34,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10914,6 +10914,15 @@
       "fullName": "ZEXO CHEATS",
       "points": 0,
       "joinedAt": 1782267440737,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7514969800": {
+      "id": 7514969800,
+      "username": "MANzHigh",
+      "fullName": "manzhigh",
+      "points": 0,
+      "joinedAt": 1782267719603,
       "lastDaily": null,
       "isNewUser": false
     }
