@@ -10970,6 +10970,15 @@
       "joinedAt": 1782268633964,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8257594736": {
+      "id": 8257594736,
+      "username": "",
+      "fullName": "Angga Rangga",
+      "points": 0,
+      "joinedAt": 1782268834006,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
