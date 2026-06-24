@@ -12171,9 +12171,18 @@
     "7425193033": {
       "id": 7425193033,
       "username": "",
-      "fullName": "",
+      "fullName": "Md rifaat",
       "points": 0,
       "joinedAt": 1782282151043,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "7264235869": {
+      "id": 7264235869,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782282195223,
       "lastDaily": null,
       "isNewUser": true
     }
