@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 17,
+      "points": 18,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -13000,13 +13000,12 @@
     },
     "5825081065": {
       "id": 5825081065,
-      "username": "",
-      "fullName": "",
+      "username": "Cuongcodon1995",
+      "fullName": "Phung Pp",
       "points": 0,
       "joinedAt": 1782289183563,
       "lastDaily": null,
-      "isNewUser": true,
-      "pendingReferral": "7261347097"
+      "isNewUser": false
     },
     "8736176629": {
       "id": 8736176629,
