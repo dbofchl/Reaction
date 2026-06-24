@@ -13712,10 +13712,19 @@
     },
     "8300293655": {
       "id": 8300293655,
+      "username": "faris_ajalah3",
+      "fullName": "RissXiters",
+      "points": 0,
+      "joinedAt": 1782299815936,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8547914740": {
+      "id": 8547914740,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782299815936,
+      "joinedAt": 1782299836997,
       "lastDaily": null,
       "isNewUser": true
     }
