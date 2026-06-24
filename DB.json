@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 15,
+      "points": 16,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12210,6 +12210,15 @@
       "fullName": "Tèo Tạ Văn",
       "points": 0,
       "joinedAt": 1782282278540,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8113773605": {
+      "id": 8113773605,
+      "username": "Transistors_Beachman",
+      "fullName": "Austin Hutchings",
+      "points": 0,
+      "joinedAt": 1782282337379,
       "lastDaily": null,
       "isNewUser": false
     }
