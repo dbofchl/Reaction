@@ -1318,7 +1318,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11379,11 +11379,20 @@
     "7621198243": {
       "id": 7621198243,
       "username": "",
-      "fullName": "",
+      "fullName": "Quang Quangg",
       "points": 0,
       "joinedAt": 1782278285127,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7650015996": {
+      "id": 7650015996,
+      "username": "",
+      "fullName": "amar tzy",
+      "points": 0,
+      "joinedAt": 1782278302255,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
