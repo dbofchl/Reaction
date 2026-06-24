@@ -13079,6 +13079,15 @@
       "joinedAt": 1782289936328,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "6755977723": {
+      "id": 6755977723,
+      "username": "namatashi",
+      "fullName": "ドラゴン",
+      "points": 0,
+      "joinedAt": 1782290244976,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
