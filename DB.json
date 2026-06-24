@@ -11627,6 +11627,15 @@
       "joinedAt": 1782280931342,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7251450616": {
+      "id": 7251450616,
+      "username": "",
+      "fullName": "Aihoi Aihoikomanhin",
+      "points": 0,
+      "joinedAt": 1782280992106,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
