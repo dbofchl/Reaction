@@ -1354,7 +1354,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 31,
+      "points": 32,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12557,12 +12557,21 @@
     },
     "8329868583": {
       "id": 8329868583,
-      "username": "",
-      "fullName": "",
+      "username": "sadek10k",
+      "fullName": "Weeee",
       "points": 0,
       "joinedAt": 1782284950277,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7810514152": {
+      "id": 7810514152,
+      "username": "",
+      "fullName": "Kajal Prajapati",
+      "points": 0,
+      "joinedAt": 1782285016391,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
