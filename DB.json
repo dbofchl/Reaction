@@ -12302,6 +12302,15 @@
       "joinedAt": 1782283070904,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8590150822": {
+      "id": 8590150822,
+      "username": "NguoiVoChi",
+      "fullName": "Hoa Lan",
+      "points": 0,
+      "joinedAt": 1782283232004,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
