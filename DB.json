@@ -596,12 +596,12 @@
     },
     "2135247529": {
       "id": 2135247529,
-      "username": "",
-      "fullName": "",
+      "username": "nkit2233",
+      "fullName": "Ankit",
       "points": 0,
       "joinedAt": 1782274115070,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     },
     "2139622181": {
       "id": 2139622181,
@@ -1309,7 +1309,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 21,
+      "points": 22,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11202,6 +11202,15 @@
       "fullName": "exe#Akatsuki",
       "points": 0,
       "joinedAt": 1782273489689,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6811790177": {
+      "id": 6811790177,
+      "username": "",
+      "fullName": "Souvik Mandal",
+      "points": 0,
+      "joinedAt": 1782274169184,
       "lastDaily": null,
       "isNewUser": false
     }
