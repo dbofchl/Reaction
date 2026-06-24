@@ -1300,7 +1300,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 27,
+      "points": 28,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -10788,6 +10788,15 @@
       "fullName": "Tmove",
       "points": 0,
       "joinedAt": 1782263807859,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8099319469": {
+      "id": 8099319469,
+      "username": "MARCOHACKERYTOFC",
+      "fullName": "🍁MARCO OFFICIAL 🍁",
+      "points": 0,
+      "joinedAt": 1782264124576,
       "lastDaily": null,
       "isNewUser": false
     }
