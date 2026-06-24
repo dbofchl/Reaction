@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 9,
+      "points": 10,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12003,6 +12003,15 @@
       "fullName": "AYUSH",
       "points": 0,
       "joinedAt": 1782281650982,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "8536844239": {
+      "id": 8536844239,
+      "username": "semanto797",
+      "fullName": "Semano🌿",
+      "points": 0,
+      "joinedAt": 1782281661435,
       "lastDaily": null,
       "isNewUser": false
     }
