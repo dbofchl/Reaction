@@ -1345,7 +1345,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 24,
+      "points": 25,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12413,12 +12413,12 @@
     },
     "8508655426": {
       "id": 8508655426,
-      "username": "",
-      "fullName": "",
+      "username": "Chatusername",
+      "fullName": "No Matter",
       "points": 0,
       "joinedAt": 1782283747599,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
