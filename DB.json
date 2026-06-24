@@ -1327,7 +1327,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 11,
+      "points": 12,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -11559,11 +11559,11 @@
     "5752539531": {
       "id": 5752539531,
       "username": "",
-      "fullName": "",
+      "fullName": "Los Hacker. oficial",
       "points": 0,
       "joinedAt": 1782280361598,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
