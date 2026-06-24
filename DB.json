@@ -12449,12 +12449,21 @@
     },
     "8524903761": {
       "id": 8524903761,
-      "username": "",
-      "fullName": "",
+      "username": "Beksultan1976",
+      "fullName": "Beksūltan",
       "points": 0,
       "joinedAt": 1782283890968,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8567472558": {
+      "id": 8567472558,
+      "username": "",
+      "fullName": "Tài Phạn",
+      "points": 0,
+      "joinedAt": 1782283952211,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
