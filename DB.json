@@ -12827,12 +12827,12 @@
     },
     "7594845520": {
       "id": 7594845520,
-      "username": "",
-      "fullName": "",
+      "username": "TH_true_milk",
+      "fullName": "TH",
       "points": 0,
       "joinedAt": 1782287380762,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
