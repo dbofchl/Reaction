@@ -1336,7 +1336,7 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 14,
+      "points": 15,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -12198,11 +12198,20 @@
     "8612400856": {
       "id": 8612400856,
       "username": "",
-      "fullName": "",
+      "fullName": "Thái Tử Bình Minh Thái Tử Bình Minh",
       "points": 0,
       "joinedAt": 1782282244844,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7658698616": {
+      "id": 7658698616,
+      "username": "Vangdz100",
+      "fullName": "Tèo Tạ Văn",
+      "points": 0,
+      "joinedAt": 1782282278540,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
