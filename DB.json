@@ -13160,6 +13160,15 @@
       "joinedAt": 1782290848956,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8118548337": {
+      "id": 8118548337,
+      "username": "",
+      "fullName": "Thiem Thien",
+      "points": 0,
+      "joinedAt": 1782291071921,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
