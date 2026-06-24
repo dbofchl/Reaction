@@ -13983,9 +13983,18 @@
     "6792646911": {
       "id": 6792646911,
       "username": "",
-      "fullName": "",
+      "fullName": "Moro",
       "points": 0,
       "joinedAt": 1782302245007,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6767277281": {
+      "id": 6767277281,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782302269283,
       "lastDaily": null,
       "isNewUser": true
     }
