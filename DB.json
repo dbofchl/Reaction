@@ -11442,11 +11442,11 @@
     "8691172435": {
       "id": 8691172435,
       "username": "",
-      "fullName": "",
+      "fullName": "Iago",
       "points": 0,
       "joinedAt": 1782279020194,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
     }
   },
   "admins": [
