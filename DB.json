@@ -11294,6 +11294,15 @@
       "joinedAt": 1782276781842,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8528495369": {
+      "id": 8528495369,
+      "username": "Algos555",
+      "fullName": "kelvin Ff",
+      "points": 0,
+      "joinedAt": 1782276967273,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
