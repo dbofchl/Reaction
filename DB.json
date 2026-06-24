@@ -594,6 +594,15 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "2135247529": {
+      "id": 2135247529,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782274115070,
+      "lastDaily": null,
+      "isNewUser": true
+    },
     "2139622181": {
       "id": 2139622181,
       "username": "yanrastore",
