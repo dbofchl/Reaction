@@ -14681,6 +14681,15 @@
       "joinedAt": 1782352516565,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7283961372": {
+      "id": 7283961372,
+      "username": "Stanleyhacks",
+      "fullName": "Gregg Stanley",
+      "points": 0,
+      "joinedAt": 1782352885911,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
