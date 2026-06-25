@@ -14927,12 +14927,21 @@
     },
     "7994774057": {
       "id": 7994774057,
-      "username": "",
-      "fullName": "",
+      "username": "morgannvx",
+      "fullName": "morgan",
       "points": 0,
       "joinedAt": 1782405833899,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "8400647428": {
+      "id": 8400647428,
+      "username": "Caleb_28lCe",
+      "fullName": "mamo",
+      "points": 0,
+      "joinedAt": 1782406325120,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
