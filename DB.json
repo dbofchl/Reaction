@@ -14807,6 +14807,15 @@
       "joinedAt": 1782366051487,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8603519866": {
+      "id": 8603519866,
+      "username": "zenngg1",
+      "fullName": "zen",
+      "points": 0,
+      "joinedAt": 1782366127966,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
