@@ -14775,11 +14775,20 @@
     "7150055768": {
       "id": 7150055768,
       "username": "",
-      "fullName": "",
+      "fullName": "Tasleem Khan",
       "points": 0,
       "joinedAt": 1782365196689,
       "lastDaily": null,
-      "isNewUser": true
+      "isNewUser": false
+    },
+    "7341762105": {
+      "id": 7341762105,
+      "username": "rasel24578999",
+      "fullName": "Md Rasel Khan",
+      "points": 0,
+      "joinedAt": 1782365279273,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
