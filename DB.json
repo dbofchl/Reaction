@@ -14816,6 +14816,15 @@
       "joinedAt": 1782366127966,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8916844624": {
+      "id": 8916844624,
+      "username": "Makspanel",
+      "fullName": "Maks Panel",
+      "points": 0,
+      "joinedAt": 1782366688900,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
