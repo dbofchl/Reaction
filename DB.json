@@ -14897,6 +14897,15 @@
       "joinedAt": 1782398384552,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8025799095": {
+      "id": 8025799095,
+      "username": "",
+      "fullName": "Haroun El",
+      "points": 0,
+      "joinedAt": 1782402529927,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
