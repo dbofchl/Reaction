@@ -14837,10 +14837,19 @@
     },
     "8775210157": {
       "id": 8775210157,
+      "username": "revzzptr",
+      "fullName": "REV",
+      "points": 0,
+      "joinedAt": 1782372645245,
+      "lastDaily": null,
+      "isNewUser": false
+    },
+    "6123650856": {
+      "id": 6123650856,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782372645245,
+      "joinedAt": 1782373072017,
       "lastDaily": null,
       "isNewUser": true
     }
