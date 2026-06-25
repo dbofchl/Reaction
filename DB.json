@@ -14888,6 +14888,15 @@
       "joinedAt": 1782388561035,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "8307338410": {
+      "id": 8307338410,
+      "username": "",
+      "fullName": "NMT NMT1",
+      "points": 0,
+      "joinedAt": 1782398384552,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
