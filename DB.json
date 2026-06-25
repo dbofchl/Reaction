@@ -14753,6 +14753,15 @@
       "joinedAt": 1782361663107,
       "lastDaily": null,
       "isNewUser": false
+    },
+    "7705078393": {
+      "id": 7705078393,
+      "username": "Mandeted999",
+      "fullName": "Annu Shree",
+      "points": 0,
+      "joinedAt": 1782361840124,
+      "lastDaily": null,
+      "isNewUser": false
     }
   },
   "admins": [
