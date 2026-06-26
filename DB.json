@@ -15909,10 +15909,21 @@
     },
     "8189883604": {
       "id": 8189883604,
+      "username": "Choudhury60",
+      "fullName": "Joy Chouwhury🖤",
+      "points": 0,
+      "joinedAt": 1782457064325,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7917141746": {
+      "id": 7917141746,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782457064325,
+      "joinedAt": 1782457712878,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
