@@ -15558,12 +15558,23 @@
     "8603571365": {
       "id": 8603571365,
       "username": "",
-      "fullName": "",
+      "fullName": "Gagan Tantia",
       "points": 0,
       "joinedAt": 1782443586136,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "6947629384": {
+      "id": 6947629384,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782443624402,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
