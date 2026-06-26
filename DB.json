@@ -1488,7 +1488,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -1656,7 +1656,7 @@
       "id": 8031285841,
       "username": "errorsENC",
       "fullName": "𝕭𝖑𝖚𝖊 🄼",
-      "points": 2,
+      "points": 0,
       "joinedAt": 1772194612643,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -16261,13 +16261,13 @@
     },
     "5499404652": {
       "id": 5499404652,
-      "username": "",
-      "fullName": "",
+      "username": "saadh4x",
+      "fullName": "FFA0-SKL",
       "points": 0,
       "joinedAt": 1782502252620,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
@@ -16303,7 +16303,7 @@
     "5939834412": 1772246300354,
     "7502336580": 1772246704731,
     "8466012589": 1772247035110,
-    "8031285841": 1782495525320,
+    "8031285841": 1782502488303,
     "6167597669": 1772247605372,
     "8265711060": 1772247656890,
     "6970381785": 1772247753479,
