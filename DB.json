@@ -15149,9 +15149,20 @@
     "8161563121": {
       "id": 8161563121,
       "username": "",
-      "fullName": "",
+      "fullName": "SEGARR",
       "points": 0,
       "joinedAt": 1782437588204,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6334114835": {
+      "id": 6334114835,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782437690128,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
