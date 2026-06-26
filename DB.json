@@ -16049,6 +16049,17 @@
       "isNewUser": true,
       "invitedBy": "7261347097",
       "referralCount": 0
+    },
+    "7875948610": {
+      "id": 7875948610,
+      "username": "EL_BOB6YY",
+      "fullName": "EL BOooB",
+      "points": 0,
+      "joinedAt": 1782465452629,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
