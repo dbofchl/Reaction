@@ -15105,9 +15105,20 @@
     "8005995211": {
       "id": 8005995211,
       "username": "",
-      "fullName": "",
+      "fullName": "Swin88",
       "points": 0,
       "joinedAt": 1782437273201,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8034286142": {
+      "id": 8034286142,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782437326503,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
