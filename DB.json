@@ -15060,10 +15060,21 @@
     },
     "6996393752": {
       "id": 6996393752,
+      "username": "Taimunmalsofficial",
+      "fullName": "TAIMUN MALS",
+      "points": 0,
+      "joinedAt": 1782436487493,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7553651223": {
+      "id": 7553651223,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782436487493,
+      "joinedAt": 1782436588083,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
