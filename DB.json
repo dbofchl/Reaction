@@ -15712,9 +15712,20 @@
     "7800286894": {
       "id": 7800286894,
       "username": "",
-      "fullName": "",
+      "fullName": "Ak",
       "points": 0,
       "joinedAt": 1782449288410,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6773224067": {
+      "id": 6773224067,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782449404096,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
