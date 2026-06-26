@@ -1466,7 +1466,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8359149620": {
       "id": 8359149620,
@@ -16041,12 +16041,12 @@
     },
     "7663954998": {
       "id": 7663954998,
-      "username": "",
-      "fullName": "",
+      "username": "Balboa_xitado",
+      "fullName": "drip.cliente drip.cliente",
       "points": 0,
       "joinedAt": 1782465450787,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     },
