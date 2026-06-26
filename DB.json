@@ -15072,11 +15072,11 @@
     "7553651223": {
       "id": 7553651223,
       "username": "",
-      "fullName": "",
+      "fullName": "Lucky",
       "points": 0,
       "joinedAt": 1782436588083,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
