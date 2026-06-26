@@ -1488,7 +1488,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -16250,10 +16250,21 @@
     },
     "7520481861": {
       "id": 7520481861,
+      "username": "B_o_9_a_l_06",
+      "fullName": "b_o_9_a_l_06 ಠ⁠_⁠ಠ",
+      "points": 0,
+      "joinedAt": 1782498601192,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "5499404652": {
+      "id": 5499404652,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782498601192,
+      "joinedAt": 1782502252620,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
