@@ -284,12 +284,12 @@
     },
     "1395959264": {
       "id": 1395959264,
-      "username": "",
-      "fullName": "",
+      "username": "GkTeamOfc",
+      "fullName": "GK BHAl",
       "points": 0,
       "joinedAt": 1782449678089,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -15740,6 +15740,17 @@
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "7215292403": {
+      "id": 7215292403,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782449769157,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
