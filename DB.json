@@ -15645,12 +15645,12 @@
     },
     "7957065157": {
       "id": 7957065157,
-      "username": "",
-      "fullName": "",
+      "username": "Yugowner7",
+      "fullName": "JAAT冬IMMORTAL",
       "points": 0,
       "joinedAt": 1782447257159,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -16138,6 +16138,13 @@
       "price": 15000,
       "orderId": "BP6641311291MQU9AM9VKVDD",
       "createdAt": 1782437548453
+    },
+    "BP7957065157MQUF31OR0CWV": {
+      "userId": 7957065157,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7957065157MQUF31OR0CWV",
+      "createdAt": 1782447272871
     }
   },
   "reactCooldownMs": 300000,
