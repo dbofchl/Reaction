@@ -15024,6 +15024,28 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5866234744": {
+      "id": 5866234744,
+      "username": "princelodhi77",
+      "fullName": "Prince",
+      "points": 0,
+      "joinedAt": 1782436072976,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7488656909": {
+      "id": 7488656909,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782436204157,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
