@@ -435,6 +435,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1757708525": {
+      "id": 1757708525,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782445556058,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1770532541": {
       "id": 1770532541,
       "username": "imjoyikh",
