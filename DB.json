@@ -15200,6 +15200,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8400264641": {
+      "id": 8400264641,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782437884352,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
