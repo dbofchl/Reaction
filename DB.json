@@ -1484,11 +1484,11 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8359149620": {
       "id": 8359149620,
@@ -16239,13 +16239,13 @@
     },
     "7808270688": {
       "id": 7808270688,
-      "username": "",
-      "fullName": "",
+      "username": "gloryXnn",
+      "fullName": "—͟͟͞͞𝙓𝟕 𝗥𝗮𝗮 𝐇𝐨𝐬𝐡𝐢𝐧𝐨 爱",
       "points": 0,
       "joinedAt": 1782498237508,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
