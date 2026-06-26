@@ -504,6 +504,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1841692633": {
+      "id": 1841692633,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782473240407,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1855527115": {
       "id": 1855527115,
       "username": "Paroon_1",
@@ -16135,7 +16146,7 @@
       "joinedAt": 1782473020041,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
