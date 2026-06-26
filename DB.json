@@ -1429,11 +1429,11 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -15381,13 +15381,24 @@
     },
     "7619421207": {
       "id": 7619421207,
-      "username": "",
-      "fullName": "",
+      "username": "ERRORXHACKS",
+      "fullName": "ERROR",
       "points": 0,
       "joinedAt": 1782441265621,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "8268174529": {
+      "id": 8268174529,
+      "username": "PRIME_GOJO_75",
+      "fullName": "▪️▫️ ᴀᴅᴍɪɴ ɢᴏᴊᴏ ▫️▪️",
+      "points": 0,
+      "joinedAt": 1782441291661,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
