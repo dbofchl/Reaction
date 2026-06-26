@@ -1444,7 +1444,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8359149620": {
       "id": 8359149620,
@@ -15590,12 +15590,12 @@
     },
     "7951192840": {
       "id": 7951192840,
-      "username": "",
-      "fullName": "",
+      "username": "LOUS929",
+      "fullName": "UG",
       "points": 0,
       "joinedAt": 1782444492996,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     }
