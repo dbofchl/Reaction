@@ -239,12 +239,12 @@
     },
     "1351074518": {
       "id": 1351074518,
-      "username": "",
-      "fullName": "",
+      "username": "felixaza_1",
+      "fullName": "Fell",
       "points": 0,
       "joinedAt": 1782471829693,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
