@@ -15964,13 +15964,24 @@
     },
     "7423891029": {
       "id": 7423891029,
-      "username": "",
-      "fullName": "",
+      "username": "hacargaming12",
+      "fullName": "gaming Tamim",
       "points": 0,
       "joinedAt": 1782460111539,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8213829030": {
+      "id": 8213829030,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782460248229,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
