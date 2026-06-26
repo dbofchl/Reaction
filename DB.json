@@ -540,6 +540,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1912337092": {
+      "id": 1912337092,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782440742084,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
     "1913783522": {
       "id": 1913783522,
       "username": "Jeffrynicol9",
@@ -15258,12 +15269,12 @@
     },
     "8168407720": {
       "id": 8168407720,
-      "username": "",
-      "fullName": "",
+      "username": "Atharva_07447",
+      "fullName": "Atharva",
       "points": 0,
       "joinedAt": 1782440683285,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
