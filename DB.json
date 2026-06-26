@@ -14973,9 +14973,20 @@
     "7680761620": {
       "id": 7680761620,
       "username": "",
-      "fullName": "",
+      "fullName": "Juan Martnez",
       "points": 0,
       "joinedAt": 1782435974705,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8035055544": {
+      "id": 8035055544,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782435993217,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
