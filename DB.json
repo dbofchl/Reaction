@@ -15171,9 +15171,20 @@
     "6611020102": {
       "id": 6611020102,
       "username": "",
-      "fullName": "",
+      "fullName": "JOY DAS",
       "points": 0,
       "joinedAt": 1782437700648,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8362078803": {
+      "id": 8362078803,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782437770427,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
