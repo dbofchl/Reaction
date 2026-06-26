@@ -282,6 +282,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1395959264": {
+      "id": 1395959264,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782449678089,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1402829420": {
       "id": 1402829420,
       "username": "",
@@ -15728,7 +15739,7 @@
       "joinedAt": 1782449404096,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
