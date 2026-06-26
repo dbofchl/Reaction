@@ -15126,12 +15126,12 @@
     },
     "6641311291": {
       "id": 6641311291,
-      "username": "",
-      "fullName": "",
+      "username": "Gamengkumarraj123",
+      "fullName": "Aman Kumar",
       "points": 0,
       "joinedAt": 1782437409601,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -15612,6 +15612,13 @@
       "price": 150000,
       "orderId": "BP8409141010MQSHHS3ZX6FI",
       "createdAt": 1782330387224
+    },
+    "BP6641311291MQU9859LN9XS": {
+      "userId": 6641311291,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6641311291MQU9859LN9XS",
+      "createdAt": 1782437433130
     }
   },
   "reactCooldownMs": 300000,
