@@ -15138,11 +15138,11 @@
     "6885567834": {
       "id": 6885567834,
       "username": "",
-      "fullName": "",
+      "fullName": "Dimzz",
       "points": 0,
       "joinedAt": 1782437541116,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -15623,6 +15623,13 @@
       "price": 150000,
       "orderId": "BP8409141010MQSHHS3ZX6FI",
       "createdAt": 1782330387224
+    },
+    "BP6641311291MQU9AM9VKVDD": {
+      "userId": 6641311291,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6641311291MQU9AM9VKVDD",
+      "createdAt": 1782437548453
     }
   },
   "reactCooldownMs": 300000,
