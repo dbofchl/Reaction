@@ -15502,12 +15502,12 @@
     },
     "6414001857": {
       "id": 6414001857,
-      "username": "",
-      "fullName": "",
+      "username": "i_rajnishmaurya",
+      "fullName": "Oggy",
       "points": 0,
       "joinedAt": 1782442732757,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
