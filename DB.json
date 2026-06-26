@@ -15211,6 +15211,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7422142907": {
+      "id": 7422142907,
+      "username": "ng_Power_7",
+      "fullName": "NG_POWER",
+      "points": 0,
+      "joinedAt": 1782437918400,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
