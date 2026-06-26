@@ -15236,10 +15236,21 @@
     },
     "8798904721": {
       "id": 8798904721,
+      "username": "RapidCoreOwner",
+      "fullName": "Rapid Core Owner",
+      "points": 0,
+      "joinedAt": 1782439971147,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7290171485": {
+      "id": 7290171485,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782439971147,
+      "joinedAt": 1782440147262,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
