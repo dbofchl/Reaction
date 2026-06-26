@@ -107,7 +107,7 @@
       "joinedAt": 1782094813065,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1160976551": {
       "id": 1160976551,
@@ -15348,12 +15348,12 @@
     },
     "7936214550": {
       "id": 7936214550,
-      "username": "",
-      "fullName": "",
+      "username": "psteamaadmvip",
+      "fullName": "PSTeamAdm",
       "points": 0,
       "joinedAt": 1782441084820,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1144253138",
       "referralCount": 0
     }
