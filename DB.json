@@ -1432,7 +1432,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -4091,8 +4091,8 @@
     },
     "8542175941": {
       "id": 8542175941,
-      "username": "Lyna969",
-      "fullName": "Linaa୨ৎ",
+      "username": "Farzzxiter18",
+      "fullName": "Qiu Xiters",
       "points": 0,
       "joinedAt": 1773391422709,
       "lastDaily": null,
@@ -15304,12 +15304,12 @@
     "7791631807": {
       "id": 7791631807,
       "username": "",
-      "fullName": "",
+      "fullName": ".... U",
       "points": 0,
       "joinedAt": 1782440882658,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
