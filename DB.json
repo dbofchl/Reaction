@@ -15635,12 +15635,12 @@
     "8841214843": {
       "id": 8841214843,
       "username": "",
-      "fullName": "",
+      "fullName": "Mahim Tm",
       "points": 0,
       "joinedAt": 1782446760565,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8228358865l",
       "referralCount": 0
     }
   },
