@@ -1466,7 +1466,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8359149620": {
       "id": 8359149620,
@@ -15788,13 +15788,24 @@
     },
     "5955121197": {
       "id": 5955121197,
-      "username": "",
-      "fullName": "",
+      "username": "the_anha",
+      "fullName": "anh",
       "points": 0,
       "joinedAt": 1782450887545,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "7518049683": {
+      "id": 7518049683,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782450888515,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
