@@ -15450,5 +15450,5 @@
     }
   },
   "reactCooldownMs": 300000,
-  "referralStatus": "inactive"
+  "referralStatus": "active"
 }
