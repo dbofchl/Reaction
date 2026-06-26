@@ -1462,11 +1462,11 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 4,
+      "points": 5,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8359149620": {
       "id": 8359149620,
@@ -15843,13 +15843,13 @@
     },
     "8273188164": {
       "id": 8273188164,
-      "username": "",
-      "fullName": "",
+      "username": "opmplusmods",
+      "fullName": "OPM PLUS",
       "points": 0,
       "joinedAt": 1782452784464,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
