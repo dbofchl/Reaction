@@ -10799,8 +10799,8 @@
     },
     "7210140104": {
       "id": 7210140104,
-      "username": "xXBGR",
-      "fullName": "BGANG",
+      "username": "",
+      "fullName": "َ",
       "points": 0,
       "joinedAt": 1782260403683,
       "lastDaily": null,
@@ -15580,11 +15580,11 @@
     "6532194831": {
       "id": 6532194831,
       "username": "",
-      "fullName": "",
+      "fullName": "PROLAY",
       "points": 0,
       "joinedAt": 1782443870526,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
