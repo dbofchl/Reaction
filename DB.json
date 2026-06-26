@@ -15181,10 +15181,21 @@
     },
     "8362078803": {
       "id": 8362078803,
+      "username": "Nonooo46",
+      "fullName": "Team manager ✨",
+      "points": 0,
+      "joinedAt": 1782437770427,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8529265502": {
+      "id": 8529265502,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782437770427,
+      "joinedAt": 1782437852676,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
