@@ -1431,7 +1431,8 @@
       "points": 1,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -15291,10 +15292,21 @@
     },
     "7441390269": {
       "id": 7441390269,
+      "username": "angeel9z",
+      "fullName": "kfløw'77",
+      "points": 0,
+      "joinedAt": 1782440880334,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "7791631807": {
+      "id": 7791631807,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782440880334,
+      "joinedAt": 1782440882658,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
