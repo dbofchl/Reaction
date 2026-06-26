@@ -1432,7 +1432,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8359149620": {
       "id": 8359149620,
@@ -5261,8 +5261,8 @@
     },
     "8528851435": {
       "id": 8528851435,
-      "username": "alzzyuu",
-      "fullName": "AL OFFICAL [00.00]",
+      "username": "Nu1l_STOR3",
+      "fullName": "𝙽𝚞𝟷𝟷_𝚂𝚃𝙾𝚁𝙴",
       "points": 0,
       "joinedAt": 1779105932478,
       "lastDaily": null,
@@ -15314,13 +15314,13 @@
     },
     "7871928644": {
       "id": 7871928644,
-      "username": "",
-      "fullName": "",
+      "username": "BLACK_MODS_444",
+      "fullName": "X MOD",
       "points": 0,
       "joinedAt": 1782440961881,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
