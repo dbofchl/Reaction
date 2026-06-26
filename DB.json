@@ -15115,10 +15115,21 @@
     },
     "8034286142": {
       "id": 8034286142,
+      "username": "Faridonafghan",
+      "fullName": "Afg King",
+      "points": 0,
+      "joinedAt": 1782437326503,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6641311291": {
+      "id": 6641311291,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782437326503,
+      "joinedAt": 1782437409601,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
