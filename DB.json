@@ -15160,9 +15160,20 @@
     "6334114835": {
       "id": 6334114835,
       "username": "",
-      "fullName": "",
+      "fullName": "Abubakar rana",
       "points": 0,
       "joinedAt": 1782437690128,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6611020102": {
+      "id": 6611020102,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782437700648,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
