@@ -15039,9 +15039,20 @@
     "7488656909": {
       "id": 7488656909,
       "username": "",
-      "fullName": "",
+      "fullName": "Nirob",
       "points": 0,
       "joinedAt": 1782436204157,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8378650366": {
+      "id": 8378650366,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782436348094,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
