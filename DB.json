@@ -1510,7 +1510,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -16405,11 +16405,11 @@
     "7288031134": {
       "id": 7288031134,
       "username": "",
-      "fullName": "",
+      "fullName": "Adf",
       "points": 0,
       "joinedAt": 1782541265264,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     },
