@@ -16411,17 +16411,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7220577877": {
       "id": 7220577877,
-      "username": "",
-      "fullName": "",
+      "username": "Sifat2017",
+      "fullName": "সিফাত ৬৯",
       "points": 0,
       "joinedAt": 1782542045135,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7778981096",
       "referralCount": 0
     }
   },
