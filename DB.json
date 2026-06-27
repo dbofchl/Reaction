@@ -16345,7 +16345,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8344427441": {
       "id": 8344427441,
@@ -16360,13 +16360,13 @@
     },
     "8804553509": {
       "id": 8804553509,
-      "username": "",
-      "fullName": "",
+      "username": "Fladoo_Kamiel",
+      "fullName": "Fladoo 𝐓𝟓",
       "points": 0,
       "joinedAt": 1782535069804,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8475677371",
       "referralCount": 0
     }
   },
