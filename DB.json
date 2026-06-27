@@ -16482,12 +16482,23 @@
     "8531491407": {
       "id": 8531491407,
       "username": "",
-      "fullName": "",
+      "fullName": "anjay mabar",
       "points": 0,
       "joinedAt": 1782550448589,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "5988658959": {
+      "id": 5988658959,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782555476863,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
