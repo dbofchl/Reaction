@@ -92,13 +92,13 @@
     },
     "1069515145": {
       "id": 1069515145,
-      "username": "",
-      "fullName": "",
+      "username": "RizkiUtama_1",
+      "fullName": "Rizki #𝐕𝐞𝐬𝐭𝐨𝐧𝐞",
       "points": 0,
       "joinedAt": 1782535048285,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8475677371",
       "referralCount": 0
     },
     "1088403595": {
@@ -16345,7 +16345,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8344427441": {
       "id": 8344427441,
