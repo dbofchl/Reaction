@@ -1510,7 +1510,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -16471,12 +16471,12 @@
     "7798112664": {
       "id": 7798112664,
       "username": "",
-      "fullName": "",
+      "fullName": "Alin sefu",
       "points": 0,
       "joinedAt": 1782549418232,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
