@@ -16399,6 +16399,17 @@
       "joinedAt": 1782541265264,
       "lastDaily": null,
       "isNewUser": true,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "7778981096": {
+      "id": 7778981096,
+      "username": "SIFAT20170",
+      "fullName": "SHARAFAT VAI",
+      "points": 0,
+      "joinedAt": 1782541947626,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
