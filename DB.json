@@ -16625,10 +16625,21 @@
     },
     "7048274762": {
       "id": 7048274762,
+      "username": "SlayerXTungTung",
+      "fullName": "SlayerXTungTung",
+      "points": 0,
+      "joinedAt": 1782628910825,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7144914252": {
+      "id": 7144914252,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782628910825,
+      "joinedAt": 1782630271446,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
