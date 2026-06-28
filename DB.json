@@ -16746,10 +16746,21 @@
     },
     "7749365116": {
       "id": 7749365116,
+      "username": "DripclientAdmin",
+      "fullName": "Drip Client",
+      "points": 0,
+      "joinedAt": 1782670277849,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8396676438": {
+      "id": 8396676438,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782670277849,
+      "joinedAt": 1782673673072,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
