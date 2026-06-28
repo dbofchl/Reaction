@@ -15103,7 +15103,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "6170848760": {
       "id": 6170848760,
@@ -16614,12 +16614,12 @@
     },
     "8463223967": {
       "id": 8463223967,
-      "username": "",
-      "fullName": "",
+      "username": "Eyenudaamandi",
+      "fullName": "Eyenneverlusz",
       "points": 0,
       "joinedAt": 1782621553325,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7701133295",
       "referralCount": 0
     }
