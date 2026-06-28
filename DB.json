@@ -16588,6 +16588,17 @@
       "isNewUser": true,
       "invitedBy": "8603519866",
       "referralCount": 0
+    },
+    "6505955062": {
+      "id": 6505955062,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782617514238,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8603519866",
+      "referralCount": 0
     }
   },
   "admins": [
