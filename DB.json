@@ -14915,7 +14915,7 @@
       "joinedAt": 1782366127966,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8916844624": {
       "id": 8916844624,
@@ -16592,12 +16592,12 @@
     },
     "6505955062": {
       "id": 6505955062,
-      "username": "",
-      "fullName": "",
+      "username": "rapaiz29",
+      "fullName": "r",
       "points": 0,
       "joinedAt": 1782617514238,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8603519866",
       "referralCount": 0
     }
