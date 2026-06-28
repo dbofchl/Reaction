@@ -16714,11 +16714,11 @@
     "7597888581": {
       "id": 7597888581,
       "username": "",
-      "fullName": "",
+      "fullName": "Kevin",
       "points": 0,
       "joinedAt": 1782649943910,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
