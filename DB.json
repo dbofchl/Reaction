@@ -14914,7 +14914,8 @@
       "points": 0,
       "joinedAt": 1782366127966,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8916844624": {
       "id": 8916844624,
@@ -16580,12 +16581,12 @@
     },
     "8433134475": {
       "id": 8433134475,
-      "username": "",
-      "fullName": "",
+      "username": "ajauganteng",
+      "fullName": "exzz",
       "points": 0,
       "joinedAt": 1782617510813,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8603519866",
       "referralCount": 0
     },
