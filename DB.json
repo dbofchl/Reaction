@@ -16758,11 +16758,11 @@
     "8396676438": {
       "id": 8396676438,
       "username": "",
-      "fullName": "",
+      "fullName": "Rahil Khan",
       "points": 0,
       "joinedAt": 1782673673072,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -17278,6 +17278,13 @@
       "price": 15000,
       "orderId": "BP7668609091MQXROVNO2P6P",
       "createdAt": 1782649845470
+    },
+    "BP8396676438MQY5W6CKAQB1": {
+      "userId": 8396676438,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8396676438MQY5W6CKAQB1",
+      "createdAt": 1782673700489
     }
   },
   "reactCooldownMs": 300000,
