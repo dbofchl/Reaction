@@ -1506,11 +1506,11 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 7,
+      "points": 8,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8359149620": {
       "id": 8359149620,
@@ -16735,13 +16735,13 @@
     },
     "8316861225": {
       "id": 8316861225,
-      "username": "",
-      "fullName": "",
+      "username": "Semen_Neverdie",
+      "fullName": "Saman_soft br",
       "points": 0,
       "joinedAt": 1782669673125,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
