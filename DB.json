@@ -16691,10 +16691,21 @@
     },
     "6828847937": {
       "id": 6828847937,
+      "username": "DOKEN_STORE",
+      "fullName": "DOKEN STORE",
+      "points": 0,
+      "joinedAt": 1782640044389,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8632226438": {
+      "id": 8632226438,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782640044389,
+      "joinedAt": 1782641763290,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
