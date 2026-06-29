@@ -16999,10 +16999,21 @@
     },
     "7898246533": {
       "id": 7898246533,
+      "username": "Haxpanel",
+      "fullName": "HAX",
+      "points": 0,
+      "joinedAt": 1782776795473,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7047461199": {
+      "id": 7047461199,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782776795473,
+      "joinedAt": 1782776984397,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
