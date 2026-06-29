@@ -17044,9 +17044,20 @@
     "8285321564": {
       "id": 8285321564,
       "username": "",
-      "fullName": "",
+      "fullName": "gatau 21",
       "points": 0,
       "joinedAt": 1782777199660,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6434168536": {
+      "id": 6434168536,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782777400714,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
