@@ -17010,10 +17010,21 @@
     },
     "7047461199": {
       "id": 7047461199,
+      "username": "Pharase55",
+      "fullName": "GzGamerP",
+      "points": 0,
+      "joinedAt": 1782776984397,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7749692885": {
+      "id": 7749692885,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782776984397,
+      "joinedAt": 1782777006175,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
