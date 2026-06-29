@@ -110,6 +110,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1138146528": {
+      "id": 1138146528,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782776562747,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1144253138": {
       "id": 1144253138,
       "username": "Alya7001",
@@ -16977,12 +16988,12 @@
     },
     "8035133164": {
       "id": 8035133164,
-      "username": "",
-      "fullName": "",
+      "username": "Nonesbh",
+      "fullName": "SBH MODZ",
       "points": 0,
       "joinedAt": 1782776383743,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
