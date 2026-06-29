@@ -16912,11 +16912,11 @@
     "8435206727": {
       "id": 8435206727,
       "username": "",
-      "fullName": "",
+      "fullName": "Aa Aa",
       "points": 0,
       "joinedAt": 1782762963534,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -17439,6 +17439,13 @@
       "price": 150000,
       "orderId": "BP8396676438MQY5W6CKAQB1",
       "createdAt": 1782673700489
+    },
+    "BP8435206727MQZNIDXLR5GA": {
+      "userId": 8435206727,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8435206727MQZNIDXLR5GA",
+      "createdAt": 1782763756350
     }
   },
   "reactCooldownMs": 300000,
