@@ -16853,6 +16853,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8767130060": {
+      "id": 8767130060,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782727407755,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
