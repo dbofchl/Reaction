@@ -17055,11 +17055,11 @@
     "6434168536": {
       "id": 6434168536,
       "username": "",
-      "fullName": "",
+      "fullName": "Mamat Mamat Hii",
       "points": 0,
       "joinedAt": 1782777400714,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -17596,6 +17596,13 @@
       "price": 15000,
       "orderId": "BP8106028903MQZUOOU0BP8W",
       "createdAt": 1782775807893
+    },
+    "BP8372531668MQZVONPGCK1D": {
+      "userId": 8372531668,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8372531668MQZVONPGCK1D",
+      "createdAt": 1782777485908
     }
   },
   "reactCooldownMs": 300000,
