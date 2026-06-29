@@ -16801,12 +16801,12 @@
     },
     "8001804326": {
       "id": 8001804326,
-      "username": "",
-      "fullName": "",
+      "username": "ceo_pratama",
+      "fullName": "𝐂𝐄𝐎 | 基本的",
       "points": 0,
       "joinedAt": 1782698808536,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
