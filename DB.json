@@ -16941,6 +16941,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6508019361": {
+      "id": 6508019361,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782775959468,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
