@@ -16798,6 +16798,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8001804326": {
+      "id": 8001804326,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782698808536,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
