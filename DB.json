@@ -112,12 +112,12 @@
     },
     "1138146528": {
       "id": 1138146528,
-      "username": "",
-      "fullName": "",
+      "username": "SHAHABKHATTAK",
+      "fullName": "SHAHAB KHATTAK",
       "points": 0,
       "joinedAt": 1782776562747,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -16994,6 +16994,17 @@
       "joinedAt": 1782776383743,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7898246533": {
+      "id": 7898246533,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782776795473,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
