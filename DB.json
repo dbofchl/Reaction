@@ -1510,7 +1510,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8359149620": {
       "id": 8359149620,
@@ -16867,10 +16867,21 @@
     },
     "7701997471": {
       "id": 7701997471,
+      "username": "yanzforyou",
+      "fullName": "yanzzz",
+      "points": 0,
+      "joinedAt": 1782744489660,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "7304311147": {
+      "id": 7304311147,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782744489660,
+      "joinedAt": 1782748893163,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
