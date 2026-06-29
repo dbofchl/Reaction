@@ -16944,12 +16944,12 @@
     },
     "6508019361": {
       "id": 6508019361,
-      "username": "",
-      "fullName": "",
+      "username": "m1doj",
+      "fullName": "mido",
       "points": 0,
       "joinedAt": 1782775959468,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
