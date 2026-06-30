@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7547096848": {
       "id": 7547096848,
@@ -17704,12 +17704,12 @@
     },
     "6580193190": {
       "id": 6580193190,
-      "username": "",
-      "fullName": "",
+      "username": "ADITYA_HACKS",
+      "fullName": "P2077KNG V8.7",
       "points": 0,
       "joinedAt": 1782798376649,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
