@@ -17109,10 +17109,21 @@
     },
     "8714320970": {
       "id": 8714320970,
+      "username": "renaapela",
+      "fullName": "Renaa apelaa",
+      "points": 0,
+      "joinedAt": 1782779438288,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6684788458": {
+      "id": 6684788458,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782779438288,
+      "joinedAt": 1782779581394,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
