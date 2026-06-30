@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7547096848": {
       "id": 7547096848,
@@ -17715,12 +17715,12 @@
     },
     "8558782540": {
       "id": 8558782540,
-      "username": "",
-      "fullName": "",
+      "username": "Darkxvijay",
+      "fullName": "DARK VIJAY",
       "points": 0,
       "joinedAt": 1782798389009,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     },
