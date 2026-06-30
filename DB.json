@@ -17936,9 +17936,20 @@
     "8806015998": {
       "id": 8806015998,
       "username": "",
-      "fullName": "",
+      "fullName": "Daus",
       "points": 0,
       "joinedAt": 1782801816917,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6721515627": {
+      "id": 6721515627,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782802128916,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
