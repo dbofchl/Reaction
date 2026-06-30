@@ -377,12 +377,12 @@
     },
     "1434985215": {
       "id": 1434985215,
-      "username": "",
-      "fullName": "",
+      "username": "NoobieModz",
+      "fullName": "Noobie Modz",
       "points": 0,
       "joinedAt": 1782799881710,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -18389,6 +18389,13 @@
       "price": 15000,
       "orderId": "BP8106028903MQZUOOU0BP8W",
       "createdAt": 1782775807893
+    },
+    "BP1434985215MR091IDWLNPE": {
+      "userId": 1434985215,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP1434985215MR091IDWLNPE",
+      "createdAt": 1782799920670
     }
   },
   "reactCooldownMs": 300000,
