@@ -17274,10 +17274,21 @@
     },
     "7945967788": {
       "id": 7945967788,
+      "username": "Prime_Sarkar",
+      "fullName": "2.0",
+      "points": 0,
+      "joinedAt": 1782784414177,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7382772802": {
+      "id": 7382772802,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782784414177,
+      "joinedAt": 1782784543868,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
