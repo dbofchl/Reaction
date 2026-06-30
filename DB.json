@@ -17617,9 +17617,20 @@
     "8077367600": {
       "id": 8077367600,
       "username": "",
-      "fullName": "",
+      "fullName": "DARK_CONFIG",
       "points": 0,
       "joinedAt": 1782793597758,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5028593563": {
+      "id": 5028593563,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782794206933,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
