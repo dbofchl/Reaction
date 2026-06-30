@@ -17673,12 +17673,12 @@
       "id": 8440915749,
       "username": "mahir_gaming3",
       "fullName": "🗽 Mαԋιɾ - Bԋαι🗽",
-      "points": 2,
+      "points": 3,
       "joinedAt": 1782798015817,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 4
+      "referralCount": 0
     },
     "7547096848": {
       "id": 7547096848,
@@ -17980,12 +17980,12 @@
     "8072555439": {
       "id": 8072555439,
       "username": "",
-      "fullName": "",
+      "fullName": "Sumit Rana Ji",
       "points": 0,
       "joinedAt": 1782802985434,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
