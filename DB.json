@@ -17678,7 +17678,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7547096848": {
       "id": 7547096848,
@@ -17902,13 +17902,13 @@
     },
     "8345386718": {
       "id": 8345386718,
-      "username": "",
-      "fullName": "",
+      "username": "Atulmods1727",
+      "fullName": "⤹⌯ Ꮪ 𝛂 𝛋 𝛖 ꧊᱂ 𝛂 ‹💗𖧊",
       "points": 0,
       "joinedAt": 1782801167656,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
