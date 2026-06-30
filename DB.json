@@ -18089,12 +18089,12 @@
     },
     "7097771046": {
       "id": 7097771046,
-      "username": "",
-      "fullName": "",
+      "username": "RipzNeweraa_1",
+      "fullName": "Ripz New Era (seller)",
       "points": 0,
       "joinedAt": 1782808968415,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -18631,6 +18631,13 @@
       "price": 15000,
       "orderId": "BP8106028903MQZUOOU0BP8W",
       "createdAt": 1782775807893
+    },
+    "BP7097771046MR0EJO6LD4MH": {
+      "userId": 7097771046,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7097771046MR0EJO6LD4MH",
+      "createdAt": 1782809166068
     }
   },
   "reactCooldownMs": 300000,
