@@ -17451,12 +17451,12 @@
     },
     "5903204572": {
       "id": 5903204572,
-      "username": "",
-      "fullName": "",
+      "username": "gw_baba_00",
+      "fullName": "𝗚𝗪 {𝘽𝘼𝘽𝘼}",
       "points": 0,
       "joinedAt": 1782787680486,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -17993,13 +17993,6 @@
       "price": 15000,
       "orderId": "BP8106028903MQZUOOU0BP8W",
       "createdAt": 1782775807893
-    },
-    "BP6449845622MR01R3A8IDD4": {
-      "userId": 6449845622,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6449845622MR01R3A8IDD4",
-      "createdAt": 1782787677128
     }
   },
   "reactCooldownMs": 300000,
