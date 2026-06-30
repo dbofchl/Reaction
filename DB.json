@@ -17825,10 +17825,21 @@
     },
     "7793163898": {
       "id": 7793163898,
+      "username": "Shadowwmod",
+      "fullName": "SHADOW",
+      "points": 0,
+      "joinedAt": 1782799735249,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8258484235": {
+      "id": 8258484235,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782799735249,
+      "joinedAt": 1782799788601,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
