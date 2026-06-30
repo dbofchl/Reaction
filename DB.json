@@ -17252,10 +17252,21 @@
     },
     "7591870386": {
       "id": 7591870386,
+      "username": "babyBadhon",
+      "fullName": "Your Baby🫦",
+      "points": 0,
+      "joinedAt": 1782783587164,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7810336557": {
+      "id": 7810336557,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782783587164,
+      "joinedAt": 1782784344430,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
