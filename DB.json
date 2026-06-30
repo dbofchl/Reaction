@@ -17329,12 +17329,23 @@
     },
     "6741791627": {
       "id": 6741791627,
-      "username": "",
-      "fullName": "",
+      "username": "Anshucc",
+      "fullName": "Anshu",
       "points": 0,
       "joinedAt": 1782786328872,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6588294237": {
+      "id": 6588294237,
+      "username": "Gojoo1111569",
+      "fullName": "🏴‍☠️",
+      "points": 0,
+      "joinedAt": 1782786421515,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
