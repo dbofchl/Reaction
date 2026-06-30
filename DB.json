@@ -18167,10 +18167,21 @@
     },
     "7335782718": {
       "id": 7335782718,
+      "username": "Gaurav45858",
+      "fullName": "Hulu Lulu Hulu",
+      "points": 0,
+      "joinedAt": 1782821421793,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6280566616": {
+      "id": 6280566616,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782821421793,
+      "joinedAt": 1782823410176,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
