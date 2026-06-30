@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7547096848": {
       "id": 7547096848,
@@ -17737,12 +17737,12 @@
     },
     "8505961052": {
       "id": 8505961052,
-      "username": "",
-      "fullName": "",
+      "username": "happybee28",
+      "fullName": "Happy",
       "points": 0,
       "joinedAt": 1782798427014,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
