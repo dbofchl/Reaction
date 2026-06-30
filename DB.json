@@ -110,6 +110,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1126304813": {
+      "id": 1126304813,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782779713071,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1138146528": {
       "id": 1138146528,
       "username": "SHAHABKHATTAK",
@@ -17120,12 +17131,12 @@
     },
     "6684788458": {
       "id": 6684788458,
-      "username": "",
-      "fullName": "",
+      "username": "JIMMYUS6770",
+      "fullName": "J I M M Y😈",
       "points": 0,
       "joinedAt": 1782779581394,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
