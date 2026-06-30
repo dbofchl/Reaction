@@ -1565,7 +1565,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8359149620": {
       "id": 8359149620,
@@ -18278,11 +18278,11 @@
     "6272690011": {
       "id": 6272690011,
       "username": "",
-      "fullName": "",
+      "fullName": "Eduardo Henrique",
       "points": 0,
       "joinedAt": 1782849663211,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     }
