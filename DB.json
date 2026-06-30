@@ -17583,12 +17583,23 @@
     },
     "7203859146": {
       "id": 7203859146,
-      "username": "",
-      "fullName": "",
+      "username": "SUNNY_GUPTA_07",
+      "fullName": "ELITE HACKER OFFICIAL",
       "points": 0,
       "joinedAt": 1782791028831,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8996459186": {
+      "id": 8996459186,
+      "username": "",
+      "fullName": "Tâm",
+      "points": 0,
+      "joinedAt": 1782791710504,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
