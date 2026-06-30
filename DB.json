@@ -18079,9 +18079,20 @@
     "8296826422": {
       "id": 8296826422,
       "username": "",
-      "fullName": "",
+      "fullName": "Fawwaz Fawwaz",
       "points": 0,
       "joinedAt": 1782808945285,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7097771046": {
+      "id": 7097771046,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782808968415,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
