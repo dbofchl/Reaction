@@ -17430,9 +17430,20 @@
     "8776176846": {
       "id": 8776176846,
       "username": "",
-      "fullName": "",
+      "fullName": "deepu",
       "points": 0,
       "joinedAt": 1782787336555,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6449845622": {
+      "id": 6449845622,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782787651374,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
