@@ -18189,10 +18189,21 @@
     },
     "7199891672": {
       "id": 7199891672,
+      "username": "Jeet1518",
+      "fullName": "JEET 🌑🌒🌓🌔🌕🌖🌗🌘",
+      "points": 0,
+      "joinedAt": 1782824403872,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8482286453": {
+      "id": 8482286453,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782824403872,
+      "joinedAt": 1782826729516,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
