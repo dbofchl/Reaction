@@ -17668,6 +17668,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7547096848": {
+      "id": 7547096848,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782798039679,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
