@@ -17678,7 +17678,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8099669046": {
       "id": 8099669046,
@@ -17781,13 +17781,24 @@
     },
     "8160592790": {
       "id": 8160592790,
-      "username": "",
-      "fullName": "",
+      "username": "Aloyan222",
+      "fullName": "Aloyan",
       "points": 0,
       "joinedAt": 1782799525750,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7547096848",
+      "referralCount": 0
+    },
+    "7560726404": {
+      "id": 7560726404,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782799670642,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
