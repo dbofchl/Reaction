@@ -17087,10 +17087,21 @@
     },
     "6386571735": {
       "id": 6386571735,
+      "username": "Rorortol",
+      "fullName": "Bypas rol too",
+      "points": 0,
+      "joinedAt": 1782778722124,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8298350901": {
+      "id": 8298350901,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782778722124,
+      "joinedAt": 1782778945004,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
