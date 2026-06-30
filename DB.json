@@ -17689,7 +17689,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7547096848": {
       "id": 7547096848,
@@ -18024,12 +18024,12 @@
     "7819338670": {
       "id": 7819338670,
       "username": "",
-      "fullName": "",
+      "fullName": "Marian-David Velichi",
       "points": 0,
       "joinedAt": 1782805395658,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
