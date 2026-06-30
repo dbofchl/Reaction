@@ -17678,7 +17678,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7547096848": {
       "id": 7547096848,
@@ -17880,12 +17880,12 @@
     },
     "8318796514": {
       "id": 8318796514,
-      "username": "",
-      "fullName": "",
+      "username": "etheraldigitall",
+      "fullName": "ellz4rht.gof",
       "points": 0,
       "joinedAt": 1782800398158,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
