@@ -17539,10 +17539,21 @@
     },
     "6708868723": {
       "id": 6708868723,
+      "username": "TELL_ME011",
+      "fullName": "Dev",
+      "points": 0,
+      "joinedAt": 1782790191797,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7367099025": {
+      "id": 7367099025,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782790191797,
+      "joinedAt": 1782790821695,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
