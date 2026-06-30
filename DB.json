@@ -17528,10 +17528,21 @@
     },
     "7377352527": {
       "id": 7377352527,
+      "username": "Row_trader",
+      "fullName": "𝐑𝐎𝐖 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄",
+      "points": 0,
+      "joinedAt": 1782789756930,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6708868723": {
+      "id": 6708868723,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782789756930,
+      "joinedAt": 1782790191797,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
