@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7547096848": {
       "id": 7547096848,
@@ -17693,12 +17693,12 @@
     },
     "7093456757": {
       "id": 7093456757,
-      "username": "",
-      "fullName": "",
+      "username": "hoangquocanh09",
+      "fullName": "Ayaka Baouzu",
       "points": 0,
       "joinedAt": 1782798303660,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
