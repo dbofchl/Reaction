@@ -17150,6 +17150,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8476991977": {
+      "id": 8476991977,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782780409714,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
