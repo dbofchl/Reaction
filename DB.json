@@ -160,6 +160,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1192104781": {
+      "id": 1192104781,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782787996483,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1204897385": {
       "id": 1204897385,
       "username": "Mr_loverman86",
@@ -17462,12 +17473,12 @@
     },
     "8460520766": {
       "id": 8460520766,
-      "username": "",
-      "fullName": "",
+      "username": "Abdulla13812",
+      "fullName": "Mohammad Abdulla128",
       "points": 0,
       "joinedAt": 1782787992155,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
