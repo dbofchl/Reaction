@@ -18100,10 +18100,21 @@
     },
     "8588531568": {
       "id": 8588531568,
+      "username": "copilioto",
+      "fullName": "ReeeVIP",
+      "points": 0,
+      "joinedAt": 1782809685327,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7438464375": {
+      "id": 7438464375,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782809685327,
+      "joinedAt": 1782811724300,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
