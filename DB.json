@@ -17507,9 +17507,20 @@
     "8986658577": {
       "id": 8986658577,
       "username": "",
-      "fullName": "",
+      "fullName": "Димаш",
       "points": 0,
       "joinedAt": 1782788910028,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8654761266": {
+      "id": 8654761266,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782789455623,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
