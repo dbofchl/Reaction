@@ -458,6 +458,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1622061181": {
+      "id": 1622061181,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782803012700,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1641973828": {
       "id": 1641973828,
       "username": "Off_FLVVSH",
