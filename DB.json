@@ -18007,7 +18007,7 @@
       "joinedAt": 1782803773745,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
@@ -18543,13 +18543,6 @@
       "price": 15000,
       "orderId": "BP8106028903MQZUOOU0BP8W",
       "createdAt": 1782775807893
-    },
-    "BP1434985215MR091IDWLNPE": {
-      "userId": 1434985215,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP1434985215MR091IDWLNPE",
-      "createdAt": 1782799920670
     }
   },
   "reactCooldownMs": 300000,
