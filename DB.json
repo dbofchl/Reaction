@@ -2546,7 +2546,8 @@
       "points": 0,
       "joinedAt": 1772241070418,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8067791875": {
       "id": 8067791875,
@@ -18133,13 +18134,13 @@
     },
     "7381775613": {
       "id": 7381775613,
-      "username": "",
-      "fullName": "",
+      "username": "mdrofiqul10",
+      "fullName": "RR DADA OFFICIALS",
       "points": 0,
       "joinedAt": 1782812838480,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7149281003",
       "referralCount": 0
     }
   },
