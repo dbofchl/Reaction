@@ -17689,7 +17689,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7547096848": {
       "id": 7547096848,
@@ -18045,12 +18045,12 @@
     },
     "7969077505": {
       "id": 7969077505,
-      "username": "",
-      "fullName": "",
+      "username": "farsi0131",
+      "fullName": "Salman Farsi",
       "points": 0,
       "joinedAt": 1782806976381,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
