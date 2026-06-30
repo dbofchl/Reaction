@@ -17495,10 +17495,21 @@
     },
     "7511578930": {
       "id": 7511578930,
+      "username": "UserzzzX07",
+      "fullName": "Brazzir Kingdom",
+      "points": 0,
+      "joinedAt": 1782788836421,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8986658577": {
+      "id": 8986658577,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782788836421,
+      "joinedAt": 1782788910028,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
