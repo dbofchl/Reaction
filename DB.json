@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7547096848": {
       "id": 7547096848,
@@ -17682,13 +17682,13 @@
     },
     "8099669046": {
       "id": 8099669046,
-      "username": "",
-      "fullName": "",
+      "username": "RAi_7707",
+      "fullName": "夔┋ Ꮋunter 𝗦𝗜𝗥 »",
       "points": 0,
       "joinedAt": 1782798089439,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
