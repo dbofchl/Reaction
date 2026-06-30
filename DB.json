@@ -17362,10 +17362,21 @@
     },
     "6756064586": {
       "id": 6756064586,
+      "username": "ReyzNoDevv",
+      "fullName": "ry",
+      "points": 0,
+      "joinedAt": 1782786711459,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6515766014": {
+      "id": 6515766014,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782786711459,
+      "joinedAt": 1782786831257,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
