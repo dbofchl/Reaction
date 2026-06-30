@@ -16885,7 +16885,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7261347097",
-      "referralCount": 0
+      "referralCount": 1
     },
     "7304311147": {
       "id": 7304311147,
@@ -17098,13 +17098,13 @@
     },
     "8298350901": {
       "id": 8298350901,
-      "username": "",
-      "fullName": "",
+      "username": "Bitz_weh",
+      "fullName": "Tsabit",
       "points": 0,
       "joinedAt": 1782778945004,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7701997471",
       "referralCount": 0
     }
   },
