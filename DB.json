@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7547096848": {
       "id": 7547096848,
@@ -17749,12 +17749,12 @@
     "8838450232": {
       "id": 8838450232,
       "username": "",
-      "fullName": "",
+      "fullName": "FA R ID",
       "points": 0,
       "joinedAt": 1782798915579,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8440915749",
       "referralCount": 0
     }
   },
