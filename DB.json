@@ -8877,7 +8877,7 @@
       "joinedAt": 1782117389758,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "6426208111": {
       "id": 6426208111,
@@ -17396,13 +17396,13 @@
     },
     "8392590367": {
       "id": 8392590367,
-      "username": "",
-      "fullName": "",
+      "username": "M1NXGAMINGVIP1",
+      "fullName": "M1NXGAMINGVIP",
       "points": 0,
       "joinedAt": 1782786891814,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8790402897",
       "referralCount": 0
     }
   },
