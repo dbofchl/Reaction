@@ -18156,12 +18156,12 @@
     },
     "7932027628": {
       "id": 7932027628,
-      "username": "",
-      "fullName": "",
+      "username": "PRIME_DADA",
+      "fullName": "Ꮩ𝙸𝙺𝙰𝚂 Ᏼʜᴀɪ",
       "points": 0,
       "joinedAt": 1782814126994,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -18705,6 +18705,13 @@
       "price": 15000,
       "orderId": "BP7097771046MR0EJO6LD4MH",
       "createdAt": 1782809166068
+    },
+    "BP7932027628MR0HJI5U626E": {
+      "userId": 7932027628,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7932027628MR0HJI5U626E",
+      "createdAt": 1782814197322
     }
   },
   "reactCooldownMs": 300000,
