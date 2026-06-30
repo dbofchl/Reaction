@@ -8876,7 +8876,8 @@
       "points": 0,
       "joinedAt": 1782117389758,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6426208111": {
       "id": 6426208111,
@@ -17384,12 +17385,12 @@
     },
     "7364952245": {
       "id": 7364952245,
-      "username": "",
-      "fullName": "",
+      "username": "Nomanmodz",
+      "fullName": "?",
       "points": 0,
       "joinedAt": 1782786843510,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8790402897",
       "referralCount": 0
     }
