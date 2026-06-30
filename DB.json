@@ -17573,9 +17573,20 @@
     "8696654456": {
       "id": 8696654456,
       "username": "",
-      "fullName": "",
+      "fullName": "sonu sonu Gurjar",
       "points": 0,
       "joinedAt": 1782790990309,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7203859146": {
+      "id": 7203859146,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782791028831,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
