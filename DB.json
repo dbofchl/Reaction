@@ -17562,9 +17562,20 @@
     "7999307189": {
       "id": 7999307189,
       "username": "",
-      "fullName": "",
+      "fullName": "Your's Kadir",
       "points": 0,
       "joinedAt": 1782790943850,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8696654456": {
+      "id": 8696654456,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782790990309,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
