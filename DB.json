@@ -17373,13 +17373,24 @@
     },
     "6515766014": {
       "id": 6515766014,
-      "username": "",
-      "fullName": "",
+      "username": "yuno039",
+      "fullName": "AE YUNO",
       "points": 0,
       "joinedAt": 1782786831257,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "7364952245": {
+      "id": 7364952245,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782786843510,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8790402897",
       "referralCount": 0
     }
   },
