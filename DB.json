@@ -18068,9 +18068,20 @@
     "8347792250": {
       "id": 8347792250,
       "username": "",
-      "fullName": "",
+      "fullName": "Azka Pro",
       "points": 0,
       "joinedAt": 1782808879790,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8296826422": {
+      "id": 8296826422,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782808945285,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
