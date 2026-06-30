@@ -18200,12 +18200,23 @@
     },
     "8482286453": {
       "id": 8482286453,
-      "username": "",
-      "fullName": "",
+      "username": "GARENA_MC",
+      "fullName": "GARENA GAMING",
       "points": 0,
       "joinedAt": 1782826729516,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7492890630": {
+      "id": 7492890630,
+      "username": "naweed978",
+      "fullName": "SUHEL Siddique",
+      "points": 0,
+      "joinedAt": 1782831854201,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
