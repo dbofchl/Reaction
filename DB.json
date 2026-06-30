@@ -2547,7 +2547,7 @@
       "joinedAt": 1772241070418,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8067791875": {
       "id": 8067791875,
@@ -18145,12 +18145,12 @@
     },
     "5115679024": {
       "id": 5115679024,
-      "username": "",
-      "fullName": "",
+      "username": "Labonno500",
+      "fullName": "Labonno 🐈‍⬛🐾🦴 Akter",
       "points": 0,
       "joinedAt": 1782812910291,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7149281003",
       "referralCount": 0
     }
