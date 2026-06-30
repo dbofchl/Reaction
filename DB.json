@@ -17161,6 +17161,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6285611511": {
+      "id": 6285611511,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782780436703,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
