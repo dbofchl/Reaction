@@ -17800,6 +17800,17 @@
       "isNewUser": true,
       "invitedBy": "8440915749",
       "referralCount": 0
+    },
+    "7948274286": {
+      "id": 7948274286,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782799688792,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8440915749",
+      "referralCount": 0
     }
   },
   "admins": [
