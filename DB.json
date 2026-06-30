@@ -17627,10 +17627,21 @@
     },
     "5028593563": {
       "id": 5028593563,
+      "username": "Domusz",
+      "fullName": "難牙 灯侑硫 |Dm$|",
+      "points": 0,
+      "joinedAt": 1782794206933,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6478873528": {
+      "id": 6478873528,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782794206933,
+      "joinedAt": 1782794359262,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
