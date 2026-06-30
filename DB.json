@@ -1565,7 +1565,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -18266,13 +18266,13 @@
     },
     "8497892609": {
       "id": 8497892609,
-      "username": "",
-      "fullName": "",
+      "username": "jekkynewera",
+      "fullName": "JEKKY STORE (resseler allcheat)",
       "points": 0,
       "joinedAt": 1782839233059,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
