@@ -18289,11 +18289,11 @@
     "8734976686": {
       "id": 8734976686,
       "username": "",
-      "fullName": "",
+      "fullName": "™TUHINYY™",
       "points": 0,
       "joinedAt": 1782861677665,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -18844,6 +18844,13 @@
       "price": 15000,
       "orderId": "BP7932027628MR0HJI5U626E",
       "createdAt": 1782814197322
+    },
+    "BP8734976686MR19TVYV2VAQ": {
+      "userId": 8734976686,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8734976686MR19TVYV2VAQ",
+      "createdAt": 1782861714508
     }
   },
   "reactCooldownMs": 300000,
