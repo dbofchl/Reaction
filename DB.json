@@ -17172,6 +17172,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6678901224": {
+      "id": 6678901224,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782780737717,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
