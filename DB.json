@@ -17208,10 +17208,21 @@
     },
     "6510719408": {
       "id": 6510719408,
+      "username": "Maeffexff1",
+      "fullName": "AMAN",
+      "points": 0,
+      "joinedAt": 1782781549373,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6866119421": {
+      "id": 6866119421,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782781549373,
+      "joinedAt": 1782781937584,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
