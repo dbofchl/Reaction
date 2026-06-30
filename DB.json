@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7547096848": {
       "id": 7547096848,
@@ -17815,11 +17815,11 @@
     "8285218552": {
       "id": 8285218552,
       "username": "",
-      "fullName": "",
+      "fullName": "Islombek",
       "points": 0,
       "joinedAt": 1782799694430,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
