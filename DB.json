@@ -17689,7 +17689,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7547096848": {
       "id": 7547096848,
@@ -18013,11 +18013,11 @@
     "6438904049": {
       "id": 6438904049,
       "username": "",
-      "fullName": "",
+      "fullName": "Prince",
       "points": 0,
       "joinedAt": 1782805233755,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
