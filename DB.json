@@ -17175,10 +17175,21 @@
     },
     "6678901224": {
       "id": 6678901224,
+      "username": "AbhiFF95",
+      "fullName": "A B H I",
+      "points": 0,
+      "joinedAt": 1782780737717,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6069679690": {
+      "id": 6069679690,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782780737717,
+      "joinedAt": 1782780760045,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
