@@ -17667,7 +17667,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7547096848": {
       "id": 7547096848,
@@ -17770,13 +17770,24 @@
     },
     "6946313827": {
       "id": 6946313827,
-      "username": "",
-      "fullName": "",
+      "username": "Xulcalung",
+      "fullName": "Gallon s",
       "points": 0,
       "joinedAt": 1782799425620,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
+      "referralCount": 0
+    },
+    "8160592790": {
+      "id": 8160592790,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782799525750,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7547096848",
       "referralCount": 0
     }
   },
