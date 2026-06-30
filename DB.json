@@ -1565,7 +1565,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -18244,13 +18244,13 @@
     },
     "6562682069": {
       "id": 6562682069,
-      "username": "",
-      "fullName": "",
+      "username": "Seiolei",
+      "fullName": "SEIOLEI",
       "points": 0,
       "joinedAt": 1782836043056,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
@@ -18800,6 +18800,13 @@
       "price": 15000,
       "orderId": "BP7932027628MR0HJI5U626E",
       "createdAt": 1782814197322
+    },
+    "BP8193435944MR0VPRMQUBHC": {
+      "userId": 8193435944,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8193435944MR0VPRMQUBHC",
+      "createdAt": 1782838003828
     }
   },
   "reactCooldownMs": 300000,
