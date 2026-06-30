@@ -17678,7 +17678,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7547096848": {
       "id": 7547096848,
@@ -17957,12 +17957,12 @@
     },
     "7866069304": {
       "id": 7866069304,
-      "username": "",
-      "fullName": "",
+      "username": "NEBUAGAMER",
+      "fullName": "Sisupal Saini",
       "points": 0,
       "joinedAt": 1782802481225,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     }
