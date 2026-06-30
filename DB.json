@@ -17678,7 +17678,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7547096848": {
       "id": 7547096848,
@@ -17804,11 +17804,11 @@
     "7560726404": {
       "id": 7560726404,
       "username": "",
-      "fullName": "",
+      "fullName": "Lokesh Suthar",
       "points": 0,
       "joinedAt": 1782799670642,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8440915749",
       "referralCount": 0
     },
