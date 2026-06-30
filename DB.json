@@ -17186,10 +17186,21 @@
     },
     "6069679690": {
       "id": 6069679690,
+      "username": "Zidanzz55",
+      "fullName": "Dan Fg",
+      "points": 0,
+      "joinedAt": 1782780760045,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8715612509": {
+      "id": 8715612509,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782780760045,
+      "joinedAt": 1782780884196,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
