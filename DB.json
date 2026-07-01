@@ -18410,9 +18410,20 @@
     "8712132250": {
       "id": 8712132250,
       "username": "",
-      "fullName": "",
+      "fullName": "Harshu",
       "points": 0,
       "joinedAt": 1782918913825,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6547276447": {
+      "id": 6547276447,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782922804908,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
