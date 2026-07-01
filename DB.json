@@ -18354,12 +18354,23 @@
     },
     "6486564550": {
       "id": 6486564550,
-      "username": "",
-      "fullName": "",
+      "username": "REAJFF",
+      "fullName": "Reaj",
       "points": 0,
       "joinedAt": 1782890644836,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6957002991": {
+      "id": 6957002991,
+      "username": "",
+      "fullName": "3x.ox1",
+      "points": 0,
+      "joinedAt": 1782891759946,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
