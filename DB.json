@@ -18332,10 +18332,21 @@
     },
     "8562050610": {
       "id": 8562050610,
+      "username": "Sabaraja87",
+      "fullName": "Sober",
+      "points": 0,
+      "joinedAt": 1782888597762,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7492000425": {
+      "id": 7492000425,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1782888597762,
+      "joinedAt": 1782890125580,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
