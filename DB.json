@@ -18398,12 +18398,12 @@
     },
     "6083422800": {
       "id": 6083422800,
-      "username": "",
-      "fullName": "",
+      "username": "acs_john",
+      "fullName": "ACS JOHN",
       "points": 0,
       "joinedAt": 1782902699820,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
