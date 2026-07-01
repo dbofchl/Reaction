@@ -18395,6 +18395,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6083422800": {
+      "id": 6083422800,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782902699820,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
