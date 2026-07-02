@@ -18439,6 +18439,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8073305486": {
+      "id": 8073305486,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782959905433,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
