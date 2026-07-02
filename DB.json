@@ -18499,9 +18499,20 @@
     "6510755056": {
       "id": 6510755056,
       "username": "",
-      "fullName": "",
+      "fullName": "ㅤㅤㅤ ㅤ ㅤㅤㅤㅤㅤ",
       "points": 0,
       "joinedAt": 1783001629290,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8866331112": {
+      "id": 8866331112,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783005493072,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
