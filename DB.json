@@ -6453,7 +6453,8 @@
       "points": 0,
       "joinedAt": 1779856449484,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8741942578": {
       "id": 8741942578,
@@ -18453,13 +18454,13 @@
     },
     "7985162291": {
       "id": 7985162291,
-      "username": "",
-      "fullName": "",
+      "username": "Mani_king1",
+      "fullName": "MANI KING 👑",
       "points": 0,
       "joinedAt": 1782980768089,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7686762884",
       "referralCount": 0
     }
   },
