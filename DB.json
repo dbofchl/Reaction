@@ -720,6 +720,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1956470546": {
+      "id": 1956470546,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1782998203127,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1969813015": {
       "id": 1969813015,
       "username": "ARABEMODZ2",
