@@ -18594,6 +18594,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8512230024": {
+      "id": 8512230024,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783105150439,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
