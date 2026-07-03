@@ -18576,9 +18576,20 @@
     "8651316388": {
       "id": 8651316388,
       "username": "",
-      "fullName": "",
+      "fullName": "Shark",
       "points": 0,
       "joinedAt": 1783081252645,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7782501787": {
+      "id": 7782501787,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783092818772,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
