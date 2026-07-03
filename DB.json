@@ -18553,10 +18553,21 @@
     },
     "8031957441": {
       "id": 8031957441,
+      "username": "Louise20079",
+      "fullName": "Louise",
+      "points": 0,
+      "joinedAt": 1783068109420,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5658325898": {
+      "id": 5658325898,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783068109420,
+      "joinedAt": 1783069860987,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
