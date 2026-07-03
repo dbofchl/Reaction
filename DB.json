@@ -18542,10 +18542,21 @@
     },
     "8219059325": {
       "id": 8219059325,
+      "username": "Dimzztyz",
+      "fullName": "dimz17",
+      "points": 0,
+      "joinedAt": 1783066526271,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8031957441": {
+      "id": 8031957441,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783066526271,
+      "joinedAt": 1783068109420,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
