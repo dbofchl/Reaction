@@ -18641,12 +18641,12 @@
     },
     "8570943045": {
       "id": 8570943045,
-      "username": "",
-      "fullName": "",
+      "username": "asntopupAdmin",
+      "fullName": "admin",
       "points": 0,
       "joinedAt": 1783139278235,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
