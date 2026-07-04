@@ -882,6 +882,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2112682105": {
+      "id": 2112682105,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783202489522,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "944825502",
+      "referralCount": 0
+    },
     "2117399466": {
       "id": 2117399466,
       "username": "ubydzs",
