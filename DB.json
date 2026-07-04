@@ -18664,10 +18664,21 @@
     },
     "7710137155": {
       "id": 7710137155,
+      "username": "Botepep5",
+      "fullName": "GARENA BOT🗿",
+      "points": 0,
+      "joinedAt": 1783167494603,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8945831393": {
+      "id": 8945831393,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783167494603,
+      "joinedAt": 1783178080241,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
