@@ -18631,9 +18631,20 @@
     "6441740245": {
       "id": 6441740245,
       "username": "",
-      "fullName": "",
+      "fullName": "Anas Elkerrioui",
       "points": 0,
       "joinedAt": 1783123200704,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8570943045": {
+      "id": 8570943045,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783139278235,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
