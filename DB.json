@@ -3485,7 +3485,8 @@
       "points": 0,
       "joinedAt": 1772611929489,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6077337694": {
       "id": 6077337694,
@@ -18653,12 +18654,12 @@
     "8422628904": {
       "id": 8422628904,
       "username": "",
-      "fullName": "",
+      "fullName": "Azka Azka",
       "points": 0,
       "joinedAt": 1783149309692,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8338882178",
       "referralCount": 0
     }
   },
