@@ -581,6 +581,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1840469716": {
+      "id": 1840469716,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783202423259,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1841692633": {
       "id": 1841692633,
       "username": "Reydua13",
