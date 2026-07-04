@@ -70,7 +70,8 @@
       "points": 0,
       "joinedAt": 1782233225551,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "988038638": {
       "id": 988038638,
@@ -583,13 +584,13 @@
     },
     "1840469716": {
       "id": 1840469716,
-      "username": "",
-      "fullName": "",
+      "username": "Cynupyyy",
+      "fullName": "いつ",
       "points": 0,
       "joinedAt": 1783202423259,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "944825502",
       "referralCount": 0
     },
     "1841692633": {
