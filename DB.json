@@ -18675,12 +18675,12 @@
     },
     "8945831393": {
       "id": 8945831393,
-      "username": "",
-      "fullName": "",
+      "username": "Rithkud",
+      "fullName": "Chhorb Bunnarith",
       "points": 0,
       "joinedAt": 1783178080241,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19238,6 +19238,13 @@
       "price": 150000,
       "orderId": "BP6727911876MR4MSYVPCR2T",
       "createdAt": 1783064901424
+    },
+    "BP8945831393MR6I7CY9XP1D": {
+      "userId": 8945831393,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8945831393MR6I7CY9XP1D",
+      "createdAt": 1783178107146
     }
   },
   "reactCooldownMs": 300000,
