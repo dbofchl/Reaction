@@ -71,7 +71,7 @@
       "joinedAt": 1782233225551,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "988038638": {
       "id": 988038638,
@@ -884,13 +884,13 @@
     },
     "2117399466": {
       "id": 2117399466,
-      "username": "",
-      "fullName": "",
+      "username": "ubydzs",
+      "fullName": "By",
       "points": 0,
       "joinedAt": 1783202473947,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "944825502",
       "referralCount": 0
     },
     "2128022758": {
