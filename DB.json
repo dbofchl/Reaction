@@ -18686,12 +18686,12 @@
     },
     "7771544215": {
       "id": 7771544215,
-      "username": "",
-      "fullName": "",
+      "username": "MSIPRO123",
+      "fullName": "𖥕𝙼𝚄𝚂𝙸 卐 𝐃𖥕𝐌𝐈𝐍𝐈𝐂",
       "points": 0,
       "joinedAt": 1783188329012,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19256,6 +19256,13 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
+    },
+    "BP7771544215MR6OIRKVTZS0": {
+      "userId": 7771544215,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7771544215MR6OIRKVTZS0",
+      "createdAt": 1783188717054
     }
   },
   "reactCooldownMs": 300000,
