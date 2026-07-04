@@ -563,12 +563,12 @@
     },
     "1836733657": {
       "id": 1836733657,
-      "username": "",
-      "fullName": "",
+      "username": "Kraoinasa",
+      "fullName": "VALIMODS",
       "points": 0,
       "joinedAt": 1783190163160,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -18699,7 +18699,7 @@
       "id": 7771544215,
       "username": "MSIPRO123",
       "fullName": "𖥕𝙼𝚄𝚂𝙸 卐 𝐃𖥕𝐌𝐈𝐍𝐈𝐂",
-      "points": 24,
+      "points": 22,
       "joinedAt": 1783188329012,
       "lastDaily": null,
       "isNewUser": false,
@@ -18755,7 +18755,7 @@
     "7774005022": 1779095039324,
     "7164508142": 1781874549867,
     "7968803430": 1782263027365,
-    "7771544215": 1783189919447
+    "7771544215": 1783190609831
   },
   "pendingOrders": {
     "BP1368848281MM4FF94MIOKQ": {
