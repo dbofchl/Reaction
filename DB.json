@@ -71,7 +71,7 @@
       "joinedAt": 1782233225551,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "988038638": {
       "id": 988038638,
@@ -18764,13 +18764,13 @@
     },
     "5830716948": {
       "id": 5830716948,
-      "username": "",
-      "fullName": "",
+      "username": "Nanocih",
+      "fullName": "威布尔·:)",
       "points": 0,
       "joinedAt": 1783202501196,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "944825502",
       "referralCount": 0
     }
   },
