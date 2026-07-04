@@ -882,6 +882,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2117399466": {
+      "id": 2117399466,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783202473947,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2128022758": {
       "id": 2128022758,
       "username": "somebodypleasure96",
