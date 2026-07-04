@@ -71,7 +71,7 @@
       "joinedAt": 1782233225551,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "988038638": {
       "id": 988038638,
@@ -257,12 +257,12 @@
     },
     "1324365764": {
       "id": 1324365764,
-      "username": "",
-      "fullName": "",
+      "username": "xlaaziera",
+      "fullName": "By @NbHooks",
       "points": 0,
       "joinedAt": 1783202460965,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "944825502",
       "referralCount": 0
     },
