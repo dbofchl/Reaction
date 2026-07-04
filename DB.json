@@ -255,6 +255,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1324365764": {
+      "id": 1324365764,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783202460965,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "944825502",
+      "referralCount": 0
+    },
     "1324982322": {
       "id": 1324982322,
       "username": "Andra_Julio",
