@@ -561,6 +561,17 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1836733657": {
+      "id": 1836733657,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783190163160,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1836895663": {
       "id": 1836895663,
       "username": "Shaasnnnn",
