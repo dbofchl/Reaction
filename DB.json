@@ -1632,7 +1632,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -18819,13 +18819,13 @@
     },
     "7113741272": {
       "id": 7113741272,
-      "username": "",
-      "fullName": "",
+      "username": "XENOXFF7",
+      "fullName": "𝗫𝗘𝗡𝗢𝗫•𝗙𝗙 ‹𝟹🍷",
       "points": 0,
       "joinedAt": 1783247901022,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
