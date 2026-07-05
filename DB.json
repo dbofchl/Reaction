@@ -18744,7 +18744,7 @@
       "id": 7771544215,
       "username": "MSIPRO123",
       "fullName": "𖥕𝙼𝚄𝚂𝙸 卐 𝐃𖥕𝐌𝐈𝐍𝐈𝐂",
-      "points": 22,
+      "points": 52,
       "joinedAt": 1783188329012,
       "lastDaily": null,
       "isNewUser": false,
@@ -19412,13 +19412,6 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
-    },
-    "BP7771544215MR7W3XIMO0V5": {
-      "userId": 7771544215,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7771544215MR7W3XIMO0V5",
-      "createdAt": 1783261928329
     }
   },
   "reactCooldownMs": 300000,
