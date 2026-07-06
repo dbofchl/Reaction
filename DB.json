@@ -9277,7 +9277,8 @@
       "points": 0,
       "joinedAt": 1782142694487,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8525844031": {
       "id": 8525844031,
@@ -18863,12 +18864,12 @@
     },
     "8691976400": {
       "id": 8691976400,
-      "username": "",
-      "fullName": "",
+      "username": "Offcial_CoinMarketCap_Service1",
+      "fullName": "CoinMarketCap Support Service 🅂🄲🄰🄼",
       "points": 0,
       "joinedAt": 1783305599259,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7062101060",
       "referralCount": 0
     }
