@@ -19468,13 +19468,6 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
-    },
-    "BP6188436801MRA3DI3W4115": {
-      "userId": 6188436801,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6188436801MRA3DI3W4115",
-      "createdAt": 1783395064497
     }
   },
   "reactCooldownMs": 300000,
