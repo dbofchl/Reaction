@@ -18941,12 +18941,12 @@
     },
     "8786852496": {
       "id": 8786852496,
-      "username": "",
-      "fullName": "",
+      "username": "Pawanhack1",
+      "fullName": "Pawandeepsingh",
       "points": 0,
       "joinedAt": 1783499508906,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19512,6 +19512,13 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
+    },
+    "BP7771544215MRBTPT070QHT": {
+      "userId": 7771544215,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7771544215MRBTPT070QHT",
+      "createdAt": 1783499774336
     }
   },
   "reactCooldownMs": 300000,
