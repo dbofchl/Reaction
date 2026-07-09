@@ -18963,10 +18963,21 @@
     },
     "6470619698": {
       "id": 6470619698,
+      "username": "gamersrepubilic",
+      "fullName": "Jayz Kingcool",
+      "points": 0,
+      "joinedAt": 1783526411348,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7454573346": {
+      "id": 7454573346,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783526411348,
+      "joinedAt": 1783558458529,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
