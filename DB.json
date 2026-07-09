@@ -416,6 +416,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1455415332": {
+      "id": 1455415332,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783620787190,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1499498711": {
       "id": 1499498711,
       "username": "farezii",
