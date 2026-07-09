@@ -18996,12 +18996,12 @@
     },
     "7827762165": {
       "id": 7827762165,
-      "username": "",
-      "fullName": "",
+      "username": "sagar_xx_3",
+      "fullName": "♠️ 𝐒𝐀𝐆𝐀𝐑 𝐗𝐗... ♠️",
       "points": 0,
       "joinedAt": 1783587920910,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19567,6 +19567,13 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
+    },
+    "BP7827762165MRDA8MF0G104": {
+      "userId": 7827762165,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7827762165MRDA8MF0G104",
+      "createdAt": 1783587992371
     }
   },
   "reactCooldownMs": 300000,
