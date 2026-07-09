@@ -7194,7 +7194,7 @@
       "id": 8080978698,
       "username": "WilzXiterzVN",
       "fullName": "WilzXiterz VN",
-      "points": 1,
+      "points": 31,
       "joinedAt": 1782085658501,
       "lastDaily": null,
       "isNewUser": false
@@ -19545,13 +19545,6 @@
       "price": 15000,
       "orderId": "BP8945831393MR6I7CY9XP1D",
       "createdAt": 1783178107146
-    },
-    "BP8080978698MRCZTFA3SIS4": {
-      "userId": 8080978698,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8080978698MRCZTFA3SIS4",
-      "createdAt": 1783570487116
     }
   },
   "reactCooldownMs": 300000,
