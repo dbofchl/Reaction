@@ -19810,6 +19810,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7114009843": {
+      "id": 7114009843,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783688485285,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
