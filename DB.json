@@ -861,12 +861,12 @@
     },
     "2056107797": {
       "id": 2056107797,
-      "username": "",
-      "fullName": "",
+      "username": "Win2ff",
+      "fullName": "Win2FF",
       "points": 0,
       "joinedAt": 1783648942635,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -19144,6 +19144,17 @@
       "fullName": "TORBENO",
       "points": 0,
       "joinedAt": 1783648525823,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7551365660": {
+      "id": 7551365660,
+      "username": "Itachi2367",
+      "fullName": "Te Itachi",
+      "points": 0,
+      "joinedAt": 1783648982873,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
