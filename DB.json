@@ -19460,10 +19460,21 @@
     },
     "8162152374": {
       "id": 8162152374,
+      "username": "Krishnaraj001k",
+      "fullName": "KRISHNA RAJ 001k",
+      "points": 0,
+      "joinedAt": 1783659052803,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7939267512": {
+      "id": 7939267512,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783659052803,
+      "joinedAt": 1783659135569,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
