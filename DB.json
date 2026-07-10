@@ -15096,7 +15096,8 @@
       "points": 0,
       "joinedAt": 1782366688900,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8334079966": {
       "id": 8334079966,
@@ -19305,13 +19306,13 @@
     },
     "7396026149": {
       "id": 7396026149,
-      "username": "",
-      "fullName": "",
+      "username": "Dilovarshozoda1",
+      "fullName": "A",
       "points": 0,
       "joinedAt": 1783656132244,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8916844624",
       "referralCount": 0
     }
   },
