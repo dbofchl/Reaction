@@ -19956,12 +19956,12 @@
     },
     "8302408896": {
       "id": 8302408896,
-      "username": "",
-      "fullName": "",
+      "username": "rahuleditz10p",
+      "fullName": "RAHUL BISWAS",
       "points": 0,
       "joinedAt": 1783703513240,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -20569,6 +20569,13 @@
       "price": 15000,
       "orderId": "BP8530848388MRENEKLEYXPG",
       "createdAt": 1783670571424
+    },
+    "BP8302408896MRF73NJNO9QK": {
+      "userId": 8302408896,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP8302408896MRF73NJNO9QK",
+      "createdAt": 1783703654017
     }
   },
   "reactCooldownMs": 300000,
