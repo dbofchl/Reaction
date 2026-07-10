@@ -192,12 +192,12 @@
     },
     "1216989412": {
       "id": 1216989412,
-      "username": "",
-      "fullName": "",
+      "username": "baraastore4",
+      "fullName": "Bara Store 3",
       "points": 0,
       "joinedAt": 1783647403148,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -19102,6 +19102,17 @@
       "joinedAt": 1783647251451,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8745574438": {
+      "id": 8745574438,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783647474012,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
