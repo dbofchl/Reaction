@@ -19373,9 +19373,20 @@
     "7703682251": {
       "id": 7703682251,
       "username": "",
-      "fullName": "",
+      "fullName": "Alif tanvir",
       "points": 0,
       "joinedAt": 1783657765964,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8224406061": {
+      "id": 8224406061,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783657795761,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
