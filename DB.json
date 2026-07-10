@@ -11818,7 +11818,8 @@
       "points": 0,
       "joinedAt": 1782279491498,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "5302739914": {
       "id": 5302739914,
@@ -19073,13 +19074,24 @@
     },
     "8345146544": {
       "id": 8345146544,
-      "username": "",
-      "fullName": "",
+      "username": "Ndienn12",
+      "fullName": "Ndiennn",
       "points": 0,
       "joinedAt": 1783647244495,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6356159896",
+      "referralCount": 0
+    },
+    "7770042598": {
+      "id": 7770042598,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783647251451,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
