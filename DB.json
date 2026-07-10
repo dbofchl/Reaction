@@ -13630,7 +13630,8 @@
       "points": 0,
       "joinedAt": 1782293327257,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6945934278": {
       "id": 6945934278,
@@ -19691,13 +19692,13 @@
     },
     "8336712269": {
       "id": 8336712269,
-      "username": "",
-      "fullName": "",
+      "username": "Offcial_CoinMarketCap_27",
+      "fullName": "Official CoinMarketCap Official CoinMarketCap",
       "points": 0,
       "joinedAt": 1783673305684,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8388233884",
       "referralCount": 0
     }
   },
