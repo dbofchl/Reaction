@@ -19592,10 +19592,21 @@
     },
     "7689968824": {
       "id": 7689968824,
+      "username": "RyanRyan32",
+      "fullName": "yanzxx",
+      "points": 0,
+      "joinedAt": 1783667052449,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7530681968": {
+      "id": 7530681968,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783667052449,
+      "joinedAt": 1783667694309,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
