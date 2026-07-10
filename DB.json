@@ -586,6 +586,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1811989961": {
+      "id": 1811989961,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783652540292,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1814979400": {
       "id": 1814979400,
       "username": "Devindudishmika",
