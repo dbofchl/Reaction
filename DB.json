@@ -19261,12 +19261,12 @@
     },
     "7175649696": {
       "id": 7175649696,
-      "username": "",
-      "fullName": "",
+      "username": "fffkaran",
+      "fullName": "Shehad VIP OP Pro",
       "points": 0,
       "joinedAt": 1783655587856,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19853,6 +19853,13 @@
       "price": 15000,
       "orderId": "BP7968803430MREEG7RSIDQH",
       "createdAt": 1783655531275
+    },
+    "BP7175649696MREEHYRMPNWX": {
+      "userId": 7175649696,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7175649696MREEHYRMPNWX",
+      "createdAt": 1783655612837
     }
   },
   "reactCooldownMs": 300000,
