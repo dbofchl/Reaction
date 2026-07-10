@@ -19636,12 +19636,23 @@
     },
     "7657356971": {
       "id": 7657356971,
-      "username": "",
-      "fullName": "",
+      "username": "Abhiyadavup73",
+      "fullName": "ABHISHEK YADAV",
       "points": 0,
       "joinedAt": 1783668963551,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6307066216": {
+      "id": 6307066216,
+      "username": "oudzo",
+      "fullName": "don't message",
+      "points": 0,
+      "joinedAt": 1783669257425,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
