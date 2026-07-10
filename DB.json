@@ -190,6 +190,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1216989412": {
+      "id": 1216989412,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783647403148,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1227353344": {
       "id": 1227353344,
       "username": "Nabor0009",
@@ -19086,11 +19097,11 @@
     "7770042598": {
       "id": 7770042598,
       "username": "",
-      "fullName": "",
+      "fullName": "Jisan",
       "points": 0,
       "joinedAt": 1783647251451,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
