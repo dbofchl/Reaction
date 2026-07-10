@@ -19604,9 +19604,20 @@
     "7530681968": {
       "id": 7530681968,
       "username": "",
-      "fullName": "",
+      "fullName": "I'm, SUZA",
       "points": 0,
       "joinedAt": 1783667694309,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7635735698": {
+      "id": 7635735698,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783668462684,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
