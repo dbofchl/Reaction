@@ -19184,12 +19184,12 @@
     },
     "6065217209": {
       "id": 6065217209,
-      "username": "",
-      "fullName": "",
+      "username": "Shiv_74",
+      "fullName": "Shiv YT ?",
       "points": 0,
       "joinedAt": 1783650682663,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19762,6 +19762,13 @@
       "price": 15000,
       "orderId": "BP8589974644MRE9AXK6LR24",
       "createdAt": 1783646886713
+    },
+    "BP6065217209MREBLJ3FDLOJ": {
+      "userId": 6065217209,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6065217209MREBLJ3FDLOJ",
+      "createdAt": 1783650740372
     }
   },
   "reactCooldownMs": 300000,
