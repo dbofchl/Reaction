@@ -19328,10 +19328,21 @@
     },
     "7263875713": {
       "id": 7263875713,
+      "username": "kenzxa21",
+      "fullName": "ytta",
+      "points": 0,
+      "joinedAt": 1783657030599,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6272979385": {
+      "id": 6272979385,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783657030599,
+      "joinedAt": 1783657162420,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
