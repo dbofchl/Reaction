@@ -19107,12 +19107,23 @@
     },
     "8745574438": {
       "id": 8745574438,
-      "username": "",
-      "fullName": "",
+      "username": "Ownerxxt",
+      "fullName": "@RANA",
       "points": 0,
       "joinedAt": 1783647474012,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7785484651": {
+      "id": 7785484651,
+      "username": "Romemvai",
+      "fullName": "Romem Vai",
+      "points": 0,
+      "joinedAt": 1783648033128,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
