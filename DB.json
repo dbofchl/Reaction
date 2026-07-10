@@ -19726,9 +19726,20 @@
     "7777460122": {
       "id": 7777460122,
       "username": "",
-      "fullName": "",
+      "fullName": "???",
       "points": 0,
       "joinedAt": 1783676624924,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6403539200": {
+      "id": 6403539200,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783677516792,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
