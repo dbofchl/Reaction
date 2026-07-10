@@ -19384,9 +19384,20 @@
     "8224406061": {
       "id": 8224406061,
       "username": "",
-      "fullName": "",
+      "fullName": "Ko Ko",
       "points": 0,
       "joinedAt": 1783657795761,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5077652387": {
+      "id": 5077652387,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783657891596,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
