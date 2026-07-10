@@ -19471,10 +19471,21 @@
     },
     "7939267512": {
       "id": 7939267512,
+      "username": "ryooskibidi",
+      "fullName": "ryoo",
+      "points": 0,
+      "joinedAt": 1783659135569,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5350640493": {
+      "id": 5350640493,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783659135569,
+      "joinedAt": 1783659280305,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
