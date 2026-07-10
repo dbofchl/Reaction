@@ -19340,9 +19340,20 @@
     "6272979385": {
       "id": 6272979385,
       "username": "",
-      "fullName": "",
+      "fullName": "Ayushyt Ayushyt",
       "points": 0,
       "joinedAt": 1783657162420,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8696789878": {
+      "id": 8696789878,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783657289448,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
