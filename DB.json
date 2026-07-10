@@ -19614,10 +19614,21 @@
     },
     "7635735698": {
       "id": 7635735698,
+      "username": "Aduh_kangkakangkung",
+      "fullName": "Adit",
+      "points": 0,
+      "joinedAt": 1783668462684,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7816145951": {
+      "id": 7816145951,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783668462684,
+      "joinedAt": 1783668626170,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
