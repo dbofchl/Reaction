@@ -19846,10 +19846,21 @@
     },
     "6427797515": {
       "id": 6427797515,
+      "username": "oflineeiditor",
+      "fullName": "Zero Day",
+      "points": 0,
+      "joinedAt": 1783694136493,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8551474131": {
+      "id": 8551474131,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783694136493,
+      "joinedAt": 1783694414387,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
