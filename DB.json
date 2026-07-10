@@ -19891,9 +19891,20 @@
     "8639202415": {
       "id": 8639202415,
       "username": "",
-      "fullName": "",
+      "fullName": "peler",
       "points": 0,
       "joinedAt": 1783696207296,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6364263051": {
+      "id": 6364263051,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783696482920,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
