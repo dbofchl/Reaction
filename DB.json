@@ -19181,6 +19181,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6065217209": {
+      "id": 6065217209,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783650682663,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
