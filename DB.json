@@ -19302,6 +19302,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7396026149": {
+      "id": 7396026149,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783656132244,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
