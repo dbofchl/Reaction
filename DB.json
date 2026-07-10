@@ -19835,10 +19835,21 @@
     },
     "6373998038": {
       "id": 6373998038,
+      "username": "Raxor_VOX",
+      "fullName": "RaXor VOX ( LIMIT )",
+      "points": 0,
+      "joinedAt": 1783690323969,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6427797515": {
+      "id": 6427797515,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783690323969,
+      "joinedAt": 1783694136493,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
