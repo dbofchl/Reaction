@@ -19581,10 +19581,21 @@
     },
     "7557441129": {
       "id": 7557441129,
+      "username": "ASGOWNER08",
+      "fullName": "𝗔𝗦𝗚 𝗢𝗪𝗡𝗘𝗥",
+      "points": 0,
+      "joinedAt": 1783666958864,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7689968824": {
+      "id": 7689968824,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783666958864,
+      "joinedAt": 1783667052449,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
