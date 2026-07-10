@@ -19876,6 +19876,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8959887765": {
+      "id": 8959887765,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783696053902,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
