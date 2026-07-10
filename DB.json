@@ -19446,6 +19446,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8724734466": {
+      "id": 8724734466,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783658976890,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
