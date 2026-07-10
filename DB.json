@@ -19814,11 +19814,22 @@
     "7114009843": {
       "id": 7114009843,
       "username": "",
-      "fullName": "",
+      "fullName": "Akmal",
       "points": 0,
       "joinedAt": 1783688485285,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7349177316": {
+      "id": 7349177316,
+      "username": "",
+      "fullName": "〲RUDRA || MOJUMDER",
+      "points": 0,
+      "joinedAt": 1783688835549,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
