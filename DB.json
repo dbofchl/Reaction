@@ -859,6 +859,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2056107797": {
+      "id": 2056107797,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783648942635,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2063254182": {
       "id": 2063254182,
       "username": "NOLANDsyxv",
@@ -19129,12 +19140,12 @@
     },
     "8181800595": {
       "id": 8181800595,
-      "username": "",
-      "fullName": "",
+      "username": "H_C6_I",
+      "fullName": "TORBENO",
       "points": 0,
       "joinedAt": 1783648525823,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
