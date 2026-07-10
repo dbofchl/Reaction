@@ -19435,6 +19435,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8076135787": {
+      "id": 8076135787,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783658937116,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
