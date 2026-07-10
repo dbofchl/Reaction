@@ -19362,11 +19362,11 @@
     "7369487407": {
       "id": 7369487407,
       "username": "",
-      "fullName": "",
+      "fullName": "𝐏𝐚𝐧𝐳𝐬𝐗𝐢𝐭𝐞𝐫",
       "points": 0,
       "joinedAt": 1783657383812,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -19953,6 +19953,13 @@
       "price": 15000,
       "orderId": "BP7175649696MREEHYRMPNWX",
       "createdAt": 1783655612837
+    },
+    "BP7968803430MREFQLALLX2I": {
+      "userId": 7968803430,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7968803430MREFQLALLX2I",
+      "createdAt": 1783657694891
     }
   },
   "reactCooldownMs": 300000,
