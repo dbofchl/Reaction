@@ -19549,11 +19549,11 @@
     "8317871073": {
       "id": 8317871073,
       "username": "",
-      "fullName": "",
+      "fullName": "HALOWW MEK",
       "points": 0,
       "joinedAt": 1783662997108,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -20154,6 +20154,13 @@
       "price": 15000,
       "orderId": "BP8532732798MREG4YX9YFRY",
       "createdAt": 1783658365742
+    },
+    "BP8317871073MREIX72XVSRY": {
+      "userId": 8317871073,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8317871073MREIX72XVSRY",
+      "createdAt": 1783663041938
     }
   },
   "reactCooldownMs": 300000,
