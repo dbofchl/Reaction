@@ -19780,10 +19780,21 @@
     },
     "6207053758": {
       "id": 6207053758,
+      "username": "bossayan69",
+      "fullName": "Boss Ayaan",
+      "points": 0,
+      "joinedAt": 1783683149188,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6720539606": {
+      "id": 6720539606,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783683149188,
+      "joinedAt": 1783685500422,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
