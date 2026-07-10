@@ -19051,10 +19051,21 @@
     },
     "7935584323": {
       "id": 7935584323,
+      "username": "ftgaming2",
+      "fullName": "ÁRÄFĀT",
+      "points": 0,
+      "joinedAt": 1783646934469,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7613192256": {
+      "id": 7613192256,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783646934469,
+      "joinedAt": 1783647040910,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
