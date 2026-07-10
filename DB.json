@@ -1832,7 +1832,7 @@
     "8031285841": {
       "id": 8031285841,
       "username": "errorsENC",
-      "fullName": "𝕭𝖑𝖚𝖊 🄼",
+      "fullName": "𝕭𝖑𝖚𝖊",
       "points": 0,
       "joinedAt": 1772194612643,
       "lastDaily": "2026-02-28",
@@ -19173,12 +19173,12 @@
     },
     "8338786922": {
       "id": 8338786922,
-      "username": "",
-      "fullName": "",
+      "username": "Abdullah804ka",
+      "fullName": "Abdullah Khan",
       "points": 0,
       "joinedAt": 1783650334487,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
