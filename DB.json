@@ -19515,10 +19515,21 @@
     },
     "7588210889": {
       "id": 7588210889,
+      "username": "Gopal2134",
+      "fullName": "Gopal",
+      "points": 0,
+      "joinedAt": 1783661772476,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8286003625": {
+      "id": 8286003625,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783661772476,
+      "joinedAt": 1783662134244,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
