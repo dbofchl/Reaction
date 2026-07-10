@@ -19192,6 +19192,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6300854887": {
+      "id": 6300854887,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783651270539,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
