@@ -20078,11 +20078,11 @@
     "8844112895": {
       "id": 8844112895,
       "username": "",
-      "fullName": "",
+      "fullName": "gu aum",
       "points": 0,
       "joinedAt": 1783780155461,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -20697,6 +20697,13 @@
       "price": 50000,
       "orderId": "BP8302408896MRF73NJNO9QK",
       "createdAt": 1783703654017
+    },
+    "BP7261347097MRGIETPW0E29": {
+      "userId": 7261347097,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7261347097MRGIETPW0E29",
+      "createdAt": 1783783117202
     }
   },
   "reactCooldownMs": 300000,
