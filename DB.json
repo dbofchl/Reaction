@@ -20085,6 +20085,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6422409308": {
+      "id": 6422409308,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783797808255,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
