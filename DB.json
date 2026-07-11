@@ -20697,13 +20697,6 @@
       "price": 50000,
       "orderId": "BP8302408896MRF73NJNO9QK",
       "createdAt": 1783703654017
-    },
-    "BP7261347097MRGIETPW0E29": {
-      "userId": 7261347097,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP7261347097MRGIETPW0E29",
-      "createdAt": 1783783117202
     }
   },
   "reactCooldownMs": 300000,
