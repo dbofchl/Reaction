@@ -333,6 +333,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1379844045": {
+      "id": 1379844045,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783730757412,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1381700776": {
       "id": 1381700776,
       "username": "fuck1legal",
@@ -20012,11 +20023,11 @@
     "8608059963": {
       "id": 8608059963,
       "username": "",
-      "fullName": "",
+      "fullName": "LX MANISH",
       "points": 0,
       "joinedAt": 1783728464917,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
