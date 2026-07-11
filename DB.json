@@ -20045,9 +20045,20 @@
     "6978261648": {
       "id": 6978261648,
       "username": "",
-      "fullName": "",
+      "fullName": "Jati Pamungkas",
       "points": 0,
       "joinedAt": 1783738208607,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6933051752": {
+      "id": 6933051752,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783749528280,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
