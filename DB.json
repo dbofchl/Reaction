@@ -20795,12 +20795,12 @@
     },
     "5901455213": {
       "id": 5901455213,
-      "username": "",
-      "fullName": "",
+      "username": "tis_nquyen36",
+      "fullName": "Đat",
       "points": 0,
       "joinedAt": 1783852311735,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21429,6 +21429,13 @@
       "price": 15000,
       "orderId": "BP8827762060MRHL6Z7CC8IB",
       "createdAt": 1783848256000
+    },
+    "BP5901455213MRHNMEIS2ENL": {
+      "userId": 5901455213,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP5901455213MRHNMEIS2ENL",
+      "createdAt": 1783852334977
     }
   },
   "reactCooldownMs": 300000,
