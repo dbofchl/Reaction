@@ -20737,6 +20737,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6647560432": {
+      "id": 6647560432,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783850985286,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
