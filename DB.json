@@ -20100,9 +20100,20 @@
     "8440935747": {
       "id": 8440935747,
       "username": "",
-      "fullName": "",
+      "fullName": "Erik Apta",
       "points": 0,
       "joinedAt": 1783822451752,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6871922791": {
+      "id": 6871922791,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783826363537,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
