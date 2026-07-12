@@ -21396,13 +21396,6 @@
       "price": 15000,
       "orderId": "BP8827762060MRHL6Z7CC8IB",
       "createdAt": 1783848256000
-    },
-    "BP6647560432MRHMV20WFJF1": {
-      "userId": 6647560432,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6647560432MRHMV20WFJF1",
-      "createdAt": 1783851059065
     }
   },
   "reactCooldownMs": 300000,
