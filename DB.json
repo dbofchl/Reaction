@@ -944,6 +944,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2033719106": {
+      "id": 2033719106,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783859677982,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2043313429": {
       "id": 2043313429,
       "username": "libownengine_so",
