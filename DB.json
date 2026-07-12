@@ -20553,11 +20553,11 @@
     "8827762060": {
       "id": 8827762060,
       "username": "",
-      "fullName": "",
+      "fullName": "Pokoknya Ada",
       "points": 0,
       "joinedAt": 1783848173574,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21179,6 +21179,13 @@
       "price": 15000,
       "orderId": "BP8404049638MRHK1MQRVG6M",
       "createdAt": 1783846327008
+    },
+    "BP8827762060MRHL6Z7CC8IB": {
+      "userId": 8827762060,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8827762060MRHL6Z7CC8IB",
+      "createdAt": 1783848256000
     }
   },
   "reactCooldownMs": 300000,
