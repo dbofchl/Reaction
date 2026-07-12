@@ -21059,12 +21059,12 @@
     },
     "5595436792": {
       "id": 5595436792,
-      "username": "",
-      "fullName": "",
+      "username": "arghyafreefire",
+      "fullName": "A Gaming",
       "points": 0,
       "joinedAt": 1783859543117,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21721,6 +21721,13 @@
       "price": 150000,
       "orderId": "BP7777460122MRHPYU48CBGE",
       "createdAt": 1783856274323
+    },
+    "BP5595436792MRHRXMS72YS1": {
+      "userId": 5595436792,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP5595436792MRHRXMS72YS1",
+      "createdAt": 1783859577427
     }
   },
   "reactCooldownMs": 300000,
