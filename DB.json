@@ -124,12 +124,12 @@
     },
     "1136052307": {
       "id": 1136052307,
-      "username": "",
-      "fullName": "",
+      "username": "xfing07",
+      "fullName": "xFING",
       "points": 0,
       "joinedAt": 1783858194169,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
