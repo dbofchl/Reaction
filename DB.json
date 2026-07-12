@@ -20651,10 +20651,21 @@
     },
     "6423207565": {
       "id": 6423207565,
+      "username": "Blue_Defaulter",
+      "fullName": "『 BLUE 』",
+      "points": 0,
+      "joinedAt": 1783849093870,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8719728532": {
+      "id": 8719728532,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783849093870,
+      "joinedAt": 1783849331347,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
