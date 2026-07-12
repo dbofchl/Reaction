@@ -7609,7 +7609,8 @@
       "points": 0,
       "joinedAt": 1782088417345,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6357402004": {
       "id": 6357402004,
@@ -20297,12 +20298,12 @@
     },
     "8845250617": {
       "id": 8845250617,
-      "username": "",
-      "fullName": "",
+      "username": "CandyEpsort",
+      "fullName": "𝐂𝐚𝐧𝐝𝐲 𝐔𝐩𝐫𝐢𝐬𝐞",
       "points": 0,
       "joinedAt": 1783847273161,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6513926862",
       "referralCount": 0
     }
