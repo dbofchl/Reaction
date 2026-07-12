@@ -20165,10 +20165,21 @@
     },
     "7632627542": {
       "id": 7632627542,
+      "username": "Zuyaa23",
+      "fullName": "Zuyaaa",
+      "points": 0,
+      "joinedAt": 1783846964669,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8553407842": {
+      "id": 8553407842,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783846964669,
+      "joinedAt": 1783847019059,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
