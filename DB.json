@@ -20662,10 +20662,21 @@
     },
     "8719728532": {
       "id": 8719728532,
+      "username": "FFIDR3COVER",
+      "fullName": "THE APEX",
+      "points": 0,
+      "joinedAt": 1783849331347,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8482220701": {
+      "id": 8482220701,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783849331347,
+      "joinedAt": 1783849356639,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
