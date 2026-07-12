@@ -20530,10 +20530,21 @@
     },
     "7694842266": {
       "id": 7694842266,
+      "username": "Umar7us",
+      "fullName": "Umar Farooq",
+      "points": 0,
+      "joinedAt": 1783848077618,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7425694362": {
+      "id": 7425694362,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783848077618,
+      "joinedAt": 1783848138530,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
