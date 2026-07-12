@@ -20476,11 +20476,22 @@
     "8708645706": {
       "id": 8708645706,
       "username": "",
-      "fullName": "",
+      "fullName": "tanishk",
       "points": 0,
       "joinedAt": 1783847788609,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8363342738": {
+      "id": 8363342738,
+      "username": "Freefirepanee",
+      "fullName": "✿ ◕‿◕ ᴋɪʟʟᴇʀ ʜᴇʀᴇ •🦈°᭄",
+      "points": 0,
+      "joinedAt": 1783847801864,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
