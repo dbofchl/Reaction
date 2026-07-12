@@ -12528,7 +12528,7 @@
       "joinedAt": 1782281933074,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "6863789823": {
       "id": 6863789823,
@@ -20387,13 +20387,13 @@
     },
     "8489195571": {
       "id": 8489195571,
-      "username": "",
-      "fullName": "",
+      "username": "Divya07c",
+      "fullName": "Divya 🥺💘",
       "points": 0,
       "joinedAt": 1783847378753,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8020269411",
       "referralCount": 0
     }
   },
