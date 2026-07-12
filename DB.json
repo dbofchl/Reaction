@@ -20708,11 +20708,11 @@
     "8628591441": {
       "id": 8628591441,
       "username": "",
-      "fullName": "",
+      "fullName": "David Dike",
       "points": 0,
       "joinedAt": 1783850443312,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
