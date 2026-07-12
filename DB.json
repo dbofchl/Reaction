@@ -122,6 +122,17 @@
       "invitedBy": null,
       "referralCount": 0
     },
+    "1136052307": {
+      "id": 1136052307,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783858194169,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1138146528": {
       "id": 1138146528,
       "username": "SHAHABKHATTAK",
@@ -569,12 +580,12 @@
     },
     "1655854207": {
       "id": 1655854207,
-      "username": "",
-      "fullName": "",
+      "username": "Falazsa",
+      "fullName": "Falaz X6882",
       "points": 0,
       "joinedAt": 1783857889446,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
