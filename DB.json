@@ -20151,6 +20151,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8640865925": {
+      "id": 8640865925,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783846945591,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
