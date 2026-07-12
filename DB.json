@@ -9218,11 +9218,11 @@
       "id": 7715749589,
       "username": "Krishnakumar09mm",
       "fullName": "Kanha Kumar",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1782124823192,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "7498258126": {
       "id": 7498258126,
@@ -20939,11 +20939,11 @@
     "8602988582": {
       "id": 8602988582,
       "username": "",
-      "fullName": "",
+      "fullName": "Namta Devi",
       "points": 0,
       "joinedAt": 1783855545212,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7715749589",
       "referralCount": 0
     }
