@@ -21203,9 +21203,20 @@
     "8591806883": {
       "id": 8591806883,
       "username": "",
-      "fullName": "",
+      "fullName": "Aksh",
       "points": 0,
       "joinedAt": 1783880627506,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8273900995": {
+      "id": 8273900995,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783885369199,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
