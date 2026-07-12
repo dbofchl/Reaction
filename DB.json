@@ -21180,12 +21180,12 @@
     },
     "8018177659": {
       "id": 8018177659,
-      "username": "",
-      "fullName": "",
+      "username": "Fexxcrd",
+      "fullName": "𝐅𝐞𝐱𝐱 🕸️",
       "points": 0,
       "joinedAt": 1783873617396,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21856,6 +21856,13 @@
       "price": 15000,
       "orderId": "BP2135247529MRHSDF20P1JA",
       "createdAt": 1783860313808
+    },
+    "BP7689968824MRI0X3AU2PZF": {
+      "userId": 7689968824,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7689968824MRI0X3AU2PZF",
+      "createdAt": 1783874668683
     }
   },
   "reactCooldownMs": 300000,
