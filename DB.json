@@ -20684,13 +20684,24 @@
     },
     "5971429991": {
       "id": 5971429991,
-      "username": "",
-      "fullName": "",
+      "username": "BucekGobel11",
+      "fullName": "Bucek VanGobel",
       "points": 0,
       "joinedAt": 1783850342746,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8753590976": {
+      "id": 8753590976,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783850407883,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7715749589",
       "referralCount": 0
     }
   },
