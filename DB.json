@@ -20839,10 +20839,21 @@
     },
     "5991299968": {
       "id": 5991299968,
+      "username": "Jonaa_bgaa",
+      "fullName": "Jóña Dèl Réy",
+      "points": 0,
+      "joinedAt": 1783853834754,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8804308887": {
+      "id": 8804308887,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783853834754,
+      "joinedAt": 1783854081572,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
