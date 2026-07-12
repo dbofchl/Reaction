@@ -879,6 +879,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1931287595": {
+      "id": 1931287595,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783900377020,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1932734820": {
       "id": 1932734820,
       "username": "Jamakrut",
