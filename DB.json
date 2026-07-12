@@ -20982,10 +20982,21 @@
     },
     "7220745057": {
       "id": 7220745057,
+      "username": "Users_1264",
+      "fullName": "Nam",
+      "points": 0,
+      "joinedAt": 1783856908797,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6416881577": {
+      "id": 6416881577,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783856908797,
+      "joinedAt": 1783857064836,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
