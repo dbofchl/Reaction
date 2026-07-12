@@ -9211,7 +9211,7 @@
       "joinedAt": 1782124823192,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7498258126": {
       "id": 7498258126,
@@ -20719,12 +20719,12 @@
     "8775075429": {
       "id": 8775075429,
       "username": "",
-      "fullName": "",
+      "fullName": "Vimal Gupta",
       "points": 0,
       "joinedAt": 1783850876888,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7715749589",
       "referralCount": 0
     }
   },
