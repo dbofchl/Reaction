@@ -567,6 +567,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1655854207": {
+      "id": 1655854207,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783857889446,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1663025929": {
       "id": 1663025929,
       "username": "johnathanwick444",
