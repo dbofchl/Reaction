@@ -12524,11 +12524,11 @@
       "id": 8020269411,
       "username": "veoantsoffcial",
       "fullName": "𝗔𝗡𝗧𝗦 𝗧𝗘𝗔𝗠",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1782281933074,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "6863789823": {
       "id": 6863789823,
@@ -20399,11 +20399,11 @@
     "5634747688": {
       "id": 5634747688,
       "username": "",
-      "fullName": "",
+      "fullName": "PYSCO ADM",
       "points": 0,
       "joinedAt": 1783847435787,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8020269411",
       "referralCount": 0
     },
@@ -20416,6 +20416,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "8020269411",
+      "referralCount": 0
+    },
+    "8702801406": {
+      "id": 8702801406,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783847459217,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
