@@ -12528,7 +12528,7 @@
       "joinedAt": 1782281933074,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "6863789823": {
       "id": 6863789823,
@@ -20377,12 +20377,12 @@
     "8757028774": {
       "id": 8757028774,
       "username": "",
-      "fullName": "",
+      "fullName": "𝗩𝗔𝗟𝗜 𝗠𝗢𝗗𝗦",
       "points": 0,
       "joinedAt": 1783847358776,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8020269411",
       "referralCount": 0
     }
   },
