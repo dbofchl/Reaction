@@ -20563,12 +20563,12 @@
     },
     "6933570767": {
       "id": 6933570767,
-      "username": "",
-      "fullName": "",
+      "username": "ffmurad",
+      "fullName": "MURAD",
       "points": 0,
       "joinedAt": 1783848360855,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21197,6 +21197,13 @@
       "price": 15000,
       "orderId": "BP8827762060MRHL6Z7CC8IB",
       "createdAt": 1783848256000
+    },
+    "BP6933570767MRHLASFHEB2X": {
+      "userId": 6933570767,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP6933570767MRHLASFHEB2X",
+      "createdAt": 1783848433971
     }
   },
   "reactCooldownMs": 300000,
