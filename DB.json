@@ -21213,12 +21213,12 @@
     },
     "8273900995": {
       "id": 8273900995,
-      "username": "",
-      "fullName": "",
+      "username": "Kingkhan0183",
+      "fullName": "احسان ☠😇خان",
       "points": 0,
       "joinedAt": 1783885369199,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21896,6 +21896,13 @@
       "price": 50000,
       "orderId": "BP7689968824MRI0X3AU2PZF",
       "createdAt": 1783874668683
+    },
+    "BP8273900995MRI7AYC2IB47": {
+      "userId": 8273900995,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8273900995MRI7AYC2IB47",
+      "createdAt": 1783885393156
     }
   },
   "reactCooldownMs": 300000,
