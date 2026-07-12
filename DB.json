@@ -12528,7 +12528,7 @@
       "joinedAt": 1782281933074,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "6863789823": {
       "id": 6863789823,
@@ -20453,13 +20453,13 @@
     },
     "8753622290": {
       "id": 8753622290,
-      "username": "",
-      "fullName": "",
+      "username": "rajput_harshil",
+      "fullName": "𝙃𝘼𝙍𝙎𝙃𝙄𝙇 𝙅𝘼𝘿𝘼𝙑 🐉",
       "points": 0,
       "joinedAt": 1783847713574,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8020269411",
       "referralCount": 0
     }
   },
