@@ -20883,12 +20883,12 @@
     },
     "6144106770": {
       "id": 6144106770,
-      "username": "",
-      "fullName": "",
+      "username": "rajxhacker",
+      "fullName": "𝗥𝗔𝗝 𝗫 𝗛@𝗖𝗞𝗘𝗥",
       "points": 0,
       "joinedAt": 1783854983761,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21531,6 +21531,13 @@
       "price": 15000,
       "orderId": "BP8822253854MRHOUZ5IC8A2",
       "createdAt": 1783854414731
+    },
+    "BP6144106770MRHP8TLYDJQM": {
+      "userId": 6144106770,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6144106770MRHP8TLYDJQM",
+      "createdAt": 1783855060718
     }
   },
   "reactCooldownMs": 300000,
