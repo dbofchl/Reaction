@@ -261,12 +261,12 @@
     },
     "1298688978": {
       "id": 1298688978,
-      "username": "",
-      "fullName": "",
+      "username": "n3rzx",
+      "fullName": "</> 𝐧!𝐫𝐳",
       "points": 0,
       "joinedAt": 1783853732868,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -20834,6 +20834,17 @@
       "joinedAt": 1783853448211,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5991299968": {
+      "id": 5991299968,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783853834754,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
