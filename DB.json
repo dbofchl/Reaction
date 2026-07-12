@@ -9222,7 +9222,7 @@
       "joinedAt": 1782124823192,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7498258126": {
       "id": 7498258126,
@@ -20917,11 +20917,11 @@
     "8604890575": {
       "id": 8604890575,
       "username": "",
-      "fullName": "",
+      "fullName": "Navi Kumari",
       "points": 0,
       "joinedAt": 1783855500741,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7715749589",
       "referralCount": 0
     }
