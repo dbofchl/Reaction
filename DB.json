@@ -9222,7 +9222,7 @@
       "joinedAt": 1782124823192,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7498258126": {
       "id": 7498258126,
@@ -20928,12 +20928,12 @@
     "8580986858": {
       "id": 8580986858,
       "username": "",
-      "fullName": "",
+      "fullName": "Amit Singh",
       "points": 0,
       "joinedAt": 1783855526816,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7715749589",
       "referralCount": 0
     }
   },
