@@ -20905,13 +20905,24 @@
     },
     "5325800768": {
       "id": 5325800768,
-      "username": "",
-      "fullName": "",
+      "username": "ujangronda2",
+      "fullName": "BENGBONG",
       "points": 0,
       "joinedAt": 1783855184830,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8604890575": {
+      "id": 8604890575,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783855500741,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7715749589",
       "referralCount": 0
     }
   },
