@@ -20862,11 +20862,11 @@
     "8822253854": {
       "id": 8822253854,
       "username": "",
-      "fullName": "",
+      "fullName": "MAFIA ROUNAK 😈😈",
       "points": 0,
       "joinedAt": 1783854360990,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21502,6 +21502,13 @@
       "price": 15000,
       "orderId": "BP5901455213MRHNMEIS2ENL",
       "createdAt": 1783852334977
+    },
+    "BP8822253854MRHOUZ5IC8A2": {
+      "userId": 8822253854,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8822253854MRHOUZ5IC8A2",
+      "createdAt": 1783854414731
     }
   },
   "reactCooldownMs": 300000,
