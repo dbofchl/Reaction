@@ -7621,7 +7621,7 @@
       "joinedAt": 1782088417345,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "6357402004": {
       "id": 6357402004,
@@ -20541,13 +20541,13 @@
     },
     "7425694362": {
       "id": 7425694362,
-      "username": "",
-      "fullName": "",
+      "username": "Shivam_h4xa",
+      "fullName": "SHIVAM MODS",
       "points": 0,
       "joinedAt": 1783848138530,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6513926862",
       "referralCount": 0
     }
   },
