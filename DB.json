@@ -20281,6 +20281,17 @@
       "joinedAt": 1783847265385,
       "lastDaily": null,
       "isNewUser": true,
+      "invitedBy": "6513926862",
+      "referralCount": 0
+    },
+    "7583216488": {
+      "id": 7583216488,
+      "username": "GUDU_BRO",
+      "fullName": "GUDU 🌐",
+      "points": 0,
+      "joinedAt": 1783847267508,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
