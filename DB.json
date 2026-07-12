@@ -12527,7 +12527,8 @@
       "points": 0,
       "joinedAt": 1782281933074,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6863789823": {
       "id": 6863789823,
@@ -20320,13 +20321,13 @@
     },
     "8793150236": {
       "id": 8793150236,
-      "username": "",
-      "fullName": "",
+      "username": "vbaono1",
+      "fullName": "vbao w",
       "points": 0,
       "joinedAt": 1783847312238,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8020269411",
       "referralCount": 0
     }
   },
