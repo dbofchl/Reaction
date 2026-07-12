@@ -20144,11 +20144,11 @@
     "8404049638": {
       "id": 8404049638,
       "username": "",
-      "fullName": "",
+      "fullName": "Erik Choque",
       "points": 0,
       "joinedAt": 1783846305481,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -20763,6 +20763,13 @@
       "price": 15000,
       "orderId": "BP7770042598MRHC6DVW55C1",
       "createdAt": 1783833112178
+    },
+    "BP8404049638MRHK1MQRVG6M": {
+      "userId": 8404049638,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8404049638MRHK1MQRVG6M",
+      "createdAt": 1783846327008
     }
   },
   "reactCooldownMs": 300000,
