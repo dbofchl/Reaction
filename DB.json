@@ -20176,10 +20176,21 @@
     },
     "8553407842": {
       "id": 8553407842,
+      "username": "KLKENZO1",
+      "fullName": "KL KENZO",
+      "points": 0,
+      "joinedAt": 1783847019059,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5419782664": {
+      "id": 5419782664,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783847019059,
+      "joinedAt": 1783847032116,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
