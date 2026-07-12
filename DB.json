@@ -21136,10 +21136,21 @@
     },
     "6068754098": {
       "id": 6068754098,
+      "username": "vuvuvafa",
+      "fullName": "marshal",
+      "points": 0,
+      "joinedAt": 1783867417980,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8079688438": {
+      "id": 8079688438,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783867417980,
+      "joinedAt": 1783867583671,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
