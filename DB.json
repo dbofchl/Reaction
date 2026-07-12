@@ -20770,6 +20770,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8842524119": {
+      "id": 8842524119,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783851748810,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
