@@ -20121,12 +20121,12 @@
     },
     "7535045265": {
       "id": 7535045265,
-      "username": "",
-      "fullName": "",
+      "username": "roleowner",
+      "fullName": "GURITA IBLIS🐙",
       "points": 0,
       "joinedAt": 1783842704821,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
