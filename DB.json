@@ -8617,8 +8617,8 @@
     },
     "6240174610": {
       "id": 6240174610,
-      "username": "RSSHEHABBHAI",
-      "fullName": "@Sieun ✨",
+      "username": "shehabbhai4s",
+      "fullName": "@Sieun ✨ 7445175138",
       "points": 0,
       "joinedAt": 1782107450572,
       "lastDaily": null,
@@ -20160,6 +20160,17 @@
       "joinedAt": 1783846945591,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7632627542": {
+      "id": 7632627542,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783846964669,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
