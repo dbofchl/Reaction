@@ -20329,6 +20329,17 @@
       "isNewUser": false,
       "invitedBy": "8020269411",
       "referralCount": 0
+    },
+    "7436552953": {
+      "id": 7436552953,
+      "username": "ersa_xll",
+      "fullName": "ersa",
+      "points": 0,
+      "joinedAt": 1783847327012,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
