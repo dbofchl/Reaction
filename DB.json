@@ -20961,11 +20961,11 @@
     "6949058321": {
       "id": 6949058321,
       "username": "",
-      "fullName": "",
+      "fullName": "KT 78 🕊️",
       "points": 0,
       "joinedAt": 1783855998494,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21615,6 +21615,13 @@
       "price": 15000,
       "orderId": "BP6144106770MRHP8TLYDJQM",
       "createdAt": 1783855060718
+    },
+    "BP8362078803MRHPURSK86FG": {
+      "userId": 8362078803,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8362078803MRHPURSK86FG",
+      "createdAt": 1783856084745
     }
   },
   "reactCooldownMs": 300000,
