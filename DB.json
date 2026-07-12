@@ -20497,12 +20497,23 @@
     },
     "6473848382": {
       "id": 6473848382,
-      "username": "",
-      "fullName": "",
+      "username": "fareezlego",
+      "fullName": "fareez",
       "points": 0,
       "joinedAt": 1783847817551,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7973391597": {
+      "id": 7973391597,
+      "username": "MOHITtm",
+      "fullName": "𝐌ᴏʜɪᴛ メ 𝐓ᴜᴍᴀɴ",
+      "points": 0,
+      "joinedAt": 1783847894508,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
