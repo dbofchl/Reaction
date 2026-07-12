@@ -20586,9 +20586,20 @@
     "8088276316": {
       "id": 8088276316,
       "username": "",
-      "fullName": "",
+      "fullName": "Cilzx Bodrex",
       "points": 0,
       "joinedAt": 1783848626891,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6803996558": {
+      "id": 6803996558,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783848667476,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
