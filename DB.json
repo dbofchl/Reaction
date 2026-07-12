@@ -21092,12 +21092,23 @@
     },
     "7564157661": {
       "id": 7564157661,
-      "username": "",
-      "fullName": "",
+      "username": "Ckpsho",
+      "fullName": "Chikazo",
       "points": 0,
       "joinedAt": 1783861740762,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6364757015": {
+      "id": 6364757015,
+      "username": "",
+      "fullName": "Ꮍᴀᴅᴀꪜ Ᏼʜᴀɪ",
+      "points": 0,
+      "joinedAt": 1783861838850,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
