@@ -259,6 +259,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1298688978": {
+      "id": 1298688978,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783853732868,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1299560149": {
       "id": 1299560149,
       "username": "RBN_SAUR",
@@ -20817,12 +20828,12 @@
     },
     "8322124428": {
       "id": 8322124428,
-      "username": "",
-      "fullName": "",
+      "username": "Tkpanels_owner",
+      "fullName": "𝙏𝘼𝙈𝙄𝙇𝘼𝙄𝙉𓆪ˣ𝙿𝙰𝙸𝙳.𝙿𝙰𝙽𝙴𝙻_",
       "points": 0,
       "joinedAt": 1783853448211,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
