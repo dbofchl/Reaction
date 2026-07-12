@@ -20265,9 +20265,20 @@
     "8366691404": {
       "id": 8366691404,
       "username": "",
-      "fullName": "",
+      "fullName": "Paldo",
       "points": 0,
       "joinedAt": 1783847259590,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8635320035": {
+      "id": 8635320035,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783847265385,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
