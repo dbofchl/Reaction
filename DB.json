@@ -20640,10 +20640,21 @@
     },
     "8201190759": {
       "id": 8201190759,
+      "username": "Jubyer76",
+      "fullName": "SK VIP",
+      "points": 0,
+      "joinedAt": 1783849071279,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6423207565": {
+      "id": 6423207565,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783849071279,
+      "joinedAt": 1783849093870,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
