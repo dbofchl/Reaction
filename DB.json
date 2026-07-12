@@ -7610,7 +7610,7 @@
       "joinedAt": 1782088417345,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "6357402004": {
       "id": 6357402004,
@@ -20277,12 +20277,12 @@
     },
     "8635320035": {
       "id": 8635320035,
-      "username": "",
-      "fullName": "",
+      "username": "DADY019",
+      "fullName": "AMAN S.F.F",
       "points": 0,
       "joinedAt": 1783847265385,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6513926862",
       "referralCount": 0
     },
