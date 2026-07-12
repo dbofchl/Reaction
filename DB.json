@@ -9210,7 +9210,8 @@
       "points": 0,
       "joinedAt": 1782124823192,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "7498258126": {
       "id": 7498258126,
@@ -20696,11 +20697,11 @@
     "8753590976": {
       "id": 8753590976,
       "username": "",
-      "fullName": "",
+      "fullName": "Mannu Singh",
       "points": 0,
       "joinedAt": 1783850407883,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7715749589",
       "referralCount": 0
     }
