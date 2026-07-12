@@ -614,12 +614,12 @@
     },
     "1763472878": {
       "id": 1763472878,
-      "username": "",
-      "fullName": "",
+      "username": "teqar",
+      "fullName": "⎯!sLyyn¿",
       "points": 0,
       "joinedAt": 1783847737738,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -20471,6 +20471,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "8020269411",
+      "referralCount": 0
+    },
+    "8708645706": {
+      "id": 8708645706,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783847788609,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
