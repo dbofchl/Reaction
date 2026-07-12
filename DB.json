@@ -11916,7 +11916,7 @@
     "8287935007": {
       "id": 8287935007,
       "username": "hannzzx16",
-      "fullName": "hanzz parker",
+      "fullName": "hanzz",
       "points": 0,
       "joinedAt": 1782279372782,
       "lastDaily": null,
@@ -20674,11 +20674,11 @@
     "8482220701": {
       "id": 8482220701,
       "username": "",
-      "fullName": "",
+      "fullName": "Yoooo",
       "points": 0,
       "joinedAt": 1783849356639,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
