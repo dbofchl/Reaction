@@ -22117,13 +22117,6 @@
       "price": 15000,
       "orderId": "BP8273900995MRI7AYC2IB47",
       "createdAt": 1783885393156
-    },
-    "BP8777966744MRJTQLL3SL43": {
-      "userId": 8777966744,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP8777966744MRJTQLL3SL43",
-      "createdAt": 1783983541400
     }
   },
   "reactCooldownMs": 300000,
