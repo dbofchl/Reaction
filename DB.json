@@ -881,12 +881,12 @@
     },
     "1931287595": {
       "id": 1931287595,
-      "username": "",
-      "fullName": "",
+      "username": "Onan_2nd",
+      "fullName": "Onand¹st",
       "points": 0,
       "joinedAt": 1783900377020,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -21230,6 +21230,17 @@
       "joinedAt": 1783885369199,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6553777337": {
+      "id": 6553777337,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783904817058,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
