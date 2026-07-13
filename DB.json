@@ -21379,12 +21379,23 @@
     },
     "7937211461": {
       "id": 7937211461,
-      "username": "",
-      "fullName": "",
+      "username": "P4EXXITS_ADMIN",
+      "fullName": "P4EX XITS",
       "points": 0,
       "joinedAt": 1783948483629,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8538615377": {
+      "id": 8538615377,
+      "username": "Aadi_sell",
+      "fullName": "(≧◡≦) ♡ 𓂀 𝔸𝕒𝕕𝕚𝕥𝕪𝕒(ℙ𝕒𝕟𝕟𝕖𝕝) 𓂀",
+      "points": 0,
+      "joinedAt": 1783956864762,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
