@@ -22018,13 +22018,6 @@
       "price": 15000,
       "orderId": "BP8273900995MRI7AYC2IB47",
       "createdAt": 1783885393156
-    },
-    "BP8420460846MRJ24BCGXECS": {
-      "userId": 8420460846,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8420460846MRJ24BCGXECS",
-      "createdAt": 1783937151522
     }
   },
   "reactCooldownMs": 300000,
