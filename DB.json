@@ -21236,9 +21236,20 @@
     "6553777337": {
       "id": 6553777337,
       "username": "",
-      "fullName": "",
+      "fullName": "Ram Kadel",
       "points": 0,
       "joinedAt": 1783904817058,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8644333922": {
+      "id": 8644333922,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783907361048,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
