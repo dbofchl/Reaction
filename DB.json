@@ -21287,6 +21287,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8344001847": {
+      "id": 8344001847,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783920682869,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
