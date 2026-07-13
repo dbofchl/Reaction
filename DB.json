@@ -21347,9 +21347,20 @@
     "7902668070": {
       "id": 7902668070,
       "username": "",
-      "fullName": "",
+      "fullName": "αɾѵίηδ Ƙɾ",
       "points": 0,
       "joinedAt": 1783938921643,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8570721290": {
+      "id": 8570721290,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783938997847,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
