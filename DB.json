@@ -21269,9 +21269,20 @@
     "8805045636": {
       "id": 8805045636,
       "username": "",
-      "fullName": "",
+      "fullName": "mas Huda Mashuda",
       "points": 0,
       "joinedAt": 1783913100819,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8764998933": {
+      "id": 8764998933,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783916535918,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
