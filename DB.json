@@ -7325,7 +7325,7 @@
       "id": 7164508142,
       "username": "OrderKeyDisiniAja",
       "fullName": "+62 Admin All Game",
-      "points": 14,
+      "points": 12,
       "joinedAt": 1781360510662,
       "lastDaily": null,
       "isNewUser": false
@@ -21412,12 +21412,12 @@
     },
     "7296084384": {
       "id": 7296084384,
-      "username": "",
-      "fullName": "",
+      "username": "a_m_gczvs",
+      "fullName": "Mamun",
       "points": 0,
       "joinedAt": 1783960947819,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -21468,7 +21468,7 @@
     "7105542741": 1773391317766,
     "7468938246": 1774428662014,
     "7774005022": 1779095039324,
-    "7164508142": 1781874549867,
+    "7164508142": 1783965572355,
     "7968803430": 1782263027365,
     "7771544215": 1783828079848
   },
