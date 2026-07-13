@@ -21257,10 +21257,21 @@
     },
     "5915380504": {
       "id": 5915380504,
+      "username": "ciio_magang",
+      "fullName": "ceo magang",
+      "points": 0,
+      "joinedAt": 1783910269989,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8805045636": {
+      "id": 8805045636,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1783910269989,
+      "joinedAt": 1783913100819,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
