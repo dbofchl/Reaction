@@ -10860,7 +10860,8 @@
       "points": 0,
       "joinedAt": 1782242065335,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "6785636038": {
       "id": 6785636038,
@@ -21301,13 +21302,13 @@
     },
     "8321095409": {
       "id": 8321095409,
-      "username": "",
-      "fullName": "",
+      "username": "ANUJ67831",
+      "fullName": "Anuj Sharma",
       "points": 0,
       "joinedAt": 1783925780520,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8619077926",
       "referralCount": 0
     }
   },
