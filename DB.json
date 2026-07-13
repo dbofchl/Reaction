@@ -21402,9 +21402,20 @@
     "8845512560": {
       "id": 8845512560,
       "username": "",
-      "fullName": "",
+      "fullName": "Vshb",
       "points": 0,
       "joinedAt": 1783958158645,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7296084384": {
+      "id": 7296084384,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1783960947819,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
