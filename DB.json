@@ -12618,7 +12618,7 @@
       "joinedAt": 1782281933074,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "6863789823": {
       "id": 6863789823,
@@ -21445,13 +21445,24 @@
     },
     "6228720365": {
       "id": 6228720365,
-      "username": "",
-      "fullName": "",
+      "username": "DEVILRAHUL_OP",
+      "fullName": "꯭😈꯭🅳︎⃞꯭𝗘꯭𝗩𝗜꯭𝗟꯭🆁︎⃞꯭𝗔꯭𝗛꯭𝗨꯭𝗟꯭❍꯭ᴘ꯭ 🚩",
       "points": 0,
       "joinedAt": 1784017892038,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8020269411",
+      "referralCount": 0
+    },
+    "6338914237": {
+      "id": 6338914237,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784030483815,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
