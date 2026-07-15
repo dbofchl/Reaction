@@ -21478,13 +21478,24 @@
     },
     "6457018670": {
       "id": 6457018670,
-      "username": "",
-      "fullName": "",
+      "username": "PANEL_SELL4",
+      "fullName": "PANEL SELLER",
       "points": 0,
       "joinedAt": 1784081954686,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8850645095": {
+      "id": 8850645095,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784104659601,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7940062500",
       "referralCount": 0
     }
   },
