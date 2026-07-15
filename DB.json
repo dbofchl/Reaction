@@ -4339,7 +4339,8 @@
       "points": 0,
       "joinedAt": 1773389251149,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8215081790": {
       "id": 8215081790,
@@ -21490,11 +21491,11 @@
     "8850645095": {
       "id": 8850645095,
       "username": "",
-      "fullName": "",
+      "fullName": "Jaki Llol",
       "points": 0,
       "joinedAt": 1784104659601,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7940062500",
       "referralCount": 0
     }
