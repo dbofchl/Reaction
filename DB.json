@@ -6587,7 +6587,7 @@
       "id": 6442039166,
       "username": "SENNSTORE01",
       "fullName": "SENN STORE",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1779816988196,
       "lastDaily": null,
       "isNewUser": false
@@ -22220,13 +22220,6 @@
       "price": 150000,
       "orderId": "BP8850645095MRLTWD9ZP3ZP",
       "createdAt": 1784104742559
-    },
-    "BP6442039166MRMDNFGPD2JW": {
-      "userId": 6442039166,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6442039166MRMDNFGPD2JW",
-      "createdAt": 1784137917871
     }
   },
   "reactCooldownMs": 300000,
