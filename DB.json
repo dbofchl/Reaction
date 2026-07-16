@@ -21601,11 +21601,11 @@
     "7995652278": {
       "id": 7995652278,
       "username": "",
-      "fullName": "",
+      "fullName": "Panel Selling",
       "points": 0,
       "joinedAt": 1784213312730,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
