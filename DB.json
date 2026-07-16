@@ -21553,6 +21553,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8419136738": {
+      "id": 8419136738,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784170462305,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
