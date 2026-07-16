@@ -453,6 +453,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1424976158": {
+      "id": 1424976158,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784188146949,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1434985215": {
       "id": 1434985215,
       "username": "NoobieModz",
