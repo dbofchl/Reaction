@@ -18940,7 +18940,7 @@
       "id": 7771544215,
       "username": "MSIPRO123",
       "fullName": "MUSIADDON | 𝙳𝙾𝙼𝙸𝙽𝙸ℂ",
-      "points": 14,
+      "points": 44,
       "joinedAt": 1783188329012,
       "lastDaily": null,
       "isNewUser": false,
@@ -22276,13 +22276,6 @@
       "price": 150000,
       "orderId": "BP8850645095MRLTWD9ZP3ZP",
       "createdAt": 1784104742559
-    },
-    "BP7771544215MRN8LQHCLLO2": {
-      "userId": 7771544215,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7771544215MRN8LQHCLLO2",
-      "createdAt": 1784189906736
     }
   },
   "reactCooldownMs": 300000,
