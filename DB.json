@@ -5139,7 +5139,7 @@
     "8206014592": {
       "id": 8206014592,
       "username": "",
-      "fullName": "@Ravi Kumar",
+      "fullName": "@muskank Kumar",
       "points": 0,
       "joinedAt": 1779094294112,
       "lastDaily": null,
@@ -21633,12 +21633,12 @@
     },
     "8762717261": {
       "id": 8762717261,
-      "username": "",
-      "fullName": "",
+      "username": "Arshyan12",
+      "fullName": "Arshiyan",
       "points": 0,
       "joinedAt": 1784306452023,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
