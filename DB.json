@@ -21630,6 +21630,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8762717261": {
+      "id": 8762717261,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784306452023,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
