@@ -21612,9 +21612,20 @@
     "7787477468": {
       "id": 7787477468,
       "username": "",
-      "fullName": "",
+      "fullName": "Panel Saler",
       "points": 0,
       "joinedAt": 1784229897218,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8329448722": {
+      "id": 8329448722,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784249012442,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
