@@ -22327,10 +22327,21 @@
     },
     "7829594447": {
       "id": 7829594447,
+      "username": "ownluck124",
+      "fullName": "Ownluck",
+      "points": 0,
+      "joinedAt": 1784361566673,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6511708557": {
+      "id": 6511708557,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784361566673,
+      "joinedAt": 1784361584985,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
