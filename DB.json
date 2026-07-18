@@ -22901,9 +22901,20 @@
     "8453821843": {
       "id": 8453821843,
       "username": "",
-      "fullName": "",
+      "fullName": "Nabbbb Bababab",
       "points": 0,
       "joinedAt": 1784414467961,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7820155834": {
+      "id": 7820155834,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784418017216,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
