@@ -22460,9 +22460,20 @@
     "7474366070": {
       "id": 7474366070,
       "username": "",
-      "fullName": "",
+      "fullName": "Ezequiel Lopes",
       "points": 0,
       "joinedAt": 1784369067221,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5767213035": {
+      "id": 5767213035,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784370298169,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
