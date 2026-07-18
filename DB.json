@@ -1709,11 +1709,11 @@
       "id": 7617366514,
       "username": "Lucent032",
       "fullName": "LEON",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8312101413": {
       "id": 8312101413,
@@ -22812,12 +22812,12 @@
     },
     "7860084271": {
       "id": 7860084271,
-      "username": "",
-      "fullName": "",
+      "username": "xit1299",
+      "fullName": "WINER VIP",
       "points": 0,
       "joinedAt": 1784388117196,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
