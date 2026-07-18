@@ -21854,9 +21854,20 @@
     "8005562286": {
       "id": 8005562286,
       "username": "",
-      "fullName": "",
+      "fullName": "葭ㅤ4ᴛʜㅤʜᴏᴋᴀɢᴇ",
       "points": 0,
       "joinedAt": 1784343847604,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6771157697": {
+      "id": 6771157697,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784344182053,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
