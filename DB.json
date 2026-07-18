@@ -22834,12 +22834,12 @@
     },
     "7809625377": {
       "id": 7809625377,
-      "username": "",
-      "fullName": "",
+      "username": "LexnnStore",
+      "fullName": "Lexnn",
       "points": 0,
       "joinedAt": 1784391939566,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -23602,6 +23602,13 @@
       "price": 15000,
       "orderId": "BP8007535573MRQBF47ADC9H",
       "createdAt": 1784376035333
+    },
+    "BP7585683671MRQKXQDSDG68": {
+      "userId": 7585683671,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7585683671MRQKXQDSDG68",
+      "createdAt": 1784392020423
     }
   },
   "reactCooldownMs": 300000,
