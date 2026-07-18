@@ -22548,11 +22548,11 @@
     "8007535573": {
       "id": 8007535573,
       "username": "",
-      "fullName": "",
+      "fullName": "Perbanas",
       "points": 0,
       "joinedAt": 1784376000513,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -23308,6 +23308,13 @@
       "price": 15000,
       "orderId": "BP6556791113MRQB7JB2OQRR",
       "createdAt": 1784375681388
+    },
+    "BP8007535573MRQBF47ADC9H": {
+      "userId": 8007535573,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8007535573MRQBF47ADC9H",
+      "createdAt": 1784376035333
     }
   },
   "reactCooldownMs": 300000,
