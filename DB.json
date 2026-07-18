@@ -265,6 +265,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1254235049": {
+      "id": 1254235049,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784380651281,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "6586355044",
+      "referralCount": 0
+    },
     "1255413611": {
       "id": 1255413611,
       "username": "RockyGamerVK",
