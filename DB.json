@@ -22660,12 +22660,12 @@
       "id": 6432036526,
       "username": "ZoroxModzz",
       "fullName": "Zoro X Modz 🍧",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1784380765455,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7617366514",
-      "referralCount": 4
+      "referralCount": 0
     },
     "7757645452": {
       "id": 7757645452,
@@ -22713,13 +22713,13 @@
     },
     "6521750338": {
       "id": 6521750338,
-      "username": "",
-      "fullName": "",
+      "username": "Uzma9948",
+      "fullName": "Uzma️️start️ ️performer",
       "points": 0,
       "joinedAt": 1784381107424,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6432036526",
       "referralCount": 0
     }
   },
