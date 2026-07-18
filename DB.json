@@ -22261,10 +22261,21 @@
     },
     "5402448636": {
       "id": 5402448636,
+      "username": "anonymous09880",
+      "fullName": "anonymous",
+      "points": 0,
+      "joinedAt": 1784359099072,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8261764667": {
+      "id": 8261764667,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784359099072,
+      "joinedAt": 1784359943953,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
