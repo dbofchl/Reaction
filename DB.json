@@ -22063,9 +22063,20 @@
     "8885110893": {
       "id": 8885110893,
       "username": "",
-      "fullName": "",
+      "fullName": "Sami Rawat",
       "points": 0,
       "joinedAt": 1784350690129,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8461705601": {
+      "id": 8461705601,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784351161875,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
