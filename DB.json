@@ -22008,9 +22008,20 @@
     "7546204775": {
       "id": 7546204775,
       "username": "",
-      "fullName": "",
+      "fullName": "DON BHAI",
       "points": 0,
       "joinedAt": 1784347967995,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7712495202": {
+      "id": 7712495202,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784348399179,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
