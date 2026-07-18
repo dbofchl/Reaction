@@ -679,7 +679,7 @@
       "id": 1691199243,
       "username": "yuriontime",
       "fullName": "Yuuri Admin",
-      "points": 5,
+      "points": 205,
       "joinedAt": 1779716976030,
       "lastDaily": null,
       "isNewUser": false
@@ -22857,11 +22857,11 @@
     "8311726633": {
       "id": 8311726633,
       "username": "",
-      "fullName": "",
+      "fullName": "Samer Shaikh",
       "points": 0,
       "joinedAt": 1784395259158,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -23631,13 +23631,6 @@
       "price": 15000,
       "orderId": "BP7585683671MRQKXQDSDG68",
       "createdAt": 1784392020423
-    },
-    "BP1691199243MRQMV0IVXUQ1": {
-      "userId": 1691199243,
-      "points": 200,
-      "price": 100000,
-      "orderId": "BP1691199243MRQMV0IVXUQ1",
-      "createdAt": 1784395252667
     }
   },
   "reactCooldownMs": 300000,
