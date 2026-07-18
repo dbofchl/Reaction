@@ -133,6 +133,17 @@
       "invitedBy": null,
       "referralCount": 0
     },
+    "1133779790": {
+      "id": 1133779790,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784359985391,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
+      "referralCount": 0
+    },
     "1136052307": {
       "id": 1136052307,
       "username": "xfing07",
@@ -22272,12 +22283,12 @@
     },
     "8261764667": {
       "id": 8261764667,
-      "username": "",
-      "fullName": "",
+      "username": "Keysaamanisss",
+      "fullName": "Keysa manis💚",
       "points": 0,
       "joinedAt": 1784359943953,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
