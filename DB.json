@@ -22306,9 +22306,20 @@
     "7273702874": {
       "id": 7273702874,
       "username": "",
-      "fullName": "",
+      "fullName": "『 ⃟🩷⃝⸙ ❳❲𝕽ɘ̄̈𝖉̬'ꭗ❳❲ ⸙⃝🩶⃟ 』 』",
       "points": 0,
       "joinedAt": 1784360964900,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6292419396": {
+      "id": 6292419396,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784361006065,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
