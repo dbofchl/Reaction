@@ -21729,6 +21729,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8364648427": {
+      "id": 8364648427,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784341881049,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
