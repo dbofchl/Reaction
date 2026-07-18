@@ -1669,7 +1669,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8312101413": {
       "id": 8312101413,
@@ -22647,12 +22647,12 @@
     },
     "6432036526": {
       "id": 6432036526,
-      "username": "",
-      "fullName": "",
+      "username": "ZoroxModzz",
+      "fullName": "Zoro X Modz 🍧",
       "points": 0,
       "joinedAt": 1784380765455,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
