@@ -1024,6 +1024,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2055439054": {
+      "id": 2055439054,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784342116949,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2056107797": {
       "id": 2056107797,
       "username": "Win2ff",
