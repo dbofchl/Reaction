@@ -82,6 +82,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "995544044": {
+      "id": 995544044,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784380343037,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1065233865": {
       "id": 1065233865,
       "username": "",
@@ -1646,7 +1657,8 @@
       "points": 0,
       "joinedAt": 1772173462018,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8312101413": {
       "id": 8312101413,
@@ -22602,13 +22614,13 @@
     },
     "6373665498": {
       "id": 6373665498,
-      "username": "",
-      "fullName": "",
+      "username": "jamkarderr",
+      "fullName": "#Gn Shpiazz",
       "points": 0,
       "joinedAt": 1784380292787,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7617366514",
       "referralCount": 0
     }
   },
