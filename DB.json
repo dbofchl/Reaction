@@ -22295,9 +22295,20 @@
     "8878146374": {
       "id": 8878146374,
       "username": "",
-      "fullName": "",
+      "fullName": "Farrel Farrel",
       "points": 0,
       "joinedAt": 1784360960598,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7273702874": {
+      "id": 7273702874,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784360964900,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
