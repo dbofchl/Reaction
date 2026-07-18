@@ -21710,10 +21710,21 @@
     },
     "8135498990": {
       "id": 8135498990,
+      "username": "yantolek",
+      "fullName": "-Ambaaaaaa (𝔰𝔦𝔩𝔢𝔫𝔠𝔢)",
+      "points": 0,
+      "joinedAt": 1784341698622,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7288715583": {
+      "id": 7288715583,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784341698622,
+      "joinedAt": 1784341727206,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
