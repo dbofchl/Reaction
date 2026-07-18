@@ -22415,10 +22415,21 @@
     },
     "6518711577": {
       "id": 6518711577,
+      "username": "Badboy990986",
+      "fullName": "FF",
+      "points": 0,
+      "joinedAt": 1784364672324,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8809542824": {
+      "id": 8809542824,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784364672324,
+      "joinedAt": 1784366577247,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
