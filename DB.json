@@ -22577,6 +22577,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7254870222": {
+      "id": 7254870222,
+      "username": "mojtba_100",
+      "fullName": "𝕄𝕠𝕛𝕥𝕒𝕓𝕒",
+      "points": 0,
+      "joinedAt": 1784379033206,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
