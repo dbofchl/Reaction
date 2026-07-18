@@ -22239,10 +22239,21 @@
     },
     "6745777045": {
       "id": 6745777045,
+      "username": "Akaza_168",
+      "fullName": "𝘼𝙠𝙖𝙯𝙖",
+      "points": 0,
+      "joinedAt": 1784358264707,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6863504033": {
+      "id": 6863504033,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784358264707,
+      "joinedAt": 1784358563046,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
