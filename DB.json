@@ -11015,7 +11015,7 @@
       "joinedAt": 1782247826822,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7268824578": {
       "id": 7268824578,
@@ -22184,12 +22184,12 @@
     },
     "7587963795": {
       "id": 7587963795,
-      "username": "",
-      "fullName": "",
+      "username": "CoinMarketCap_Official_Service9i",
+      "fullName": "𝒂𝒌𝒂𝒓𝒊 × 𝒊𝒏𝒕𝒓𝒆𝒑𝒊𝒅",
       "points": 0,
       "joinedAt": 1784356272778,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6586355044",
       "referralCount": 0
     }
