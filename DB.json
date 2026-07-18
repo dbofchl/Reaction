@@ -22448,10 +22448,21 @@
     },
     "7861640404": {
       "id": 7861640404,
+      "username": "ChikuCheatx",
+      "fullName": "Chiku!",
+      "points": 0,
+      "joinedAt": 1784368325856,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7474366070": {
+      "id": 7474366070,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784368325856,
+      "joinedAt": 1784369067221,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
