@@ -21897,12 +21897,12 @@
     },
     "6490007953": {
       "id": 6490007953,
-      "username": "",
-      "fullName": "",
+      "username": "sumit_developer",
+      "fullName": "sumit developer 👩‍💻",
       "points": 0,
       "joinedAt": 1784344551581,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -22623,6 +22623,13 @@
       "price": 150000,
       "orderId": "BP8946767767MRPS3OJYA93I",
       "createdAt": 1784343589034
+    },
+    "BP6490007953MRPSOLZ1D8IQ": {
+      "userId": 6490007953,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6490007953MRPSOLZ1D8IQ",
+      "createdAt": 1784344565458
     }
   },
   "reactCooldownMs": 300000,
