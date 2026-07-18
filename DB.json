@@ -21644,12 +21644,23 @@
     },
     "6801815412": {
       "id": 6801815412,
-      "username": "",
-      "fullName": "",
+      "username": "imtiaz_zone",
+      "fullName": "⋆𝐈𝐌𝐭𝐢𝐚𝐳 ||👑",
       "points": 0,
       "joinedAt": 1784341024687,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8578386665": {
+      "id": 8578386665,
+      "username": "",
+      "fullName": "Fahim Hasan",
+      "points": 0,
+      "joinedAt": 1784341026083,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
