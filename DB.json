@@ -22350,11 +22350,22 @@
     "7743745944": {
       "id": 7743745944,
       "username": "",
-      "fullName": "",
+      "fullName": "RASHED BHAI !!",
       "points": 0,
       "joinedAt": 1784362125910,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8429119062": {
+      "id": 8429119062,
+      "username": "",
+      "fullName": "Prajwal Kumar",
+      "points": 0,
+      "joinedAt": 1784362242729,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
