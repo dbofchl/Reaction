@@ -21908,12 +21908,12 @@
     },
     "8752872969": {
       "id": 8752872969,
-      "username": "",
-      "fullName": "",
+      "username": "mhwws_shop",
+      "fullName": "MHWWS YT",
       "points": 0,
       "joinedAt": 1784344769902,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -22641,6 +22641,13 @@
       "price": 15000,
       "orderId": "BP6490007953MRPSOLZ1D8IQ",
       "createdAt": 1784344565458
+    },
+    "BP8752872969MRPSUJE6ELKV": {
+      "userId": 8752872969,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8752872969MRPSUJE6ELKV",
+      "createdAt": 1784344842061
     }
   },
   "reactCooldownMs": 300000,
