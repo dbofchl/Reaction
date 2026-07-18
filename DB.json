@@ -22525,12 +22525,12 @@
     },
     "8430188761": {
       "id": 8430188761,
-      "username": "",
-      "fullName": "",
+      "username": "maqa_soft",
+      "fullName": "IShowMaqa",
       "points": 0,
       "joinedAt": 1784375200421,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
