@@ -21821,11 +21821,11 @@
     "8381579349": {
       "id": 8381579349,
       "username": "",
-      "fullName": "",
+      "fullName": "sᴀᴍɪᴍ",
       "points": 0,
       "joinedAt": 1784343110241,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -22532,6 +22532,13 @@
       "price": 15000,
       "orderId": "BP6455697935MRPR8WW6JSNF",
       "createdAt": 1784342153650
+    },
+    "BP8381579349MRPRTT6B90A0": {
+      "userId": 8381579349,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8381579349MRPRTT6B90A0",
+      "createdAt": 1784343128455
     }
   },
   "reactCooldownMs": 300000,
