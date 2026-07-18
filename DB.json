@@ -267,12 +267,12 @@
     },
     "1254235049": {
       "id": 1254235049,
-      "username": "",
-      "fullName": "",
+      "username": "Ceoptlocange",
+      "fullName": "Admin PT.locange T7",
       "points": 0,
       "joinedAt": 1784380651281,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6586355044",
       "referralCount": 0
     },
@@ -11049,7 +11049,7 @@
       "joinedAt": 1782247826822,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7268824578": {
       "id": 7268824578,
