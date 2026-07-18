@@ -111,6 +111,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1124886761": {
+      "id": 1124886761,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784350098417,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1126304813": {
       "id": 1126304813,
       "username": "Ajiproqj",
