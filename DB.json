@@ -85,12 +85,12 @@
     "995544044": {
       "id": 995544044,
       "username": "",
-      "fullName": "",
+      "fullName": "elianzini",
       "points": 0,
       "joinedAt": 1784380343037,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7617366514",
       "referralCount": 0
     },
     "1065233865": {
@@ -1658,7 +1658,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8312101413": {
       "id": 8312101413,
