@@ -36,6 +36,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "673950023": {
+      "id": 673950023,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784380883490,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7617366514",
+      "referralCount": 0
+    },
     "784347755": {
       "id": 784347755,
       "username": "JOSEPHJTK",
