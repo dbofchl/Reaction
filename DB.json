@@ -21986,9 +21986,20 @@
     "6177760279": {
       "id": 6177760279,
       "username": "",
-      "fullName": "",
+      "fullName": "KANHA 🫵",
       "points": 0,
       "joinedAt": 1784346704067,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8473909445": {
+      "id": 8473909445,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784347444197,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
