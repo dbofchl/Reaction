@@ -22911,10 +22911,21 @@
     },
     "7820155834": {
       "id": 7820155834,
+      "username": "boyza888",
+      "fullName": "𝘽𝙤𝙮𝙯𝙖 𝙞𝙤𝙨",
+      "points": 0,
+      "joinedAt": 1784418017216,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7013087775": {
+      "id": 7013087775,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784418017216,
+      "joinedAt": 1784418799243,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
