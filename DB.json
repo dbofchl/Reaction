@@ -22368,6 +22368,28 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7985728143": {
+      "id": 7985728143,
+      "username": "",
+      "fullName": "Black Angel",
+      "points": 0,
+      "joinedAt": 1784362243670,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7461086268": {
+      "id": 7461086268,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784362889021,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
