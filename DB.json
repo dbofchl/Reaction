@@ -11014,7 +11014,8 @@
       "points": 0,
       "joinedAt": 1782247826822,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "7268824578": {
       "id": 7268824578,
@@ -22172,12 +22173,12 @@
     },
     "8791765948": {
       "id": 8791765948,
-      "username": "",
-      "fullName": "",
+      "username": "Official_Monzo_Support_Banking9l",
+      "fullName": "Support Monzo Banking Service",
       "points": 0,
       "joinedAt": 1784356227934,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6586355044",
       "referralCount": 0
     }
