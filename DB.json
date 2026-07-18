@@ -1159,6 +1159,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2098147421": {
+      "id": 2098147421,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784387405317,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2102908949": {
       "id": 2102908949,
       "username": "jsobfuscator",
@@ -22796,7 +22807,7 @@
       "joinedAt": 1784386498631,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7617366514",
       "referralCount": 0
     }
   },
