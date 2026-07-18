@@ -22665,7 +22665,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7617366514",
-      "referralCount": 3
+      "referralCount": 4
     },
     "7757645452": {
       "id": 7757645452,
@@ -22702,12 +22702,12 @@
     },
     "8759589863": {
       "id": 8759589863,
-      "username": "",
-      "fullName": "",
+      "username": "Trusted_ZoroSeller",
+      "fullName": "Zoro Here",
       "points": 0,
       "joinedAt": 1784380987615,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6432036526",
       "referralCount": 0
     }
