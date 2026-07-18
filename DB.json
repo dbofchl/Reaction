@@ -21964,9 +21964,20 @@
     "8627743772": {
       "id": 8627743772,
       "username": "",
-      "fullName": "",
+      "fullName": "Kartik",
       "points": 0,
       "joinedAt": 1784346530176,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8376917776": {
+      "id": 8376917776,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784346586908,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
