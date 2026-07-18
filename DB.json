@@ -22217,10 +22217,21 @@
     },
     "5308828119": {
       "id": 5308828119,
+      "username": "Crushax",
+      "fullName": "CRUSH AX",
+      "points": 0,
+      "joinedAt": 1784357265366,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8178252680": {
+      "id": 8178252680,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784357265366,
+      "joinedAt": 1784357978773,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
