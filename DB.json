@@ -22338,10 +22338,21 @@
     },
     "6511708557": {
       "id": 6511708557,
+      "username": "HWAY_HX",
+      "fullName": "# ADAM",
+      "points": 0,
+      "joinedAt": 1784361584985,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7743745944": {
+      "id": 7743745944,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784361584985,
+      "joinedAt": 1784362125910,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
