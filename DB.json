@@ -21722,11 +21722,11 @@
     "7288715583": {
       "id": 7288715583,
       "username": "",
-      "fullName": "",
+      "fullName": "UNA PERSONA",
       "points": 0,
       "joinedAt": 1784341727206,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -22419,6 +22419,13 @@
       "price": 150000,
       "orderId": "BP8850645095MRLTWD9ZP3ZP",
       "createdAt": 1784104742559
+    },
+    "BP1691199243MRPR2G1WXK32": {
+      "userId": 1691199243,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP1691199243MRPR2G1WXK32",
+      "createdAt": 1784341851785
     }
   },
   "reactCooldownMs": 300000,
