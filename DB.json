@@ -21876,11 +21876,22 @@
     "8075008031": {
       "id": 8075008031,
       "username": "",
-      "fullName": "",
+      "fullName": "⏤͟͟͞͞ 𝐀𝐊𝐀𝐒𝐇 𝐌𝐎𝐃𝐒ㅤᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ",
       "points": 0,
       "joinedAt": 1784344227027,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7626846220": {
+      "id": 7626846220,
+      "username": "Shiv4mh4cks",
+      "fullName": "SHIVAM",
+      "points": 0,
+      "joinedAt": 1784344300409,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
