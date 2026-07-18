@@ -21930,10 +21930,21 @@
     },
     "8647626063": {
       "id": 8647626063,
+      "username": "XaiiIsHere",
+      "fullName": "xaii Akun baru",
+      "points": 0,
+      "joinedAt": 1784345261520,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6616084762": {
+      "id": 6616084762,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784345261520,
+      "joinedAt": 1784345277098,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
