@@ -21850,6 +21850,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8005562286": {
+      "id": 8005562286,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784343847604,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
