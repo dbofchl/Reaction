@@ -1713,7 +1713,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8312101413": {
       "id": 8312101413,
@@ -22889,13 +22889,13 @@
     },
     "5797662420": {
       "id": 5797662420,
-      "username": "",
-      "fullName": "",
+      "username": "sacracorona22",
+      "fullName": "IMMORTALE",
       "points": 0,
       "joinedAt": 1784410544226,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7617366514",
       "referralCount": 0
     }
   },
