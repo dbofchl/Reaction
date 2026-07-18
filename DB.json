@@ -22382,12 +22382,12 @@
     },
     "7461086268": {
       "id": 7461086268,
-      "username": "",
-      "fullName": "",
+      "username": "A1XNSLLX",
+      "fullName": "A1XN 🧧",
       "points": 0,
       "joinedAt": 1784362889021,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -23129,6 +23129,13 @@
       "price": 15000,
       "orderId": "BP1124886761MRPVZXOM6YF2",
       "createdAt": 1784350132599
+    },
+    "BP7461086268MRQ3MHJRKYQB": {
+      "userId": 7461086268,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7461086268MRQ3MHJRKYQB",
+      "createdAt": 1784362942171
     }
   },
   "reactCooldownMs": 300000,
