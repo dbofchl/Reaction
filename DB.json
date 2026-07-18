@@ -22536,10 +22536,21 @@
     },
     "8794415171": {
       "id": 8794415171,
+      "username": "watrscrizy",
+      "fullName": "MARKET WINTRS",
+      "points": 0,
+      "joinedAt": 1784375719646,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8007535573": {
+      "id": 8007535573,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784375719646,
+      "joinedAt": 1784376000513,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
