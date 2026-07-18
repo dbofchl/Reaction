@@ -22558,10 +22558,21 @@
     },
     "7100532159": {
       "id": 7100532159,
+      "username": "LordPeter999",
+      "fullName": "OWNER P.EXC",
+      "points": 0,
+      "joinedAt": 1784378040408,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6538672040": {
+      "id": 6538672040,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784378040408,
+      "joinedAt": 1784378563713,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
