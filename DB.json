@@ -22390,6 +22390,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6128931887": {
+      "id": 6128931887,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784363325616,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
