@@ -22192,6 +22192,28 @@
       "isNewUser": false,
       "invitedBy": "6586355044",
       "referralCount": 0
+    },
+    "7205619028": {
+      "id": 7205619028,
+      "username": "irshadali882679sd",
+      "fullName": "Kaif Bhai",
+      "points": 0,
+      "joinedAt": 1784356280647,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7590657535": {
+      "id": 7590657535,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784357061664,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
