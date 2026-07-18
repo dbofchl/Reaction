@@ -548,6 +548,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1449752093": {
+      "id": 1449752093,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784381385324,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1455415332": {
       "id": 1455415332,
       "username": "yakuri_9",
