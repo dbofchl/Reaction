@@ -613,7 +613,7 @@
       "id": 1691199243,
       "username": "yuriselalu",
       "fullName": "Yuuri Admin",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1779716976030,
       "lastDaily": null,
       "isNewUser": false
@@ -21743,12 +21743,12 @@
     },
     "6583386494": {
       "id": 6583386494,
-      "username": "",
-      "fullName": "",
+      "username": "AK_chaudhary_77",
+      "fullName": "Ashvin Chaudhary",
       "points": 0,
       "joinedAt": 1784341909281,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -22441,13 +22441,6 @@
       "price": 150000,
       "orderId": "BP8850645095MRLTWD9ZP3ZP",
       "createdAt": 1784104742559
-    },
-    "BP1691199243MRPR2G1WXK32": {
-      "userId": 1691199243,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP1691199243MRPR2G1WXK32",
-      "createdAt": 1784341851785
     }
   },
   "reactCooldownMs": 300000,
