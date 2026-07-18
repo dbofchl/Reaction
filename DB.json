@@ -1089,7 +1089,7 @@
       "joinedAt": 1784381983191,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7617366514",
       "referralCount": 0
     },
     "2045667884": {
@@ -22750,6 +22750,17 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1784381152910,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7617366514",
+      "referralCount": 0
+    },
+    "7792438095": {
+      "id": 7792438095,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784382356808,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": "7617366514",
