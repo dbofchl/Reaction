@@ -22048,6 +22048,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8771740693": {
+      "id": 8771740693,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784350279286,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
