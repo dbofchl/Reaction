@@ -22096,9 +22096,20 @@
     "8212990966": {
       "id": 8212990966,
       "username": "",
-      "fullName": "",
+      "fullName": "Abir Islam",
       "points": 0,
       "joinedAt": 1784352490584,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6513041123": {
+      "id": 6513041123,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784354233190,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
