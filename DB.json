@@ -915,7 +915,7 @@
     "1932734820": {
       "id": 1932734820,
       "username": "Jamakrut",
-      "fullName": "Poke",
+      "fullName": "Wong",
       "points": 0,
       "joinedAt": 1779758875145,
       "lastDaily": null,
@@ -21953,11 +21953,11 @@
     "8468065569": {
       "id": 8468065569,
       "username": "",
-      "fullName": "",
+      "fullName": "Shubham Kankarwal",
       "points": 0,
       "joinedAt": 1784345814378,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
