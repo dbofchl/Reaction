@@ -22978,9 +22978,20 @@
     "8393644381": {
       "id": 8393644381,
       "username": "",
-      "fullName": "",
+      "fullName": "Diamond Nigeria",
       "points": 0,
       "joinedAt": 1784444954907,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7264829220": {
+      "id": 7264829220,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784446328979,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
