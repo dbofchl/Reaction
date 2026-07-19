@@ -22988,10 +22988,21 @@
     },
     "7264829220": {
       "id": 7264829220,
+      "username": "riderajj",
+      "fullName": "Free Fire",
+      "points": 0,
+      "joinedAt": 1784446328979,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7634552382": {
+      "id": 7634552382,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784446328979,
+      "joinedAt": 1784451799482,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
