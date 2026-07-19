@@ -1708,7 +1708,7 @@
     "7617366514": {
       "id": 7617366514,
       "username": "Lucent032",
-      "fullName": "LEON",
+      "fullName": "|_€○",
       "points": 1,
       "joinedAt": 1772173462018,
       "lastDaily": null,
@@ -22944,12 +22944,12 @@
     },
     "7285187549": {
       "id": 7285187549,
-      "username": "",
-      "fullName": "",
+      "username": "hexios1",
+      "fullName": "Hex Official",
       "points": 0,
       "joinedAt": 1784420594577,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
