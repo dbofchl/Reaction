@@ -23111,9 +23111,20 @@
     "8762511279": {
       "id": 8762511279,
       "username": "",
-      "fullName": "",
+      "fullName": "Matu Sk",
       "points": 0,
       "joinedAt": 1784472346011,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8376671718": {
+      "id": 8376671718,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784484100296,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
