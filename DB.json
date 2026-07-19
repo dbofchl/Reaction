@@ -1043,6 +1043,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2001524072": {
+      "id": 2001524072,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784427422615,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2033719106": {
       "id": 2033719106,
       "username": "synnzox",
