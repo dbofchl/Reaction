@@ -1724,7 +1724,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8312101413": {
       "id": 8312101413,
@@ -23010,12 +23010,12 @@
     },
     "8713250889": {
       "id": 8713250889,
-      "username": "",
-      "fullName": "",
+      "username": "frillininn",
+      "fullName": "A",
       "points": 0,
       "joinedAt": 1784456060891,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
