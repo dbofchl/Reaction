@@ -23044,9 +23044,20 @@
     "8044527851": {
       "id": 8044527851,
       "username": "",
-      "fullName": "",
+      "fullName": "Ky Op",
       "points": 0,
       "joinedAt": 1784464791060,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7754146089": {
+      "id": 7754146089,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784464816741,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
