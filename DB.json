@@ -23099,10 +23099,21 @@
     },
     "8792887645": {
       "id": 8792887645,
+      "username": "Dyv0d",
+      "fullName": "Bright",
+      "points": 0,
+      "joinedAt": 1784471670339,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8762511279": {
+      "id": 8762511279,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784471670339,
+      "joinedAt": 1784472346011,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
