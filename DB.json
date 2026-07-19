@@ -63,7 +63,8 @@
       "points": 0,
       "joinedAt": 1772242992338,
       "lastDaily": "2026-03-04",
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "923675879": {
       "id": 923675879,
@@ -23087,13 +23088,13 @@
     },
     "8460946106": {
       "id": 8460946106,
-      "username": "",
-      "fullName": "",
+      "username": "Growstarz",
+      "fullName": "Growstar",
       "points": 0,
       "joinedAt": 1784467586544,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "819302344",
       "referralCount": 0
     }
   },
