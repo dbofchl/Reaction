@@ -22819,7 +22819,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7617366514",
-      "referralCount": 0
+      "referralCount": 1
     },
     "6738857600": {
       "id": 6738857600,
@@ -22934,11 +22934,11 @@
     "7621965501": {
       "id": 7621965501,
       "username": "",
-      "fullName": "",
+      "fullName": "Kaiser kd",
       "points": 0,
       "joinedAt": 1784420422880,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7860084271",
       "referralCount": 0
     }
