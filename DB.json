@@ -22830,7 +22830,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7617366514",
-      "referralCount": 1
+      "referralCount": 2
     },
     "6738857600": {
       "id": 6738857600,
@@ -23032,13 +23032,13 @@
     },
     "6809317118": {
       "id": 6809317118,
-      "username": "",
-      "fullName": "",
+      "username": "skizzzo1",
+      "fullName": "Skizzzo Skizzzo",
       "points": 0,
       "joinedAt": 1784464103921,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7860084271",
       "referralCount": 0
     }
   },
