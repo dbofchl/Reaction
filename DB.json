@@ -408,7 +408,7 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988945,
+      "points": 99988940,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -23122,11 +23122,22 @@
     "8376671718": {
       "id": 8376671718,
       "username": "",
-      "fullName": "",
+      "fullName": "Nikhil Rajpoot",
       "points": 0,
       "joinedAt": 1784484100296,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5206128747": {
+      "id": 5206128747,
+      "username": "na_sinclair",
+      "fullName": "RENZ XXITER",
+      "points": 0,
+      "joinedAt": 1784509023826,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
