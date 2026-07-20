@@ -1721,11 +1721,11 @@
       "id": 7617366514,
       "username": "Lucent032",
       "fullName": "|_€○",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8312101413": {
       "id": 8312101413,
@@ -23143,12 +23143,12 @@
     },
     "8686929132": {
       "id": 8686929132,
-      "username": "",
-      "fullName": "",
+      "username": "olcjani11",
+      "fullName": "Olcjani",
       "points": 0,
       "joinedAt": 1784534891075,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
