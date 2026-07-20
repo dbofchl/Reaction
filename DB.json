@@ -19570,7 +19570,7 @@
       "id": 8677011932,
       "username": "Kjsstore_own",
       "fullName": "𝙆𝙅𝙎 𝙑𝙖𝙣𝙜𝙪𝙖𝙧𝙙|〄",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1783656093601,
       "lastDaily": null,
       "isNewUser": false,
@@ -23952,13 +23952,6 @@
       "price": 15000,
       "orderId": "BP7585683671MRQKXQDSDG68",
       "createdAt": 1784392020423
-    },
-    "BP8677011932MRT8JFC29VTB": {
-      "userId": 8677011932,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8677011932MRT8JFC29VTB",
-      "createdAt": 1784552596001
     }
   },
   "reactCooldownMs": 300000,
