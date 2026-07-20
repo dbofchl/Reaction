@@ -23151,6 +23151,17 @@
       "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
+    },
+    "8569764212": {
+      "id": 8569764212,
+      "username": "picomodz",
+      "fullName": "Pico </>",
+      "points": 0,
+      "joinedAt": 1784541098560,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
