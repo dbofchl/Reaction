@@ -23265,9 +23265,20 @@
     "8030983302": {
       "id": 8030983302,
       "username": "",
-      "fullName": "",
+      "fullName": "Exbal",
       "points": 0,
       "joinedAt": 1784631134095,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6414808715": {
+      "id": 6414808715,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784642395289,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
