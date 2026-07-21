@@ -136,12 +136,12 @@
     },
     "1115702451": {
       "id": 1115702451,
-      "username": "",
-      "fullName": "",
+      "username": "Qojeneem",
+      "fullName": "St Raja",
       "points": 0,
       "joinedAt": 1784622562777,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -23259,6 +23259,17 @@
       "joinedAt": 1784622318787,
       "lastDaily": null,
       "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8030983302": {
+      "id": 8030983302,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784631134095,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
