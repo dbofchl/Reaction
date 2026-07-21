@@ -1736,7 +1736,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8312101413": {
       "id": 8312101413,
@@ -23341,12 +23341,12 @@
     },
     "7205240178": {
       "id": 7205240178,
-      "username": "",
-      "fullName": "",
+      "username": "Ilpadrinodicasa",
+      "fullName": "Il Godfather",
       "points": 0,
       "joinedAt": 1784677342296,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
