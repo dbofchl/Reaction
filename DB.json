@@ -23275,13 +23275,24 @@
     },
     "6414808715": {
       "id": 6414808715,
-      "username": "",
-      "fullName": "",
+      "username": "mohitcheatsofc",
+      "fullName": "𝐌𝐎𝐇𝐈𝐓 𝐂𝐇𝐄𝐀𝐓𝐒",
       "points": 0,
       "joinedAt": 1784642395289,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8181051250": {
+      "id": 8181051250,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784642442827,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "6414808715",
       "referralCount": 0
     }
   },
