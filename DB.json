@@ -23282,16 +23282,16 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8181051250": {
       "id": 8181051250,
       "username": "",
-      "fullName": "",
+      "fullName": "Hello",
       "points": 0,
       "joinedAt": 1784642442827,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6414808715",
       "referralCount": 0
     }
