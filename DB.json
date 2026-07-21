@@ -23282,7 +23282,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8181051250": {
       "id": 8181051250,
@@ -23297,13 +23297,13 @@
     },
     "7638846424": {
       "id": 7638846424,
-      "username": "",
-      "fullName": "",
+      "username": "c4rder_here",
+      "fullName": "𝐂𝐀𝐑𝐃𝐄𝐑 !!",
       "points": 0,
       "joinedAt": 1784642483679,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6414808715",
       "referralCount": 0
     }
   },
