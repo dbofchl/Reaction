@@ -23232,11 +23232,11 @@
     "8584099258": {
       "id": 8584099258,
       "username": "",
-      "fullName": "",
+      "fullName": "Hari Kumar",
       "points": 0,
       "joinedAt": 1784615232964,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -24007,6 +24007,13 @@
       "price": 15000,
       "orderId": "BP7585683671MRQKXQDSDG68",
       "createdAt": 1784392020423
+    },
+    "BP8584099258MRU9V73FXLRW": {
+      "userId": 8584099258,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8584099258MRU9V73FXLRW",
+      "createdAt": 1784615291046
     }
   },
   "reactCooldownMs": 300000,
