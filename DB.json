@@ -22842,7 +22842,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7617366514",
-      "referralCount": 2
+      "referralCount": 3
     },
     "6738857600": {
       "id": 6738857600,
@@ -23309,12 +23309,23 @@
     "8728109891": {
       "id": 8728109891,
       "username": "",
-      "fullName": "",
+      "fullName": "Stivigango",
       "points": 0,
       "joinedAt": 1784649044443,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7860084271",
+      "referralCount": 0
+    },
+    "8720937621": {
+      "id": 8720937621,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784665682510,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7617366514",
       "referralCount": 0
     }
   },
