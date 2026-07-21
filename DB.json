@@ -1736,7 +1736,7 @@
       "joinedAt": 1772173462018,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8312101413": {
       "id": 8312101413,
@@ -23319,12 +23319,12 @@
     },
     "8720937621": {
       "id": 8720937621,
-      "username": "",
-      "fullName": "",
+      "username": "davxxddefj90",
+      "fullName": "Dabx Aguirre",
       "points": 0,
       "joinedAt": 1784665682510,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7617366514",
       "referralCount": 0
     }
