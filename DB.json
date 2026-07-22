@@ -23354,12 +23354,12 @@
       "id": 6154633749,
       "username": "hemalhasan12",
       "fullName": "Гемал ( Hemal )",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1784696132969,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8053445007": {
       "id": 8053445007,
@@ -23407,13 +23407,13 @@
     },
     "5616813802": {
       "id": 5616813802,
-      "username": "",
-      "fullName": "",
+      "username": "hmahamudul438",
+      "fullName": "Md Mahamudul Hasan Maruf🍅🌱SEED🐾| Drops💧",
       "points": 0,
       "joinedAt": 1784697258797,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6154633749",
       "referralCount": 0
     }
   },
