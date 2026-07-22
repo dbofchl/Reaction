@@ -23359,17 +23359,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8053445007": {
       "id": 8053445007,
-      "username": "",
-      "fullName": "",
+      "username": "hemalhasancourse",
+      "fullName": "Hasan",
       "points": 0,
       "joinedAt": 1784696672802,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6154633749",
       "referralCount": 0
     }
   },
