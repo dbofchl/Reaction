@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8053445007": {
       "id": 8053445007,
@@ -23429,12 +23429,12 @@
     },
     "7530044270": {
       "id": 7530044270,
-      "username": "",
-      "fullName": "",
+      "username": "Armanhasan6",
+      "fullName": "Arman 1",
       "points": 0,
       "joinedAt": 1784697295570,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6154633749",
       "referralCount": 0
     }
