@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8053445007": {
       "id": 8053445007,
@@ -23396,12 +23396,12 @@
     },
     "6975996364": {
       "id": 6975996364,
-      "username": "",
-      "fullName": "",
+      "username": "pastandfurl0us",
+      "fullName": "Fast | Drops💧",
       "points": 0,
       "joinedAt": 1784697206237,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6154633749",
       "referralCount": 0
     }
