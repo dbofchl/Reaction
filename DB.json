@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8053445007": {
       "id": 8053445007,
@@ -23418,12 +23418,12 @@
     },
     "7100158166": {
       "id": 7100158166,
-      "username": "",
-      "fullName": "",
+      "username": "Monnafi",
+      "fullName": "Md Monnaf",
       "points": 0,
       "joinedAt": 1784697274487,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6154633749",
       "referralCount": 0
     }
