@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "8053445007": {
       "id": 8053445007,
@@ -23451,13 +23451,13 @@
     },
     "7387956962": {
       "id": 7387956962,
-      "username": "",
-      "fullName": "",
+      "username": "Botikbari",
+      "fullName": "Bari",
       "points": 0,
       "joinedAt": 1784697332626,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6154633749",
       "referralCount": 0
     }
   },
