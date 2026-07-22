@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8053445007": {
       "id": 8053445007,
@@ -23374,13 +23374,13 @@
     },
     "7387050595": {
       "id": 7387050595,
-      "username": "",
-      "fullName": "",
+      "username": "Hgxsvan",
+      "fullName": "Hgx",
       "points": 0,
       "joinedAt": 1784696725990,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6154633749",
       "referralCount": 0
     }
   },
