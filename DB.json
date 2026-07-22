@@ -23354,12 +23354,12 @@
       "id": 6154633749,
       "username": "hemalhasan12",
       "fullName": "Гемал ( Hemal )",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1784696132969,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8053445007": {
       "id": 8053445007,
@@ -23462,12 +23462,12 @@
     },
     "6478602845": {
       "id": 6478602845,
-      "username": "",
-      "fullName": "",
+      "username": "Sobujba",
+      "fullName": "Sobuj Babu",
       "points": 0,
       "joinedAt": 1784697388441,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6154633749",
       "referralCount": 0
     }
