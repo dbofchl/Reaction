@@ -23359,7 +23359,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8053445007": {
       "id": 8053445007,
@@ -23440,12 +23440,12 @@
     },
     "7458924774": {
       "id": 7458924774,
-      "username": "",
-      "fullName": "",
+      "username": "Ahedisalam1",
+      "fullName": "Ahad Hasan🐈‍⬛🐈‍⬛🐈‍⬛",
       "points": 0,
       "joinedAt": 1784697317007,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "6154633749",
       "referralCount": 0
     }
