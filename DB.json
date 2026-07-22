@@ -23517,12 +23517,12 @@
     },
     "6463521599": {
       "id": 6463521599,
-      "username": "",
-      "fullName": "",
+      "username": "LEVIATAN_SALLER",
+      "fullName": "LEVIATAN SALLER",
       "points": 0,
       "joinedAt": 1784746356729,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
