@@ -23484,10 +23484,21 @@
     },
     "7910497628": {
       "id": 7910497628,
+      "username": "Dimssptra12",
+      "fullName": "Dimas Saputra",
+      "points": 0,
+      "joinedAt": 1784729731360,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8960968034": {
+      "id": 8960968034,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784729731360,
+      "joinedAt": 1784730030230,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
