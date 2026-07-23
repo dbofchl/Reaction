@@ -19592,7 +19592,7 @@
       "id": 8677011932,
       "username": "Kjsstore_own",
       "fullName": "𝙆𝙅𝙎 𝙑𝙖𝙣𝙜𝙪𝙖𝙧𝙙|〄",
-      "points": 92,
+      "points": 90,
       "joinedAt": 1783656093601,
       "lastDaily": null,
       "isNewUser": false,
@@ -23793,11 +23793,11 @@
     "8086225977": {
       "id": 8086225977,
       "username": "",
-      "fullName": "",
+      "fullName": "Adrian",
       "points": 0,
       "joinedAt": 1784779676801,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -23853,7 +23853,7 @@
     "7771544215": 1784187225965,
     "6442039166": 1784193323794,
     "7617366514": 1784535063225,
-    "8677011932": 1784778063123
+    "8677011932": 1784780260885
   },
   "pendingOrders": {
     "BP1368848281MM4FF94MIOKQ": {
