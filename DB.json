@@ -36,6 +36,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "671942443": {
+      "id": 671942443,
+      "username": "NOWE224",
+      "fullName": "NOWE224",
+      "points": 0,
+      "joinedAt": 1784769982027,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "673950023": {
       "id": 673950023,
       "username": "",
@@ -23605,12 +23616,12 @@
     },
     "7541507212": {
       "id": 7541507212,
-      "username": "",
-      "fullName": "",
+      "username": "REVIR_7777",
+      "fullName": "⁂ RIVER⁷▼",
       "points": 0,
       "joinedAt": 1784769907150,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
