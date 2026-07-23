@@ -23638,10 +23638,21 @@
     },
     "6820790140": {
       "id": 6820790140,
+      "username": "S88908",
+      "fullName": "Santo",
+      "points": 0,
+      "joinedAt": 1784770762591,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5460637652": {
+      "id": 5460637652,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784770762591,
+      "joinedAt": 1784770852015,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
