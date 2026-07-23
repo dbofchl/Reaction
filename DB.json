@@ -23842,10 +23842,21 @@
     },
     "7237770564": {
       "id": 7237770564,
+      "username": "blue_444p20",
+      "fullName": "BLUE 444 P20 🌸",
+      "points": 0,
+      "joinedAt": 1784784922690,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7103462621": {
+      "id": 7103462621,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784784922690,
+      "joinedAt": 1784786636852,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
