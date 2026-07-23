@@ -24059,6 +24059,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8626130533": {
+      "id": 8626130533,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784829132146,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
