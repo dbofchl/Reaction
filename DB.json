@@ -23760,9 +23760,20 @@
     "7713931435": {
       "id": 7713931435,
       "username": "",
-      "fullName": "",
+      "fullName": "@YADHIL Am",
       "points": 0,
       "joinedAt": 1784774198544,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8257033950": {
+      "id": 8257033950,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784774286567,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
