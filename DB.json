@@ -23974,12 +23974,12 @@
     },
     "7607390290": {
       "id": 7607390290,
-      "username": "",
-      "fullName": "",
+      "username": "Wishbdjsu",
+      "fullName": "Jit Mondal",
       "points": 0,
       "joinedAt": 1784815028248,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -24835,6 +24835,13 @@
       "price": 150000,
       "orderId": "BP8842524119MRXD4FS5TUFI",
       "createdAt": 1784802159640
+    },
+    "BP7607390290MRXKSSIV3XOV": {
+      "userId": 7607390290,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP7607390290MRXKSSIV3XOV",
+      "createdAt": 1784815053082
     }
   },
   "reactCooldownMs": 300000,
