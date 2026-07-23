@@ -23748,10 +23748,21 @@
     },
     "7045676855": {
       "id": 7045676855,
+      "username": "Mk_verso",
+      "fullName": "Mk_Matoo",
+      "points": 0,
+      "joinedAt": 1784773841142,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7713931435": {
+      "id": 7713931435,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784773841142,
+      "joinedAt": 1784774198544,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
