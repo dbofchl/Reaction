@@ -23778,6 +23778,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5640000054": {
+      "id": 5640000054,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784776309020,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
