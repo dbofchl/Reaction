@@ -23635,6 +23635,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6820790140": {
+      "id": 6820790140,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784770762591,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
