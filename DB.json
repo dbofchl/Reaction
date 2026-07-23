@@ -23887,9 +23887,20 @@
     "8624301463": {
       "id": 8624301463,
       "username": "",
-      "fullName": "",
+      "fullName": "HER HER",
       "points": 0,
       "joinedAt": 1784793746292,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6185862608": {
+      "id": 6185862608,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784796387602,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
