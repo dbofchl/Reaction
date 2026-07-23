@@ -23594,10 +23594,21 @@
     },
     "8440761790": {
       "id": 8440761790,
+      "username": "Myoww123",
+      "fullName": "Abhishek Kumar",
+      "points": 0,
+      "joinedAt": 1784769774670,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7541507212": {
+      "id": 7541507212,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784769774670,
+      "joinedAt": 1784769907150,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
