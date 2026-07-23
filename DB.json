@@ -23683,11 +23683,11 @@
     "8157309064": {
       "id": 8157309064,
       "username": "",
-      "fullName": "",
+      "fullName": ". .",
       "points": 0,
       "joinedAt": 1784771670146,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
