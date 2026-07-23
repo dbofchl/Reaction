@@ -102,6 +102,17 @@
       "isNewUser": false,
       "referralCount": 1
     },
+    "971768282": {
+      "id": 971768282,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784811803708,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "988038638": {
       "id": 988038638,
       "username": "yoelcoo",
@@ -23952,12 +23963,12 @@
     },
     "6929971027": {
       "id": 6929971027,
-      "username": "",
-      "fullName": "",
+      "username": "KINGOFPOWER07",
+      "fullName": "KING OF POWER 💸",
       "points": 0,
       "joinedAt": 1784811355702,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
