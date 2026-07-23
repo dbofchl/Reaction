@@ -23809,10 +23809,21 @@
     },
     "6467990507": {
       "id": 6467990507,
+      "username": "Ahmedromjan",
+      "fullName": "Romjan Ahmed",
+      "points": 0,
+      "joinedAt": 1784782594382,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6943472021": {
+      "id": 6943472021,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784782594382,
+      "joinedAt": 1784782799736,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
