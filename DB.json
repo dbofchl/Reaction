@@ -24040,10 +24040,21 @@
     },
     "8806036938": {
       "id": 8806036938,
+      "username": "rennnyta",
+      "fullName": "renn ald",
+      "points": 0,
+      "joinedAt": 1784826629433,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6803181981": {
+      "id": 6803181981,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784826629433,
+      "joinedAt": 1784828914951,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
