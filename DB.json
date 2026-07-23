@@ -24074,9 +24074,20 @@
     "7088746877": {
       "id": 7088746877,
       "username": "",
-      "fullName": "",
+      "fullName": "It'z ShaOn",
       "points": 0,
       "joinedAt": 1784831378558,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6168266685": {
+      "id": 6168266685,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784832099923,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
