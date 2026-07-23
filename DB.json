@@ -23550,12 +23550,12 @@
     },
     "6973068578": {
       "id": 6973068578,
-      "username": "",
-      "fullName": "",
+      "username": "Osvaldo23X",
+      "fullName": "𝐎𝐒𝐕𝐀𝐋𝐃𝐎 𝐗!",
       "points": 0,
       "joinedAt": 1784766051098,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -24348,6 +24348,13 @@
       "price": 15000,
       "orderId": "BP6463521599MRWFX5JDRLT7",
       "createdAt": 1784746392281
+    },
+    "BP6973068578MRWS9WNJVXEO": {
+      "userId": 6973068578,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP6973068578MRWS9WNJVXEO",
+      "createdAt": 1784767142806
     }
   },
   "reactCooldownMs": 300000,
