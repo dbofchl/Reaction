@@ -23704,13 +23704,24 @@
     },
     "6925772949": {
       "id": 6925772949,
-      "username": "",
-      "fullName": "",
+      "username": "Asifsiddique7861",
+      "fullName": "SP MODS",
       "points": 0,
       "joinedAt": 1784772467508,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8790533365": {
+      "id": 8790533365,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784772782817,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7803301347",
       "referralCount": 0
     }
   },
