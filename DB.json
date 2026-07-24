@@ -24216,12 +24216,12 @@
     },
     "8737321896": {
       "id": 8737321896,
-      "username": "",
-      "fullName": "",
+      "username": "salmanofc07",
+      "fullName": "Salman official Ofc",
       "points": 0,
       "joinedAt": 1784920679155,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -25091,6 +25091,13 @@
       "price": 15000,
       "orderId": "BP8106028903MRZ6Q5PQRV0I",
       "createdAt": 1784912347880
+    },
+    "BP8737321896MRZBPGCH7HAJ": {
+      "userId": 8737321896,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8737321896MRZBPGCH7HAJ",
+      "createdAt": 1784920712956
     }
   },
   "reactCooldownMs": 300000,
