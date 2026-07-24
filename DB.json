@@ -24139,10 +24139,21 @@
     },
     "8241109819": {
       "id": 8241109819,
+      "username": "sultanbroh",
+      "fullName": "Sultan Bro",
+      "points": 0,
+      "joinedAt": 1784872601453,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7402974146": {
+      "id": 7402974146,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784872601453,
+      "joinedAt": 1784876704676,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
