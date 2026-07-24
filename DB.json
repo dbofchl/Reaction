@@ -5572,7 +5572,7 @@
     },
     "7309694485": {
       "id": 7309694485,
-      "username": "",
+      "username": "amboy124",
       "fullName": "Jiwaa",
       "points": 0,
       "joinedAt": 1779098264732,
@@ -24161,12 +24161,12 @@
     },
     "7560453022": {
       "id": 7560453022,
-      "username": "",
-      "fullName": "",
+      "username": "mdsajjadibnehayat",
+      "fullName": "MD Sajjad Ibne Hayat",
       "points": 0,
       "joinedAt": 1784883121556,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
