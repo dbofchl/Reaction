@@ -25073,13 +25073,6 @@
       "price": 15000,
       "orderId": "BP7607390290MRXKSSIV3XOV",
       "createdAt": 1784815053082
-    },
-    "BP6557508402MRZ60P9U6XE7": {
-      "userId": 6557508402,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6557508402MRZ60P9U6XE7",
-      "createdAt": 1784911160258
     }
   },
   "reactCooldownMs": 300000,
