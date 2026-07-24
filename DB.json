@@ -24125,6 +24125,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8546717892": {
+      "id": 8546717892,
+      "username": "Beastreg13",
+      "fullName": "BEAST REG",
+      "points": 0,
+      "joinedAt": 1784867488197,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
