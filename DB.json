@@ -11151,11 +11151,11 @@
       "id": 6586355044,
       "username": "ikyteamvvip",
       "fullName": "</> ɪкyтєαм",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1782247826822,
       "lastDaily": null,
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "7268824578": {
       "id": 7268824578,
@@ -24173,12 +24173,12 @@
     "8934668118": {
       "id": 8934668118,
       "username": "",
-      "fullName": "",
+      "fullName": "accIKY",
       "points": 0,
       "joinedAt": 1784903891314,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "6586355044",
       "referralCount": 0
     }
   },
