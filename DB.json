@@ -24195,9 +24195,20 @@
     "6074991135": {
       "id": 6074991135,
       "username": "",
-      "fullName": "",
+      "fullName": "Hehehe",
       "points": 0,
       "joinedAt": 1784910781942,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6557508402": {
+      "id": 6557508402,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784911131879,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
