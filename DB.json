@@ -24205,12 +24205,12 @@
     },
     "6557508402": {
       "id": 6557508402,
-      "username": "",
-      "fullName": "",
+      "username": "Ayush00166",
+      "fullName": "Ayush",
       "points": 0,
       "joinedAt": 1784911131879,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -25073,6 +25073,13 @@
       "price": 15000,
       "orderId": "BP7607390290MRXKSSIV3XOV",
       "createdAt": 1784815053082
+    },
+    "BP6557508402MRZ60P9U6XE7": {
+      "userId": 6557508402,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6557508402MRZ60P9U6XE7",
+      "createdAt": 1784911160258
     }
   },
   "reactCooldownMs": 300000,
