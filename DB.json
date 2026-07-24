@@ -24180,6 +24180,17 @@
       "isNewUser": false,
       "invitedBy": "6586355044",
       "referralCount": 0
+    },
+    "8276052049": {
+      "id": 8276052049,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784905246964,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
