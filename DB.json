@@ -24183,10 +24183,21 @@
     },
     "8276052049": {
       "id": 8276052049,
+      "username": "Nurhanff",
+      "fullName": "NUR",
+      "points": 0,
+      "joinedAt": 1784905246964,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6074991135": {
+      "id": 6074991135,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1784905246964,
+      "joinedAt": 1784910781942,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
