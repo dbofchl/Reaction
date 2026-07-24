@@ -24150,12 +24150,12 @@
     },
     "7402974146": {
       "id": 7402974146,
-      "username": "",
-      "fullName": "",
+      "username": "sumit_gmr",
+      "fullName": "Sumit Gamer",
       "points": 0,
       "joinedAt": 1784876704676,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
