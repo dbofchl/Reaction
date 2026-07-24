@@ -24158,6 +24158,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7560453022": {
+      "id": 7560453022,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784883121556,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
