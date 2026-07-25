@@ -24249,12 +24249,23 @@
     },
     "7180951987": {
       "id": 7180951987,
-      "username": "",
-      "fullName": "",
+      "username": "Skyclipp",
+      "fullName": "AAKASH KUMAR",
       "points": 0,
       "joinedAt": 1784996119437,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6280883387": {
+      "id": 6280883387,
+      "username": "",
+      "fullName": "SON",
+      "points": 0,
+      "joinedAt": 1784998809428,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
