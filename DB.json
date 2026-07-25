@@ -24228,9 +24228,20 @@
     "8880466669": {
       "id": 8880466669,
       "username": "",
-      "fullName": "",
+      "fullName": "Ute 6y",
       "points": 0,
       "joinedAt": 1784973713823,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7579788722": {
+      "id": 7579788722,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1784978634925,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
