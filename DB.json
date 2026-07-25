@@ -458,7 +458,7 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988938,
+      "points": 99988939,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false
@@ -25112,13 +25112,6 @@
       "price": 15000,
       "orderId": "BP1368848281MRZYS61W3RMJ",
       "createdAt": 1784959471041
-    },
-    "BP1368848281MRZYTVY1RKO2": {
-      "userId": 1368848281,
-      "points": 1,
-      "price": 1000,
-      "orderId": "BP1368848281MRZYTVY1RKO2",
-      "createdAt": 1784959551138
     }
   },
   "reactCooldownMs": 300000,
