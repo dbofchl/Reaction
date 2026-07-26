@@ -24268,6 +24268,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5088994982": {
+      "id": 5088994982,
+      "username": "Rajan8717",
+      "fullName": "Rajan",
+      "points": 0,
+      "joinedAt": 1785037124231,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
