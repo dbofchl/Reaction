@@ -24279,6 +24279,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8441041226": {
+      "id": 8441041226,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785046960037,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
