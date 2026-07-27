@@ -24304,10 +24304,21 @@
     },
     "7510546961": {
       "id": 7510546961,
+      "username": "bloodycheat",
+      "fullName": "𝗔𝗚𝗘𝗡𝗧 𝗠𝗔𝗧𝗥𝗜𝗫 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟",
+      "points": 0,
+      "joinedAt": 1785165351773,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5989663500": {
+      "id": 5989663500,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785165351773,
+      "joinedAt": 1785165356512,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
