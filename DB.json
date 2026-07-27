@@ -24865,10 +24865,21 @@
     },
     "5091963075": {
       "id": 5091963075,
+      "username": "IHACKEDMODZ",
+      "fullName": "iHACKED MODZ",
+      "points": 0,
+      "joinedAt": 1785178147589,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7942609633": {
+      "id": 7942609633,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785178147589,
+      "joinedAt": 1785178931270,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
