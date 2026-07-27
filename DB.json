@@ -24778,9 +24778,20 @@
     "8590383388": {
       "id": 8590383388,
       "username": "",
-      "fullName": "",
+      "fullName": "Hariom Verma",
       "points": 0,
       "joinedAt": 1785171664668,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8299914344": {
+      "id": 8299914344,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785172119477,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
