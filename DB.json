@@ -24744,12 +24744,12 @@
     },
     "7032805662": {
       "id": 7032805662,
-      "username": "",
-      "fullName": "",
+      "username": "YouKnowCoconut",
+      "fullName": "𝘾𝙊𝘾𝙊𝙉𝙐𝙏 𝐇𝐄𝐑𝐄",
       "points": 0,
       "joinedAt": 1785170801211,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -25752,14 +25752,6 @@
       "orderId": "BP5989663500MS3DDW7MBG60",
       "transaction_id": "3f2f1c29-1d05-48c9-9ac0-39ef0d6a7ebb",
       "createdAt": 1785165397667
-    },
-    "BP8845250617MS3EMUA7X05N": {
-      "userId": 8845250617,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP8845250617MS3EMUA7X05N",
-      "transaction_id": "cd527475-77a6-461f-b7ad-c2eca15d62b2",
-      "createdAt": 1785167494779
     }
   },
   "reactCooldownMs": 300000,
