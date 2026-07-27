@@ -25389,14 +25389,6 @@
       "orderId": "BP5989663500MS3DDW7MBG60",
       "transaction_id": "3f2f1c29-1d05-48c9-9ac0-39ef0d6a7ebb",
       "createdAt": 1785165397667
-    },
-    "BP5314181864MS3DGG2C6LCW": {
-      "userId": 5314181864,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP5314181864MS3DGG2C6LCW",
-      "transaction_id": "39b33bc8-2200-4fd6-a74b-2cdbd4160cac",
-      "createdAt": 1785165516630
     }
   },
   "reactCooldownMs": 300000,
