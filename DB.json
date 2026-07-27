@@ -24723,9 +24723,20 @@
     "8318577716": {
       "id": 8318577716,
       "username": "",
-      "fullName": "",
+      "fullName": "Aryankhan",
       "points": 0,
       "joinedAt": 1785170426010,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5420522088": {
+      "id": 5420522088,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785170432845,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
