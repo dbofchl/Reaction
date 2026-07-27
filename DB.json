@@ -24447,10 +24447,21 @@
     },
     "7864648845": {
       "id": 7864648845,
+      "username": "Ziarul_ff",
+      "fullName": "•𝗭𝗜𝗔𝗥𝗨𝗟×𝗙𝗙𒌋✿",
+      "points": 0,
+      "joinedAt": 1785166069790,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7151864735": {
+      "id": 7151864735,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785166069790,
+      "joinedAt": 1785166098573,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
