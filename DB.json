@@ -24349,9 +24349,20 @@
     "8062879234": {
       "id": 8062879234,
       "username": "",
-      "fullName": "",
+      "fullName": "—͟͞͞ʀᴀᴊᴇꜱʜ 🍷",
       "points": 0,
       "joinedAt": 1785165406365,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7637625617": {
+      "id": 7637625617,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785165417953,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
