@@ -25749,6 +25749,14 @@
       "orderId": "BP8845250617MS3EMUA7X05N",
       "transaction_id": "cd527475-77a6-461f-b7ad-c2eca15d62b2",
       "createdAt": 1785167494779
+    },
+    "BP5420522088MS3GFNJKDUL8": {
+      "userId": 5420522088,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP5420522088MS3GFNJKDUL8",
+      "transaction_id": "9471b983-a1e1-4a62-85db-4e86592b639e",
+      "createdAt": 1785170519064
     }
   },
   "reactCooldownMs": 300000,
