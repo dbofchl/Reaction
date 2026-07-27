@@ -24338,11 +24338,11 @@
     "6821757300": {
       "id": 6821757300,
       "username": "",
-      "fullName": "",
+      "fullName": "Asaancook Asaancook",
       "points": 0,
       "joinedAt": 1785165378258,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -25337,6 +25337,14 @@
       "orderId": "BP1368848281MS3B5QVWU5VR",
       "transaction_id": "29a6d05c-5dd3-4178-bdfe-15a5269413cc",
       "createdAt": 1785161658314
+    },
+    "BP5989663500MS3DDW7MBG60": {
+      "userId": 5989663500,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP5989663500MS3DDW7MBG60",
+      "transaction_id": "3f2f1c29-1d05-48c9-9ac0-39ef0d6a7ebb",
+      "createdAt": 1785165397667
     }
   },
   "reactCooldownMs": 300000,
