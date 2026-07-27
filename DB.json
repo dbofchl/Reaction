@@ -24623,10 +24623,21 @@
     },
     "5377121874": {
       "id": 5377121874,
+      "username": "limon_x01",
+      "fullName": "Limon Ahemd",
+      "points": 0,
+      "joinedAt": 1785168985164,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7360484279": {
+      "id": 7360484279,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785168985164,
+      "joinedAt": 1785169187079,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
