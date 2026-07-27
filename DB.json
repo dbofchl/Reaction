@@ -24557,10 +24557,21 @@
     },
     "7876965804": {
       "id": 7876965804,
+      "username": "imoamm",
+      "fullName": "orvyn",
+      "points": 0,
+      "joinedAt": 1785168015983,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6735519079": {
+      "id": 6735519079,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785168015983,
+      "joinedAt": 1785168030727,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
