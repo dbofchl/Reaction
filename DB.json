@@ -24909,10 +24909,21 @@
     },
     "8272754094": {
       "id": 8272754094,
+      "username": "KAIJEN8084",
+      "fullName": "KAIJEN",
+      "points": 0,
+      "joinedAt": 1785180863636,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8043393269": {
+      "id": 8043393269,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785180863636,
+      "joinedAt": 1785182129956,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
