@@ -24876,10 +24876,21 @@
     },
     "7942609633": {
       "id": 7942609633,
+      "username": "SPIDEYXCHEAT",
+      "fullName": "SPIEDY",
+      "points": 0,
+      "joinedAt": 1785178931270,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7807195566": {
+      "id": 7807195566,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785178931270,
+      "joinedAt": 1785179690722,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
