@@ -8824,7 +8824,7 @@
     "6906299220": {
       "id": 6906299220,
       "username": "angeline2121",
-      "fullName": "ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ Angelynㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ",
+      "fullName": "ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ Angelynㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ -",
       "points": 0,
       "joinedAt": 1782103949935,
       "lastDaily": null,
@@ -24481,11 +24481,11 @@
     "7632369371": {
       "id": 7632369371,
       "username": "",
-      "fullName": "",
+      "fullName": "Sultan Ansari",
       "points": 0,
       "joinedAt": 1785166697854,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
