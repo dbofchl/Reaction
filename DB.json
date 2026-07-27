@@ -24590,10 +24590,21 @@
     },
     "7013509889": {
       "id": 7013509889,
+      "username": "Lundlelefreeme",
+      "fullName": "Kanha",
+      "points": 0,
+      "joinedAt": 1785168911972,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5805105532": {
+      "id": 5805105532,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785168911972,
+      "joinedAt": 1785168953021,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
