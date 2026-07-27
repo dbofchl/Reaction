@@ -24359,12 +24359,23 @@
     },
     "7637625617": {
       "id": 7637625617,
-      "username": "",
-      "fullName": "",
+      "username": "idkidchm",
+      "fullName": "sxsvn",
       "points": 0,
       "joinedAt": 1785165417953,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6134902710": {
+      "id": 6134902710,
+      "username": "RedMoonUchiha",
+      "fullName": "Uchiha Itachi",
+      "points": 0,
+      "joinedAt": 1785165418979,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
