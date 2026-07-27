@@ -24579,12 +24579,12 @@
     },
     "8080601428": {
       "id": 8080601428,
-      "username": "",
-      "fullName": "",
+      "username": "alishankassar01",
+      "fullName": "XT ALISHAN",
       "points": 0,
       "joinedAt": 1785168657605,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
