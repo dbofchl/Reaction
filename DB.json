@@ -24568,10 +24568,21 @@
     },
     "6735519079": {
       "id": 6735519079,
+      "username": "Mandaytta",
+      "fullName": "Manda",
+      "points": 0,
+      "joinedAt": 1785168030727,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8080601428": {
+      "id": 8080601428,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785168030727,
+      "joinedAt": 1785168657605,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
