@@ -25253,6 +25253,14 @@
       "orderId": "BP1368848281MS3AIDD0YRV9",
       "transaction_id": "d2584d31-4cf4-46b2-8d51-fdaed067a77a",
       "createdAt": 1785160567644
+    },
+    "BP1368848281MS3AMWALX87U": {
+      "userId": 1368848281,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP1368848281MS3AMWALX87U",
+      "transaction_id": "c223fd11-8a68-4ef9-b6a9-2a9fe04394a0",
+      "createdAt": 1785160778856
     }
   },
   "reactCooldownMs": 300000,
