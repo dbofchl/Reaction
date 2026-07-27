@@ -24700,10 +24700,21 @@
     },
     "8497179459": {
       "id": 8497179459,
+      "username": "rajbattleofficial76",
+      "fullName": "RAJ B",
+      "points": 0,
+      "joinedAt": 1785170045607,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8486015392": {
+      "id": 8486015392,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785170045607,
+      "joinedAt": 1785170291078,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
