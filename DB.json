@@ -24796,6 +24796,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6900976772": {
+      "id": 6900976772,
+      "username": "drexzztzx",
+      "fullName": "dzx",
+      "points": 0,
+      "joinedAt": 1785173628574,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
