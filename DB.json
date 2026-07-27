@@ -740,11 +740,11 @@
     "1674573261": {
       "id": 1674573261,
       "username": "",
-      "fullName": "",
+      "fullName": "Rahxxh @rahxxh",
       "points": 0,
       "joinedAt": 1785180702555,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -25906,6 +25906,14 @@
       "orderId": "BP5989663500MS3DDW7MBG60",
       "transaction_id": "3f2f1c29-1d05-48c9-9ac0-39ef0d6a7ebb",
       "createdAt": 1785165397667
+    },
+    "BP1674573261MS3MIH19ULPK": {
+      "userId": 1674573261,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP1674573261MS3MIH19ULPK",
+      "transaction_id": "67adb44a-557d-4cc6-98b8-ab7492e1d59f",
+      "createdAt": 1785180727738
     }
   },
   "reactCooldownMs": 300000,
