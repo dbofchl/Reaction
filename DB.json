@@ -24546,10 +24546,21 @@
     },
     "7363742518": {
       "id": 7363742518,
+      "username": "Shiuuuuuuu0",
+      "fullName": "Shiuuuuuuu 🌞",
+      "points": 0,
+      "joinedAt": 1785167944648,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7876965804": {
+      "id": 7876965804,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785167944648,
+      "joinedAt": 1785168015983,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
