@@ -24634,10 +24634,21 @@
     },
     "7360484279": {
       "id": 7360484279,
+      "username": "Wizard_099",
+      "fullName": "Local h bhai",
+      "points": 0,
+      "joinedAt": 1785169187079,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6156956822": {
+      "id": 6156956822,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785169187079,
+      "joinedAt": 1785169316201,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
