@@ -24679,9 +24679,20 @@
     "8281518148": {
       "id": 8281518148,
       "username": "",
-      "fullName": "",
+      "fullName": "Alim",
       "points": 0,
       "joinedAt": 1785169701881,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6023622435": {
+      "id": 6023622435,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785169741253,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
