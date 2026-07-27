@@ -24950,6 +24950,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5538516075": {
+      "id": 5538516075,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785191849072,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
