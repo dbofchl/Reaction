@@ -24459,11 +24459,22 @@
     "7151864735": {
       "id": 7151864735,
       "username": "",
-      "fullName": "",
+      "fullName": "ASIF",
       "points": 0,
       "joinedAt": 1785166098573,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8147445648": {
+      "id": 8147445648,
+      "username": "adi2zx",
+      "fullName": "adi2zx",
+      "points": 0,
+      "joinedAt": 1785166271453,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
