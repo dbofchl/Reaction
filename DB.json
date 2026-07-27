@@ -25178,13 +25178,6 @@
       "price": 15000,
       "orderId": "BP1368848281MRZYS61W3RMJ",
       "createdAt": 1784959471041
-    },
-    "BP8837817898MS34ZZBPT2HT": {
-      "userId": 8837817898,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP8837817898MS34ZZBPT2HT",
-      "createdAt": 1785151311596
     }
   },
   "reactCooldownMs": 300000,
