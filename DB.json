@@ -24689,10 +24689,21 @@
     },
     "6023622435": {
       "id": 6023622435,
+      "username": "VoxelCoyy",
+      "fullName": "Voxel",
+      "points": 0,
+      "joinedAt": 1785169741253,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8497179459": {
+      "id": 8497179459,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785169741253,
+      "joinedAt": 1785170045607,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
