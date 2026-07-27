@@ -24601,12 +24601,23 @@
     },
     "5805105532": {
       "id": 5805105532,
-      "username": "",
-      "fullName": "",
+      "username": "Luiis_RG",
+      "fullName": "Luis Rg",
       "points": 0,
       "joinedAt": 1785168953021,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6186830847": {
+      "id": 6186830847,
+      "username": "kypsanatani",
+      "fullName": "KARNA SANATANI",
+      "points": 0,
+      "joinedAt": 1785168959543,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
