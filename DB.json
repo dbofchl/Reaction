@@ -24437,9 +24437,20 @@
     "8669749304": {
       "id": 8669749304,
       "username": "",
-      "fullName": "",
+      "fullName": "Sumit Saini",
       "points": 0,
       "joinedAt": 1785166010221,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7864648845": {
+      "id": 7864648845,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785166069790,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
