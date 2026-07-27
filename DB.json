@@ -737,6 +737,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1674573261": {
+      "id": 1674573261,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785180702555,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1691199243": {
       "id": 1691199243,
       "username": "yuriontime",
