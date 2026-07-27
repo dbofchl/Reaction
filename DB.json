@@ -24851,6 +24851,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5970012737": {
+      "id": 5970012737,
+      "username": "Panal7080",
+      "fullName": "Gaurav Jatav",
+      "points": 0,
+      "joinedAt": 1785177231290,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
