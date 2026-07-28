@@ -20912,7 +20912,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "6423207565": {
       "id": 6423207565,
@@ -25085,12 +25085,12 @@
     },
     "8089881353": {
       "id": 8089881353,
-      "username": "",
-      "fullName": "",
+      "username": "Offlineimissyou",
+      "fullName": "MD JUBYER",
       "points": 0,
       "joinedAt": 1785211061807,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8201190759",
       "referralCount": 0
     }
