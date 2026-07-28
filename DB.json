@@ -25170,6 +25170,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8201796971": {
+      "id": 8201796971,
+      "username": "",
+      "fullName": "Hackers 10.0",
+      "points": 0,
+      "joinedAt": 1785255679922,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
