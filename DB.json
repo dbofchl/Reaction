@@ -25063,10 +25063,21 @@
     },
     "8928618868": {
       "id": 8928618868,
+      "username": "Entahlah62",
+      "fullName": "Entahlah 🗿",
+      "points": 0,
+      "joinedAt": 1785206152714,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8488177092": {
+      "id": 8488177092,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785206152714,
+      "joinedAt": 1785210269665,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
