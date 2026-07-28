@@ -6792,7 +6792,7 @@
     "6442039166": {
       "id": 6442039166,
       "username": "SENNSTORE01",
-      "fullName": "𝐒𝐄𝐍𝐍 × 𝐒𝐓𝐎𝐑𝐄",
+      "fullName": "ＳＥＮＮ ＳＴＯＲＥ",
       "points": 14,
       "joinedAt": 1779816988196,
       "lastDaily": null,
@@ -25097,11 +25097,11 @@
     "6999214998": {
       "id": 6999214998,
       "username": "",
-      "fullName": "",
+      "fullName": "Rdx Gaming file",
       "points": 0,
       "joinedAt": 1785216070317,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
