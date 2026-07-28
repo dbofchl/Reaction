@@ -25119,11 +25119,11 @@
     "8901106110": {
       "id": 8901106110,
       "username": "",
-      "fullName": "",
+      "fullName": "Sh1vam.. Xiv",
       "points": 0,
       "joinedAt": 1785224503819,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26150,6 +26150,14 @@
       "orderId": "BP1368848281MS4BXSZQLVDK",
       "transaction_id": "433d26e9-e889-4cb6-9e25-969ad10e2e2a",
       "createdAt": 1785223433446
+    },
+    "BP8925871873MS4EMGOK5GPD": {
+      "userId": 8925871873,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8925871873MS4EMGOK5GPD",
+      "transaction_id": "84a3b5fe-4b2a-404e-b3ea-22516e4b11b5",
+      "createdAt": 1785227943123
     }
   },
   "reactCooldownMs": 300000,
