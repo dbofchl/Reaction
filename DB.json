@@ -25053,9 +25053,20 @@
     "7996257107": {
       "id": 7996257107,
       "username": "",
-      "fullName": "",
+      "fullName": "Sukant",
       "points": 0,
       "joinedAt": 1785204754881,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8928618868": {
+      "id": 8928618868,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785206152714,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
