@@ -26101,14 +26101,6 @@
       "orderId": "BP7125841090MS3OU09WI2U9",
       "transaction_id": "a5c665a7-81a0-44de-ab8f-873c5b83886b",
       "createdAt": 1785184625128
-    },
-    "BP1368848281MS40M1SQIR6S": {
-      "userId": 1368848281,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP1368848281MS40M1SQIR6S",
-      "transaction_id": "e4b1294d-68bc-426c-8f3c-32ce1f44ac32",
-      "createdAt": 1785204409227
     }
   },
   "reactCooldownMs": 300000,
