@@ -25104,6 +25104,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8007054835": {
+      "id": 8007054835,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785218508443,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
