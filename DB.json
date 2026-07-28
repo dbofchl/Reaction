@@ -25031,9 +25031,20 @@
     "8203666846": {
       "id": 8203666846,
       "username": "",
-      "fullName": "",
+      "fullName": "R RIYAD",
       "points": 0,
       "joinedAt": 1785202138506,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8481451249": {
+      "id": 8481451249,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785202742987,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
