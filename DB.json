@@ -24997,10 +24997,21 @@
     },
     "5114995953": {
       "id": 5114995953,
+      "username": "Block5530",
+      "fullName": "𝘿𝙓𝘿 🛐",
+      "points": 0,
+      "joinedAt": 1785199254063,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7782330822": {
+      "id": 7782330822,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785199254063,
+      "joinedAt": 1785199362685,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
