@@ -25217,12 +25217,23 @@
     },
     "8976023681": {
       "id": 8976023681,
-      "username": "",
-      "fullName": "",
+      "username": "ASHIVAMSHIVAM",
+      "fullName": "ahish Goswami",
       "points": 0,
       "joinedAt": 1785261912846,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8418484759": {
+      "id": 8418484759,
+      "username": "",
+      "fullName": "Birbal Kumar",
+      "points": 0,
+      "joinedAt": 1785270854576,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
