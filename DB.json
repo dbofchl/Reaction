@@ -24976,9 +24976,20 @@
     "8909400071": {
       "id": 8909400071,
       "username": "",
-      "fullName": "",
+      "fullName": "Koe Suwer",
       "points": 0,
       "joinedAt": 1785197122265,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7651532889": {
+      "id": 7651532889,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785197237032,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
