@@ -25181,6 +25181,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "5314090962": {
+      "id": 5314090962,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785257025478,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
