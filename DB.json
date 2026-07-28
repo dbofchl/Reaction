@@ -24987,9 +24987,20 @@
     "7651532889": {
       "id": 7651532889,
       "username": "",
-      "fullName": "",
+      "fullName": "Lutpyy",
       "points": 0,
       "joinedAt": 1785197237032,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5114995953": {
+      "id": 5114995953,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785199254063,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
