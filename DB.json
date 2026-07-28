@@ -25008,10 +25008,21 @@
     },
     "7782330822": {
       "id": 7782330822,
+      "username": "whothatsm",
+      "fullName": "WTF Xiang",
+      "points": 0,
+      "joinedAt": 1785199362685,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7047496805": {
+      "id": 7047496805,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785199362685,
+      "joinedAt": 1785201655950,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
