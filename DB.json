@@ -25278,11 +25278,11 @@
     "8518075647": {
       "id": 8518075647,
       "username": "",
-      "fullName": "",
+      "fullName": "Momodu Sillah",
       "points": 0,
       "joinedAt": 1785362626688,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26341,6 +26341,14 @@
       "orderId": "BP1368848281MS5EN4U9ZRDE",
       "transaction_id": "fe9bb754-2729-442e-b29c-4f14eff2a181",
       "createdAt": 1785288440592
+    },
+    "BP8518075647MS6MV4N6A7OF": {
+      "userId": 8518075647,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8518075647MS6MV4N6A7OF",
+      "transaction_id": "e090b6f8-8e8b-404a-b08c-0bad4e36ad90",
+      "createdAt": 1785362716710
     }
   },
   "reactCooldownMs": 300000,
