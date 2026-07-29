@@ -25266,10 +25266,21 @@
     },
     "5797359947": {
       "id": 5797359947,
+      "username": "yjxvz",
+      "fullName": "yeoloveji",
+      "points": 0,
+      "joinedAt": 1785354570295,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8518075647": {
+      "id": 8518075647,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785354570295,
+      "joinedAt": 1785362626688,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
