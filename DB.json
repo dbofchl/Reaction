@@ -25310,12 +25310,12 @@
     },
     "8949600859": {
       "id": 8949600859,
-      "username": "",
-      "fullName": "",
+      "username": "Tomyyyy4508",
+      "fullName": "Tomy",
       "points": 0,
       "joinedAt": 1785389292392,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26374,6 +26374,14 @@
       "orderId": "BP1368848281MS5EN4U9ZRDE",
       "transaction_id": "fe9bb754-2729-442e-b29c-4f14eff2a181",
       "createdAt": 1785288440592
+    },
+    "BP8492552988MS78T8MO38BC": {
+      "userId": 8492552988,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8492552988MS78T8MO38BC",
+      "transaction_id": "bf1b9aea-5b4c-4ea8-9ed1-0be25807e177",
+      "createdAt": 1785399580128
     }
   },
   "reactCooldownMs": 300000,
