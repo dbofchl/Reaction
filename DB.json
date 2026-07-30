@@ -25343,10 +25343,21 @@
     },
     "7313787872": {
       "id": 7313787872,
+      "username": "Ninjabhia",
+      "fullName": "ROOT OMG",
+      "points": 0,
+      "joinedAt": 1785431274927,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6373473234": {
+      "id": 6373473234,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785431274927,
+      "joinedAt": 1785453167435,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
