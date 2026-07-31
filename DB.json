@@ -25373,6 +25373,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8015346970": {
+      "id": 8015346970,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785505942924,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
