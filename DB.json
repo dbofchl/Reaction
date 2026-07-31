@@ -26437,14 +26437,6 @@
       "orderId": "BP8492552988MS78T8MO38BC",
       "transaction_id": "bf1b9aea-5b4c-4ea8-9ed1-0be25807e177",
       "createdAt": 1785399580128
-    },
-    "BP5634747688MS8JRT6KZ4NL": {
-      "userId": 5634747688,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP5634747688MS8JRT6KZ4NL",
-      "transaction_id": "1cec15b3-22e6-4252-bff3-4d93ae48543f",
-      "createdAt": 1785478455388
     }
   },
   "reactCooldownMs": 300000,
