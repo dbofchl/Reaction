@@ -25354,10 +25354,21 @@
     },
     "6373473234": {
       "id": 6373473234,
+      "username": "Alisikma",
+      "fullName": "Revgron anu",
+      "points": 0,
+      "joinedAt": 1785453167435,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6105329136": {
+      "id": 6105329136,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1785453167435,
+      "joinedAt": 1785470427923,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
