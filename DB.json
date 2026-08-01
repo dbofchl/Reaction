@@ -573,7 +573,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1434985215": {
       "id": 1434985215,
@@ -25376,12 +25376,12 @@
     },
     "8015346970": {
       "id": 8015346970,
-      "username": "",
-      "fullName": "",
+      "username": "Mahesa51",
+      "fullName": "QW5kcmkga2FtdW5hIA== ..",
       "points": 0,
       "joinedAt": 1785505942924,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1424976158",
       "referralCount": 0
     },
