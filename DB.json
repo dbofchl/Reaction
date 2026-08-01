@@ -25410,9 +25410,20 @@
     "7028666927": {
       "id": 7028666927,
       "username": "",
-      "fullName": "",
+      "fullName": "HARRISON RAMIREZ",
       "points": 0,
       "joinedAt": 1785572390550,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6359121289": {
+      "id": 6359121289,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785588284119,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
