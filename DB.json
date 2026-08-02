@@ -8592,7 +8592,8 @@
       "points": 0,
       "joinedAt": 1782098214211,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "8411870098": {
       "id": 8411870098,
@@ -25432,12 +25433,12 @@
     "8949919718": {
       "id": 8949919718,
       "username": "",
-      "fullName": "",
+      "fullName": "Ipang store",
       "points": 0,
       "joinedAt": 1785641528041,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7892105983",
       "referralCount": 0
     }
   },
