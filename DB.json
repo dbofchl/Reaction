@@ -2008,7 +2008,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8359149620": {
       "id": 8359149620,
@@ -25488,11 +25488,11 @@
     "8469930665": {
       "id": 8469930665,
       "username": "",
-      "fullName": "",
+      "fullName": "Nima Nima",
       "points": 0,
       "joinedAt": 1785856936310,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     }
