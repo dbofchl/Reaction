@@ -25498,12 +25498,12 @@
     },
     "7604963382": {
       "id": 7604963382,
-      "username": "",
-      "fullName": "",
+      "username": "Havkerop",
+      "fullName": "Jitendra",
       "points": 0,
       "joinedAt": 1785893316972,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26578,6 +26578,14 @@
       "orderId": "BP5296958984MSDJ7OCY9C3P",
       "transaction_id": "3345184c-e81c-44b2-bcc5-339a2026e92c",
       "createdAt": 1785779846959
+    },
+    "BP7604963382MSFEU1XHPCF4": {
+      "userId": 7604963382,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7604963382MSFEU1XHPCF4",
+      "transaction_id": "fceabb77-07df-4291-8e45-75f3500ecb1d",
+      "createdAt": 1785893425178
     }
   },
   "reactCooldownMs": 300000,
