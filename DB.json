@@ -25510,9 +25510,20 @@
     "7882938102": {
       "id": 7882938102,
       "username": "",
-      "fullName": "",
+      "fullName": "BLACK X MODZ",
       "points": 0,
       "joinedAt": 1785945882724,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7994736557": {
+      "id": 7994736557,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1785961226446,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
