@@ -25576,9 +25576,20 @@
     "8516602789": {
       "id": 8516602789,
       "username": "",
-      "fullName": "",
+      "fullName": "SAGAR DON ON TOP !!",
       "points": 0,
       "joinedAt": 1786227567318,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8028156625": {
+      "id": 8028156625,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1786228587931,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
