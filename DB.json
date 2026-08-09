@@ -25586,10 +25586,21 @@
     },
     "8028156625": {
       "id": 8028156625,
+      "username": "ainbadmood",
+      "fullName": "PENSI BENTAR !",
+      "points": 0,
+      "joinedAt": 1786228587931,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5539140046": {
+      "id": 5539140046,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1786228587931,
+      "joinedAt": 1786278284865,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
