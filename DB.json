@@ -25598,11 +25598,11 @@
     "5539140046": {
       "id": 5539140046,
       "username": "",
-      "fullName": "",
+      "fullName": "mancoo .",
       "points": 0,
       "joinedAt": 1786278284865,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26685,6 +26685,14 @@
       "orderId": "BP7604963382MSFEU1XHPCF4",
       "transaction_id": "fceabb77-07df-4291-8e45-75f3500ecb1d",
       "createdAt": 1785893425178
+    },
+    "BP8527377191MSMEPZYFBSF3": {
+      "userId": 8527377191,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8527377191MSMEPZYFBSF3",
+      "transaction_id": "f38438e4-e714-467c-a01e-f2dbda367012",
+      "createdAt": 1786316499348
     }
   },
   "reactCooldownMs": 300000,
