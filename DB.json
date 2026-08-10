@@ -25609,9 +25609,20 @@
     "8816945084": {
       "id": 8816945084,
       "username": "",
-      "fullName": "",
+      "fullName": "Castro Castro",
       "points": 0,
       "joinedAt": 1786363805558,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5460326195": {
+      "id": 5460326195,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1786399695435,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
