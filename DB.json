@@ -2019,7 +2019,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8359149620": {
       "id": 8359149620,
@@ -25630,13 +25630,13 @@
     },
     "8553775116": {
       "id": 8553775116,
-      "username": "",
-      "fullName": "",
+      "username": "arjunbiju777",
+      "fullName": "Arjun",
       "points": 0,
       "joinedAt": 1786448964854,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
