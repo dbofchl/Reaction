@@ -25642,9 +25642,20 @@
     "8853663038": {
       "id": 8853663038,
       "username": "",
-      "fullName": "",
+      "fullName": "BLACK DADDY",
       "points": 0,
       "joinedAt": 1786474992329,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8009053456": {
+      "id": 8009053456,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1786524978907,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
