@@ -25696,10 +25696,21 @@
     },
     "6946824596": {
       "id": 6946824596,
+      "username": "arifboar",
+      "fullName": "arifboar",
+      "points": 0,
+      "joinedAt": 1786619068962,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8306966541": {
+      "id": 8306966541,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1786619068962,
+      "joinedAt": 1786623048815,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
