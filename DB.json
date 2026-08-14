@@ -25718,12 +25718,12 @@
     },
     "8859963916": {
       "id": 8859963916,
-      "username": "",
-      "fullName": "",
+      "username": "kingjekkz",
+      "fullName": "KING KARAENG",
       "points": 0,
       "joinedAt": 1786684015953,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -26814,6 +26814,14 @@
       "orderId": "BP8527377191MSMEPZYFBSF3",
       "transaction_id": "f38438e4-e714-467c-a01e-f2dbda367012",
       "createdAt": 1786316499348
+    },
+    "BP8859963916MSSHRD0420SH": {
+      "userId": 8859963916,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8859963916MSSHRD0420SH",
+      "transaction_id": "b4ebd56a-c4ab-43cb-9429-be40002435b4",
+      "createdAt": 1786684398798
     }
   },
   "reactCooldownMs": 300000,
