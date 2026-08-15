@@ -25726,6 +25726,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8749662209": {
+      "id": 8749662209,
+      "username": "",
+      "fullName": "Aki Singh",
+      "points": 0,
+      "joinedAt": 1786774752497,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
