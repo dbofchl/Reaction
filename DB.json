@@ -25781,6 +25781,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7989708417": {
+      "id": 7989708417,
+      "username": "",
+      "fullName": "Yunus Gonul",
+      "points": 0,
+      "joinedAt": 1786922066870,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
