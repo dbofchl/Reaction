@@ -25751,10 +25751,21 @@
     },
     "6816098157": {
       "id": 6816098157,
+      "username": "rioprastowo",
+      "fullName": ".",
+      "points": 0,
+      "joinedAt": 1786855340593,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8255803371": {
+      "id": 8255803371,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1786855340593,
+      "joinedAt": 1786856218850,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
