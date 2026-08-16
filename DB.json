@@ -25740,10 +25740,21 @@
     },
     "5349518247": {
       "id": 5349518247,
+      "username": "goatjojoW",
+      "fullName": "jowel",
+      "points": 0,
+      "joinedAt": 1786807090867,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6816098157": {
+      "id": 6816098157,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1786807090867,
+      "joinedAt": 1786855340593,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
