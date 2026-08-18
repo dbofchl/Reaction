@@ -25796,11 +25796,22 @@
     "8688456481": {
       "id": 8688456481,
       "username": "",
-      "fullName": "",
+      "fullName": "Fiqqqzz",
       "points": 0,
       "joinedAt": 1787036979104,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8725495955": {
+      "id": 8725495955,
+      "username": "",
+      "fullName": "Y4NZ EXE",
+      "points": 0,
+      "joinedAt": 1787037496501,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
