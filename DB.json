@@ -25872,10 +25872,21 @@
     },
     "7037680337": {
       "id": 7037680337,
+      "username": "Aostoraaaa",
+      "fullName": "Anonymous",
+      "points": 0,
+      "joinedAt": 1787165526027,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8536586619": {
+      "id": 8536586619,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1787165526027,
+      "joinedAt": 1787187360549,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
