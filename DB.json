@@ -25938,10 +25938,21 @@
     },
     "7414142243": {
       "id": 7414142243,
+      "username": "alwiiuol",
+      "fullName": "Awil",
+      "points": 0,
+      "joinedAt": 1787275837642,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8384840300": {
+      "id": 8384840300,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1787275837642,
+      "joinedAt": 1787285392770,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
