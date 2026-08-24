@@ -26049,9 +26049,20 @@
     "8430314689": {
       "id": 8430314689,
       "username": "",
-      "fullName": "",
+      "fullName": "Manoj Sahoo",
       "points": 0,
       "joinedAt": 1787539245224,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7929626408": {
+      "id": 7929626408,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1787540638079,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
