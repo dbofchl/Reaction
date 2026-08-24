@@ -26027,9 +26027,20 @@
     "8692968290": {
       "id": 8692968290,
       "username": "",
-      "fullName": "",
+      "fullName": "Natann",
       "points": 0,
       "joinedAt": 1787513504101,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6840003249": {
+      "id": 6840003249,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1787537865568,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
