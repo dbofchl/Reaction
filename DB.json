@@ -26037,10 +26037,21 @@
     },
     "6840003249": {
       "id": 6840003249,
+      "username": "XHARDZz",
+      "fullName": "XHARD",
+      "points": 0,
+      "joinedAt": 1787537865568,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8430314689": {
+      "id": 8430314689,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1787537865568,
+      "joinedAt": 1787539245224,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
