@@ -27179,14 +27179,6 @@
       "orderId": "BP1368848281MSX24FNNEJDL",
       "transaction_id": "789c59ae-3e6d-4b2d-9e40-c92baa1c0889",
       "createdAt": 1786960465678
-    },
-    "BP7882938102MT8VUSP1A0QJ": {
-      "userId": 7882938102,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP7882938102MT8VUSP1A0QJ",
-      "transaction_id": "25c1f3ee-5033-4e21-9b43-f6e302038834",
-      "createdAt": 1787675532510
     }
   },
   "reactCooldownMs": 300000,
