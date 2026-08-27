@@ -2026,11 +2026,11 @@
       "id": 7261347097,
       "username": "",
       "fullName": "‌🇷‌‌🇮‌‌🇿‌‌🇽‌‌🇮‌‌🇹‌‌🇪‌‌🇷‌‌🇿‌ ‌ 🇮🇩",
-      "points": 5,
+      "points": 6,
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "8359149620": {
       "id": 8359149620,
@@ -26115,11 +26115,11 @@
     "8665056147": {
       "id": 8665056147,
       "username": "",
-      "fullName": "",
+      "fullName": "Hieu Lương",
       "points": 0,
       "joinedAt": 1787823002383,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
       "referralCount": 0
     }
