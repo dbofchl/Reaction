@@ -26133,6 +26133,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8962776828": {
+      "id": 8962776828,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1787910050880,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
