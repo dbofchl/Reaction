@@ -26202,10 +26202,21 @@
     },
     "8696204010": {
       "id": 8696204010,
+      "username": "ngunhubo99",
+      "fullName": "Hai Hoang",
+      "points": 0,
+      "joinedAt": 1788024410049,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8964880928": {
+      "id": 8964880928,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788024410049,
+      "joinedAt": 1788057499750,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
