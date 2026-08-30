@@ -26257,10 +26257,21 @@
     },
     "8525017227": {
       "id": 8525017227,
+      "username": "kukupandao",
+      "fullName": "bintang go to mekah",
+      "points": 0,
+      "joinedAt": 1788096256103,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6113312699": {
+      "id": 6113312699,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788096256103,
+      "joinedAt": 1788098337824,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
