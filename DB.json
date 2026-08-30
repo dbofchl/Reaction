@@ -4350,7 +4350,7 @@
     "7247332306": {
       "id": 7247332306,
       "username": "artaannnnnn",
-      "fullName": "ow'nn artan—",
+      "fullName": "𝗼𝘄𝗻'𝘀 𝗮𝗿𝘁𝗮𝗻",
       "points": 0,
       "joinedAt": 1773050956851,
       "lastDaily": null,
@@ -26236,11 +26236,11 @@
     "6385512708": {
       "id": 6385512708,
       "username": "",
-      "fullName": "",
+      "fullName": "sebastian",
       "points": 0,
       "joinedAt": 1788072537898,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
