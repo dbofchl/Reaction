@@ -26246,10 +26246,21 @@
     },
     "5945497443": {
       "id": 5945497443,
+      "username": "Roberttox",
+      "fullName": "Sebastian Muller",
+      "points": 0,
+      "joinedAt": 1788090390531,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8525017227": {
+      "id": 8525017227,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788090390531,
+      "joinedAt": 1788096256103,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
