@@ -26279,10 +26279,21 @@
     },
     "8301795574": {
       "id": 8301795574,
+      "username": "farisbilal",
+      "fullName": "bilal koproy",
+      "points": 0,
+      "joinedAt": 1788140830530,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8066422449": {
+      "id": 8066422449,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788140830530,
+      "joinedAt": 1788146253494,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
