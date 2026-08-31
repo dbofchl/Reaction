@@ -26290,12 +26290,23 @@
     },
     "8066422449": {
       "id": 8066422449,
-      "username": "",
-      "fullName": "",
+      "username": "PanelFireX",
+      "fullName": "PanelFireX FF",
       "points": 0,
       "joinedAt": 1788146253494,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8726151779": {
+      "id": 8726151779,
+      "username": "Zhofrs",
+      "fullName": "Zhaafirr",
+      "points": 0,
+      "joinedAt": 1788149750043,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
