@@ -26412,12 +26412,23 @@
     "7592658366": {
       "id": 7592658366,
       "username": "",
-      "fullName": "",
+      "fullName": "Raju",
       "points": 0,
       "joinedAt": 1788231439087,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8022472840": {
+      "id": 8022472840,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788231448959,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8790533365",
       "referralCount": 0
     }
   },
