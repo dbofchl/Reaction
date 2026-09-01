@@ -26840,10 +26840,21 @@
     },
     "8549619087": {
       "id": 8549619087,
+      "username": "Tanzzy16",
+      "fullName": "Tanzzy",
+      "points": 0,
+      "joinedAt": 1788264928115,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5679884842": {
+      "id": 5679884842,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788264928115,
+      "joinedAt": 1788265547004,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
