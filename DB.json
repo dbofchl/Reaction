@@ -27,6 +27,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "252833695": {
+      "id": 252833695,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788235750149,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "581487909": {
       "id": 581487909,
       "username": "Arisdeejay",
