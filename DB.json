@@ -26510,10 +26510,21 @@
     },
     "8331947448": {
       "id": 8331947448,
+      "username": "Y4DAV_OWNES",
+      "fullName": "MARKO",
+      "points": 0,
+      "joinedAt": 1788233397929,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7299352061": {
+      "id": 7299352061,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788233397929,
+      "joinedAt": 1788234378501,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
