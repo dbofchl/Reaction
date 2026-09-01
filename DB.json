@@ -23789,7 +23789,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7803301347",
-      "referralCount": 2
+      "referralCount": 3
     },
     "7571467515": {
       "id": 7571467515,
@@ -26444,13 +26444,13 @@
     },
     "6181928007": {
       "id": 6181928007,
-      "username": "",
-      "fullName": "",
+      "username": "Jack3130",
+      "fullName": "Jack",
       "points": 0,
       "joinedAt": 1788231474569,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8790533365",
       "referralCount": 0
     }
   },
