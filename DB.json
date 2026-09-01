@@ -26829,10 +26829,21 @@
     },
     "6690938253": {
       "id": 6690938253,
+      "username": "adamyourbae",
+      "fullName": "dam.",
+      "points": 0,
+      "joinedAt": 1788264783231,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8549619087": {
+      "id": 8549619087,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788264783231,
+      "joinedAt": 1788264928115,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
