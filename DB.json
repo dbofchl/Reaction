@@ -23789,7 +23789,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7803301347",
-      "referralCount": 1
+      "referralCount": 2
     },
     "7571467515": {
       "id": 7571467515,
@@ -26423,12 +26423,23 @@
     "8022472840": {
       "id": 8022472840,
       "username": "",
-      "fullName": "",
+      "fullName": "Anita Mgr",
       "points": 0,
       "joinedAt": 1788231448959,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8790533365",
+      "referralCount": 0
+    },
+    "7736389784": {
+      "id": 7736389784,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788231460602,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
