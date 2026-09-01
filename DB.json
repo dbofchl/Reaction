@@ -26599,9 +26599,20 @@
     "8996133783": {
       "id": 8996133783,
       "username": "",
-      "fullName": "",
+      "fullName": "𒈞꧂à̸͇̤̼̗̤̖͕̈́͛̚d̴̛͎̞̮̯͔̮̯́̾à̸͇̤̼̗̤̖͕̈́͛̚m̶ ̬̭͈̩͖̾̏̍͘͝",
       "points": 0,
       "joinedAt": 1788238956800,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8669045434": {
+      "id": 8669045434,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788240671686,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
