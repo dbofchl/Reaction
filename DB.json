@@ -26863,9 +26863,20 @@
     "8953884242": {
       "id": 8953884242,
       "username": "",
-      "fullName": "",
+      "fullName": "Anh Quân",
       "points": 0,
       "joinedAt": 1788266491741,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6756430895": {
+      "id": 6756430895,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788266618418,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
