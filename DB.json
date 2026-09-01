@@ -26346,9 +26346,20 @@
     "7370758547": {
       "id": 7370758547,
       "username": "",
-      "fullName": "",
+      "fullName": "MD 𝙥𝙖𝙧𝙫𝙚𝙯 ×͜× x7😇",
       "points": 0,
       "joinedAt": 1788230641541,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8690666576": {
+      "id": 8690666576,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788230679363,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
