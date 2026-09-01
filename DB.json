@@ -26455,12 +26455,23 @@
     },
     "8181768068": {
       "id": 8181768068,
-      "username": "",
-      "fullName": "",
+      "username": "pakcikz",
+      "fullName": "PAKCIK IMOET",
       "points": 0,
       "joinedAt": 1788231594313,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8656369774": {
+      "id": 8656369774,
+      "username": "",
+      "fullName": "Ayush Ayush",
+      "points": 0,
+      "joinedAt": 1788231672831,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
