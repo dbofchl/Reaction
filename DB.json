@@ -16776,7 +16776,7 @@
     "6937701652": {
       "id": 6937701652,
       "username": "xvarelx",
-      "fullName": "NO ROOT GOK GOK GOK",
+      "fullName": "NO ROOT",
       "points": 0,
       "joinedAt": 1782484565172,
       "lastDaily": null,
@@ -26356,12 +26356,12 @@
     },
     "8690666576": {
       "id": 8690666576,
-      "username": "",
-      "fullName": "",
+      "username": "Fanzyxiterz",
+      "fullName": "Fanzxyterz",
       "points": 0,
       "joinedAt": 1788230679363,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
