@@ -26334,10 +26334,21 @@
     },
     "8157810761": {
       "id": 8157810761,
+      "username": "Warzixces",
+      "fullName": "🇵‌🇦‌🇳‌🇪‌🇱‌ 🇸‌🇪‌🇱‌🇱‌ 🇦‌🇱‌🇱‌ 🇹‌🇮‌🇲‌🇪‌",
+      "points": 0,
+      "joinedAt": 1788230615692,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7370758547": {
+      "id": 7370758547,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788230615692,
+      "joinedAt": 1788230641541,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
