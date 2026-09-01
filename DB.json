@@ -274,6 +274,17 @@
       "lastDaily": "2026-02-28",
       "isNewUser": false
     },
+    "1172779869": {
+      "id": 1172779869,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788272799743,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1184258511": {
       "id": 1184258511,
       "username": "Onlyarshh",
@@ -346,11 +357,11 @@
     "1242777414": {
       "id": 1242777414,
       "username": "",
-      "fullName": "",
+      "fullName": "Nice Try",
       "points": 0,
       "joinedAt": 1788270910077,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
