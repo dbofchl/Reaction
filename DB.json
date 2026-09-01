@@ -26873,10 +26873,21 @@
     },
     "6756430895": {
       "id": 6756430895,
+      "username": "YooskyStore",
+      "fullName": "Rizal x bokls",
+      "points": 0,
+      "joinedAt": 1788266618418,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7032645586": {
+      "id": 7032645586,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788266618418,
+      "joinedAt": 1788267556477,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
