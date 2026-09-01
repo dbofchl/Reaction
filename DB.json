@@ -29,12 +29,12 @@
     },
     "252833695": {
       "id": 252833695,
-      "username": "",
-      "fullName": "",
+      "username": "wsvip49",
+      "fullName": "少主君 Yian",
       "points": 0,
       "joinedAt": 1788235750149,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -26750,13 +26750,6 @@
       "price": 50000,
       "orderId": "BP7735610541MOJY743KG90X",
       "createdAt": 1777460682706
-    },
-    "BP8446174560MPAYSUWHT132": {
-      "userId": 8446174560,
-      "points": 30,
-      "price": 30000,
-      "orderId": "BP8446174560MPAYSUWHT132",
-      "createdAt": 1779094284057
     },
     "BP8206014592MPAZ0E7LNYYU": {
       "userId": 8206014592,
