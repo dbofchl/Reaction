@@ -26741,10 +26741,21 @@
     },
     "7797552663": {
       "id": 7797552663,
+      "username": "hanzynewera",
+      "fullName": "Hanzynewera",
+      "points": 0,
+      "joinedAt": 1788249701904,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7833427892": {
+      "id": 7833427892,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788249701904,
+      "joinedAt": 1788251190064,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
