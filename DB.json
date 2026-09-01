@@ -26587,10 +26587,21 @@
     },
     "6037970298": {
       "id": 6037970298,
+      "username": "natadecontol",
+      "fullName": "natadec0c0",
+      "points": 0,
+      "joinedAt": 1788237999505,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8996133783": {
+      "id": 8996133783,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788237999505,
+      "joinedAt": 1788238956800,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
