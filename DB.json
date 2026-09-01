@@ -26851,10 +26851,21 @@
     },
     "5679884842": {
       "id": 5679884842,
+      "username": "ERIKMODZVIP",
+      "fullName": "ERIKMODZ VIP",
+      "points": 0,
+      "joinedAt": 1788265547004,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8953884242": {
+      "id": 8953884242,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788265547004,
+      "joinedAt": 1788266491741,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
