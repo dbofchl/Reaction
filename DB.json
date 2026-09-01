@@ -26533,9 +26533,20 @@
     "6602567165": {
       "id": 6602567165,
       "username": "",
-      "fullName": "",
+      "fullName": "Artadana Aj",
       "points": 0,
       "joinedAt": 1788234684998,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6890485872": {
+      "id": 6890485872,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788234719783,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
