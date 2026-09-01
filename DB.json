@@ -26675,10 +26675,21 @@
     },
     "8260876682": {
       "id": 8260876682,
+      "username": "hlongiosno1",
+      "fullName": "Kaiser k14 Kaiser k14",
+      "points": 0,
+      "joinedAt": 1788244352667,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5330837344": {
+      "id": 5330837344,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788244352667,
+      "joinedAt": 1788244626299,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
