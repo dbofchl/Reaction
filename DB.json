@@ -26642,12 +26642,23 @@
     },
     "7269042448": {
       "id": 7269042448,
-      "username": "",
-      "fullName": "",
+      "username": "KVE_XIT",
+      "fullName": "KVE",
       "points": 0,
       "joinedAt": 1788243284450,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6567621494": {
+      "id": 6567621494,
+      "username": "ARANGUITO23",
+      "fullName": "Aranguito",
+      "points": 0,
+      "joinedAt": 1788243404352,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
