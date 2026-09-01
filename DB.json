@@ -343,6 +343,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1242777414": {
+      "id": 1242777414,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788270910077,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1254235049": {
       "id": 1254235049,
       "username": "Ceoptlocange",
