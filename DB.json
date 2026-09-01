@@ -26818,10 +26818,21 @@
     },
     "6963493506": {
       "id": 6963493506,
+      "username": "javaadbhai",
+      "fullName": "JAVAAD",
+      "points": 0,
+      "joinedAt": 1788263736287,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6690938253": {
+      "id": 6690938253,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788263736287,
+      "joinedAt": 1788264783231,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
