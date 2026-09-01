@@ -40,12 +40,12 @@
     },
     "569269291": {
       "id": 569269291,
-      "username": "",
-      "fullName": "",
+      "username": "sheikon",
+      "fullName": "𝙇𝘼𝙍𝙂𝘼𝙍𝙏𝙊 ˣⁱᵗ",
       "points": 0,
       "joinedAt": 1788242068098,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -26624,6 +26624,17 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1788240671686,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7717662550": {
+      "id": 7717662550,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788243051055,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
