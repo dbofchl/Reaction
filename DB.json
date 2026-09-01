@@ -26730,10 +26730,21 @@
     },
     "7016487788": {
       "id": 7016487788,
+      "username": "syugar86",
+      "fullName": "SYUGAR 86",
+      "points": 0,
+      "joinedAt": 1788248875512,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7797552663": {
+      "id": 7797552663,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788248875512,
+      "joinedAt": 1788249701904,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
