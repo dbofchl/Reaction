@@ -26462,7 +26462,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8656369774": {
       "id": 8656369774,
@@ -26488,13 +26488,13 @@
     },
     "6852548661": {
       "id": 6852548661,
-      "username": "",
-      "fullName": "",
+      "username": "Doonals",
+      "fullName": "𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭 zain",
       "points": 0,
       "joinedAt": 1788231765732,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8181768068",
       "referralCount": 0
     }
   },
