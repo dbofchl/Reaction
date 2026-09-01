@@ -26521,10 +26521,21 @@
     },
     "7299352061": {
       "id": 7299352061,
+      "username": "Aayushojha101",
+      "fullName": "Aayush Ojha",
+      "points": 0,
+      "joinedAt": 1788234378501,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6602567165": {
+      "id": 6602567165,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788234378501,
+      "joinedAt": 1788234684998,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
