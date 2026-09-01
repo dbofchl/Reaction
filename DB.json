@@ -26631,10 +26631,21 @@
     },
     "7717662550": {
       "id": 7717662550,
+      "username": "Sukasamambg",
+      "fullName": "Pokeee",
+      "points": 0,
+      "joinedAt": 1788243051055,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7269042448": {
+      "id": 7269042448,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788243051055,
+      "joinedAt": 1788243284450,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
