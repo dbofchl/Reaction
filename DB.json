@@ -23789,7 +23789,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7803301347",
-      "referralCount": 0
+      "referralCount": 1
     },
     "7571467515": {
       "id": 7571467515,
@@ -26400,10 +26400,21 @@
     },
     "7723663700": {
       "id": 7723663700,
+      "username": "Bachhugiri100",
+      "fullName": "Bachhu Giri",
+      "points": 0,
+      "joinedAt": 1788231429236,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "8790533365",
+      "referralCount": 0
+    },
+    "7592658366": {
+      "id": 7592658366,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788231429236,
+      "joinedAt": 1788231439087,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
