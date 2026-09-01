@@ -26785,10 +26785,21 @@
     },
     "8057847913": {
       "id": 8057847913,
+      "username": "riztampan",
+      "fullName": "Riz",
+      "points": 0,
+      "joinedAt": 1788256159214,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8439491871": {
+      "id": 8439491871,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788256159214,
+      "joinedAt": 1788256716263,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
