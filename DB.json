@@ -26961,10 +26961,21 @@
     },
     "8746396392": {
       "id": 8746396392,
+      "username": "Rezz157",
+      "fullName": "Rezz Rezz",
+      "points": 0,
+      "joinedAt": 1788314588466,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8953075993": {
+      "id": 8953075993,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788314588466,
+      "joinedAt": 1788314913080,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
