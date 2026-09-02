@@ -26983,10 +26983,21 @@
     },
     "8970991109": {
       "id": 8970991109,
+      "username": "reneusr",
+      "fullName": "Renee `•,~",
+      "points": 0,
+      "joinedAt": 1788329980834,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8386959339": {
+      "id": 8386959339,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788329980834,
+      "joinedAt": 1788330678233,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
