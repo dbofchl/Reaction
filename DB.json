@@ -27027,10 +27027,21 @@
     },
     "6640018472": {
       "id": 6640018472,
+      "username": "HU6282",
+      "fullName": "Insiya Malik",
+      "points": 0,
+      "joinedAt": 1788366375334,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7415550658": {
+      "id": 7415550658,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788366375334,
+      "joinedAt": 1788367005864,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
