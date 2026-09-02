@@ -27016,10 +27016,21 @@
     },
     "8295157599": {
       "id": 8295157599,
+      "username": "Kenzooo_pratama",
+      "fullName": "Pp",
+      "points": 0,
+      "joinedAt": 1788344631451,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6640018472": {
+      "id": 6640018472,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788344631451,
+      "joinedAt": 1788366375334,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
