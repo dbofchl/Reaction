@@ -28239,14 +28239,6 @@
       "orderId": "BP8616859176MTKKPLV7UR24",
       "transaction_id": "0d71708c-1a42-4a7c-a0af-9160bf7636e7",
       "createdAt": 1788382408694
-    },
-    "BP8122954662MTLGAIBVG2BR": {
-      "userId": 8122954662,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8122954662MTLGAIBVG2BR",
-      "transaction_id": "a6abd2d7-2f90-4b02-bee5-c5a07cf4550c",
-      "createdAt": 1788435451968
     }
   },
   "reactCooldownMs": 300000,
