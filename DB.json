@@ -27104,10 +27104,21 @@
     },
     "6285389101": {
       "id": 6285389101,
+      "username": "COD3RRR",
+      "fullName": "COD3R",
+      "points": 0,
+      "joinedAt": 1788431014015,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8122954662": {
+      "id": 8122954662,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788431014015,
+      "joinedAt": 1788435398270,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
