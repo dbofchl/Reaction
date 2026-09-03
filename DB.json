@@ -27126,13 +27126,24 @@
     },
     "7903274067": {
       "id": 7903274067,
-      "username": "",
-      "fullName": "",
+      "username": "bikifx",
+      "fullName": "𝐁𝐈𝐊𝐈 × 𝐀𝐔𝐑𝐀",
       "points": 0,
       "joinedAt": 1788472305802,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8099210878": {
+      "id": 8099210878,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788473243028,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
