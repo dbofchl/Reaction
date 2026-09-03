@@ -27071,12 +27071,23 @@
     },
     "6137446575": {
       "id": 6137446575,
-      "username": "",
-      "fullName": "",
+      "username": "Dep322",
+      "fullName": "dep Jasa root android",
       "points": 0,
       "joinedAt": 1788400120359,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8114587303": {
+      "id": 8114587303,
+      "username": "",
+      "fullName": "Luvi88",
+      "points": 0,
+      "joinedAt": 1788404412328,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
