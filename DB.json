@@ -27101,6 +27101,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6285389101": {
+      "id": 6285389101,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788431014015,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
