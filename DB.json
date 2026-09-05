@@ -27214,10 +27214,21 @@
     },
     "8479198300": {
       "id": 8479198300,
+      "username": "Azizgtng",
+      "fullName": "Ajis",
+      "points": 0,
+      "joinedAt": 1788604379356,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8645987918": {
+      "id": 8645987918,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788604379356,
+      "joinedAt": 1788634876054,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
