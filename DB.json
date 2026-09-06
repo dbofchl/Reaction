@@ -27258,10 +27258,21 @@
     },
     "8230877429": {
       "id": 8230877429,
+      "username": "haharuru001",
+      "fullName": "haha Ruru",
+      "points": 0,
+      "joinedAt": 1788687038024,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8972455421": {
+      "id": 8972455421,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1788687038024,
+      "joinedAt": 1788692204710,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
