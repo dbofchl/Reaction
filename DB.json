@@ -1017,6 +1017,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1869844762": {
+      "id": 1869844762,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1788795964017,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1876376399": {
       "id": 1876376399,
       "username": "SolarTiden",
