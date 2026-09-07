@@ -1019,12 +1019,12 @@
     },
     "1869844762": {
       "id": 1869844762,
-      "username": "",
-      "fullName": "",
+      "username": "ramdan9809",
+      "fullName": "Ramdan Alamsyah",
       "points": 0,
       "joinedAt": 1788795964017,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -17954,7 +17954,7 @@
       "id": 6756064586,
       "username": "ReyzNoDevv",
       "fullName": "—𝙍𝟮𝙆𝙣𝙜𝗠𝗼𝗱𝘀 雷茲",
-      "points": 22,
+      "points": 20,
       "joinedAt": 1782786711459,
       "lastDaily": null,
       "isNewUser": false,
@@ -27364,7 +27364,7 @@
     "6442039166": 1785029184158,
     "7617366514": 1784535063225,
     "8677011932": 1788386578454,
-    "6756064586": 1788795749723
+    "6756064586": 1788797254134
   },
   "pendingOrders": {
     "BP1368848281MM4FF94MIOKQ": {
