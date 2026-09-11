@@ -27390,10 +27390,21 @@
     },
     "7009206165": {
       "id": 7009206165,
+      "username": "gaitwuw",
+      "fullName": "@azbnn",
+      "points": 0,
+      "joinedAt": 1789052663810,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8791215033": {
+      "id": 8791215033,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1789052663810,
+      "joinedAt": 1789094508167,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
