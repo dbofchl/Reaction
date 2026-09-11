@@ -2107,7 +2107,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8359149620": {
       "id": 8359149620,
@@ -27401,13 +27401,24 @@
     },
     "8791215033": {
       "id": 8791215033,
-      "username": "",
-      "fullName": "",
+      "username": "Yogzstorz",
+      "fullName": "GW CELZz",
       "points": 0,
       "joinedAt": 1789094508167,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8099652475": {
+      "id": 8099652475,
+      "username": "XXX_2434",
+      "fullName": "AYMEM LAR",
+      "points": 0,
+      "joinedAt": 1789104405762,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
