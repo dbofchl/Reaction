@@ -27435,9 +27435,20 @@
     "7656782359": {
       "id": 7656782359,
       "username": "",
-      "fullName": "",
+      "fullName": "A M",
       "points": 0,
       "joinedAt": 1789272182727,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7912150198": {
+      "id": 7912150198,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1789273386876,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
