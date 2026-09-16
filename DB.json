@@ -99,6 +99,17 @@
       "isNewUser": false,
       "referralCount": 1
     },
+    "889627189": {
+      "id": 889627189,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1789560378822,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "923675879": {
       "id": 923675879,
       "username": "Namusantensin",
