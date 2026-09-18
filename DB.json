@@ -27523,9 +27523,20 @@
     "6280395275": {
       "id": 6280395275,
       "username": "",
-      "fullName": "",
+      "fullName": "Reizin",
       "points": 0,
       "joinedAt": 1789696677954,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7959615391": {
+      "id": 7959615391,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1789696959229,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
