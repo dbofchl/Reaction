@@ -27511,10 +27511,21 @@
     },
     "6092057616": {
       "id": 6092057616,
+      "username": "userr33333333",
+      "fullName": "user",
+      "points": 0,
+      "joinedAt": 1789656085767,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6280395275": {
+      "id": 6280395275,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1789656085767,
+      "joinedAt": 1789696677954,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
