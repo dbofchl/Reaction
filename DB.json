@@ -10483,8 +10483,8 @@
     },
     "7983962160": {
       "id": 7983962160,
-      "username": "",
-      "fullName": "GRINGO XP",
+      "username": "gringo_esp",
+      "fullName": "GRINGO ESP 🅥",
       "points": 0,
       "joinedAt": 1782221341494,
       "lastDaily": null,
@@ -27583,7 +27583,7 @@
       "joinedAt": 1789885384516,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7665977051",
       "referralCount": 0
     }
   },
