@@ -27596,6 +27596,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8390051721": {
+      "id": 8390051721,
+      "username": "Ikyyuury",
+      "fullName": "#kay Riss",
+      "points": 0,
+      "joinedAt": 1789903104537,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
