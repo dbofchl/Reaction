@@ -27566,10 +27566,21 @@
     },
     "7665977051": {
       "id": 7665977051,
+      "username": "LIOSMODDER",
+      "fullName": "Salvatore",
+      "points": 0,
+      "joinedAt": 1789885294693,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8341153642": {
+      "id": 8341153642,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1789885294693,
+      "joinedAt": 1789885384516,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
