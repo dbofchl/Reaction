@@ -27621,10 +27621,21 @@
     },
     "7938749073": {
       "id": 7938749073,
+      "username": "sham_bhaii",
+      "fullName": "EHTASHAM ALI",
+      "points": 0,
+      "joinedAt": 1789980667464,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6201552432": {
+      "id": 6201552432,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1789980667464,
+      "joinedAt": 1789991050252,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
