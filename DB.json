@@ -27640,6 +27640,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6392043355": {
+      "id": 6392043355,
+      "username": "fiszciter",
+      "fullName": "F",
+      "points": 0,
+      "joinedAt": 1789998137015,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
