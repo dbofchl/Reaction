@@ -27687,12 +27687,23 @@
     },
     "8554965979": {
       "id": 8554965979,
-      "username": "",
-      "fullName": "",
+      "username": "Zeyy4xas",
+      "fullName": "⏤͟͟͞Zeyy4x #𝟑𝟎𝟑🐦‍🔥",
       "points": 0,
       "joinedAt": 1790075548105,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8441037293": {
+      "id": 8441037293,
+      "username": "Nunik6",
+      "fullName": "VINZA KAM 💮🦋",
+      "points": 0,
+      "joinedAt": 1790081964116,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
