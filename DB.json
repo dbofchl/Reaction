@@ -27661,16 +27661,16 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "8627939610": {
       "id": 8627939610,
-      "username": "",
-      "fullName": "",
+      "username": "qzvryn",
+      "fullName": "𝑳𝒐𝒐𝒌 𝒂𝒕 𝒎𝒆. 🪱",
       "points": 0,
       "joinedAt": 1790061734815,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8193137947",
       "referralCount": 0
     }
