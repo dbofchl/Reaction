@@ -27732,11 +27732,11 @@
     "8513508576": {
       "id": 8513508576,
       "username": "",
-      "fullName": "",
+      "fullName": "Piyush Kumar",
       "points": 0,
       "joinedAt": 1790132411867,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -28849,6 +28849,14 @@
       "orderId": "BP8616859176MTKKPLV7UR24",
       "transaction_id": "0d71708c-1a42-4a7c-a0af-9160bf7636e7",
       "createdAt": 1788382408694
+    },
+    "BP8513508576MUDIXK0PO42E": {
+      "userId": 8513508576,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8513508576MUDIXK0PO42E",
+      "transaction_id": "e5b98485-39ef-48f5-a942-75bf717e93f1",
+      "createdAt": 1790132939426
     }
   },
   "reactCooldownMs": 300000,
