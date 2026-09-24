@@ -27739,6 +27739,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6853389815": {
+      "id": 6853389815,
+      "username": "",
+      "fullName": "Lọ Thánh Chí Tôn",
+      "points": 0,
+      "joinedAt": 1790216786413,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
