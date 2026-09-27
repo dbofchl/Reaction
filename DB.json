@@ -27786,12 +27786,23 @@
     },
     "7038977112": {
       "id": 7038977112,
-      "username": "",
-      "fullName": "",
+      "username": "Just_AbDoS",
+      "fullName": "Abdu Samir",
       "points": 0,
       "joinedAt": 1790498315933,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5800788167": {
+      "id": 5800788167,
+      "username": "vivek1731",
+      "fullName": "Vivek",
+      "points": 0,
+      "joinedAt": 1790499553897,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
