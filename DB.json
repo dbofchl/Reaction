@@ -27838,6 +27838,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7926419356": {
+      "id": 7926419356,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790586577120,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
