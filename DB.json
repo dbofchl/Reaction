@@ -27820,9 +27820,20 @@
     "6375582678": {
       "id": 6375582678,
       "username": "",
-      "fullName": "",
+      "fullName": "Niko Modzz",
       "points": 0,
       "joinedAt": 1790552397144,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "5326754809": {
+      "id": 5326754809,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790581285861,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
