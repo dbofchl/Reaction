@@ -27852,12 +27852,12 @@
     },
     "7297952208": {
       "id": 7297952208,
-      "username": "",
-      "fullName": "",
+      "username": "koruseii",
+      "fullName": "korusei",
       "points": 0,
       "joinedAt": 1790649896268,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
