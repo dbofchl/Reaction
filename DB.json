@@ -28025,6 +28025,17 @@
       "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
+    },
+    "6060636471": {
+      "id": 6060636471,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790753855482,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8781084219",
+      "referralCount": 0
     }
   },
   "admins": [
