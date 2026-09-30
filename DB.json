@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7443785980": {
       "id": 7443785980,
@@ -28007,12 +28007,12 @@
     "8919439197": {
       "id": 8919439197,
       "username": "",
-      "fullName": "",
+      "fullName": "Phyo Khant",
       "points": 0,
       "joinedAt": 1790753815193,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
