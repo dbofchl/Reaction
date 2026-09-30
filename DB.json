@@ -27903,7 +27903,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7443785980": {
       "id": 7443785980,
@@ -28095,11 +28095,11 @@
     "8210198583": {
       "id": 8210198583,
       "username": "",
-      "fullName": "",
+      "fullName": "Vothanh Nhân",
       "points": 0,
       "joinedAt": 1790754548122,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
