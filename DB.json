@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7443785980": {
       "id": 7443785980,
@@ -27985,11 +27985,11 @@
     "8925060781": {
       "id": 8925060781,
       "username": "",
-      "fullName": "",
+      "fullName": "Vinz Tayamora",
       "points": 0,
       "joinedAt": 1790753543941,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
