@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7443785980": {
       "id": 7443785980,
@@ -27995,13 +27995,13 @@
     },
     "8711122219": {
       "id": 8711122219,
-      "username": "",
-      "fullName": "",
+      "username": "justineeeyudisss",
+      "fullName": "justine yudiss",
       "points": 0,
       "joinedAt": 1790753726663,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
