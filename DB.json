@@ -1231,6 +1231,17 @@
       "invitedBy": null,
       "referralCount": 0
     },
+    "2030826072": {
+      "id": 2030826072,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790749999876,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2033719106": {
       "id": 2033719106,
       "username": "synnzox",
@@ -27874,12 +27885,12 @@
     },
     "8781084219": {
       "id": 8781084219,
-      "username": "",
-      "fullName": "",
+      "username": "faruq2e",
+      "fullName": "FARUQ STORE REAL",
       "points": 0,
       "joinedAt": 1790749103855,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
