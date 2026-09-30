@@ -1228,7 +1228,7 @@
       "joinedAt": 1790754079102,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "8781084219",
       "referralCount": 0
     },
     "2021158294": {
@@ -27898,7 +27898,7 @@
       "id": 8781084219,
       "username": "faruq2e",
       "fullName": "FARUQ STORE REAL",
-      "points": 2,
+      "points": 0,
       "joinedAt": 1790749103855,
       "lastDaily": null,
       "isNewUser": false,
@@ -28112,7 +28112,8 @@
     "6442039166": 1785029184158,
     "7617366514": 1784535063225,
     "8677011932": 1789516958077,
-    "6756064586": 1789132859349
+    "6756064586": 1789132859349,
+    "8781084219": 1790754080256
   },
   "pendingOrders": {
     "BP1368848281MM4FF94MIOKQ": {
