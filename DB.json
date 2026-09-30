@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7443785980": {
       "id": 7443785980,
@@ -27940,12 +27940,12 @@
     },
     "6574663240": {
       "id": 6574663240,
-      "username": "",
-      "fullName": "",
+      "username": "K_ian091",
+      "fullName": "Cxan.",
       "points": 0,
       "joinedAt": 1790751920413,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
