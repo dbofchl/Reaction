@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7443785980": {
       "id": 7443785980,
@@ -27908,12 +27908,12 @@
     "8888040348": {
       "id": 8888040348,
       "username": "",
-      "fullName": "",
+      "fullName": "HAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHAAH HAHAAHAHAHAHAHAHAHAAHHAHAAGGAAHAHHAAHAHAHAH",
       "points": 0,
       "joinedAt": 1790750580180,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
