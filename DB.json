@@ -27887,12 +27887,12 @@
       "id": 8781084219,
       "username": "faruq2e",
       "fullName": "FARUQ STORE REAL",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1790749103855,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 4
+      "referralCount": 0
     },
     "7443785980": {
       "id": 7443785980,
@@ -27963,11 +27963,11 @@
     "8527706557": {
       "id": 8527706557,
       "username": "",
-      "fullName": "",
+      "fullName": "Electric Claw",
       "points": 0,
       "joinedAt": 1790753499949,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
