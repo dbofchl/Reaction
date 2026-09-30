@@ -1233,12 +1233,12 @@
     },
     "2030826072": {
       "id": 2030826072,
-      "username": "",
-      "fullName": "",
+      "username": "alpoluvluv",
+      "fullName": "Lucaas Xvd",
       "points": 0,
       "joinedAt": 1790749999876,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -27892,6 +27892,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "7443785980": {
+      "id": 7443785980,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790750308976,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
