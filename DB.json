@@ -28168,6 +28168,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7714272958": {
+      "id": 7714272958,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1790780650048,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
