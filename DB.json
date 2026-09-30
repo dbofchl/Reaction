@@ -27898,12 +27898,12 @@
       "id": 8781084219,
       "username": "faruq2e",
       "fullName": "FARUQ STORE REAL",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1790749103855,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 4
+      "referralCount": 0
     },
     "7443785980": {
       "id": 7443785980,
@@ -28127,13 +28127,13 @@
     },
     "8600772038": {
       "id": 8600772038,
-      "username": "",
-      "fullName": "",
+      "username": "raptzydoangs",
+      "fullName": "ʀᴀᴘɪᴜ.𝙴𝚇𝙴†",
       "points": 0,
       "joinedAt": 1790756173291,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
