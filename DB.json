@@ -27892,7 +27892,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "7443785980": {
       "id": 7443785980,
@@ -27929,12 +27929,12 @@
     },
     "8714628839": {
       "id": 8714628839,
-      "username": "",
-      "fullName": "",
+      "username": "MARCOYTRX",
+      "fullName": "MARCOYTT",
       "points": 0,
       "joinedAt": 1790750971811,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
