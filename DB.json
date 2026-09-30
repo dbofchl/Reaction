@@ -27892,16 +27892,16 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7443785980": {
       "id": 7443785980,
-      "username": "",
-      "fullName": "",
+      "username": "leesa51",
+      "fullName": "n",
       "points": 0,
       "joinedAt": 1790750308976,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
