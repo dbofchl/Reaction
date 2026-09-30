@@ -27903,7 +27903,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "7443785980": {
       "id": 7443785980,
@@ -28084,11 +28084,11 @@
     "8224688725": {
       "id": 8224688725,
       "username": "",
-      "fullName": "",
+      "fullName": "Justin Kurt Fernandez",
       "points": 0,
       "joinedAt": 1790754488582,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
