@@ -27903,7 +27903,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7443785980": {
       "id": 7443785980,
@@ -28061,13 +28061,13 @@
     },
     "5579600721": {
       "id": 5579600721,
-      "username": "",
-      "fullName": "",
+      "username": "TNLDexx1011",
+      "fullName": "Quality Dexx",
       "points": 0,
       "joinedAt": 1790754357847,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
