@@ -27903,7 +27903,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 4
     },
     "7443785980": {
       "id": 7443785980,
@@ -28105,13 +28105,13 @@
     },
     "5430140372": {
       "id": 5430140372,
-      "username": "",
-      "fullName": "",
+      "username": "Awimangmang",
+      "fullName": "Awi Mang",
       "points": 0,
       "joinedAt": 1790755353207,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8781084219",
       "referralCount": 0
     }
   },
