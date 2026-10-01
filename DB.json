@@ -27903,7 +27903,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7443785980": {
       "id": 7443785980,
@@ -28182,12 +28182,12 @@
     },
     "8857587340": {
       "id": 8857587340,
-      "username": "",
-      "fullName": "",
+      "username": "kianshopq",
+      "fullName": "Subo moto",
       "points": 0,
       "joinedAt": 1790846800232,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8781084219",
       "referralCount": 0
     }
