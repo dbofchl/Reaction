@@ -28226,10 +28226,21 @@
     },
     "7760767733": {
       "id": 7760767733,
+      "username": "Fakhriigntg1",
+      "fullName": "Fakhri Gntgg",
+      "points": 0,
+      "joinedAt": 1790999544039,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8985195654": {
+      "id": 8985195654,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1790999544039,
+      "joinedAt": 1791032711310,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
