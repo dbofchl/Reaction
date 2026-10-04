@@ -28238,9 +28238,20 @@
     "8985195654": {
       "id": 8985195654,
       "username": "",
-      "fullName": "",
+      "fullName": "hhh",
       "points": 0,
       "joinedAt": 1791032711310,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7008479467": {
+      "id": 7008479467,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791079222948,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
