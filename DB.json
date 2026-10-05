@@ -28259,10 +28259,21 @@
     },
     "6060740651": {
       "id": 6060740651,
+      "username": "Kevinnn23456",
+      "fullName": "Kevin Grand",
+      "points": 0,
+      "joinedAt": 1791131552335,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8920639993": {
+      "id": 8920639993,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791131552335,
+      "joinedAt": 1791197886419,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
