@@ -28336,10 +28336,21 @@
     },
     "6877042729": {
       "id": 6877042729,
+      "username": "sukapujii",
+      "fullName": "Epep Ep",
+      "points": 0,
+      "joinedAt": 1791332460111,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7784209138": {
+      "id": 7784209138,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791332460111,
+      "joinedAt": 1791344046683,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
