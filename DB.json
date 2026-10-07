@@ -1360,6 +1360,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "2086495626": {
+      "id": 2086495626,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791347159116,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2088042532": {
       "id": 2088042532,
       "username": "JAAT_OP7",
@@ -28347,12 +28358,12 @@
     },
     "7784209138": {
       "id": 7784209138,
-      "username": "",
-      "fullName": "",
+      "username": "hudaxitz9",
+      "fullName": "𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭⸙ꠋꠋꠋ꙰緒꙰ ้้้้้้้้้้้้้Hͥ̽ͣ̃̔꙰U̠҉̷̙ͦ ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ D̶͔̭̪̻ ׁׅࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧA꙰緒็็็็็็็็็็็็็𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭꙰⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ",
       "points": 0,
       "joinedAt": 1791344046683,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
