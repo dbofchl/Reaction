@@ -28380,10 +28380,21 @@
     },
     "8677712662": {
       "id": 8677712662,
+      "username": "Alxiterr",
+      "fullName": "Panggil Al Aja",
+      "points": 0,
+      "joinedAt": 1791395616800,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7472724340": {
+      "id": 7472724340,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791395616800,
+      "joinedAt": 1791405360829,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
