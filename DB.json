@@ -28399,6 +28399,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6012691934": {
+      "id": 6012691934,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791446738416,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
