@@ -28413,10 +28413,21 @@
     },
     "5182028751": {
       "id": 5182028751,
+      "username": "RianSaputra05",
+      "fullName": "iian.nr",
+      "points": 0,
+      "joinedAt": 1791481410673,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8950956611": {
+      "id": 8950956611,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791481410673,
+      "joinedAt": 1791487237267,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
