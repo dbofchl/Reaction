@@ -26259,7 +26259,7 @@
     "8478579774": {
       "id": 8478579774,
       "username": "D_XKL",
-      "fullName": "🌀 𝐑𝐗𝐓𝐞𝐚𝐦 : 𝗦𝗠𝗢𝗞𝗘𝗥 ⛩️",
+      "fullName": "𝐑𝐗𝐓𝐞𝐚𝐦 : 𝗦𝗠𝗢𝗞𝗘𝗥ㅤᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ⃝ᡃ",
       "points": 0,
       "joinedAt": 1787865480487,
       "lastDaily": null,
@@ -28597,6 +28597,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "8568472996",
+      "referralCount": 0
+    },
+    "5677312978": {
+      "id": 5677312978,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791584902052,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
