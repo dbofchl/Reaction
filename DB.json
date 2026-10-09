@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -28781,6 +28781,17 @@
       "fullName": "Jay",
       "points": 0,
       "joinedAt": 1791586247588,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8778517864": {
+      "id": 8778517864,
+      "username": "",
+      "fullName": "𝔭𝔞𝔨𝔦𝔦 𝔶𝔱𝔱𝔞 𝔞𝔧𝔞",
+      "points": 0,
+      "joinedAt": 1791586418305,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
