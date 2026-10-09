@@ -28520,7 +28520,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 2
+      "referralCount": 3
     },
     "8747556720": {
       "id": 8747556720,
@@ -28579,13 +28579,13 @@
     },
     "7650194287": {
       "id": 7650194287,
-      "username": "",
-      "fullName": "",
+      "username": "moxiff9TeamX0",
+      "fullName": "𝐦𝐨𝐱𝐢",
       "points": 0,
       "joinedAt": 1791584865352,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8568472996",
       "referralCount": 0
     }
   },
