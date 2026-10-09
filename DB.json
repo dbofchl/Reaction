@@ -28740,17 +28740,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 0
+      "referralCount": 1
     },
     "8687844736": {
       "id": 8687844736,
       "username": "",
-      "fullName": "",
+      "fullName": "Raymundo Ff",
       "points": 0,
       "joinedAt": 1791585530288,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8541759170",
       "referralCount": 0
     }
   },
