@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -957,6 +957,17 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1783652540292,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "1813739192": {
+      "id": 1813739192,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791584992859,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
@@ -28623,12 +28634,12 @@
     },
     "5231036035": {
       "id": 5231036035,
-      "username": "",
-      "fullName": "",
+      "username": "David199302",
+      "fullName": "𝘿𝙖𝙫𝙞𝙙",
       "points": 0,
       "joinedAt": 1791584978030,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
