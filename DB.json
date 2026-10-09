@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -28678,13 +28678,13 @@
     },
     "6878959898": {
       "id": 6878959898,
-      "username": "",
-      "fullName": "",
+      "username": "renosakral_17",
+      "fullName": "ren",
       "points": 0,
       "joinedAt": 1791585271017,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
