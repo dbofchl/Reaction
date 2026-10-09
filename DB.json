@@ -28711,10 +28711,21 @@
     },
     "7712773532": {
       "id": 7712773532,
+      "username": "DihanSuck",
+      "fullName": "kim ju-eun",
+      "points": 0,
+      "joinedAt": 1791585356813,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7526786981": {
+      "id": 7526786981,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791585356813,
+      "joinedAt": 1791585367543,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
