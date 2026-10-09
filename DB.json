@@ -28520,7 +28520,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 0
+      "referralCount": 1
     },
     "8747556720": {
       "id": 8747556720,
@@ -28546,12 +28546,12 @@
     },
     "8078765128": {
       "id": 8078765128,
-      "username": "",
-      "fullName": "",
+      "username": "MINOR_082",
+      "fullName": "𝑺𝑴𝑶𝑲𝑰𝑵",
       "points": 0,
       "joinedAt": 1791584834967,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8568472996",
       "referralCount": 0
     }
