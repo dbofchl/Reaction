@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -28652,6 +28652,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "8568472996",
+      "referralCount": 0
+    },
+    "7294712568": {
+      "id": 7294712568,
+      "username": "",
+      "fullName": "Weg Ggu",
+      "points": 0,
+      "joinedAt": 1791585158355,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
