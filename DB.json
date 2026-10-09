@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -28690,9 +28690,20 @@
     "8739676519": {
       "id": 8739676519,
       "username": "",
-      "fullName": "",
+      "fullName": "乙ᴇʀᴏx ㅤ 모",
       "points": 0,
       "joinedAt": 1791585329436,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7147898262": {
+      "id": 7147898262,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791585340086,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
