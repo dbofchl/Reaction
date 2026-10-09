@@ -398,12 +398,12 @@
     },
     "1263447532": {
       "id": 1263447532,
-      "username": "",
-      "fullName": "",
+      "username": "rafliiansyah",
+      "fullName": "rafli",
       "points": 0,
       "joinedAt": 1791584726429,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -2162,7 +2162,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "8359149620": {
       "id": 8359149620,
@@ -25124,8 +25124,8 @@
     },
     "8909400071": {
       "id": 8909400071,
-      "username": "",
-      "fullName": "Koe Suwer",
+      "username": "PalzxXx",
+      "fullName": "Fizzz",
       "points": 0,
       "joinedAt": 1785197122265,
       "lastDaily": null,
@@ -28447,34 +28447,56 @@
     "8659431016": {
       "id": 8659431016,
       "username": "",
-      "fullName": "",
+      "fullName": "Aku suka kmu",
       "points": 0,
       "joinedAt": 1791584726403,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
     "8319057634": {
       "id": 8319057634,
-      "username": "",
-      "fullName": "",
+      "username": "Tannz3",
+      "fullName": "FATAN XYTER",
       "points": 0,
       "joinedAt": 1791584726471,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
     "7850229918": {
       "id": 7850229918,
-      "username": "",
-      "fullName": "",
+      "username": "hamzxiterz",
+      "fullName": "Hamz Xiterz",
       "points": 0,
       "joinedAt": 1791584726506,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7261347097",
+      "referralCount": 0
+    },
+    "8595549731": {
+      "id": 8595549731,
+      "username": "",
+      "fullName": "Jose Jiménez",
+      "points": 0,
+      "joinedAt": 1791584726921,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7693542450": {
+      "id": 7693542450,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791584726953,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
