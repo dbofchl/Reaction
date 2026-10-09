@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -28513,12 +28513,23 @@
     },
     "8568472996": {
       "id": 8568472996,
-      "username": "",
-      "fullName": "",
+      "username": "L39rb64",
+      "fullName": "Z O R O",
       "points": 0,
       "joinedAt": 1791584791073,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8747556720": {
+      "id": 8747556720,
+      "username": "",
+      "fullName": "Kdd Ivetmi",
+      "points": 0,
+      "joinedAt": 1791584791647,
+      "lastDaily": null,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
