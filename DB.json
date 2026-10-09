@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -28810,13 +28810,24 @@
     },
     "5131256884": {
       "id": 5131256884,
-      "username": "",
-      "fullName": "",
+      "username": "TINZZxXITERS",
+      "fullName": "TINZZxXITERS V2",
       "points": 0,
       "joinedAt": 1791586749152,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "5607228680": {
+      "id": 5607228680,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791586982173,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
