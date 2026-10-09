@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -28986,10 +28986,21 @@
     },
     "8103855911": {
       "id": 8103855911,
+      "username": "wilsonyaspe",
+      "fullName": "Wilson",
+      "points": 0,
+      "joinedAt": 1791590312611,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7062933640": {
+      "id": 7062933640,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1791590312611,
+      "joinedAt": 1791590336893,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
