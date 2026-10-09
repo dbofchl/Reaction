@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -12351,7 +12351,7 @@
     "6356159896": {
       "id": 6356159896,
       "username": "LihZzxit",
-      "fullName": "gálihh.",
+      "fullName": "gálihh. (limit)",
       "points": 0,
       "joinedAt": 1782279491498,
       "lastDaily": null,
@@ -28722,13 +28722,13 @@
     },
     "7526786981": {
       "id": 7526786981,
-      "username": "",
-      "fullName": "",
+      "username": "fazastecu",
+      "fullName": "FAZA",
       "points": 0,
       "joinedAt": 1791585367543,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
