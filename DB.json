@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988941,
+      "points": 99988942,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -27095,7 +27095,7 @@
     "8492932189": {
       "id": 8492932189,
       "username": "KingpinixHot50i",
-      "fullName": "Alif | Helio g81",
+      "fullName": "Kakangkuh",
       "points": 0,
       "joinedAt": 1788332691671,
       "lastDaily": null,
@@ -28909,12 +28909,12 @@
     },
     "7934651075": {
       "id": 7934651075,
-      "username": "",
-      "fullName": "",
+      "username": "Lopezhgx12",
+      "fullName": "William Moreno",
       "points": 0,
       "joinedAt": 1791588763535,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
