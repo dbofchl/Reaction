@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -754,7 +754,7 @@
     "1526842722": {
       "id": 1526842722,
       "username": "RambeyS3",
-      "fullName": "§ 𝙍𝙖𝙢𝙗𝙚𝙮",
+      "fullName": "𝙍𝙖𝙢𝙗𝙚𝙮",
       "points": 0,
       "joinedAt": 1783660760499,
       "lastDaily": null,
@@ -28755,12 +28755,12 @@
     },
     "7931279341": {
       "id": 7931279341,
-      "username": "",
-      "fullName": "",
+      "username": "Ryam018",
+      "fullName": "Ryam",
       "points": 0,
       "joinedAt": 1791585612718,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
