@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -28832,13 +28832,13 @@
     },
     "7049950029": {
       "id": 7049950029,
-      "username": "",
-      "fullName": "",
+      "username": "onlyfix777",
+      "fullName": "Jubayer Ahmed Evan",
       "points": 0,
       "joinedAt": 1791587356975,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
