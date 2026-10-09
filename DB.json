@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -28535,12 +28535,12 @@
     },
     "6181211771": {
       "id": 6181211771,
-      "username": "",
-      "fullName": "",
+      "username": "PREDICTORSPEEDY",
+      "fullName": "SILENT X PREDICTION",
       "points": 0,
       "joinedAt": 1791584817026,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
