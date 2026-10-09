@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -28916,6 +28916,28 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8956704808": {
+      "id": 8956704808,
+      "username": "",
+      "fullName": "THE SAGA",
+      "points": 0,
+      "joinedAt": 1791588857889,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7234427722": {
+      "id": 7234427722,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791589249486,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
