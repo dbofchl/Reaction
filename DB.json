@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -28931,13 +28931,13 @@
     },
     "7234427722": {
       "id": 7234427722,
-      "username": "",
-      "fullName": "",
+      "username": "Singleboy258",
+      "fullName": "Nur mohammed",
       "points": 0,
       "joinedAt": 1791589249486,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
