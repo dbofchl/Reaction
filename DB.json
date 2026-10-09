@@ -28520,7 +28520,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 1
+      "referralCount": 2
     },
     "8747556720": {
       "id": 8747556720,
@@ -28557,13 +28557,13 @@
     },
     "8249591917": {
       "id": 8249591917,
-      "username": "",
-      "fullName": "",
+      "username": "XAnouar",
+      "fullName": "Λｎｗａｒ科",
       "points": 0,
       "joinedAt": 1791584853134,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8568472996",
       "referralCount": 0
     }
   },
