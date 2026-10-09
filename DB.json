@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -28942,13 +28942,24 @@
     },
     "8532496335": {
       "id": 8532496335,
-      "username": "",
-      "fullName": "",
+      "username": "diliplaura",
+      "fullName": "DILIP LAURA",
       "points": 0,
       "joinedAt": 1791589393999,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8320707283": {
+      "id": 8320707283,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791589400683,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
