@@ -543,7 +543,8 @@
       "points": 99988936,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -28497,6 +28498,28 @@
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "8517890928": {
+      "id": 8517890928,
+      "username": "kingdvnzy",
+      "fullName": "KING DVN",
+      "points": 0,
+      "joinedAt": 1791584785088,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8568472996": {
+      "id": 8568472996,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791584791073,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
