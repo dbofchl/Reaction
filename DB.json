@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988939,
+      "points": 99988940,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -28800,9 +28800,20 @@
     "8595824525": {
       "id": 8595824525,
       "username": "",
-      "fullName": "",
+      "fullName": "Redji G",
       "points": 0,
       "joinedAt": 1791586721946,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "5131256884": {
+      "id": 5131256884,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791586749152,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
