@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -22056,8 +22056,8 @@
     },
     "8135498990": {
       "id": 8135498990,
-      "username": "yantolek",
-      "fullName": "-Ambaaaaaa (𝔰𝔦𝔩𝔢𝔫𝔠𝔢)",
+      "username": "gurih10",
+      "fullName": "idk",
       "points": 0,
       "joinedAt": 1784341698622,
       "lastDaily": null,
@@ -28887,13 +28887,13 @@
     },
     "5489025766": {
       "id": 5489025766,
-      "username": "",
-      "fullName": "",
+      "username": "marajhusseinraju",
+      "fullName": "Drip Client AKASH",
       "points": 0,
       "joinedAt": 1791588402026,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
