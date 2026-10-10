@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -29119,12 +29119,23 @@
     "6497307599": {
       "id": 6497307599,
       "username": "",
-      "fullName": "",
+      "fullName": "Priyanshuraj",
       "points": 0,
       "joinedAt": 1791594832746,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7953170336": {
+      "id": 7953170336,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791594874124,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
