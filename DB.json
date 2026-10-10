@@ -29564,6 +29564,17 @@
       "joinedAt": 1791607421399,
       "lastDaily": null,
       "isNewUser": true,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7037555256": {
+      "id": 7037555256,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791607777293,
+      "lastDaily": null,
+      "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
     }
