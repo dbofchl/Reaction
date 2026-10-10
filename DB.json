@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -29262,9 +29262,20 @@
     "8816515088": {
       "id": 8816515088,
       "username": "",
-      "fullName": "",
+      "fullName": "Vuitton",
       "points": 0,
       "joinedAt": 1791597696260,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8928929206": {
+      "id": 8928929206,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791597698697,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
