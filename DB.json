@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -12626,7 +12626,7 @@
     "8451322282": {
       "id": 8451322282,
       "username": "Jackcreed11",
-      "fullName": "Huy🇻🇳",
+      "fullName": "Huy",
       "points": 0,
       "joinedAt": 1782281190139,
       "lastDaily": null,
@@ -29603,12 +29603,12 @@
     "8380419240": {
       "id": 8380419240,
       "username": "",
-      "fullName": "",
+      "fullName": "Kai Anh",
       "points": 0,
       "joinedAt": 1791608608783,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
