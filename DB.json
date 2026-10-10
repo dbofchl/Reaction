@@ -28555,7 +28555,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 3
+      "referralCount": 4
     },
     "8747556720": {
       "id": 8747556720,
@@ -29769,12 +29769,12 @@
     },
     "8850089422": {
       "id": 8850089422,
-      "username": "",
-      "fullName": "",
+      "username": "Mcv777",
+      "fullName": "M",
       "points": 0,
       "joinedAt": 1791633328301,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8568472996",
       "referralCount": 0
     }
