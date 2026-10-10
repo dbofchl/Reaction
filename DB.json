@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -981,6 +981,17 @@
       "joinedAt": 1772223242035,
       "lastDaily": "2026-02-28",
       "isNewUser": false
+    },
+    "1817172413": {
+      "id": 1817172413,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791597667854,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     },
     "1836733657": {
       "id": 1836733657,
@@ -29239,13 +29250,13 @@
     },
     "8003665434": {
       "id": 8003665434,
-      "username": "",
-      "fullName": "",
+      "username": "WannSTUR",
+      "fullName": "𝙒𝙖𝙣𝙣 𝙃𝙖𝙣𝙙𝙨𝙤𝙢𝙚",
       "points": 0,
       "joinedAt": 1791597482138,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
