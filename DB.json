@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -29067,6 +29067,17 @@
       "fullName": "𝒮𝒶𝓀𝓏𝓍𝒩𝑜𝓉𝒟𝑒𝓋𝐌λ𖥞𝐔",
       "points": 0,
       "joinedAt": 1791591629440,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7670219679": {
+      "id": 7670219679,
+      "username": "KyzzxVip",
+      "fullName": "Kyzzxx 👾",
+      "points": 0,
+      "joinedAt": 1791592513990,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
