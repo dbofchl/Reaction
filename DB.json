@@ -29093,6 +29093,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8877697299": {
+      "id": 8877697299,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791592860975,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "1368848281",
+      "referralCount": 0
     }
   },
   "admins": [
