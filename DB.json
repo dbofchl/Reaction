@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -24060,8 +24060,8 @@
     },
     "8803480056": {
       "id": 8803480056,
-      "username": "s10_vip0",
-      "fullName": "Minh 01",
+      "username": "Bongctee7",
+      "fullName": "Bùi Đức FAN HIT88",
       "points": 0,
       "joinedAt": 1784784337649,
       "lastDaily": null,
@@ -29737,9 +29737,20 @@
     "8201487799": {
       "id": 8201487799,
       "username": "",
-      "fullName": "",
+      "fullName": "Hizaifa Khan",
       "points": 0,
       "joinedAt": 1791629442654,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7860418151": {
+      "id": 7860418151,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791629517717,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
