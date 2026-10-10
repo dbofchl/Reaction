@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -19176,8 +19176,8 @@
     },
     "8219059325": {
       "id": 8219059325,
-      "username": "Dimzztyz",
-      "fullName": "dimz17",
+      "username": "feri90907",
+      "fullName": "d",
       "points": 0,
       "joinedAt": 1783066526271,
       "lastDaily": null,
@@ -29868,12 +29868,12 @@
     },
     "6641528734": {
       "id": 6641528734,
-      "username": "",
-      "fullName": "",
+      "username": "exzetxz",
+      "fullName": "zeiin",
       "points": 0,
       "joinedAt": 1791641497828,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
