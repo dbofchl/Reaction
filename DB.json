@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988953,
+      "points": 99988954,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -29704,11 +29704,11 @@
     "8956055555": {
       "id": 8956055555,
       "username": "",
-      "fullName": "",
+      "fullName": "kaltejik kal",
       "points": 0,
       "joinedAt": 1791619153954,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
