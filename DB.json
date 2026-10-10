@@ -4793,8 +4793,8 @@
     },
     "7262146145": {
       "id": 7262146145,
-      "username": "",
-      "fullName": "Katyaaa",
+      "username": "katyagcr",
+      "fullName": "Katyaa || Baikk",
       "points": 0,
       "joinedAt": 1773389924255,
       "lastDaily": null,
@@ -29323,17 +29323,17 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 0
+      "referralCount": 1
     },
     "8028981920": {
       "id": 8028981920,
-      "username": "",
-      "fullName": "",
+      "username": "NeverMindSetKsus",
+      "fullName": "KernelSu USERS",
       "points": 0,
       "joinedAt": 1791599169241,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8611749818",
       "referralCount": 0
     }
   },
