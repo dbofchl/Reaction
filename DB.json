@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -29052,13 +29052,13 @@
     },
     "8595099270": {
       "id": 8595099270,
-      "username": "",
-      "fullName": "",
+      "username": "reyyk3bab",
+      "fullName": "reyykebab.",
       "points": 0,
       "joinedAt": 1791591087157,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
