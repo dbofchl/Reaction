@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988951,
+      "points": 99988952,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -11572,7 +11572,7 @@
     "6904535618": {
       "id": 6904535618,
       "username": "YUDHASUKAMAKAN",
-      "fullName": "YUDHA RAJA IBLIS",
+      "fullName": "YUDHA DUBAI CIWI CUKI",
       "points": 0,
       "joinedAt": 1782260409572,
       "lastDaily": null,
@@ -29547,12 +29547,12 @@
     },
     "8685750183": {
       "id": 8685750183,
-      "username": "",
-      "fullName": "",
+      "username": "SAMIULLAH1122",
+      "fullName": "sami memon",
       "points": 0,
       "joinedAt": 1791606511017,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
