@@ -28531,7 +28531,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 1
+      "referralCount": 2
     },
     "8747556720": {
       "id": 8747556720,
@@ -29140,12 +29140,12 @@
     },
     "7241851971": {
       "id": 7241851971,
-      "username": "",
-      "fullName": "",
+      "username": "AKTER777000",
+      "fullName": "ZX",
       "points": 0,
       "joinedAt": 1791595154562,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8568472996",
       "referralCount": 0
     }
