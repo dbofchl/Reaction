@@ -28498,7 +28498,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "7261347097",
-      "referralCount": 0
+      "referralCount": 1
     },
     "8595549731": {
       "id": 8595549731,
@@ -29283,13 +29283,24 @@
     },
     "7798636142": {
       "id": 7798636142,
-      "username": "",
-      "fullName": "",
+      "username": "Alfatihtry",
+      "fullName": ".",
       "points": 0,
       "joinedAt": 1791597978928,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "7850229918",
+      "referralCount": 0
+    },
+    "8541947114": {
+      "id": 8541947114,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791598014308,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
