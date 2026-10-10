@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -29448,23 +29448,23 @@
     },
     "5346420658": {
       "id": 5346420658,
-      "username": "",
-      "fullName": "",
+      "username": "Kajipanji",
+      "fullName": "Kaji Panji",
       "points": 0,
       "joinedAt": 1791602153520,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     },
     "6668772892": {
       "id": 6668772892,
-      "username": "",
-      "fullName": "",
+      "username": "Kushaluzer",
+      "fullName": "ENFORCER TEAM",
       "points": 0,
       "joinedAt": 1791602158429,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
