@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988946,
+      "points": 99988947,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -29217,13 +29217,24 @@
     },
     "8639674199": {
       "id": 8639674199,
-      "username": "",
-      "fullName": "",
+      "username": "RinoxFire",
+      "fullName": "Rino乂Fire༗",
       "points": 0,
       "joinedAt": 1791597137255,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8626061951": {
+      "id": 8626061951,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791597172658,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
