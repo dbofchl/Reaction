@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -27017,8 +27017,8 @@
     },
     "6756430895": {
       "id": 6756430895,
-      "username": "YooskyStore",
-      "fullName": "Rizal x bokls",
+      "username": "Kinghell99",
+      "fullName": "𝓜𝙪𝙡𝙫𝙞",
       "points": 0,
       "joinedAt": 1788266618418,
       "lastDaily": null,
@@ -29591,12 +29591,12 @@
     },
     "8655415822": {
       "id": 8655415822,
-      "username": "",
-      "fullName": "",
+      "username": "Petzzsukatobrut",
+      "fullName": "PetzZ AJA",
       "points": 0,
       "joinedAt": 1791608472761,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
