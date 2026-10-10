@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988945,
+      "points": 99988946,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -20901,8 +20901,8 @@
     },
     "8992303476": {
       "id": 8992303476,
-      "username": "",
-      "fullName": "iky",
+      "username": "Ikycountry",
+      "fullName": "ikyࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤ",
       "points": 0,
       "joinedAt": 1783847643790,
       "lastDaily": null,
@@ -29163,11 +29163,11 @@
     "5860748445": {
       "id": 5860748445,
       "username": "",
-      "fullName": "",
+      "fullName": "Fuck Bitch",
       "points": 0,
       "joinedAt": 1791596217053,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
