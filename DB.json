@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -29715,11 +29715,11 @@
     "8996302587": {
       "id": 8996302587,
       "username": "",
-      "fullName": "",
+      "fullName": "CHIZZI",
       "points": 0,
       "joinedAt": 1791621806643,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
