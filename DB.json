@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988952,
+      "points": 99988953,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -1658,8 +1658,8 @@
     },
     "7980913494": {
       "id": 7980913494,
-      "username": "",
-      "fullName": "AIS",
+      "username": "AIS9616",
+      "fullName": "𝓐𝓼𝓗𝓡𝓪𝓕𝓾𝓵",
       "points": 0,
       "joinedAt": 1772169227710,
       "lastDaily": null,
@@ -29614,12 +29614,12 @@
     "7465095059": {
       "id": 7465095059,
       "username": "",
-      "fullName": "",
+      "fullName": "?? ??",
       "points": 0,
       "joinedAt": 1791609231346,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
