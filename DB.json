@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988944,
+      "points": 99988945,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -29097,11 +29097,11 @@
     "8877697299": {
       "id": 8877697299,
       "username": "",
-      "fullName": "",
+      "fullName": "Lucas Santos Dumont",
       "points": 0,
       "joinedAt": 1791592860975,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
