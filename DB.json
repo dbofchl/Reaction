@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -706,13 +706,13 @@
     },
     "1491932796": {
       "id": 1491932796,
-      "username": "",
-      "fullName": "",
+      "username": "noob3000",
+      "fullName": ".",
       "points": 0,
       "joinedAt": 1791601313452,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     },
     "1494598522": {
@@ -29400,6 +29400,17 @@
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": "8568472996",
+      "referralCount": 0
+    },
+    "7700406249": {
+      "id": 7700406249,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791601429094,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
