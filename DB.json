@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988947,
+      "points": 99988948,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -29272,13 +29272,13 @@
     },
     "8928929206": {
       "id": 8928929206,
-      "username": "",
-      "fullName": "",
+      "username": "Prime_Saitrix",
+      "fullName": "Prime Saitrix",
       "points": 0,
       "joinedAt": 1791597698697,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
