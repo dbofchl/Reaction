@@ -30833,14 +30833,6 @@
       "orderId": "BP8447469996MV20X7MYNQVC",
       "transaction_id": "5caea490-62a1-42ef-a1ac-2466c31deb3f",
       "createdAt": 1791614344866
-    },
-    "BP6040565209MV21UFVGHNDX": {
-      "userId": 6040565209,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6040565209MV21UFVGHNDX",
-      "transaction_id": "9b2aee3d-d0c8-4583-b57a-cc4cf5b32c10",
-      "createdAt": 1791615896454
     }
   },
   "reactCooldownMs": 300000,
