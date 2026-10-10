@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -15896,8 +15896,8 @@
     },
     "8005995211": {
       "id": 8005995211,
-      "username": "",
-      "fullName": "Swin88",
+      "username": "Swin36",
+      "fullName": "Swin36",
       "points": 0,
       "joinedAt": 1782437273201,
       "lastDaily": null,
@@ -29404,12 +29404,12 @@
     },
     "7700406249": {
       "id": 7700406249,
-      "username": "",
-      "fullName": "",
+      "username": "Panelseller48",
+      "fullName": "Sandeep 🥲",
       "points": 0,
       "joinedAt": 1791601429094,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
