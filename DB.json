@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -29681,13 +29681,13 @@
     },
     "6040565209": {
       "id": 6040565209,
-      "username": "",
-      "fullName": "",
+      "username": "SaadHere",
+      "fullName": "SAAD HERE",
       "points": 0,
       "joinedAt": 1791615840808,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
@@ -30833,6 +30833,14 @@
       "orderId": "BP8447469996MV20X7MYNQVC",
       "transaction_id": "5caea490-62a1-42ef-a1ac-2466c31deb3f",
       "createdAt": 1791614344866
+    },
+    "BP6040565209MV21UFVGHNDX": {
+      "userId": 6040565209,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6040565209MV21UFVGHNDX",
+      "transaction_id": "9b2aee3d-d0c8-4583-b57a-cc4cf5b32c10",
+      "createdAt": 1791615896454
     }
   },
   "reactCooldownMs": 300000,
