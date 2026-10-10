@@ -24067,7 +24067,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "7237770564": {
       "id": 7237770564,
@@ -29747,13 +29747,13 @@
     },
     "7860418151": {
       "id": 7860418151,
-      "username": "",
-      "fullName": "",
+      "username": "Botrungvidai",
+      "fullName": "Hoàng Anh J",
       "points": 0,
       "joinedAt": 1791629517717,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8803480056",
       "referralCount": 0
     }
   },
