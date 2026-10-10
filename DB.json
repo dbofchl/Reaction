@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -4674,7 +4674,7 @@
     "6393038345": {
       "id": 6393038345,
       "username": "nassu43",
-      "fullName": "MH JUNAID",
+      "fullName": "NS JUNAID",
       "points": 0,
       "joinedAt": 1773388922709,
       "lastDaily": null,
@@ -29152,12 +29152,12 @@
     "8127886553": {
       "id": 8127886553,
       "username": "",
-      "fullName": "",
+      "fullName": "Rajj Sing",
       "points": 0,
       "joinedAt": 1791595823116,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
