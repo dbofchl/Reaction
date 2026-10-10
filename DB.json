@@ -1663,7 +1663,8 @@
       "points": 0,
       "joinedAt": 1772169227710,
       "lastDaily": null,
-      "isNewUser": false
+      "isNewUser": false,
+      "referralCount": 1
     },
     "7643841053": {
       "id": 7643841053,
@@ -29624,12 +29625,12 @@
     },
     "6775578241": {
       "id": 6775578241,
-      "username": "",
-      "fullName": "",
+      "username": "Shaun9616",
+      "fullName": "ꕶ𝓱ⱥ𝓾ɳ",
       "points": 0,
       "joinedAt": 1791610197882,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "7980913494",
       "referralCount": 0
     }
