@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -29791,13 +29791,13 @@
     },
     "8070611192": {
       "id": 8070611192,
-      "username": "",
-      "fullName": "",
+      "username": "MDKhairul223334",
+      "fullName": "MD Khairul",
       "points": 0,
       "joinedAt": 1791633715380,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
