@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -29173,13 +29173,24 @@
     },
     "6131188117": {
       "id": 6131188117,
-      "username": "",
-      "fullName": "",
+      "username": "mayank221311",
+      "fullName": "MASTER OF MODDING",
       "points": 0,
       "joinedAt": 1791596385719,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "7759624454": {
+      "id": 7759624454,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791596440149,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
