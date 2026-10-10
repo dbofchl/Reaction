@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -28329,11 +28329,11 @@
     "8920639993": {
       "id": 8920639993,
       "username": "",
-      "fullName": "",
+      "fullName": "GIROUL SENGKAI",
       "points": 0,
       "joinedAt": 1791197886419,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     },
