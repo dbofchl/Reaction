@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -19900,7 +19900,7 @@
     },
     "7703682251": {
       "id": 7703682251,
-      "username": "",
+      "username": "Aliftanvir69",
       "fullName": "Alif tanvir",
       "points": 0,
       "joinedAt": 1783657765964,
@@ -29570,12 +29570,12 @@
     "7037555256": {
       "id": 7037555256,
       "username": "",
-      "fullName": "",
+      "fullName": "Jefri Yoi Cibexxxxx",
       "points": 0,
       "joinedAt": 1791607777293,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
