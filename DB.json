@@ -21805,7 +21805,7 @@
       "id": 5314181864,
       "username": "GuruGaming_Owner",
       "fullName": "𝐆𝐔𝐑𝐔 𝐆𝐀𝐌𝐈𝐍𝐆 『ᴏᴡɴᴇʀ』",
-      "points": 0,
+      "points": 30,
       "joinedAt": 1783966831346,
       "lastDaily": null,
       "isNewUser": false,
@@ -30482,14 +30482,6 @@
       "orderId": "BP6944715119MV1KW0DLWH0G",
       "transaction_id": "bd2c7c92-d194-43f4-bb4f-7cd92dba5779",
       "createdAt": 1791587415297
-    },
-    "BP5314181864MV1STFAGD1LU": {
-      "userId": 5314181864,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP5314181864MV1STFAGD1LU",
-      "transaction_id": "f8e9ed72-a73a-4ac8-b1a2-9b3985e5c43e",
-      "createdAt": 1791600731197
     }
   },
   "reactCooldownMs": 300000,
