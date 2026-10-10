@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -29426,12 +29426,12 @@
     },
     "8364784753": {
       "id": 8364784753,
-      "username": "",
-      "fullName": "",
+      "username": "rapzvipep",
+      "fullName": "Rapz VIP",
       "points": 0,
       "joinedAt": 1791601721107,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
