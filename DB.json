@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -29802,13 +29802,13 @@
     },
     "7996264089": {
       "id": 7996264089,
-      "username": "",
-      "fullName": "",
+      "username": "Lanaika699k",
+      "fullName": "꧁ＯＲＩＳＨＡ᭄ 😏🤨😏",
       "points": 0,
       "joinedAt": 1791634027992,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
