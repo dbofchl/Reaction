@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -20968,7 +20968,7 @@
     "8178228832": {
       "id": 8178228832,
       "username": "user182383672",
-      "fullName": "အာလစ်ဖ်",
+      "fullName": "🅥𝙝𝙖𝙢𝙯𝙓𝙞𝙩𝙚𝙧𝙯👑",
       "points": 0,
       "joinedAt": 1783847977347,
       "lastDaily": null,
@@ -29107,13 +29107,13 @@
     },
     "8831903603": {
       "id": 8831903603,
-      "username": "",
-      "fullName": "",
+      "username": "jeesicya",
+      "fullName": "jeesc-mf",
       "points": 0,
       "joinedAt": 1791593764129,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
