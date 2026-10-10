@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -18041,8 +18041,8 @@
     },
     "6756064586": {
       "id": 6756064586,
-      "username": "Official_CoinDeskry",
-      "fullName": "Official CoinDesk",
+      "username": "ReyzNoDevv",
+      "fullName": "Ɔ𝒲𝒩𝐸𝑅 || 𝐑͢𝛯𝐘⃕𝐙᷼ 𝐓𝟔𝟕 𓂀",
       "points": 0,
       "joinedAt": 1782786711459,
       "lastDaily": null,
@@ -29525,13 +29525,13 @@
     },
     "5663721780": {
       "id": 5663721780,
-      "username": "",
-      "fullName": "",
+      "username": "ikiki1111",
+      "fullName": "?",
       "points": 0,
       "joinedAt": 1791605427788,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
