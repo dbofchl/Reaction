@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -12098,8 +12098,8 @@
     },
     "5337425996": {
       "id": 5337425996,
-      "username": "mrariyan21",
-      "fullName": "Mr Black",
+      "username": "ariyan1myt",
+      "fullName": "ARIYAN 1M YT",
       "points": 0,
       "joinedAt": 1782275398575,
       "lastDaily": null,
@@ -29019,13 +29019,13 @@
     },
     "6572328794": {
       "id": 6572328794,
-      "username": "",
-      "fullName": "",
+      "username": "jixzzzzz",
+      "fullName": "Joe Suarez",
       "points": 0,
       "joinedAt": 1791590566360,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
