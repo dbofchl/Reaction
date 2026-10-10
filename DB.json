@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -28334,7 +28334,7 @@
       "joinedAt": 1791197886419,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "1368848281",
       "referralCount": 0
     },
     "5816239315": {
@@ -29725,13 +29725,13 @@
     },
     "5616559347": {
       "id": 5616559347,
-      "username": "",
-      "fullName": "",
+      "username": "G_WhiteFalcon",
+      "fullName": "Gʀɪꜰꜰɪᴛʜ . 𝑊ℎ𝑖𝑡𝑒 𝐹𝑎𝑙𝑐𝑜𝑛",
       "points": 0,
       "joinedAt": 1791626879380,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
