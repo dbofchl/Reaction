@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -29316,13 +29316,13 @@
     },
     "8611749818": {
       "id": 8611749818,
-      "username": "",
-      "fullName": "",
+      "username": "leleeeikan",
+      "fullName": "Minecraft di hati ku",
       "points": 0,
       "joinedAt": 1791599126357,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
