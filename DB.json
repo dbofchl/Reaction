@@ -30173,6 +30173,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8013504115": {
+      "id": 8013504115,
+      "username": "",
+      "fullName": "hải đăng nhi",
+      "points": 0,
+      "joinedAt": 1791731139698,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
