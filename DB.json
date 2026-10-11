@@ -28550,12 +28550,12 @@
       "id": 8568472996,
       "username": "L39rb64",
       "fullName": "Z O R O",
-      "points": 1,
+      "points": 2,
       "joinedAt": 1791584791073,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": "1368848281",
-      "referralCount": 4
+      "referralCount": 0
     },
     "8747556720": {
       "id": 8747556720,
@@ -30188,12 +30188,12 @@
     "7638181187": {
       "id": 7638181187,
       "username": "",
-      "fullName": "",
+      "fullName": "eyad",
       "points": 0,
       "joinedAt": 1791732946074,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "8568472996",
       "referralCount": 0
     }
   },
