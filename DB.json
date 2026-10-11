@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -4428,7 +4428,7 @@
       "id": 6768740816,
       "username": "FianzXD",
       "fullName": "Fianz XD",
-      "points": 98,
+      "points": 96,
       "joinedAt": 1772832652609,
       "lastDaily": null,
       "isNewUser": false
@@ -30022,13 +30022,13 @@
     },
     "5379907328": {
       "id": 5379907328,
-      "username": "",
-      "fullName": "",
+      "username": "gxpnn",
+      "fullName": "𝐕𝐀𝐍𝐃𝐄𝐑ㅤ",
       "points": 0,
       "joinedAt": 1791702781444,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
@@ -30086,7 +30086,7 @@
     "8677011932": 1789516958077,
     "6756064586": 1789132859349,
     "8781084219": 1790754080256,
-    "6768740816": 1791285895378
+    "6768740816": 1791702893636
   },
   "pendingOrders": {
     "BP1368848281MM4FF94MIOKQ": {
