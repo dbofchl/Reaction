@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -30056,12 +30056,12 @@
     "8444003523": {
       "id": 8444003523,
       "username": "",
-      "fullName": "",
+      "fullName": "Sk Kaime",
       "points": 0,
       "joinedAt": 1791718314619,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
