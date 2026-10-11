@@ -30118,6 +30118,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8033960582": {
+      "id": 8033960582,
+      "username": "",
+      "fullName": "Kim Phương",
+      "points": 0,
+      "joinedAt": 1791730732742,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
