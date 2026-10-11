@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -29989,12 +29989,12 @@
     },
     "8746273417": {
       "id": 8746273417,
-      "username": "",
-      "fullName": "",
+      "username": "hasanjod99",
+      "fullName": "Hh Jj",
       "points": 0,
       "joinedAt": 1791685827725,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
