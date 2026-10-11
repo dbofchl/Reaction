@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988957,
+      "points": 99988958,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -30000,12 +30000,12 @@
     },
     "8750463966": {
       "id": 8750463966,
-      "username": "",
-      "fullName": "",
+      "username": "Miko0012N1",
+      "fullName": "@yamikoN1",
       "points": 0,
       "joinedAt": 1791690267186,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
