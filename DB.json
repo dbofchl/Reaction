@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -30044,13 +30044,24 @@
     },
     "8830754535": {
       "id": 8830754535,
-      "username": "",
-      "fullName": "",
+      "username": "nuhsgau",
+      "fullName": "peoeow 𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭",
       "points": 0,
       "joinedAt": 1791717469267,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8444003523": {
+      "id": 8444003523,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791718314619,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
