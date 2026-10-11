@@ -30089,11 +30089,11 @@
     "7007213888": {
       "id": 7007213888,
       "username": "",
-      "fullName": "",
+      "fullName": "Bích Ngọc",
       "points": 0,
       "joinedAt": 1791730714819,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
