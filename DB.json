@@ -30195,6 +30195,17 @@
       "isNewUser": false,
       "invitedBy": "8568472996",
       "referralCount": 0
+    },
+    "8769772832": {
+      "id": 8769772832,
+      "username": "CcRogel",
+      "fullName": ".",
+      "points": 0,
+      "joinedAt": 1791734017840,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
