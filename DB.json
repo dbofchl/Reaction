@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 0
+      "referralCount": 1
     },
     "1370866605": {
       "id": 1370866605,
@@ -30276,12 +30276,12 @@
     "8437318582": {
       "id": 8437318582,
       "username": "",
-      "fullName": "",
+      "fullName": "JVPcambodai",
       "points": 0,
       "joinedAt": 1791809908089,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
