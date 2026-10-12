@@ -2197,7 +2197,7 @@
       "joinedAt": 1772183072726,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "8359149620": {
       "id": 8359149620,
@@ -30264,13 +30264,13 @@
     },
     "7278211775": {
       "id": 7278211775,
-      "username": "",
-      "fullName": "",
+      "username": "Kkr_root",
+      "fullName": "FF ROOT 👀",
       "points": 0,
       "joinedAt": 1791801944279,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "7261347097",
       "referralCount": 0
     }
   },
