@@ -31872,14 +31872,6 @@
       "orderId": "BP8524467152MV6AIBEMC10B",
       "transaction_id": "fbf4e0c6-bc90-4c6c-a967-158012a0c19e",
       "createdAt": 1791872310777
-    },
-    "BP1368848281MV6P365FTJPI": {
-      "userId": 1368848281,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP1368848281MV6P365FTJPI",
-      "transaction_id": "c95236a8-409d-410f-a2cf-2ad68ba1d4ed",
-      "createdAt": 1791896798530
     }
   },
   "reactCooldownMs": 300000,
