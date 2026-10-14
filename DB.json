@@ -30503,6 +30503,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6193581800": {
+      "id": 6193581800,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1791990781332,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
