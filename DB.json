@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 1
+      "referralCount": 2
     },
     "1370866605": {
       "id": 1370866605,
@@ -30535,6 +30535,17 @@
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
+      "referralCount": 0
+    },
+    "7737232559": {
+      "id": 7737232559,
+      "username": "aflyznn",
+      "fullName": "Ryzzz",
+      "points": 0,
+      "joinedAt": 1792039963763,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
