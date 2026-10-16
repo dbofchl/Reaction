@@ -30704,10 +30704,21 @@
     },
     "6909385205": {
       "id": 6909385205,
+      "username": "UR_ABHI_2X",
+      "fullName": "𝐀𝐛𝐡𝐢",
+      "points": 0,
+      "joinedAt": 1792139357039,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6744685339": {
+      "id": 6744685339,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792139357039,
+      "joinedAt": 1792139718933,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
