@@ -30558,6 +30558,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8846124722": {
+      "id": 8846124722,
+      "username": "",
+      "fullName": "Ikan Buntal",
+      "points": 0,
+      "joinedAt": 1792122364753,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
