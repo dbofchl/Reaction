@@ -29837,7 +29837,7 @@
       "id": 8409922389,
       "username": "DigitalOchean",
       "fullName": "Digital Ochean",
-      "points": 0,
+      "points": 200,
       "joinedAt": 1791638030242,
       "lastDaily": null,
       "isNewUser": false,
@@ -31993,14 +31993,6 @@
       "orderId": "BP8524467152MV6AIBEMC10B",
       "transaction_id": "fbf4e0c6-bc90-4c6c-a967-158012a0c19e",
       "createdAt": 1791872310777
-    },
-    "BP8409922389MVAHXLK1ERS4": {
-      "userId": 8409922389,
-      "points": 200,
-      "price": 100000,
-      "orderId": "BP8409922389MVAHXLK1ERS4",
-      "transaction_id": "a6ce2e51-bb7c-4ced-ae77-e17f25634cdc",
-      "createdAt": 1792126645845
     }
   },
   "reactCooldownMs": 300000,
