@@ -30583,10 +30583,21 @@
     },
     "8502352969": {
       "id": 8502352969,
+      "username": "thamidjr",
+      "fullName": "Ibnu",
+      "points": 0,
+      "joinedAt": 1792130972598,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7358329106": {
+      "id": 7358329106,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792130972598,
+      "joinedAt": 1792131225305,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
