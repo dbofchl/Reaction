@@ -30749,9 +30749,20 @@
     "6690851556": {
       "id": 6690851556,
       "username": "",
-      "fullName": "",
+      "fullName": "匚卄ㄖㄩＬＩＥ",
       "points": 0,
       "joinedAt": 1792144856631,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7785525362": {
+      "id": 7785525362,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1792146817589,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
