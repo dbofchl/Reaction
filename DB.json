@@ -30690,6 +30690,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6045475134": {
+      "id": 6045475134,
+      "username": "",
+      "fullName": "BANG FREE",
+      "points": 0,
+      "joinedAt": 1792139027284,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
