@@ -30723,6 +30723,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7115271281": {
+      "id": 7115271281,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1792140372247,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
