@@ -30605,10 +30605,21 @@
     },
     "8458934733": {
       "id": 8458934733,
+      "username": "Sabbir0983",
+      "fullName": "Sabbir",
+      "points": 0,
+      "joinedAt": 1792131667569,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6415394637": {
+      "id": 6415394637,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792131667569,
+      "joinedAt": 1792131952078,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
