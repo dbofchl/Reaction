@@ -4428,7 +4428,7 @@
       "id": 6768740816,
       "username": "FianzXD",
       "fullName": "Fianz XD",
-      "points": 96,
+      "points": 126,
       "joinedAt": 1772832652609,
       "lastDaily": null,
       "isNewUser": false
@@ -32203,14 +32203,6 @@
       "orderId": "BP8524467152MV6AIBEMC10B",
       "transaction_id": "fbf4e0c6-bc90-4c6c-a967-158012a0c19e",
       "createdAt": 1791872310777
-    },
-    "BP6768740816MVAY5KFE8WNP": {
-      "userId": 6768740816,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP6768740816MVAY5KFE8WNP",
-      "transaction_id": "a0f4b76a-aedf-4261-9aa2-21d6c1aec18f",
-      "createdAt": 1792153891538
     }
   },
   "reactCooldownMs": 300000,
