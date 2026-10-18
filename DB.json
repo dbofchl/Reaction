@@ -30902,10 +30902,21 @@
     },
     "8262182415": {
       "id": 8262182415,
+      "username": "Freestylexera",
+      "fullName": "Freestyle xera",
+      "points": 0,
+      "joinedAt": 1792309758389,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8102545068": {
+      "id": 8102545068,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792309758389,
+      "joinedAt": 1792312210023,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
