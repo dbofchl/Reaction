@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -30880,12 +30880,12 @@
     },
     "8289651021": {
       "id": 8289651021,
-      "username": "",
-      "fullName": "",
+      "username": "Zura_kyyyy",
+      "fullName": "Ca Axela",
       "points": 0,
       "joinedAt": 1792289257216,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     },
