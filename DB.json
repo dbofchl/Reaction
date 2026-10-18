@@ -893,6 +893,17 @@
       "invitedBy": null,
       "referralCount": 0
     },
+    "1717799792": {
+      "id": 1717799792,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1792316723941,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1742754050": {
       "id": 1742754050,
       "username": "JorshhStore",
@@ -30913,12 +30924,12 @@
     },
     "8102545068": {
       "id": 8102545068,
-      "username": "",
-      "fullName": "",
+      "username": "RapieeSabarTuli",
+      "fullName": "Rapiew tunarungu 😇 🇵🇸🇲🇨 ( sabar yg baik )",
       "points": 0,
       "joinedAt": 1792312210023,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
