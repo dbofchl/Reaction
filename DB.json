@@ -30932,6 +30932,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8097120210": {
+      "id": 8097120210,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1792369798024,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
