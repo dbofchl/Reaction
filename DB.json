@@ -540,11 +540,11 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988961,
+      "points": 99988962,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 4
+      "referralCount": 0
     },
     "1370866605": {
       "id": 1370866605,
@@ -30946,10 +30946,21 @@
     },
     "8716950397": {
       "id": 8716950397,
+      "username": "Abhaytiwari0099",
+      "fullName": "Abhay Tiwari",
+      "points": 0,
+      "joinedAt": 1792414697156,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "8313520683": {
+      "id": 8313520683,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792414697156,
+      "joinedAt": 1792425601292,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
