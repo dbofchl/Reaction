@@ -544,7 +544,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -30936,12 +30936,12 @@
     "8097120210": {
       "id": 8097120210,
       "username": "",
-      "fullName": "",
+      "fullName": "Vicente Valencia",
       "points": 0,
       "joinedAt": 1792369798024,
       "lastDaily": null,
-      "isNewUser": true,
-      "invitedBy": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
       "referralCount": 0
     }
   },
