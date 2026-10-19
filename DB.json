@@ -30957,12 +30957,12 @@
     },
     "8313520683": {
       "id": 8313520683,
-      "username": "",
-      "fullName": "",
+      "username": "Sarifseller",
+      "fullName": "Sorif peninsular",
       "points": 0,
       "joinedAt": 1792425601292,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -32406,6 +32406,14 @@
       "orderId": "BP8420460846MVC2KL3Q1SWZ",
       "transaction_id": "d6817d28-49b6-45e5-bfeb-64c7c440713d",
       "createdAt": 1792221776766
+    },
+    "BP8313520683MVFFYAOTXVMM": {
+      "userId": 8313520683,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP8313520683MVFFYAOTXVMM",
+      "transaction_id": "aeda7178-c6f1-4a2d-99af-eb3e4e98aaea",
+      "createdAt": 1792425650558
     }
   },
   "reactCooldownMs": 300000,
