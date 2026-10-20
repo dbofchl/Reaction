@@ -32414,16 +32414,6 @@
       "orderId": "BP8313520683MVFFYAOTXVMM",
       "transaction_id": "aeda7178-c6f1-4a2d-99af-eb3e4e98aaea",
       "createdAt": 1792425650558
-    },
-    "BP1368848281MVG18QGQK7WL": {
-      "userId": 1368848281,
-      "points": 300,
-      "price": 150000,
-      "orderId": "BP1368848281MVG18QGQK7WL",
-      "paymentType": "binance",
-      "usdtAmount": 8.11,
-      "memoCode": "BPO3VSV9",
-      "createdAt": 1792461408506
     }
   },
   "reactCooldownMs": 300000,
