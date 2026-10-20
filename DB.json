@@ -32417,5 +32417,12 @@
     }
   },
   "reactCooldownMs": 300000,
-  "referralStatus": "active"
+  "referralStatus": "active",
+  "binance": {
+    "apiKey": "",
+    "secretKey": "",
+    "payId": "",
+    "rate": 16000
+  },
+  "usedBinanceOrders": []
 }
