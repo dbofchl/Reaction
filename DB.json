@@ -32418,6 +32418,14 @@
       "orderId": "BP8313520683MVFFYAOTXVMM",
       "transaction_id": "aeda7178-c6f1-4a2d-99af-eb3e4e98aaea",
       "createdAt": 1792425650558
+    },
+    "BP6441740245MVGUYO6UYK8K": {
+      "userId": 6441740245,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP6441740245MVGUYO6UYK8K",
+      "transaction_id": "457fef76-1905-44c7-a6eb-ca3ac2eec84a",
+      "createdAt": 1792511327976
     }
   },
   "reactCooldownMs": 300000,
