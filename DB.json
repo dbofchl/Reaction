@@ -32421,7 +32421,7 @@
   "binance": {
     "apiKey": "",
     "secretKey": "",
-    "payId": "",
+    "payId": "751113911",
     "rate": 18500
   },
   "usedBinanceOrders": []
