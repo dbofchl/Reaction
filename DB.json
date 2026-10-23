@@ -31045,10 +31045,21 @@
     },
     "6317566064": {
       "id": 6317566064,
+      "username": "DilanAnwar",
+      "fullName": "Dilan Anwar",
+      "points": 0,
+      "joinedAt": 1792753769814,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8753893204": {
+      "id": 8753893204,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1792753769814,
+      "joinedAt": 1792758588274,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
