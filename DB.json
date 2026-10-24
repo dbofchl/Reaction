@@ -31097,6 +31097,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7603155788": {
+      "id": 7603155788,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1792841028268,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
