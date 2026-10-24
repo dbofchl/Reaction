@@ -32555,16 +32555,6 @@
       "orderId": "BP8584117345MVL1XIW93K63",
       "transaction_id": "4545a2a3-3ffe-4821-8c5a-3044dd6d1e23",
       "createdAt": 1792764896516
-    },
-    "BP8224640305MVLVSR17MCVS": {
-      "userId": 8224640305,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP8224640305MVLVSR17MCVS",
-      "paymentType": "binance",
-      "usdtAmount": 0.81,
-      "memoCode": "BPOXO9LJ",
-      "createdAt": 1792815061723
     }
   },
   "reactCooldownMs": 300000,
