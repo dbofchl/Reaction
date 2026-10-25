@@ -8232,7 +8232,7 @@
     },
     "7357251562": {
       "id": 7357251562,
-      "username": "",
+      "username": "azil1120",
       "fullName": "azil 23",
       "points": 0,
       "joinedAt": 1782090307284,
@@ -31123,11 +31123,11 @@
     "8917947157": {
       "id": 8917947157,
       "username": "",
-      "fullName": "",
+      "fullName": "Rabbi Rabbi mai",
       "points": 0,
       "joinedAt": 1792859115044,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
