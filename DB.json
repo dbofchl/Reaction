@@ -555,7 +555,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 2
+      "referralCount": 3
     },
     "1370866605": {
       "id": 1370866605,
@@ -31134,9 +31134,20 @@
     "8602663455": {
       "id": 8602663455,
       "username": "",
-      "fullName": "",
+      "fullName": "Naufal 2016",
       "points": 0,
       "joinedAt": 1792989051905,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "1368848281",
+      "referralCount": 0
+    },
+    "5372310250": {
+      "id": 5372310250,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1793032748966,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
