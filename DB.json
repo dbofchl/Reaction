@@ -31178,9 +31178,20 @@
     "8624416446": {
       "id": 8624416446,
       "username": "",
-      "fullName": "",
+      "fullName": "RS PAINAL SETUP",
       "points": 0,
       "joinedAt": 1793086872613,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8894223361": {
+      "id": 8894223361,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1793100333252,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
