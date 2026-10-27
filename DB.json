@@ -555,7 +555,7 @@
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
-      "referralCount": 3
+      "referralCount": 4
     },
     "1370866605": {
       "id": 1370866605,
@@ -31155,12 +31155,12 @@
     },
     "8669223503": {
       "id": 8669223503,
-      "username": "",
-      "fullName": "",
+      "username": "Gjjjhbkkww",
+      "fullName": "Soumya Ranjan",
       "points": 0,
       "joinedAt": 1793072878200,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "1368848281",
       "referralCount": 0
     }
