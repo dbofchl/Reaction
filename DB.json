@@ -1298,6 +1298,17 @@
       "invitedBy": "8781084219",
       "referralCount": 0
     },
+    "2006848021": {
+      "id": 2006848021,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1793423987884,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "2021158294": {
       "id": 2021158294,
       "username": "akram_vip7",
@@ -31254,12 +31265,12 @@
     },
     "5370639720": {
       "id": 5370639720,
-      "username": "",
-      "fullName": "",
+      "username": "Nayanhacks",
+      "fullName": "𝗡𝗔𝗬𝗔𝗡 𝗛𝗔𝗖𝗞𝗦",
       "points": 0,
       "joinedAt": 1793416881955,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
