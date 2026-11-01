@@ -31287,10 +31287,21 @@
     },
     "6466675923": {
       "id": 6466675923,
+      "username": "Wanzdwayne123",
+      "fullName": "wanza 12",
+      "points": 0,
+      "joinedAt": 1793507734315,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8316469636": {
+      "id": 8316469636,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1793507734315,
+      "joinedAt": 1793533416036,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
