@@ -31277,9 +31277,20 @@
     "5495331312": {
       "id": 5495331312,
       "username": "",
-      "fullName": "",
+      "fullName": "Nayamr 22",
       "points": 0,
       "joinedAt": 1793492445643,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6466675923": {
+      "id": 6466675923,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1793507734315,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
