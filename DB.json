@@ -7,7 +7,9 @@
       "addedAt": 1772165192216
     }
   },
-  "blockedChannels": [],
+  "blockedChannels": [
+    "-1002691173980"
+  ],
   "users": {
     "34855457": {
       "id": 34855457,
@@ -31354,11 +31356,11 @@
     "8447044502": {
       "id": 8447044502,
       "username": "",
-      "fullName": "",
+      "fullName": "Nishant kumar",
       "points": 0,
       "joinedAt": 1794038133709,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
