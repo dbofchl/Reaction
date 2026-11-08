@@ -31363,6 +31363,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7967068393": {
+      "id": 7967068393,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794131737227,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
