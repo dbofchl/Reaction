@@ -31388,12 +31388,12 @@
     },
     "6039506472": {
       "id": 6039506472,
-      "username": "",
-      "fullName": "",
+      "username": "StarsKitaID",
+      "fullName": "StarsKita",
       "points": 0,
       "joinedAt": 1794223690325,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
