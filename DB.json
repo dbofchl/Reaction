@@ -31385,6 +31385,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "6039506472": {
+      "id": 6039506472,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794223690325,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
