@@ -30932,7 +30932,7 @@
       "joinedAt": 1792290838550,
       "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "7261347097",
       "referralCount": 0
     },
     "8262182415": {
@@ -31400,11 +31400,11 @@
     "7701979531": {
       "id": 7701979531,
       "username": "",
-      "fullName": "",
+      "fullName": "Khuram Khan",
       "points": 0,
       "joinedAt": 1794236113931,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
