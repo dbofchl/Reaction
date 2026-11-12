@@ -31421,10 +31421,21 @@
     },
     "5672331626": {
       "id": 5672331626,
+      "username": "Pimpimpimpimpimp",
+      "fullName": "Egorik",
+      "points": 0,
+      "joinedAt": 1794449483377,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6135216205": {
+      "id": 6135216205,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1794449483377,
+      "joinedAt": 1794469998517,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
