@@ -31432,12 +31432,12 @@
     },
     "6135216205": {
       "id": 6135216205,
-      "username": "",
-      "fullName": "",
+      "username": "abcd25745",
+      "fullName": "y",
       "points": 0,
       "joinedAt": 1794469998517,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
