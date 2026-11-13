@@ -31587,11 +31587,11 @@
     "7731406471": {
       "id": 7731406471,
       "username": "",
-      "fullName": "",
+      "fullName": "Chiểu",
       "points": 0,
       "joinedAt": 1794541316316,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
@@ -33068,6 +33068,14 @@
       "orderId": "BP7913074577MWEFKEBJKRN9",
       "transaction_id": "695eb871-21a2-4875-808a-8f9dc0bbd415",
       "createdAt": 1794541317660
+    },
+    "BP7939516601MWEFKK6ZOD59": {
+      "userId": 7939516601,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7939516601MWEFKK6ZOD59",
+      "transaction_id": "79b48d85-3d42-4089-a381-5e4e0d48a7f7",
+      "createdAt": 1794541325284
     }
   },
   "reactCooldownMs": 300000,
