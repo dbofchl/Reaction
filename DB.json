@@ -33100,6 +33100,16 @@
       "orderId": "BP7939516601MWEFLH08VOKW",
       "transaction_id": "83f770e6-f256-437c-9282-12927e7bde63",
       "createdAt": 1794541367786
+    },
+    "BP7214221134MWEFM2KM58NC": {
+      "userId": 7214221134,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7214221134MWEFM2KM58NC",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BP8EI7KX",
+      "createdAt": 1794541395334
     }
   },
   "reactCooldownMs": 300000,
