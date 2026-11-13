@@ -33150,6 +33150,16 @@
       "usdtAmount": 5.41,
       "memoCode": "BPSDIIL0",
       "createdAt": 1794541442797
+    },
+    "BP7939516601MWEFN9RADLIX": {
+      "userId": 7939516601,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7939516601MWEFN9RADLIX",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BPX7QDOV",
+      "createdAt": 1794541451302
     }
   },
   "reactCooldownMs": 300000,
