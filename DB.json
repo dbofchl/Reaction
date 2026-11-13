@@ -33140,6 +33140,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPJYSUGI",
       "createdAt": 1794541437789
+    },
+    "BP7913074577MWEFN371AVU3": {
+      "userId": 7913074577,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7913074577MWEFN371AVU3",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPSDIIL0",
+      "createdAt": 1794541442797
     }
   },
   "reactCooldownMs": 300000,
