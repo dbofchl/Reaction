@@ -31594,6 +31594,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7488485063": {
+      "id": 7488485063,
+      "username": "Ravikant964812",
+      "fullName": "RAVIKANT",
+      "points": 0,
+      "joinedAt": 1794565618876,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
