@@ -31572,6 +31572,28 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7939516601": {
+      "id": 7939516601,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794541312482,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7731406471": {
+      "id": 7731406471,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794541316316,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
