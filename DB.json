@@ -31576,11 +31576,11 @@
     "7939516601": {
       "id": 7939516601,
       "username": "",
-      "fullName": "",
+      "fullName": "Hoàng Thắm",
       "points": 0,
       "joinedAt": 1794541312482,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -33060,6 +33060,14 @@
       "orderId": "BP7214221134MWEFK8JS8DVN",
       "transaction_id": "f48a819d-d16c-4023-b3d1-d5ca63b08912",
       "createdAt": 1794541310820
+    },
+    "BP7913074577MWEFKEBJKRN9": {
+      "userId": 7913074577,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7913074577MWEFKEBJKRN9",
+      "transaction_id": "695eb871-21a2-4875-808a-8f9dc0bbd415",
+      "createdAt": 1794541317660
     }
   },
   "reactCooldownMs": 300000,
