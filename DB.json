@@ -33130,6 +33130,16 @@
       "usdtAmount": 8.11,
       "memoCode": "BP4YPFEQ",
       "createdAt": 1794541410813
+    },
+    "BP7214221134MWEFMZBXHEZO": {
+      "userId": 7214221134,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7214221134MWEFMZBXHEZO",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPJYSUGI",
+      "createdAt": 1794541437789
     }
   },
   "reactCooldownMs": 300000,
