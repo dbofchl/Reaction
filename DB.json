@@ -33120,6 +33120,16 @@
       "usdtAmount": 5.41,
       "memoCode": "BPWFK8E7",
       "createdAt": 1794541402748
+    },
+    "BP7939516601MWEFMEIL7D22": {
+      "userId": 7939516601,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7939516601MWEFMEIL7D22",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BP4YPFEQ",
+      "createdAt": 1794541410813
     }
   },
   "reactCooldownMs": 300000,
