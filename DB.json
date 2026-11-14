@@ -33321,6 +33321,14 @@
       "orderId": "BP7717515330MWG8IGHZWWD2",
       "transaction_id": "9fe04d2d-eba7-4bdd-8e36-fdb1aaabc95b",
       "createdAt": 1794650402242
+    },
+    "BP8134559007MWG8IIY69ENS": {
+      "userId": 8134559007,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8134559007MWG8IIY69ENS",
+      "transaction_id": "dbf3281b-e931-4c02-b221-2e73788e5ad9",
+      "createdAt": 1794650405404
     }
   },
   "reactCooldownMs": 300000,
