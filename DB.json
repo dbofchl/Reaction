@@ -31682,6 +31682,28 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7322687453": {
+      "id": 7322687453,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794647944915,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8134559007": {
+      "id": 8134559007,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794647947106,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
@@ -33248,6 +33270,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BPX7QDOV",
       "createdAt": 1794541451302
+    },
+    "BP7671063087MWG71T9HNVX6": {
+      "userId": 7671063087,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7671063087MWG71T9HNVX6",
+      "transaction_id": "8bfe21ea-b6f1-445e-851b-ae487d141d20",
+      "createdAt": 1794647945974
     }
   },
   "reactCooldownMs": 300000,
