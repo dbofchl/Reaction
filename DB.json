@@ -31660,6 +31660,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7671063087": {
+      "id": 7671063087,
+      "username": "minhhy1566",
+      "fullName": "Minh Hỷ",
+      "points": 0,
+      "joinedAt": 1794647932859,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
