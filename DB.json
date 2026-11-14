@@ -33329,6 +33329,16 @@
       "orderId": "BP8134559007MWG8IIY69ENS",
       "transaction_id": "dbf3281b-e931-4c02-b221-2e73788e5ad9",
       "createdAt": 1794650405404
+    },
+    "BP7671063087MWG8J3X93G8F": {
+      "userId": 7671063087,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7671063087MWG8J3X93G8F",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPJ7Z91T",
+      "createdAt": 1794650432157
     }
   },
   "reactCooldownMs": 300000,
