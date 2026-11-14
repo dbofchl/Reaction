@@ -31697,11 +31697,11 @@
     "8134559007": {
       "id": 8134559007,
       "username": "",
-      "fullName": "",
+      "fullName": "Trường Agency",
       "points": 0,
       "joinedAt": 1794647947106,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -33289,6 +33289,14 @@
       "orderId": "BP7671063087MWG71T9HNVX6",
       "transaction_id": "8bfe21ea-b6f1-445e-851b-ae487d141d20",
       "createdAt": 1794647945974
+    },
+    "BP7717515330MWG71Z0H7Z9C": {
+      "userId": 7717515330,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7717515330MWG71Z0H7Z9C",
+      "transaction_id": "1e7c39ef-d176-47c6-a7b0-7ff36f76cdb3",
+      "createdAt": 1794647953433
     }
   },
   "reactCooldownMs": 300000,
