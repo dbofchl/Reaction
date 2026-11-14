@@ -31649,6 +31649,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7795634710": {
+      "id": 7795634710,
+      "username": "",
+      "fullName": "Nghi Xuân Ánh Vũ",
+      "points": 0,
+      "joinedAt": 1794647926858,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
