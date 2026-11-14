@@ -33379,6 +33379,16 @@
       "usdtAmount": 5.41,
       "memoCode": "BPBENZNM",
       "createdAt": 1794650489334
+    },
+    "BP8134559007MWG8KFSYD8MN": {
+      "userId": 8134559007,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8134559007MWG8KFSYD8MN",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BP3R6TFD",
+      "createdAt": 1794650494210
     }
   },
   "reactCooldownMs": 300000,
