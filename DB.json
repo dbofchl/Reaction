@@ -31627,6 +31627,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8160563102": {
+      "id": 8160563102,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794647902842,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
