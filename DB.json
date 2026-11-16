@@ -31718,10 +31718,21 @@
     },
     "7943873519": {
       "id": 7943873519,
+      "username": "BAZZ_USA_0",
+      "fullName": "ZIDDI BAZZ",
+      "points": 0,
+      "joinedAt": 1794822811815,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8763090822": {
+      "id": 8763090822,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1794822811815,
+      "joinedAt": 1794865074029,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
