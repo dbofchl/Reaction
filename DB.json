@@ -33411,14 +33411,6 @@
       "usdtAmount": 8.11,
       "memoCode": "BP3R6TFD",
       "createdAt": 1794650494210
-    },
-    "BP1368848281MWLAQ9N50AAA": {
-      "userId": 1368848281,
-      "points": 30,
-      "price": 15000,
-      "orderId": "BP1368848281MWLAQ9N50AAA",
-      "transaction_id": "4bc5029c-88fe-4570-baa1-b6390ea81bbc",
-      "createdAt": 1794956457251
     }
   },
   "reactCooldownMs": 300000,
