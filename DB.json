@@ -31858,6 +31858,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7689411468": {
+      "id": 7689411468,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794967414753,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
