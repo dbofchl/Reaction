@@ -33859,6 +33859,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BP84WDSA",
       "createdAt": 1795036891803
+    },
+    "BP7998188552MWMMMG5XA96A": {
+      "userId": 7998188552,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7998188552MWMMMG5XA96A",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPPKMUO6",
+      "createdAt": 1795036899669
     }
   },
   "reactCooldownMs": 300000,
