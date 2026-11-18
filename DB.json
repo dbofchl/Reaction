@@ -31913,6 +31913,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "7103968976": {
+      "id": 7103968976,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795036077137,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
@@ -33695,6 +33706,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BP80R4JW",
       "createdAt": 1794967552619
+    },
+    "BP7768877644MWMM4MJDSKZI": {
+      "userId": 7768877644,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7768877644MWMM4MJDSKZI",
+      "transaction_id": "b4dc7a77-3377-435c-8b4e-72019fc67768",
+      "createdAt": 1795036068531
     }
   },
   "reactCooldownMs": 300000,
