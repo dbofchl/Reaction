@@ -33559,6 +33559,14 @@
       "orderId": "BP7896684268MWLH9BC450JB",
       "transaction_id": "1aefaaf5-54fe-43d3-a1cf-d96e0f2a2ecc",
       "createdAt": 1794967423040
+    },
+    "BP8098113271MWLH9D74RHDV": {
+      "userId": 8098113271,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8098113271MWLH9D74RHDV",
+      "transaction_id": "1af8c8cd-ff34-459f-b8bb-37ae54c5e864",
+      "createdAt": 1794967425447
     }
   },
   "reactCooldownMs": 300000,
