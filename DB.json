@@ -33433,6 +33433,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BP3R6TFD",
       "createdAt": 1794650494210
+    },
+    "BP6740952030MWLFJPREGFHV": {
+      "userId": 6740952030,
+      "points": 30,
+      "price": 15000,
+      "orderId": "BP6740952030MWLFJPREGFHV",
+      "transaction_id": "3abb5c52-84fa-410b-ae8b-1d3dccb15e63",
+      "createdAt": 1794964549151
     }
   },
   "reactCooldownMs": 300000,
