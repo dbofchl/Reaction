@@ -31796,11 +31796,11 @@
     "7589166346": {
       "id": 7589166346,
       "username": "",
-      "fullName": "",
+      "fullName": "Mãi yêu😀",
       "points": 0,
       "joinedAt": 1794967382824,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -31810,6 +31810,17 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1794967387041,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "8145510592": {
+      "id": 8145510592,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794967392655,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
