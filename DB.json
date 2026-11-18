@@ -33631,6 +33631,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPFXVWKA",
       "createdAt": 1794967546638
+    },
+    "BP7896684268MWLHC0VPYD7D": {
+      "userId": 7896684268,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7896684268MWLHC0VPYD7D",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPLAJ7H7",
+      "createdAt": 1794967549045
     }
   },
   "reactCooldownMs": 300000,
