@@ -31807,11 +31807,11 @@
     "7750530522": {
       "id": 7750530522,
       "username": "",
-      "fullName": "",
+      "fullName": "Phạm Thị Ánh",
       "points": 0,
       "joinedAt": 1794967387041,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -31821,6 +31821,17 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1794967392655,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7886846485": {
+      "id": 7886846485,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794967400529,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
