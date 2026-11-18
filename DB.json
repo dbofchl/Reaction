@@ -33583,6 +33583,14 @@
       "orderId": "BP7896684268MWLHA8IO6DQT",
       "transaction_id": "5bddb040-66a3-4bdc-9f0e-29b89413537e",
       "createdAt": 1794967466041
+    },
+    "BP8098113271MWLHAA8XLGJJ": {
+      "userId": 8098113271,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP8098113271MWLHAA8XLGJJ",
+      "transaction_id": "c350a2b6-baa5-4bcd-8c62-e8c813ccf708",
+      "createdAt": 1794967468248
     }
   },
   "reactCooldownMs": 300000,
