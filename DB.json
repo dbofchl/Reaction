@@ -31741,9 +31741,20 @@
     "8642105355": {
       "id": 8642105355,
       "username": "",
-      "fullName": "",
+      "fullName": "Ayoub",
       "points": 0,
       "joinedAt": 1794961665475,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "6740952030": {
+      "id": 6740952030,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1794964525237,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
