@@ -33819,6 +33819,16 @@
       "usdtAmount": 8.11,
       "memoCode": "BP6SSF0I",
       "createdAt": 1795036741797
+    },
+    "BP7998188552MWMMJ7UOTPU3": {
+      "userId": 7998188552,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7998188552MWMMJ7UOTPU3",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPUCNEEC",
+      "createdAt": 1795036748929
     }
   },
   "reactCooldownMs": 300000,
