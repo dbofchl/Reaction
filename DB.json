@@ -31917,11 +31917,11 @@
     "7103968976": {
       "id": 7103968976,
       "username": "",
-      "fullName": "",
+      "fullName": "Thế Tường Ân",
       "points": 0,
       "joinedAt": 1795036077137,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     },
@@ -31931,6 +31931,39 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1795036125167,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7007554169": {
+      "id": 7007554169,
+      "username": "",
+      "fullName": "Thua đời",
+      "points": 0,
+      "joinedAt": 1795036125819,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7755317676": {
+      "id": 7755317676,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795036125878,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
+    "7730166689": {
+      "id": 7730166689,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795036125962,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
