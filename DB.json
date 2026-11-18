@@ -33793,6 +33793,14 @@
       "orderId": "BP7768877644MWMMDMI5NR1C",
       "transaction_id": "9ebf0d05-dfc1-4099-9b76-f41db6e1ae64",
       "createdAt": 1795036488387
+    },
+    "BP7998188552MWMMF41P0H6M": {
+      "userId": 7998188552,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7998188552MWMMF41P0H6M",
+      "transaction_id": "4ddd7b19-3ae7-4202-aab1-0a57648ce98e",
+      "createdAt": 1795036557767
     }
   },
   "reactCooldownMs": 300000,
