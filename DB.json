@@ -31979,6 +31979,17 @@
       "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8022335042": {
+      "id": 8022335042,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795188486929,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
