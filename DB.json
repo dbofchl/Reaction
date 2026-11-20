@@ -553,7 +553,7 @@
       "id": 1368848281,
       "username": "psteamadmvip",
       "fullName": "PSTeamAdm",
-      "points": 99988902,
+      "points": 99988898,
       "joinedAt": 1772165202475,
       "lastDaily": "2026-02-28",
       "isNewUser": false,
@@ -31990,6 +31990,17 @@
       "isNewUser": true,
       "invitedBy": null,
       "referralCount": 0
+    },
+    "8918788424": {
+      "id": 8918788424,
+      "username": "",
+      "fullName": "nas",
+      "points": 0,
+      "joinedAt": 1795188487005,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": null,
+      "referralCount": 0
     }
   },
   "admins": [
@@ -32001,7 +32012,7 @@
     "819302344": 1772243157216,
     "1160976551": 1772229134154,
     "1205479424": 1772250968536,
-    "1368848281": 1795040559345,
+    "1368848281": 1795216867918,
     "1893939802": 1772264559594,
     "1969813015": 1781216356317,
     "7893888543": 1772188239240,
