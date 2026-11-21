@@ -34082,6 +34082,14 @@
       "usdtAmount": 5.41,
       "memoCode": "BPTSBC6N",
       "createdAt": 1795294070163
+    },
+    "BP7808596889MWQVT0NAS9B0": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWQVT0NAS9B0",
+      "transaction_id": "51d4c49a-3952-419b-91bd-c4fabac479f0",
+      "createdAt": 1795294187811
     }
   },
   "reactCooldownMs": 300000,
