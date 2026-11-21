@@ -33902,6 +33902,14 @@
       "usdtAmount": 5.41,
       "memoCode": "BPPKMUO6",
       "createdAt": 1795036899669
+    },
+    "BP7808596889MWPUJ40R1MES": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWPUJ40R1MES",
+      "transaction_id": "3abbde11-e5c5-45c0-b218-20070618d028",
+      "createdAt": 1795231580223
     }
   },
   "reactCooldownMs": 300000,
