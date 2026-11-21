@@ -33954,6 +33954,16 @@
       "orderId": "BP7808596889MWPUPKNJPFJU",
       "transaction_id": "ac878b5c-be04-4cda-bc5c-f5a4693f6f0f",
       "createdAt": 1795231881375
+    },
+    "BP7808596889MWPUR2W146MI": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWPUR2W146MI",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPPX29P4",
+      "createdAt": 1795231951201
     }
   },
   "reactCooldownMs": 300000,
