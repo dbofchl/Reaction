@@ -33982,6 +33982,14 @@
       "orderId": "BP7808596889MWPUSW0V3OWK",
       "transaction_id": "6430d02f-9bdd-4f69-84ae-f30408de3aca",
       "createdAt": 1795232036008
+    },
+    "BP7808596889MWPUTT2SEM00": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWPUTT2SEM00",
+      "transaction_id": "70868f97-621e-4e70-8704-08c947852b6b",
+      "createdAt": 1795232078863
     }
   },
   "reactCooldownMs": 300000,
