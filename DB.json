@@ -34000,6 +34000,16 @@
       "usdtAmount": 8.11,
       "memoCode": "BPBRHC57",
       "createdAt": 1795232133948
+    },
+    "BP7808596889MWPUVWMBYTHA": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWPUVWMBYTHA",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BP8SN8YY",
+      "createdAt": 1795232176355
     }
   },
   "reactCooldownMs": 300000,
