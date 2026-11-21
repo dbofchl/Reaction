@@ -34090,6 +34090,14 @@
       "orderId": "BP7808596889MWQVT0NAS9B0",
       "transaction_id": "51d4c49a-3952-419b-91bd-c4fabac479f0",
       "createdAt": 1795294187811
+    },
+    "BP7808596889MWQVUG6AGFUH": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWQVUG6AGFUH",
+      "transaction_id": "bffdc3c6-06a0-4bc2-91b3-76e7f6645074",
+      "createdAt": 1795294254594
     }
   },
   "reactCooldownMs": 300000,
