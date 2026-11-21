@@ -34036,6 +34036,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPHZMRG6",
       "createdAt": 1795292292725
+    },
+    "BP7808596889MWQUR46Y24NR": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWQUR46Y24NR",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPQ9A6AY",
+      "createdAt": 1795292419067
     }
   },
   "reactCooldownMs": 300000,
