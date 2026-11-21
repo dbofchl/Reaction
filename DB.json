@@ -34072,6 +34072,16 @@
       "usdtAmount": 5.41,
       "memoCode": "BPX1LE93",
       "createdAt": 1795293333778
+    },
+    "BP7808596889MWQVQI6RZAP3": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWQVQI6RZAP3",
+      "paymentType": "binance",
+      "usdtAmount": 5.41,
+      "memoCode": "BPTSBC6N",
+      "createdAt": 1795294070163
     }
   },
   "reactCooldownMs": 300000,
