@@ -32022,7 +32022,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "6257785805": {
       "id": 6257785805,
@@ -32118,6 +32118,28 @@
       "fullName": "",
       "points": 0,
       "joinedAt": 1795346478144,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "5876476410": {
+      "id": 5876476410,
+      "username": "hhhkleji",
+      "fullName": "ميلي",
+      "points": 0,
+      "joinedAt": 1795346480068,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "6058707858": {
+      "id": 6058707858,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795346483057,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": "8365559184",
