@@ -34276,6 +34276,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BP6VI86K",
       "createdAt": 1795354923009
+    },
+    "BP7808596889MWRW275C5JWQ": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWRW275C5JWQ",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPIU3B3M",
+      "createdAt": 1795355081904
     }
   },
   "reactCooldownMs": 300000,
