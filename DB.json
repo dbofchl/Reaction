@@ -32017,12 +32017,12 @@
       "id": 8365559184,
       "username": "",
       "fullName": "xTIER",
-      "points": 0,
+      "points": 1,
       "joinedAt": 1795346236294,
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 3
+      "referralCount": 0
     },
     "6257785805": {
       "id": 6257785805,
@@ -32092,13 +32092,35 @@
     },
     "5830443549": {
       "id": 5830443549,
-      "username": "",
-      "fullName": "",
+      "username": "klm_zhf",
+      "fullName": "≺تَہَٰــوًمـــآــسٰٰٓ¦:ٌِ🇹🇷☾*¦ٌُِ🜢",
       "points": 0,
       "joinedAt": 1795346470304,
       "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "5828508704": {
+      "id": 5828508704,
+      "username": "sdam39kv",
+      "fullName": "شروق",
+      "points": 0,
+      "joinedAt": 1795346472093,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "6087120696": {
+      "id": 6087120696,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795346478144,
+      "lastDaily": null,
       "isNewUser": true,
-      "invitedBy": null,
+      "invitedBy": "8365559184",
       "referralCount": 0
     }
   },
