@@ -34286,6 +34286,14 @@
       "usdtAmount": 2.7,
       "memoCode": "BPIU3B3M",
       "createdAt": 1795355081904
+    },
+    "BP7808596889MWRW4CNO2A0W": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWRW4CNO2A0W",
+      "transaction_id": "479312de-477a-4cdf-84c4-0f2c489b1432",
+      "createdAt": 1795355182772
     }
   },
   "reactCooldownMs": 300000,
