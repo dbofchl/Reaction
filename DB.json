@@ -32022,7 +32022,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 1
+      "referralCount": 2
     },
     "6257785805": {
       "id": 6257785805,
@@ -32137,11 +32137,11 @@
     "6058707858": {
       "id": 6058707858,
       "username": "",
-      "fullName": "",
+      "fullName": "ملاذ بنت الوليد | نيم",
       "points": 0,
       "joinedAt": 1795346483057,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8365559184",
       "referralCount": 0
     }
