@@ -34348,6 +34348,16 @@
       "usdtAmount": 8.11,
       "memoCode": "BP0SAQQT",
       "createdAt": 1795356528772
+    },
+    "BP7808596889MWRX1F8977PY": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWRX1F8977PY",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BPDUXORV",
+      "createdAt": 1795356725337
     }
   },
   "reactCooldownMs": 300000,
