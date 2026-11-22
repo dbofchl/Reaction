@@ -32022,7 +32022,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 2
+      "referralCount": 3
     },
     "6257785805": {
       "id": 6257785805,
@@ -32081,10 +32081,21 @@
     },
     "5971020820": {
       "id": 5971020820,
+      "username": "klkl_iur",
+      "fullName": "𝙎𝙊𝙉 𝙈𝘼𝙀𝙉 𓃠 أبـن مـعن ‌ਊ",
+      "points": 0,
+      "joinedAt": 1795346460324,
+      "lastDaily": null,
+      "isNewUser": false,
+      "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "5830443549": {
+      "id": 5830443549,
       "username": "",
       "fullName": "",
       "points": 0,
-      "joinedAt": 1795346460324,
+      "joinedAt": 1795346470304,
       "lastDaily": null,
       "isNewUser": true,
       "invitedBy": null,
