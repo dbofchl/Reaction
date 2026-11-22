@@ -32022,7 +32022,7 @@
       "lastDaily": null,
       "isNewUser": false,
       "invitedBy": null,
-      "referralCount": 0
+      "referralCount": 1
     },
     "6257785805": {
       "id": 6257785805,
@@ -32048,13 +32048,24 @@
     },
     "5602484702": {
       "id": 5602484702,
-      "username": "",
-      "fullName": "",
+      "username": "z_g_1xz",
+      "fullName": "「‌‌‏ مَِٰـفـــآِإَررق وَِꪆلَٖــيٰـــف. 🚸",
       "points": 0,
       "joinedAt": 1795346442102,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": "8365559184",
+      "referralCount": 0
+    },
+    "6201925492": {
+      "id": 6201925492,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795346444117,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
       "referralCount": 0
     }
   },
