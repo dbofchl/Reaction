@@ -34496,6 +34496,14 @@
       "orderId": "BP7808596889MWTQTYCS88HZ",
       "transaction_id": "47d00be1-a4b9-45c3-b0b2-a14bf26659ee",
       "createdAt": 1795467232395
+    },
+    "BP7808596889MWTQUVJEOCAA": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWTQUVJEOCAA",
+      "transaction_id": "0f334db0-37f7-4f9b-862d-9f38fba513da",
+      "createdAt": 1795467274931
     }
   },
   "reactCooldownMs": 300000,
