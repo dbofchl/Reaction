@@ -34358,6 +34358,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BPDUXORV",
       "createdAt": 1795356725337
+    },
+    "BP7808596889MWSSEU995CB4": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWSSEU995CB4",
+      "transaction_id": "0c6c50a5-dee9-4e85-b797-6350fefc4d13",
+      "createdAt": 1795409420624
     }
   },
   "reactCooldownMs": 300000,
