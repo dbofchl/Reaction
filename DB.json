@@ -34488,6 +34488,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BPPE2L7Q",
       "createdAt": 1795410842904
+    },
+    "BP7808596889MWTQTYCS88HZ": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWTQTYCS88HZ",
+      "transaction_id": "47d00be1-a4b9-45c3-b0b2-a14bf26659ee",
+      "createdAt": 1795467232395
     }
   },
   "reactCooldownMs": 300000,
