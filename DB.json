@@ -34524,6 +34524,14 @@
       "usdtAmount": 2.7,
       "memoCode": "BPVN89S4",
       "createdAt": 1795467420403
+    },
+    "BP7808596889MWTR1Y28C2QJ": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWTR1Y28C2QJ",
+      "transaction_id": "a2e967aa-4e93-4e65-9a81-0468d4af6691",
+      "createdAt": 1795467604824
     }
   },
   "reactCooldownMs": 300000,
