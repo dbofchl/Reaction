@@ -34514,6 +34514,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPNPZDAS",
       "createdAt": 1795467345649
+    },
+    "BP7808596889MWTQY037WEZO": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWTQY037WEZO",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPVN89S4",
+      "createdAt": 1795467420403
     }
   },
   "reactCooldownMs": 300000,
