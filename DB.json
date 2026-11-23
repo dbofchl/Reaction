@@ -34446,6 +34446,16 @@
       "orderId": "BP7808596889MWST503O11XW",
       "transaction_id": "2452abfd-0fe8-45eb-b0c1-9dfd342a2202",
       "createdAt": 1795410640570
+    },
+    "BP7808596889MWST8GYKI4CL": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWST8GYKI4CL",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BPD7XIUO",
+      "createdAt": 1795410801887
     }
   },
   "reactCooldownMs": 300000,
