@@ -975,6 +975,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1777351628": {
+      "id": 1777351628,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795412372497,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1804683398": {
       "id": 1804683398,
       "username": "SHAHEEDHASAN",
