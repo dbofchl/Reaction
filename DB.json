@@ -34596,6 +34596,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BPA6QZMA",
       "createdAt": 1795468643254
+    },
+    "BP7808596889MWUJPBZF89X3": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWUJPBZF89X3",
+      "transaction_id": "f91187a7-8ead-4182-bb89-2521170b4ddb",
+      "createdAt": 1795515725196
     }
   },
   "reactCooldownMs": 300000,
