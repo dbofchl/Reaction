@@ -34723,6 +34723,14 @@
       "orderId": "BP7808596889MWVKFN4D7DKX",
       "transaction_id": "903d8d3e-1819-4f3b-98da-3d56b3004814",
       "createdAt": 1795577418855
+    },
+    "BP7808596889MWVKGKSPPXGY": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWVKGKSPPXGY",
+      "transaction_id": "e15609c7-d582-4e78-b076-4e557ffae392",
+      "createdAt": 1795577462502
     }
   },
   "reactCooldownMs": 300000,
