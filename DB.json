@@ -34751,6 +34751,14 @@
       "usdtAmount": 2.7,
       "memoCode": "BPK16H9P",
       "createdAt": 1795577697858
+    },
+    "BP7808596889MWVKSAJRF5YF": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWVKSAJRF5YF",
+      "transaction_id": "ae33d9fc-d327-4cc8-956f-2cbc98b62b7c",
+      "createdAt": 1795578009092
     }
   },
   "reactCooldownMs": 300000,
