@@ -32169,12 +32169,12 @@
     },
     "7598116477": {
       "id": 7598116477,
-      "username": "",
-      "fullName": "",
+      "username": "tomxiters",
+      "fullName": "tom",
       "points": 0,
       "joinedAt": 1795568596342,
       "lastDaily": null,
-      "isNewUser": true,
+      "isNewUser": false,
       "invitedBy": null,
       "referralCount": 0
     }
