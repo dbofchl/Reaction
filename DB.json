@@ -34715,6 +34715,14 @@
       "usdtAmount": 8.11,
       "memoCode": "BP79HVUM",
       "createdAt": 1795516810854
+    },
+    "BP7808596889MWVKFN4D7DKX": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWVKFN4D7DKX",
+      "transaction_id": "903d8d3e-1819-4f3b-98da-3d56b3004814",
+      "createdAt": 1795577418855
     }
   },
   "reactCooldownMs": 300000,
