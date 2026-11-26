@@ -1108,6 +1108,17 @@
       "lastDaily": null,
       "isNewUser": false
     },
+    "1867937786": {
+      "id": 1867937786,
+      "username": "",
+      "fullName": "",
+      "points": 0,
+      "joinedAt": 1795659919115,
+      "lastDaily": null,
+      "isNewUser": true,
+      "invitedBy": null,
+      "referralCount": 0
+    },
     "1869844762": {
       "id": 1869844762,
       "username": "ramdan9809",
