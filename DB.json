@@ -34860,6 +34860,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPXGAVBN",
       "createdAt": 1795657833687
+    },
+    "BP7808596889MWWWD5X16JH3": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWWWD5X16JH3",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPANPY7A",
+      "createdAt": 1795657924405
     }
   },
   "reactCooldownMs": 300000,
