@@ -34870,6 +34870,14 @@
       "usdtAmount": 2.7,
       "memoCode": "BPANPY7A",
       "createdAt": 1795657924405
+    },
+    "BP7808596889MWWWG108MSSP": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWWWG108MSSP",
+      "transaction_id": "fd9d13dc-5a51-415a-b3d0-ca975397f4ab",
+      "createdAt": 1795658058371
     }
   },
   "reactCooldownMs": 300000,
