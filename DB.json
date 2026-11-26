@@ -34906,6 +34906,14 @@
       "usdtAmount": 5.41,
       "memoCode": "BPIDK591",
       "createdAt": 1795658201181
+    },
+    "BP7808596889MWWWLKINZZEA": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWWWLKINZZEA",
+      "transaction_id": "2b4598d3-e4ee-4813-ab27-6ee3ff714fd8",
+      "createdAt": 1795658316987
     }
   },
   "reactCooldownMs": 300000,
