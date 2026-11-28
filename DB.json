@@ -35063,6 +35063,16 @@
       "orderId": "BP7808596889MWZOGKCZWR2V",
       "transaction_id": "64ab770d-24ab-46b7-9966-379f9658108b",
       "createdAt": 1795826045115
+    },
+    "BP7808596889MWZOIZ7YB8JK": {
+      "userId": 7808596889,
+      "points": 300,
+      "price": 150000,
+      "orderId": "BP7808596889MWZOIZ7YB8JK",
+      "paymentType": "binance",
+      "usdtAmount": 8.11,
+      "memoCode": "BPTUN3IV",
+      "createdAt": 1795826157262
     }
   },
   "reactCooldownMs": 300000,
