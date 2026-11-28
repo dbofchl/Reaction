@@ -35011,6 +35011,14 @@
       "usdtAmount": 2.7,
       "memoCode": "BPEZJ401",
       "createdAt": 1795825720937
+    },
+    "BP7808596889MWZOAOWOBWNN": {
+      "userId": 7808596889,
+      "points": 200,
+      "price": 100000,
+      "orderId": "BP7808596889MWZOAOWOBWNN",
+      "transaction_id": "c1d6a753-65c2-4ca0-93f5-cab07901b015",
+      "createdAt": 1795825771032
     }
   },
   "reactCooldownMs": 300000,
