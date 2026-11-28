@@ -35001,6 +35001,16 @@
       "usdtAmount": 2.7,
       "memoCode": "BPNBSVG8",
       "createdAt": 1795825672617
+    },
+    "BP7808596889MWZO9MJT1OA4": {
+      "userId": 7808596889,
+      "points": 100,
+      "price": 50000,
+      "orderId": "BP7808596889MWZO9MJT1OA4",
+      "paymentType": "binance",
+      "usdtAmount": 2.7,
+      "memoCode": "BPEZJ401",
+      "createdAt": 1795825720937
     }
   },
   "reactCooldownMs": 300000,
